@@ -1,0 +1,9 @@
+{
+	"topic": "config",
+	"message": "get-high-level-features",
+	"timestamp": 1464246433204,
+	"sequence-id": 806794,
+	"request-id": 13,
+	"response": 0,
+	"high-level-features": 6141
+}

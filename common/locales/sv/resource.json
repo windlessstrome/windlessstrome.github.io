@@ -1,0 +1,3622 @@
+{
+    "people": "Personer",
+    "recent": "Nyligen",
+    "events": "Händelser",
+    "drafts": "Utkast",
+    "contacts": "Kontakter",
+    "conversations": "Konversationer",
+    "notifications": "Meddelanden",
+    "calls": "Samtal",
+    "item": "Ärende",
+    "item_plural": "Ärenden",
+    "name": "Mitt namn är __first__ __last__",
+
+    "profilePreferencesButton": "Preferenser",
+    "voicemails": "Röstmeddelanden",
+    "messages": "Meddelanden",
+    "deletedVoicemailLabel": "Borttagna röstmeddelanden",
+
+    "controlBar": {
+        "call": "Ring",
+        "endCall": "Lägg på",
+        "mute": "Ljud av",
+        "unmute": "Sätt på ljud",
+        "share": "Dela",
+        "raiseHand": "Räck upp hand",
+        "info": "Info"
+    },
+
+    "panel": {
+        "pinPanel": "Fästa",
+        "unpinPanel": "Avfästa"
+    },
+
+    "prefs": {
+        "message" : {
+            "savingData" : "Sparar ändringar...",
+            "loadingData": "Läser in preferensdata...",
+            "noAccess": "Du saknar åtkomstbehörighet för denna funktion."
+        },
+
+        "buttons": {
+            "label" : {
+                "reconnect" : "Försök återanslut",
+                "quit": "Stäng utan att spara",
+                "dismiss": "Avvisa"
+            }
+        },
+
+        "error": {
+            "failOpenDialogConnectionError": "Server-\/anslutningsfel. Stäng dialogrutan och försök på nytt.",
+            "genericServerError": "Serveranslutningen misslyckades och ändringarna sparades inte. Ansluter...",
+            "saveError": "Fel uppstod vid bearbetning av begäran. Ändringar sparades inte.",
+    "pageError": "Det uppstod ett fel vid hämtning av data från den här sidan. Stäng dialogrutan och försök igen.",
+    "genericServerErrorNoRetry": "Serveranslutningen misslyckades och dina ändringar sparades inte."
+        },
+
+        "tabTitles": {
+            "account": "Konto",
+            "callRouting": "Samtalsdirigering",
+            "voicemail": "Röstbrevlåda",
+            "im": "Snabbmeddelande",
+            "video": "Video",
+            "outlook": "Outlook®",
+            "contactsIntegration": "Kontakter\/Outlook®",
+            "notifications": "Aviseringar",
+            "deskphone": "Primär telefon",
+            "softphone": "SoftPhone",
+            "telephony": "Telefoni",
+            "appearance": "Ankomst",
+            "programmableToolbar": "Programmerbart verktygsfält",
+            "workgroups": "Arbetsgrupper",
+            "language":"Språk"
+        },
+
+        "workgroup": {
+            "workgroup" : "Arbetsgrupp",
+            "showMeNotif": "Visa mig aviseringar när samtal kommer till kön",
+            "minimumNumberOfWgError": "Välj att övervaka minst en kö",
+            "NotifTimeoutOnScreen": "Behåll aviseringen på skärmen för ",
+            "seconds": " sekunder",
+            "QueueMonitorSettingsLable": "Varningströsklar för köbevakning",
+            "showWorkgroup": " Aktivera arbetsgrupp",
+            "thresholdAlert": "Aktivera tröskelvarning",
+            "queueExceeds": "Varna när kön uppnår eller överstiger",
+            "timeExceeds": "Varna när kötiden överskrids",
+            "sec": " sekunder",
+            "calls": "samtal",
+            "notifEnabledWhenLoggedOut": "Fortsätt att visa aviseringar efter utloggning från arbetsgrupper",
+            "warningMessage": "noll är inte ett giltigt alternativ",
+            "invalidInputMessage": "Ogiltigt värde"
+        },
+
+        "outlook": {
+            "title": {
+                "contacts" : "Kontakter",
+                "calendar": "Kalender",
+                "events": "Händelser",
+                "ExchangeCredentials": "Exchange-Autentiseringsuppgifter",
+                "ExchangePublicContacts": "Exchange offentliga kontakter"
+            },
+            "label": {
+                "doNotOpenOutlookContact": "Öppna inte Outlook när du lägger till kontakter i Connect",
+                "importContacts": "Synka mina Mac-kontakter",
+                "importOutlook": "Synka mina Outlook-kontakter",
+                "importOutlookContactsDetail": "Kontakter synkroniseras när Microsoft Outlook körs.",
+                "importMacContactsDetail": "Kontakter synkroniseras när Mitel Connect körs.",
+                "syncCalendar": "Synka min Exchange-kalender med tillgänglighetslägen i Mitel Connect.",
+                "syncCalendarDetail1": "När ett bokat möte visas i Outlook ska du ändra tillgänglighet till ”Möte”.",
+                "syncCalendarDetail2": "När ”Inte på kontoret” visas i Outlook ska du ändra tillgänglighet till ”Inte på kontoret”.",
+                "syncCalendarDetail3": "Tillgänglighetslägena ”Stör ej”, ”Ledig” och ”Anpassad” har alltid företräde och påverkas inte.",
+                "useOutlookWorkHours": "Använd mina arbetstimmar i Outlook för att ändra tillgänglighet i Mitel Connect till ”Inte på kontoret”.",
+                "UserName": "Användarnamn",
+                "Password": "Lösenord",
+                "showContactFolders": "+ Visa kontaktmappar",
+                "hideContactFolders": "– Dölj kontaktmappar (Kontakter som inte skapats i någon av mapparna nedan kommer inte att importeras.)",
+                "loadingContactFolders": "Läser in kontaktmappar...",
+                "removeImportedContacts": "Ta bort synkade kontakter",
+                "confirmRemovingWinImportedContacts": "Detta gör att importerade kontakter tas bort från Mitel-databasen. Kontakter i Outlook kommer inte att påverkas.",
+                "confirmRemovingMacImportedContacts": "Detta gör att importerade kontakter tas bort från Mitel-databasen. Kontakter i mappen för OS X-kontakter kommer inte att påverkas.",
+                "removingImportedContactsInProgress": "Tar bort synkade kontakter...",
+                "enablePublicContactSearch": "Aktivera sökning på kontakter i mina mappar för Exchange offentliga kontakter"
+            },
+            "error": {
+                "errorloadingContactFolders": "Fel uppstod då kontaktmappar skulle läsas in. Försök senare.",
+                "errorSaveContactFolders": "Fel uppstod då markerade kontaktmappar skulle sparas. Försök senare.",
+                "okRemovingImportedContacts": "Kontakter har tagits bort.",
+                "busyRemovingImportedContacts": "Kontakter importeras för närvarande till systemet och befintliga kontakter kan inte tas bort förrän importen är klar. Försök senare.",
+                "errorRemovingImportedContacts": "Ett fel har upptäckts i systemet. Försök senare.",
+                "noContactFolders":"Inga mappar hittades.",
+                "reachMaxUploadLimit":"Maximalt antal egna kontaktuppladdningar har uppnåtts. Kontakta systemadministratören om du behöver ladda upp fler kontakter."
+            }
+        },
+        "callRouting": {
+            "tabs": {
+                "availability": "Tillgänglighetsdirigering",
+                "power": "Avancerad dirigering",
+                "mobile": "Mobil"
+            },
+            "availabilityOptions": {
+                "Available": "Tillgänglig",
+                "InAMeeting": "Möte",
+                "OutOfOffice": "Inte på kontoret",
+                "OnVacation": "Ledig",
+                "Variable": "Anpassad...",
+                "DND": "Stör ej"
+            },
+            "buttons": {
+                "Previous": "Föregående",
+                "Next": "Nästa",
+                "Cancel": "Avbryt",
+                "Done": "Klar",
+                "Save": "Spara"
+            },
+            "error": {
+                "couldNotGetServerData": "Det går inte att hämta information från servern",
+                "couldNotSaveServerData": "Det går inte att spara ändringar. Kontrollera varje panel och korrigera markerade fel.",
+                "couldNotSaveServerDataDND": "Det går inte att spara ändringar. Försök senare."
+            },
+            "options": {
+                "myVoicemail": "min röstbrevlåda"
+            },
+            "userPhoneStrings": {
+                "shortForm": "__num__ ( __label__ )",
+                "longForm": {
+                    "labelNumber": "__label__ __num__. ",
+                    "tryRingsPress1": "Försök med __rings__ ringsignaler. Måste trycka på 1 för att ansluta",
+                    "tryRingsAnswer": "Försök med __rings__ ringsignaler. Anslut automatiskt vid svar"
+                }
+            },
+            "overview": {
+                "title": {
+                    "CustomizeYourRouting": "Anpassa dirigering",
+                    "availabilityWhen": "Läge "
+                },
+                "buttons": {
+                    "change": "Ändra",
+                    "StartWizard": "Starta guide",
+					"record": "post"
+                },
+                "routing": {
+                    "extension": "Inkommande samtal dirigeras till din __dest__"
+                },
+                "simulring": {
+                    "noSimulring": "Inga andra telefoner kommer att ringa samtidigt",
+                    "thesePhones": "Dessa telefoner kommer att ringa samtidigt: __br1__ __num1__ __br2__ __num2__",
+                    "thisPhone": "Dessa telefoner kommer att ringa samtidigt: __br1__ __num__",
+                    "noPhonesSelected": "Inga telefoner har markerats för samtidig uppringning"
+                },
+                "incomingCall": {
+                    "ringRouteVM": "__num__ ringsignaler innan inkommande samtal dirigeras till röstbrevlådan",
+                    "ringRouteNum": "__num__ ringsignaler innan inkommande samtal __phone__",
+                    "alwaysForwardVM": "Inkommande samtal dirigeras omedelbart till röstbrevlåda",
+                    "alwaysForwardNum": "Inkommande samtal dirigeras omedelbart till __num__"
+                },
+                "findMe": {
+                    "press1Numbers": "Om uppringare trycker på 1 under hälsningsfrasen i min röstbrevlåda, ska försök göras att nå mig på dessa nummer i sekvens: __br1__ __num1__ __br2__ __num2__",
+                    "press1Number": "Om uppringare trycker på 1 under hälsningsfrasen i min röstbrevlåda, ska försök göras att nå mig på detta nummer: __br1__ __num__",
+                    "press1NoPhones": "Om uppringare trycker på 1 under röstbrevlådans hälsningsfras, väljs inga telefoner för sekvensiell uppringning",
+                    "autoFindMeNumbers": "Om jag inte svarar, ring dessa nummer i sekvens: __br1__ __num1__ __br2__ __num2__",
+                    "autoFindMeNumber": "Om jag inte svarar, ring detta nummer: __br1__ __num__",
+                    "autoFindMeNoPhones": "Om jag inte svarar kommer inga telefoner att väljas för att ringas upp därefter"
+                },
+                "greetingRecording": {
+                    "noGreeting": "Ingen hälsningsfras har spelats in i röstbrevlådan",
+                    "greetingRec": "Hälsningsfras har spelats in i röstbrevlådan"
+                },
+                "greetingInteraction": {
+                    "allowed": "Uppringare kan lämna ett meddelande i röstbrevlådan",
+                    "notAllowed": "Uppringare kan inte lämna ett meddelande i röstbrevlådan",
+                    "fwdToOperator": "Uppringare som trycker på 0 under hälsningsfrasen i röstbrevlådan kommer att skickas vidare till __exten__",
+                    "fwdToAutoAttendant": "Uppringare som trycker på 0 under hälsningsfrasen i röstbrevlådan kommer att skickas vidare till autosvar"
+                },
+    "escalationProfile": "Profil för eskalering av röstbrevlåda",
+    "escalationProfileNone": "Ingen"
+            },
+            "mobileNumber": {
+                "title": "Du har en enhet där mobilklienten för Connect körs",
+                "completeStep": "Slutför detta steg innan du fortsätter med inställningar för samtalsdirigering.",
+                "prompt": "Vilket mobilnummer har enheten där du installerat eller planerar att installera mobilklienten för Connect?",
+                "noNumberOption": "Min enhet med mobilklienten för Connect kommer inte att ha något associerat telefonnummer",
+                "error": {
+                    "missingMobilityNumber": "Mobiltelefonnummer saknas",
+                    "invalidNumber": "Ogiltigt nummer",
+                    "couldNotSaveServerData": "Det går inte att spara ändringar. "
+                }
+            },
+            "simulring": {
+                "availTitle": "Ring samtidigt när",
+                "incomingCall": "Vid ett inkommande samtal",
+                "myExtension": "min anknytning",
+                "alsoSimultaneouslyRing": "Ring samtidigt även följande nummer",
+                "numbersUsedEverywhere": "Dessa nummer kommer att användas där du använder samtidig uppringning",
+                "error": {
+                    "cannotBeTheSameNumber" : "Du kan inte använda samma nummer för flera enheter"
+                }
+            },
+            "incomingCall": {
+                "availTitle": "Inkommande samtal vidarekopplas när",
+                "prompts": {
+                    "incomingCall": "Om jag inte besvara ett samtal på",
+                    "myExtension": "min anknytning",
+                    "mobility": "Connect-mobilklient",
+                    "simulRingNum": "__num__ ( __label__ ) "
+                },
+                "options": {
+                    "KeepRingingNumberAbove": "Fortsätt ringa numret ovan",
+                    "KeepRingingNumbersAbove": "Fortsätt ringa numren ovan",
+                    "forwardTo": "Vidarekoppla samtal till ",
+                    "typeExtension": "ange en anknytning här",
+                    "rings": "signaler för vidarekoppling",
+                    "callStackForward": "om jag har mer än __callStackDepth__ aktiva samtal, vidarekoppla omedelbart till ",
+                    "alwaysForward": "Vidarekoppla alltid samtal till ",
+                    "voicemail": "röstbrevlåda",
+                    "someExtension": "viss anknytning"
+                },
+                "error": {
+                    "missingForwardNumber": "Vidarekopplingsnummer saknas",
+                    "invalidNumber": "Ogiltigt nummer",
+                    "externalNumbersNotAllowed": "Du har inte tillstånd att vidarekoppla till ett externt nummer",
+                    "local_number_only": "Ange endast lokala nummer.",
+                    "local_or_national_only": "Ange nationella eller lokala nummer.",
+                    "no_ext_cf_perms":"Du har inte tillstånd att vidarekoppla till ett externt nummer",
+                    "missing_tac": "Åtkomstkod för trunk saknas.",
+                    "wrong_tac": "Fel åtkomstkod för trunk.",
+					"cannot_assign_own_extension": "Du kan inte ange din egen anknytning"
+                }
+            },
+            "findMe": {
+                "availTitle": "FindMe när",
+                "options": {
+                    "findMeDisabled": "Inaktiverat: Prova inte FindMe och vidarekoppla samtalet till röstbrevlådan",
+                    "findMeEnabled": "Aktiverat: Använd FindMe-inställningar för att fortsätta vidarekoppla samtalet till röstbrevlådan"
+                },
+                "settings": {
+                    "FindMeSettings": "FindMe-inställningar",
+                    "settingsUsedEverywhere": "Dessa inställningar kommer att användas när FindMe är aktiverat",
+                    "findMeBeforeVM": "Ring upp mina FindMe-nummer i ordning innan du spelar upp min röstbrevlåda",
+                    "playVM": "Spela upp min röstbrevlåda",
+                    "callerPress1": "Om uppringaren trycker på 1 under hälsningsfrasen kommer mina FindMe-nummer att ringas upp därefter i ordningsföljd",
+                    "promptCaller": "Uppmana uppringaren att spela in sitt namn",
+                    "findMeNumbersPrompt": "Mina FindMe-nummer som kommer att användas i ordningsföljd",
+                    "settingsWarning": ": Autoanslutningsinställningar gäller inte för FindMe"
+                }
+            },
+            "greetingRecording": {
+                "availTitle": "Hälsningsfras i röstbrevlåda: Inspelning och uppspelning när",
+                "prompts": {
+                    "line1": "Uppringare kommer att höra en hälsningsfras när de kommer till röstbrevlådan.",
+                    "line2": "Spela in och spela upp hälsningsfrasen nu."
+                },
+                "warning": "Tips: Du har aktiverat FindMe, PÅ. Användare kan trycka på 1 under hälsningsfrasen i röstbrevlådan för att aktivera FindMe. Om du vill att användare ska känna till denna möjlighet, ska du nämna det i hälsningsfrasen i röstbrevlådan."
+            },
+            "greetingInteraction": {
+                "availTitle": "Alternativ för hälsningsfras när",
+                "prompt": "Kan uppringare lämna ett meddelande i röstbrevlådan när de hört hälsningsfrasen?",
+                "options": {
+                    "yes": "Ja, uppringare kan lämna ett meddelande",
+                    "no": "Nej, uppringare kan inte lämna ett meddelande"
+                },
+                "press0": "Om uppringaren trycker på ”0” när de hör hälsningsfrasen",
+                "forward": "Vidarekoppla samtal till",
+                "autosuggestPrompt": "ange en anknytning",
+                "error": {
+                    "validInternalNumber": "Ange en giltig anknytning"
+                }
+            },
+            "DND": {
+                "title": "När",
+                "condition": {
+                    "Always": "Vidarekoppla alltid samtal till",
+                    "Never": "Vidarekoppla aldrig mina samtal"
+                },
+                "options": {
+                    "voicemail": "röstbrevlåda",
+                    "anotherExtension": "annan anknytning"
+                }
+            },
+            "powerOverview": {
+                "title": "Avancerade regler",
+                "buttons": {
+                    "create": "Skapa avancerade regler"
+                },
+                "text": {
+                    "takesEffect": "Börjar gälla innan tillgänglighetsdirigering",
+                    "noRules": "Du saknar avancerade regler"
+                }
+            },
+            "powerRouting": {
+                "title": "Regelnamn",
+                "buttons": {
+                    "numberMatches": "+ nummermatchningar",
+                    "dialedNumber": "+ uppringt nummer",
+                    "availability": "+ min tillgänglighet",
+                    "onPhone": "+ i ett samtal",
+                    "time": "+ tid är",
+                    "forward": "Vidarekoppla samtal till",
+                    "remove": "ta bort",
+                    "CreateRule": "Skapa regel",
+                    "SaveRule": "Spara regel",
+                    "Cancel": "Avbryt",
+                    "Edit": "Ändra",
+                    "Delete": "Ta bort"
+                },
+                "text": {
+                    "When": "När",
+                    "Then": "Sedan",
+                    "ThenForwardCallTo": "Vidarekoppla sedan samtal till",
+                    "and": "-OCH-",
+                    "or": "-ELLER-",
+                    "enabled": "Aktiverat",
+                    "disabled": "Inaktiverad"
+                },
+                "numberRule": {
+                    "option": {
+                        "is": "Numret är",
+                        "internalNumber": "Numret är en anknytning",
+                        "internalExt": "Numret är en anknytning som börjar med",
+                        "anyExternalNumber": "Numret är valfritt externt nummer",
+                        "externalNumber": "Numret är ett externt nummer som börjar med",
+                        "private": "Numret är privat",
+                        "outOfArea": "Numret finns inte i området eller är okänt"
+                    }
+                },
+                "dialedNumberRule": {
+                    "prompt": "Numret som uppringaren använde för att nå mig är"
+                },
+                "availabilityRule": {
+                    "prompt": "Min tillgänglighet är"
+                },
+                "onPhoneRule": {
+                    "prompt": "Jag är i ett samtal"
+                },
+                "timeRule": {
+                    "prompts": {
+                        "time": "Tid är",
+                        "day": "Dag",
+                        "from": "från till",
+                        "to": "to",
+                        "am": "AM",
+                        "pm": "PM"
+                    },
+                    "days": {
+                        "Monday": "Måndag",
+                        "Tuesday": "Tisdag",
+                        "Wednesday": "Onsdag",
+                        "Thursday": "Torsdag",
+                        "Friday": "Fredag",
+                        "Saturday": "Lördag",
+                        "Sunday": "Söndag"
+                    }
+                },
+                "forwardRule": {
+                    "vm": "min röstbrevlåda",
+                    "autoFindMe": "automatisk FindMe",
+                    "announcedFindMe": "meddelat FindMe",
+                    "ringtone": "spela upp ringsignal",
+                    "SelectNumber": "Välj nummer"
+                },
+
+                "error": {
+                    "alphaNumericOnly": "Endast alfanumeriska tecken är tillåtna",
+                    "numbersOnly": "Endast nummer är tillåtna",
+                    "availabilityRequired": "Välj minst ett tillgänglighetsläge",
+                    "ruleNameExceedsMaxLength": "Regelnamnet överstiger gränsvärdet på __number__ tecken",
+                    "missingDialedNumber": "Ett uppringt nummer saknas",
+                    "dayOfWeekRequired": "Välj minst en dag i veckan",
+                    "missingRuleName": "Regelnamn saknas",
+                    "missingConditions": "Villkor för denna regel saknas",
+                    "missingNumberMatch": "Ett matchande nummer saknas",
+                    "ruleNameAlreadyUsed": "Namnet ”__name__” används redan för en annan regel",
+                    "timeError": "Från-tiden måste ligga före till-tiden",
+                    "dialedNumberExceedsLimit": "Uppringt nummer överstiger gränsvärdet på __number__ tecken",
+                    "externalNumberOnly": "I detta fält får endast siffor och + används",
+                    "missingForwardNumber": "Vidarekopplingsnummer saknas",
+                    "invalidNumber": "Ogiltigt nummer",
+                    "externalWildcardPlusStart": "”+”-tecknet får endast förekomma i början av numret",
+                    "maxRules": "Du har uppnått maximalt antal regler. Ta bort en regel för att kunna skapa en ny.",
+                    "externalNumbersNotAllowed": "Du har inte tillstånd att vidarekoppla till ett externt nummer",
+                    "emptyTimeError": "Fältet för tid får inte vara tomt"
+                }
+            }
+        },
+
+        "notifications": {
+            "tabs": {
+                "voicemail": "Röstbrevlåda",
+                "sounds": "Ljud",
+                "popup": "Popup"
+            },
+
+            "voicemail": {
+                "label": {
+                    "emailAboutIncoming": "Skicka e-postavisering om inkommande röstmeddelande till ",
+                    "attachWave": "Bifoga röstmeddelande som en .wav-fil",
+                    "markHeard": "Markera att röstmeddelandet har avlyssnats"
+                },
+                "message": {
+                    "incorrectemailerr": "Ange en giltig e-postadress."
+                }
+            },
+
+            "popup": {
+                "title": {
+                    "incomingIM": "Inkommande snabbmeddelande",
+                    "incomingVoiceMail": "Inkommande röstmeddelande",
+                    "incomingCall": "Inkommande samtal",
+                    "incomingScreenshare": "Inkommande skärmdelning"
+                },
+
+                "label": {
+                    "showForIncoming": "Visa en systemavisering för ett inkommande snabbmeddelande",
+                    "showForIncomingCall": "Visa en systemavisering för ett inkommande samtal",
+                    "showForScreenShare": "Visa ett systemmeddelande för inkommande skärmdelning",
+                    "showContent": "Visa innehållet i snabbmeddelandet i aviseringen",
+                    "keepOnScreen": "Behåll aviseringen på skärmen för ",
+                    "showForVoicemail": "Visa systemavisering för ett röstmeddelande",
+                    "numOfSeconds": " sekunder"
+                },
+
+                "buttons": {
+                    "configureViaOSXConfig": "Konfigurera med OS X Notification Center..."
+                }
+            },
+
+            "sounds": {
+                "mediaGenericError": "Fel i ljudfil. Försök igen.",
+                "mediaSourceError":"Ljudkällan eller formatet stöds inte.",
+                "mediaDecodeError": "Avkodningsfel i ljudfil.",
+                "mediaNetworkError": "Nedladdningsfel i ljudfil.",
+                "mediaAbortError": "Hämtning av ljudfilen stoppades av användaren.",
+                "label": {
+                    "audioAlerts": "Ljudvarningar",
+                    "forEvent": "För händelse",
+                    "noAudioAlerts": "Ingen ljudvarning",
+                    "playAlert": "Uppspelningsvarning",
+                    "on": "PÅ",
+                    "off": "AV"
+                },
+
+                "events": {
+                    "newVoicemail": "nytt röstmeddelande",
+                    "incomingInternalCall": "samtal från en anknytning ",
+                    "incomingExternalCall": "samtal från ett externt nummer",
+                    "newConversation": "ny snabbmeddelandeinitiering i ny konversation",
+                    "existingConversation": "ny snabbmeddelandeinitiering i befintlig konversation",
+                    "incomingMonitoredCall": "övervakat samtal",
+                    "incomingSharedLineCall": "delat linjesamtal"
+                },
+
+                "buttons": {
+                    "removeSound": "Ta bort ljud",
+                    "addNewSound": "Lägg till nytt ljud"
+                },
+
+                "errors": {
+                    "wavFileOnly": "Endast .wav-filer kan väljas"
+                }
+            }
+        },
+        "im": {
+            "tabs": {
+                "settings": "Fördefinierade svar",
+                "blocknotification": "Blockera aviseringar"
+            },
+
+            "settings": {
+                "cannedImResponses": "Fördefinierade svar",
+                "imResponseInfo": "Du kan svara med ett snabbmeddelande på ett inkommande samtal från en annan Mitel-kontakt. Lägg till ditt fördefinierade svar.",
+                "addCannedResponse": "Lägg till fördefinierat svar",
+                "delete": "Ta bort"
+            },
+            "blockNotification": {
+                "blockNotificationInfo": "Blockera inkommande snabbmeddelandeavisering för dessa användare under privat chatt.",
+                "blockNotificationMessage": "Du kommer att fortsätta få inkommande snabbmeddelandeaviseringar för dessa användare under en gruppchatt.",
+                "SearchPrompt": "Skriv kontaktnamn..."
+            }
+        },
+
+        "account": {
+            "tabs": {
+                "login": "Inloggning",
+                "access": "Åtkomst",
+                "exchange": "AD-autentiseringsuppgifterna",
+                "mpv": "Inloggningsuppgifter för video"
+            },
+
+            "login": {
+                "label": {
+                    "connection": "Anslutning",
+                    "connectedto": "Ansluten med",
+                    "username": "Användarnamn",
+                    "signin": "När jag loggar in på min dator",
+                    "autostartoption": "starta Mitel <produktnamn tbd> automatiskt"
+                },
+                "form": {
+                    "title": "Ändra lösenord",
+                    "label": {
+                        "current": "Aktuell",
+                        "new": "Ny",
+                        "retype": "Skriv om för att bekräfta",
+                        "passwordstrength": "Styrka"
+                    },
+                    "message": {
+                        "passwordnotmatch": "Angivna lösenord matchar inte.",
+                        "samepassworderr": "Använd ett annat lösenord.",
+                        "successchangepassword": "Lösenordet ändrades.",
+                        "invalidcurrentpassword": "Ange ett korrekt och aktuellt lösenord",
+                        "changepassworderr": "Ditt lösenord har inte ändrats. Försök senare.",
+                        "charRestriction": "Lösenord får inte innehålla '\\b' eller '\\n'",
+                        "charRestrictionForVoicemail": "Endast siffror är tillåtna.",
+                        "good": "Bra",
+                        "weak": "Svag",
+                        "strong": "Stark",
+                        "accountlockout": "Kontot är låst",
+                        "passwordexpired": "Användarens lösenord har upphört och måste ändras innan ett kvitto kan utfärdas",
+                        "requirementnotmeet": "Det nya lösenordet som angetts av användaren uppfyller inte de lösenordskrav som gäller för systemet",
+                        "expiredoutside": "Den begärda giltighetstiden ligger utanför det intervall av värden som är tillåtna av autentiseraren",
+                        "runtimefail": "Ett körningsfel inträffade när det nya lösenordet skulle sparas",
+                        "required": "Fältet är obligatoriskt.",
+                        "minlength": "Ange minst __length__ tecken.",
+                        "maxlength": "Ange inte mer än __length__ tecken.",
+                        "passwordTooWeak": "Prova med ett nytt lösenord. Lösenordet är inte tillräckligt starkt."
+                    },
+                    "buttons": {
+                        "setnewpassword": "Ange nytt lösenord"
+                    }
+                }
+            },
+
+            "access": {
+                "title": {
+                    "availabilityState" : "Tillgänglighetsläge"
+                },
+                "label": {
+                    "allowState": "Tillåt att dessa användare kan ändra mitt tillgänglighetsläge på min begäran",
+                    "sendClickDataToShoreTel": "Ja, jag vill hjälpa Mitel att skapa bättre produkter! Skicka anonyma data till Mitel.",
+                    "restartConnectforNewRelic": "Starta om Connect-klient för att ändringarna ska börja gälla",
+					"automaticallyLaunchShoretel": "Starta Mitel Connect automatiskt nÃ¤r datorn startar."
+
+                },
+                "delegateContacts": {
+                    "SearchPrompt": "Skriv kontaktnamn..."
+                }
+            },
+            "mpv":{
+                "title":{
+                    "manageMPVCredentials" : "Hantera flerpunktsinloggningsuppgifter för video"
+                },
+
+                "label":{
+                    "userName" : "Användarnamn",
+                    "password": "Lösenord",
+                    "saveCredentials": "Spara inloggningsuppgifter",
+                    "verifyCredentials": "Bekräfta inloggningsuppgifter",
+                    "clearCredentials": "Rensa inloggningsuppgifter",
+                    "mpvDetailDesc": "Dina flerpunktsinloggningsuppgifter för video kommer att användas för att skapa videohändelser."
+                },
+
+                "success":{
+                    "validCredentials" : "Inloggningsuppgifterna sparades!"
+                },
+
+                "error": {
+                    "validUsername" : "Ange ett giltigt användarnamn.",
+                    "validPassword": "Ange ett giltigt lösenord.",
+                    "invalidCredentials": "Fel vid serverautentisering. Prova med ett nytt användarnamn och lösenord.",
+                    "unableToSave": "Det gick inte att spara inloggningsuppgifter. Försök igen!",
+                    "serverUnreachable": "Det gick inte att ansluta till server. Försök senare."
+                }
+            },
+
+            "exchange": {
+                "title": {
+                    "manageExchangeCredentials" : "Hantera AD-autentiseringsuppgifterna"
+                },
+
+                "label": {
+                    "detailDesc" : "Dina AD-autentiseringsuppgifterna kommer att användas för autentisering mot Exchange och hjälpa dig skapa nya händelser.",
+                    "userName": "Användarnamn",
+                    "password": "Lösenord",
+                    "saveCredentials": "Spara inloggningsuppgifter",
+                    "verifyCredentials": "Bekräftar inloggningsuppgifter för AD...",
+                    "unlinkCredentials": "Ta bort länk för Mitel Connect från Exchange"
+                },
+
+                "error": {
+                    "exchangePending" : "Det går inte att bekräfta AD-autentiseringsuppgifterna. Försök igen senare.",
+                    "exchangeLoginFailed": "Serverfel. Kontakta systemadministratören.",
+                    "exchangeUnknown": "Exchange-servern är inte korrekt konfigurerad. Kontakta systemadministratören",
+                    "exchangeAuthenticationFailed": "Autentiseringsfel i Exchange-server. Prova med ett nytt användarnamn och lösenord.",
+                    "exchangeTimeout": "Tidsgräns.",
+                    "validUsername": "Ange ett giltigt användarnamn.",
+                    "validPassword": "Ange ett giltigt lösenord.",
+                    "unlinkMsg": "Starta om klienten för att avlänkningen ska börja gälla.",
+                    "alreadyLogin": "Du är nu inloggad med inloggningsuppgifter för Mitel Connect."
+                }
+            }
+        },
+        "video": {
+            "tabs": {
+                "permissions": "Behörighet",
+                "camera": "Kamerainställning"
+            },
+            "permissions": {
+                "description": "När du går med i en konversation där den andra parten använder en kamera",
+                "auto": "Starta kameran utan att fråga",
+                "ask": "Fråga om jag vill använda kameran",
+                "never": "Fråga mig aldrig, jag sätter PÅ kameran manuellt"
+            },
+            "camera": {
+                "choose": "Välj vilken videoenhet som ska användas för videosamtal",
+                "adjust": "Ändra kamerainställningar...",
+                "preview": "Förhandsvisa den valda videoenheten",
+                "startVideoError": "Fel uppstod då video skulle startas för vald enhet.",
+                "checkDevice": "Kontrollera enheten",
+                "cameraSettingError": "Fel uppstod då kamerainställningarna skulle öppnas"
+            }
+        },
+
+        "deskphone": {
+            "labels" : {
+                "language" : "Språk för telefon- och röstbrevlådemenyerna",
+                "wallpaper": "Bakgrund",
+                "ringtone": "Ringsignal"
+            },
+
+            "dropdown": {
+                "standardring" : "Standardsignal",
+                "ring2": "Signal 2",
+                "ring3": "Signal 3",
+                "ring4": "Signal 4",
+                "none": "Ingen"
+            }
+        },
+
+        "voicemail": {
+            "title" : {
+                "playback" : "Uppspelning",
+                "setup": "Inställning",
+    "escalation": "Eskalering",
+                "outlook": "Outlook®"
+            },
+
+            "playback": {
+                "label" : {
+                    "playEnvelopeInfo" : "Spela upp tidsinformation vid avlyssning av meddelanden."
+                }
+            },
+
+            "setup": {
+                "title" : {
+                    "changeVoicemailPassword" : "Ändra lösenord för röstbrevlåda",
+                    "recordDefaultGreeting": "Spela in namn för standardhälsningsfras för röstbrevlåda"
+                },
+                "label": {
+                    "recordNewGreeting" : "Spela in ny hälsningsfras",
+                    "recordNewName": "Spela in nytt namn"
+                },
+
+                "error": {
+                    "saveError" : "Fel uppstod då hälsningsfras skulle sparas. Din hälsningsfras sparades inte."
+                }
+            },
+
+            "escalation": {
+                "options": {
+                    "header": "Alternativ för eskalering av röstbrevlåda:",
+                    "description": "Inställningen gäller alla profiler för eskalering av röstbrevlåda som du lagt till nedan.",
+                    "firstUnheardOption": "Meddela vid första icke-avlyssnade meddelande",
+                    "eachNewMessageOption": "Meddela för varje nytt meddelande"
+                },
+                "profiles": {
+                    "header": "Profiler för eskalering av röstbrevlåda:",
+                    "description": "Lägg till profiler för att anpassa dirigering vid eskalering av röstbrevlåda."
+                },
+	    "deleteProfileDialog": "Ta bort profil",
+	    "addNewProfile": "Lägg till ny profil",
+	    "editExistingProfile": "Redigera profil",
+	    "ProfileDefaultName": "Profil",
+	    "NumberColHeader": "Nummer",
+	    "NameColHeader": "Profilnamn",
+	    "editProfile": "Redigera",
+	    "deleteProfile": "Ta bort",
+	    "NofifyFirstMessage": "Meddela vid första icke-avlyssnade meddelande",
+	    "NotifyEveryMessage": "Meddela för varje nytt meddelande",
+                "profile": {
+                    "name": "Profilnamn",
+                    "cancel": "Ångra",
+                    "add": "Lägg till",
+                    "update": "Uppdatera",
+                    "repeatTimes": "Återkommande tider",
+                    "repeatTimesPlaceholder": "Högsta antal 200",
+                    "namePlaceholder": "Ange ett profilnamn",
+                    "addStep": "Lägg till steg",
+                    "deleteStep": "Ta bort steg",
+                    "step": {
+                        "sendNotificationEmail": "Skicka e-postmeddelande",
+                        "attachWaveFile": "Bifoga wave-fil",
+                        "sendPhoneNotifications": "Skicka telefonmeddelanden",
+                        "thisNumberIsAPager": "Det här numret går till en personsökare",
+                        "enterEmailAddress": "Ange e-postadress",
+                        "enterPhoneNumber": "Ange telefonnummer",
+                        "enterPagerId": "Ange personsökar-ID",
+                        "enterPagerData": "Ange personsökardata",
+                        "timeout": "Timeout",
+                        "max3600": "Högsta antal 3 600",
+                        "minutes": " Minuter",
+                        "notifyUrgentVoicemailsOnly": "Meddela endast vid brådskande röstmeddelanden"
+                    },
+                    "validation": {
+                        "profileName": "Profilnamn krävs.",
+                        "profileNameExists": "Profilnamnet finns redan.",
+                        "email": "E-postadress krävs.",
+                        "invalidEmail": "Ogiltig e-postadress.",
+                        "phone": "Telefonnummer krävs.",
+                        "invalidPhoneNumber": "Ogiltigt telefonnummer.",
+						"cannotUseDIDNumber": "Ange inte ditt eget kontorsnummer.",
+                        "atLeastOneNotification": "Minst en typ av meddelande krävs.",
+                        "invalidData": "Ogiltiga data. Personsökar-ID eller -data kan endast innehålla siffror, kommatecken, blanksteg, parenteser och bindestreck."
+                    }
+                }
+            },
+
+            "outlook": {
+                "title" : {
+                    "outlookIntegration" : "Outlook-integrering"
+                },
+                "label": {
+                    "showVoicemailInOutlook" : "Visa mina röstmeddelanden i min Outlook-inkorg"
+                }
+            }
+        },
+
+        "telephony": {
+            "label" : {
+                "concurrentCalls" : "Max antal samtidiga samtal",
+                "dialOut": "Prefix för utgående samtal",
+                "suppressCallWaiting": "Stäng av ton för väntande samtal när jag befinner mig i ett samtal",
+                "suppressDialTone": "Stäng av ton när luren är av i headsetläge på en analog telefon",
+                "autoCloseConversationPanel": "Stäng kontaktkort efter avslutat samtal",
+                "showAccessToRoutingSlipAndCallNotes": "Visa åtkomst till samtalsinformation och samtalsanteckning för varje samtal på panelen"
+            }
+        },
+
+        "softphone": {
+            "label" : {
+                "captureAudioThrough" : "Spela in ljud via",
+                "enableAutoRegister": "Tilldela mig till SoftPhone vid start",
+                "enableAutoGainControl": "Aktivera automatisk kontroll"
+            }
+        },
+
+        "language": {
+            "label" : {
+                "deskphoneVoicemailMenu" : "Telefon- och röstbrevlådemenyer",
+                "phoneReboot": "Omstart av telefonen krävs",
+                "clientLanguage": "Jag vill använda appen i",
+                "restartConnect": "Starta om Connect-klient om du vill ändra språk"
+            },
+            "clientlanguages": {
+                "englishUS" : "English (US)",
+                "englishUK": "English (UK)",
+                "spanish": "español",
+                "french": "français",
+                "german" : "Deutsch",
+                "swedish" : "svenska",
+                "chinese" : "简体中文"
+            },
+            "deskphoneVoiceMainDropDown":{
+                "1": "English (US)",
+                "2": "español (España)",
+                "3": "Deutsch",
+                "4": "English (UK)",
+                "5": "français",
+                "6": "Nederlands",
+                "7": "español (CALA)",
+                "8": "dansk",
+                "9": "Italiano",
+                "10": "svenska",
+                "11": "Chinese (Simplified)",
+                "12": "norsk",
+                "13": "português (Brasil)",
+                "14": "Japanese",
+                "15": "Korean",
+                "16": "Chinese (Hong Kong)",
+                "17": "Chinese (Traditional)",
+                "18": "português (Portugal)",
+                "23": "English (Australia)",
+                "26": "Hebrew",
+                "27": "français canadien "
+            }
+        }
+    },
+
+    "title": {
+        "activeCall": "Aktivt samtal",
+        "back": "Bakåt",
+        "callNote": "Samtalsanteckning",
+        "domain": "Domän",
+        "duration": "Varaktighet",
+        "email": "E-post",
+        "emailOrUsername": "E-postadress eller användarnamn",
+        "forwarded": "Vidarekopplat",
+        "guid": "GUID",
+        "inProgress": "Pågående",
+        "login": "Inloggning",
+    "logIn": "Inloggning",
+    "loggingIn": "Logga in",
+        "newPassword": "Nytt lösenord",
+        "origin": "Ursprung",
+        "password": "Lösenord",
+        "private": "Privat",
+        "retypePassword": "Skriv om lösenord",
+        "routingSlip": "Samtalsinformation",
+        "savePassword": "Spara lösenord",
+        "server": "Server",
+        "strength": "Styrka",
+        "showSupportInfo": "+ Supportinformation",
+        "hideSupportInfo": "- Dölj supportinformation",
+        "to": "Till",
+        "urgent": "Viktigt",
+        "useAD": "Använd Active Directory",
+        "username": "Användarnamn",
+        "voiceMessage": "Röstmeddelande",
+        "dnis": "DNIS",
+        "accountCode": "Kontonummer"
+    },
+
+    "authportal": {
+        "login": {
+            "loadingHeaderText": "Häng kvar.",
+            "authPortalSigningIn": "Loggar in...",
+            "loadingTextToConnectClient": "Vi omdirigerar dig till applikationen Mitel Connect",
+            "signIn": "Logga in",
+            "signInText": "Logga in för att fortsätta till Mitel Connect"
+        }
+    },
+
+    "login": {
+        "changeCreds": "Prova annan e-postadress eller annat lösenord",
+        "emailOrUsername": "E-postadress eller användarnamn",
+        "optional": "Valfritt för förstärkt säkerhet",
+        "setNewPassword": "Spara och logga in",
+        "emailPlaceholder": "Email ( name@example.com )",
+        "passwordPlaceholder": "Password",
+        "newPasswordPlaceholder": "Create a new password",
+        "retypePasswordPlaceholder": "Ange lösenordet igen",
+        "showAdvanced": "Visa avancerat",
+        "signingIn": "Loggar in",
+        "splash": "Mycket lätt",
+        "rememberThis": "Spara och logga in mig automatiskt nästa gång",
+        "useWindowsCredentials": "Använd autentiseringsuppgifter för delning eller nätverk",
+    "help": "Hjälp",
+    "passwordRequirement": "Lösenordskrav",
+    "charcterLimitText": "Mellan 8 och 26 tecken",
+    "specialCharText": "Minst ett specialtecken (! # $ % & _ - = +)",
+    "numberLetterText": "Minst en siffra och en bokstav",
+    "noSpaceText": "Inga mellanslag",
+
+        "error": {
+            "adAuthNotSupported": "Automatisk inloggning med autentiseringsuppgifter från platser utanför företagets nätverk är inte tillåten. Ange användarnamn och lösenord för att logga in på Connect Client.",
+            "adExpired": "Dina autentiseringsuppgifter för Active Directory har upphört. Ange nya autentiseringsuppgifter för att logga in.",
+            "blankDomain": "Domän får inte vara tomt.",
+            "blankPassword": "Lösenord får inte vara tomt.",
+            "blankServer": "Server får inte vara tomt.",
+            "blankUsername": "Användarnamn får inte vara tomt.",
+            "cantFindServer": "Du måste ange server för att logga in.",
+            "cantLogIn": "Antingen användarnamn, lösenord eller server matchade inte. Försök igen.",
+            "cantLogInLocked": "The username, password or server didn't match or the account is locked out. Please wait and try again.",
+            "phoneOnlyLogIn": "Uppgradera kontot om du vill använda Mitel Connect.",
+            "certError": "Det går inte att logga in eftersom en server svarade med ett ogiltigt säkerhetscertifikat.",
+            "homeServerConfiguration": "Din CAS-hemserver verkar vara felaktigt konfigurerad. Kontakta systemadministratören.",
+    "passwordChange": "Lösenordet har upphört att gälla. Skapa ett nytt lösenord.",
+    "passwordExpired": "Lösenordet har upphört att gälla.",
+    "passwordCreateNew": "Skapa ett nytt lösenord.",
+    "passwordMismatch": "Lösenorden överensstämmer inte. Försök igen.",
+            "passwordNotNew": "Det nya lösenordet får inte vara detsamma som det gamla.",
+    "passwordTooLong": "Fel lösenord. Försök igen.",
+            "passwordTooShort": "Det nya lösenordet måste innehålla minst __length__ tecken.",
+            "twoDomains": "Inkludera inte en domän som en del i användarnamnet.",
+            "unableToReachServer": "Det går inte att få kontakt med servern på __server__.",
+            "unableToReachServerGeneric": "Det går inte att få kontakt med servern.",
+            "accountLockedOut": "Kontot är låst."
+        },
+
+        "passwordStrength": {
+    "weak": "Svagt",
+    "okay": "Medel",
+    "good": "Starkt"
+        },
+
+        "name": "NAMN",
+        "email": "E-POST",
+        "password": "MÖTESLÖSENORD",
+        "signin": "Logga in",
+        "invalid": "Ogiltigt lösenord. Försök igen."
+    },
+
+    "routeSlip": {
+        "-5": "__party2__ stoppade inspelning av samtal med __party1__.",
+        "-4": "__party2__ startade inspelning av samtal med __party1__.",
+        "-3": "Samtalet har kopplats från.",
+        "-2": "Samtalet har avslutats.",
+        "-1": "Samtal har dirigerats till __party1__",
+        "0": "Null",
+        "1": "Direkt",
+        "2": "Samtal vidarekopplades. Upptagetsignal.",
+        "3": "Samtal vidarekopplades. Inget svar.",
+        "4": "Samtal vidarekopplades automatiskt ",
+        "5": "Samtal har plockats upp av __party1__.",
+        "6": "Samtal har återupptagits av __party1__.",
+        "7": "Samtal har omdirigerats från __party1__ till __party2__.",
+        "8": "Samtal har slutförts.",
+        "9": "__party1__ överförde samtal till __party2__.",
+        "10": "Påminnelse",
+        "11": "Vet ej",
+        "12": "Otillgänglig",
+        "13": "__party1__ trängde sig in",
+        "14": "Samtal parkerades på anknytning för __party2__.",
+        "15": "__party1__ lade sig på anknytning för __party2__.",
+        "16": "Dirigeringsbegäran",
+        "17": "__party1__ ringde upp __party2__.",
+        "18": "Samtal har vidarekopplats från __party1__ till __party2__.",
+        "19": "Samtal skapades med __party2__.",
+        "20": "__party2__ anslöt till konferens.",
+        "21": "Det gick inte att återta. Samtal returnerades",
+        "22": "__party1__ hade tyst medhörning av __party2__.",
+        "23": "__party1__ bröt in i samtal till __party2__.",
+        "24": "__party1__ spelads in allt.",
+        "25": "__party1__ anslöt till konferens.",
+        "26": "__party1__ visk-sökte __party2__.",
+        "27": "__party1__ hade snabbtelefonsamtal med __party2__.",
+        "28": "__party1__ hade tyst rådgivning med __party2__.",
+        "29": "__party1__ anslöt till konferens.",
+        "30": "__party1__ gick med i tillfällig konferens för __party2__.",
+        "31": "Skapat samtal",
+        "32": "Gick med i konferens",
+        "33": "Ringde upp __party2__",
+        "34": "besvarade __party2__",
+        "35": " __party1__ flyttade samtal till __party2__"
+    },
+
+    "presence": {
+        "chm": {
+            "Offline": "Offline",
+            "Available": "Tillgänglig",
+            "InAMeeting": "Möte",
+            "OutOfOffice": "Inte på kontoret",
+            "Vacation": "Ledig",
+            "Custom": "Anpassad...",
+            "Variable": "Anpassad...",
+            "DoNotDisturb": "Stör ej",
+            "DND": "Stör ej",
+            "undefined": "Vet ej"
+        },
+        "availability": {
+            "offline": "Offline",
+            "not-available": "Inte tillgänglig",
+            "busy": "Upptaget",
+            "available": "Tillgänglig",
+            "on-the-phone": "I samtal"
+        },
+        "OnThePhone": "I samtal",
+        "Ringing": "Ringer",
+        "ChangeAvailibility": "Ändra tillgänglighetsläge"
+    },
+
+    "PhoneCurrentAssignment": {
+        "UnAssign" : "Ingen primär telefon",
+        "Assigned": "Tilldelad telefon",
+        "Deskphone": "Primär telefon",
+        "Softphone": "SoftPhone",
+        "External": "Externt",
+        "dashboard": {
+            "softphone": "Softphone",
+            "deskphone": "Skrivbordstelefon",
+            "external": "Externt nummer",
+            "none": "Inte tilldelad"
+        }
+    },
+
+    "contactCard": {
+        "privateUser":"Privat användare",
+        "group": "Grupp",
+        "muteGroup":"Stäng av ljud för grupp",
+        "unMuteGroup":"Sätt på ljud för grupp",
+        "hideInfo": "– Dölj info",
+        "newContact": "Skapa ny kontakt",
+        "showInfo": "Info",
+        "showInfoTab": "Info",
+            "editContact": "Redigera",
+            "deleteContact": "Ta bort",
+        "address": "ADRESS",
+            "members": "medlemmar",
+            "member": "medlem",
+        "typeimmsg": "Skriv ett meddelande här...",
+        "noparticipants": "Det finns inga deltagare i den här gruppen.",
+        "offlineparticipents": "Offline-gruppmedlemmar kan eventuellt inte ta emot meddelanden.",
+        "conference": {
+            "bringIntoMeeting": "Ta med i möte",
+            "callAttendee": "Ring deltagaren",
+            "messageAttendee": "Skicka meddelande till deltagaren",
+            "kickOutOfMeeting": "Ta bort från möte ",
+            "muteUnmute": "Stäng av\/sätt på ljud deltagaren",
+            "kickOut": "Ta bort deltagaren"
+        },
+            "showFiles": "Visa filer (__numFiles__ bifogade)",
+            "hideFiles": "Dölj filer (__numFiles__ bifogade)",
+        "searchingContactCard": "Sök i konversationshistorik",
+        "noSearchMatchFound": "Inga resultat hittades.",
+        "accept": "Godkänn",
+        "reject": "Avvisa",
+        "parked": "PARKERAD",
+        "participantLikeToShare": "__participant__ vill dela sina skärmar.",
+            "participantsRequestedToShare": "Dessa deltagare vill dela skärm.",
+        "attendees": "Deltagare",
+        "loadingAttendees": "läser in deltagare...",
+        "groups": {
+            "everything": "Allt",
+            "calls": "Samtal",
+            "voicemails": "Röstmeddelanden",
+            "messages": "Meddelanden"
+        },
+        "searchConversation": "Sök i denna konversation",
+        "searchConversations": "Sök alla konversationer",
+        "dnis":"[Ringde]  __dnis__",
+        "workGroupName":"[AG] __name__",
+        "huntGroupName":"[SG]  __name__",
+            "deleteContactTitle": "Funktionstangent",
+            "deleteContactQuery": "Vill du ta bort den här kontakten?",
+        "buddyCallStack": {
+            "incoming" : "[Inkommande]",
+            "connected": "[AaccountCodensluten]",
+            "onHold": "[Vänta]",
+            "parked": "[Parkerad]",
+            "incomingCallSingle" : "__counter__ inkommande samtal",
+            "connectedCallSingle" : "__counter__ anslöt samtal",
+            "onHoldCallSingle" : "__counter__ samtal i vänteläge",
+            "parkedCallSingle" : "__counter__ parkerade samtal",
+            "incomingCallsMulti" : "__counter__ inkommande samtal",
+            "connectedCallsMulti" : "__counter__ anslutna samtal",
+            "onHoldCallsMulti" : "__counter__ samtal i vänteläge",
+            "parkedCallsMulti" : "__counter__ parkerade samtal"
+        },
+        "SharinginProgress": "Skärmdelning är redan påbörjad. Stäng och försök på nytt för att fortsätta."
+    },
+
+    "contactPointType": {
+        "phoneNumberType": {
+            "extension" : "anknytning",
+            "im": "Snabbmeddelande",
+            "did": "DID",
+            "business": "affärsverksamhet",
+            "work": "arbete",
+            "mobile": "mobil",
+            "mobile2": "mobil 2",
+            "pager": "personsökare",
+            "home": "hem",
+            "primary": "primär",
+            "business2": "affärsverksamhet 2",
+            "work2": "arbete 2",
+            "company": "företag",
+            "assistance": "hjälp",
+            "callback": "återuppringning",
+            "car": "bil",
+            "home2": "hem 2",
+            "other": "annat",
+            "speedDial": "snabbnummer",
+            "email": "e-post",
+            "email2": "e-post 2",
+            "email3": "e-post 3",
+            "fax": "kontorsfax",
+            "homefax": "hemmafax",
+            "primaryfax": "annan fax",
+            "isdn": "ISDN",
+            "radio": "radio",
+            "telex": "telex",
+            "ttytdd": "tty\/tdd",
+            "pdl": "personlig distributionslista",
+            "null": "okänd",
+            "default": "affärsverksamhet"
+        },
+        "im": "Snabbmeddelande",
+        "extension": "ANKNYTNING",
+        "email": "E-POST",
+        "phone": "TELEFONNUMMER",
+        "fax": "FAX",
+        "other": "ANNAN",
+        "unknown": "Vet ej"
+    },
+
+    "groupdetail": {
+        "NewGroup": "Ny grupp",
+        "SearchPrompt": "Dra eller skriv kontaktnamn...",
+        "Cancel": "Avbryt",
+        "SaveChanges": "Spara ändringar",
+        "Name":"Namn",
+        "People":"Personer",
+        "Group":"Grupp",
+        "InvalidGroupName": "Namnge gruppen",
+        "EmptyGroupError": "Lägg till minst en kontakt",
+        "IsAlreadyGroup": "Det finns redan en grupp med namnet",
+        "PickAnotherName": "Välj ett annat namn",
+        "DiscardChanges": "Om du stänger fönstret tas ändringarna bort.",
+        "groupName": "Gruppnamn",
+        "members": "Medlemmar",
+            "deleteGroup": "Radera grupp",
+            "groupMembers": "Gruppmedlemmar",
+            "create": "Skapa",
+            "save": "Spara",
+            "delete": "Ta bort",
+            "groupNameRequired": "Gruppnamn krävs.",
+            "groupMembersRequired": "Gruppmedlemmar krävs."
+    },
+
+    "groupitem": {
+        "StartGroupChat": "Starta gruppchatt",
+        "ScheduleMeeting": "Schemalägg möte med grupp",
+        "GroupVoicemail": "Skicka röstmeddelande till grupp",
+        "Members": "Medlemmar",
+        "EditGroup":"Redigera grupp"
+    },
+
+    "personal_directory": {
+        "Cancel": "Avbryt",
+        "SaveChanges": "Spara ändringar i kontakt",
+        "AddContact":  "Lägg till kontakt",
+        "JobTitle":"Befattning",
+        "Company":"Företag",
+        "Name": "Name",
+        "FirstName": "Förnamn",
+        "MiddleName":"Mellannamn",
+        "LastName": "Efternamn",
+        "CompanyName": "Företagsnamn",
+        "Department": "Avdelning",
+        "Business": "Affärsverksamhet",
+        "Mobile": "Mobil",
+        "Pager": "Personsökare",
+        "HomeNumber": "Hemnummer",
+        "Fax": "Fax",
+        "Email": "E-post",
+        "IM": "SnabbtelefonAdress",
+        "Address":"Address",
+        "City":"Ort",
+        "Country":"Land",
+        "State": "Delstat",
+        "Zip":"Postnummer",
+        "Type": "Typ",
+        "Home": "Hem",
+        "Assistant" : "Assistent",
+        "AddNumber": "Lägg till",
+        "discardChanges": "Ta bort ändringar",
+        "numbers": "Telefonnummer",
+        "createContact": "Ny kontakt",
+        "editContact": "Redigera kontakt",
+        "contactInfo": "Kontaktinformation",
+        "work": "Arbete",
+        "number": "Nummer",
+        "firstNameError": "Förnamn krävs.",
+        "save": "Spara",
+        "deleteContact": "Funktionstangent",
+        "deleteContactNotification": "Vill du ta bort __selectedContact__?",
+        "phoneNumError": "Får enbart bestå av siffror.",
+        "emptyFieldsError": "E-post, snabbmeddelande eller telefonnummer krävs."
+
+    },
+
+    "messagebox":{
+        "No":"Nej",
+        "Yes":"Ja",
+            "Add": "Lägg till",
+        "OK":"OK",
+        "msg": "Vill du spara som utkast?",
+        "Cancel": "Avbryt",
+            "Keep": "Behåll",
+        "Delete": "Ta bort",
+        "Remove": "Ta bort",
+        "SaveChanges": "Spara ändringar",
+        "FirstName": "Förnamn",
+        "MiddleName":"Mellannamn",
+        "LastName": "Efternamn",
+        "CompanyName": "Företagsnamn",
+        "Department": "Avdelning",
+        "Business": "Affärsverksamhet",
+        "Mobile": "Mobil",
+        "Pager": "Personsökare",
+        "HomeNumber": "Hemnummer",
+        "Fax": "Fax",
+        "Email": "E-post",
+        "IM": "Snabbmeddelande",
+        "groupdetail":"Vill du spara som utkast?",
+        "contactsCantRcvVM":"__numContacts__ av valda kontakter kan inte ta emot ett röstmeddelande. Vill du fortsätta ändå?",
+            "deleteGroup": "Vill du ta bort __groupname__?",
+            "deleteProfile": "Vill du ta bort __profileName__?",
+        "errormsg": "Minst ett namn är obligatoriskt "  ,
+        "numbererrormsg":"Minst ett nummer är obligatoriskt ",
+        "keepmeeting":"Behåll möte",
+        "cancelmeeting":"Avbryt möte",
+        "DeleteRecording": "Ta bort inspelning",
+        "CancelDeleteRecording": "Avbryt",
+        "discardPopupHeader": "Discard Change",
+        "recurringMeetingConfirmationHeader": "Update Changes",
+        "discardchanges":"Ignorera ändringar",
+        "canceldiscard":"Avbryt",
+        "cancelDeleteContact":"Avbryt Ta bort",
+        "confirmDeleteContact":"Ta bort kontakt",
+        "updateClient":"Vill du uppdatera klienten?",
+        "updateClientAdmistrative":"Kontakta administratören för att uppgradera din klient",
+        "dontAddEmailToRecord":"Lägg inte till e-post till inspelning",
+        "addEmailToRecord":"Lägg till e-post till inspelning",
+        "addEmailTitle": "Add Email",
+        "addEmailMessage":"Lägg till ny e-post till kontakts inspelning",
+        "doYouWantToDiscardChanges":"Vill du ignorera ändringarna?",
+        "downloadProgress": "Laddar ned...",
+        "dontSend": "Skicka inte",
+        "sendAnyway": "Skicka ändå",
+        "continue": "Continue",
+        "voicemail": "Voicemail",
+        "one": "One",
+        "some": "Some",
+        "groupVoicemailMsg": "of the contacts selected cannot receive the voicemail. Are you sure you would like to proceed?"
+    },
+
+    "editprofile": {
+        "Cancel": "Avbryt",
+        "ok": "OK",
+        "yes": "Yes",
+        "SaveChanges": "Spara"
+    },
+
+    "userconf": {
+        "Extn": "Anknytning",
+        "number": "Nummer",
+        "pcode": "Deltagarkod",
+        "hcode": "Organisatörskod",
+        "password": "Password",
+        "link": "Länk",
+        "clipbrd": "Kopiera till urklipp",
+        "copiedToClipboard": "Copied to Clipboard",
+        "event":"Gå med in min händelse nu",
+        "screenshare": "Visa skärmdelning",
+        "copy": "Copy",
+        "edit": "Edit",
+        "sharingName": "is sharing their screen",
+        "additionalCallingInfoLabel": "Additional Calling Info"
+    },
+
+    "profile": {
+        "edit": "Ändra",
+        "preferences": "Preferenser",
+        "uploadPicture": "Upload Picture",
+        "changePicture": "Change Picture",
+        "removePicture": "Remove Picture",
+        "passignment": "Primär tilldelning",
+        "confbridge": "Min konferensbrygga",
+        "phones": "Mina telefoner",
+        "artefact": "Artefakt",
+        "settings": "Inställningar",
+        "addNewBridge": "Add New Conference Bridge",
+        "editBridge": "Edit Conference Bridge",
+        "loadingReservationLessConferences": "Loading..."
+    },
+
+    "peoplelist": {
+        "fetching": "Fetching Favorites...",
+        "groups": {
+            "Favorites":"Favoriter",
+            "fetching": "Fetching Groups..."
+        },
+        "menu":{
+            "addToGroup":"Lägg till grupp",
+            "addContactsToGroup": "Add Contacts to Group",
+            "sendVoicemail": "Skicka röstmeddelande",
+            "sendIM": "Skicka snabbmeddelanden",
+            "createConference": "Schemalägg konferens",
+            "call": "Ring upp",
+            "sort": "Sortera"
+        },
+        "people": {
+            "Availability": "Tillgänglighet",
+            "LastContact": "Senaste kontakt",
+            "All": "Alla",
+            "MyOrder": "Min ordning",
+            "LastName": "Efternamn",
+            "FirstName": "Förnamn"
+        },
+        "tooltips": {
+            "hasParkedCall": "Kontakt har parkerat samtal"
+            },
+        "SearchByNameOrExt": "namn eller ank.",
+        "dropMenu": {
+            "transfer" : {
+                "blind" : "Dold överföring",
+                "consult": "Överföring för konsultation",
+                "intercom": "Snabbtelefonsöverföring",
+                "mailbox": "Överför brevlåda",
+                "whisper": "Överför viskning"
+            },
+            "conference": {
+                "blind" : "Dold konferens",
+                "consult": "Konsultativ konferens",
+                "intercom": "Snabbtelefonkonferens"
+            },
+            "park": {
+                "park" : "Parkera",
+                "page": "Parkera och sök",
+                "intercom": "Parkera och snabbtelefon"
+            }
+        },
+        "SearchPrompt": "Sök och lägg till en befintlig...",
+        "Favorites": "Favoriter",
+        "All": "Alla",
+        "Group": "Grupper",
+        "NewContact": "Ny kontakt",
+        "NewGroup": "Ny grupp",
+        "CreatePDL": "Skapa ny kontakt i katalog",
+        "MultipleItemsWithGhostedImage": "+ __numberofcontacts__ mer",
+        "searchPlaceholder": "namn eller ank.",
+        "MoreOptions": {
+            "SortLabel": "Sort By",
+            "SortTitle": "Sort",
+            "SortBy": {
+                "LastName": "Last Name",
+                "FirstName": "First Name",
+                "Availability": "Availability",
+                "LastContact": "Last Contact",
+                "MyOrder": "My Order"
+            },
+            "ShowLabel": "Show",
+            "ShowDetails": {
+                "CompanyName": "Company Name",
+                "DepartmentName": "Department Name",
+                "PhoneNumber": "Phone Number"
+            },
+            "AddContactTitle": "New Contact",
+            "AddGroupTitle": " or Group",
+            "AddContact": "Add Contact",
+            "AddGroup": "Add Group",
+            "ListView": "List View",
+            "CompactView": "Compact View",
+            "ChangeViewTitle": "Change View"
+        }
+
+    },
+
+    "primaryAssignment": {
+        "pextn": "Inkommande samtal kommer att ringa på",
+        "deskphone": "primär telefon",
+        "assigned": "Du är inte tilldelad till din primära telefon.",
+        "backtodesk": "Gå tillbaka till Min telefon",
+        "softphone": "SoftPhone",
+        "softsettings": "Ändra Softphone-inställningar...",
+        "snumber": "externt tilldelningsnummer"
+    },
+
+    "userphones": {
+         "home": "Hem",
+         "mobile": "Mobil",
+         "rings": "  signaler",
+         "connect": "Tryck på 1 för att ansluta",
+         "autoconnect": "Anslut automatiskt",
+         "remove":"Ta bort"
+    },
+
+    "endpoint": {
+         "idevice":"Indataenhet",
+         "odevice":"Utdataenhet",
+         "selectNumber":"Välj nummer",
+         "selectedNumber":"Vald telefon är ",
+        "selection": {
+            "prompt": "Slutpunkt (anknytning)",
+            "unassigned": "Ej tilldelad",
+            "primary": "Skrivbordstelefon",
+            "soft": "SoftPhone"
+        },
+        "softphone": {
+            "heading": "SoftPhone-inställningar",
+            "audio": "Ljudenhet",
+            "video": "Videoenhet"
+        }
+    },
+
+    "recentList": {
+        "conferenceCall": "Conference call",
+        "incoming": "Incoming",
+        "missed": "Missed",
+        "outgoing": "Outgoing",
+        "fetching": "Hämtar historik...",
+        "timeFormatDate": "YY-MM-DD",
+        "timeFormatDateFullYear": "YYYY-MM-DD",
+        "timeFormatFull": "YY-MM-DD HH:mm",
+        "timeFormatTime" : "HH:mm",
+        "yesterday": "Igår",
+        "menu": {
+            "addContact": "Lägg till som kontakt",
+            "addToFavorites": "Lägg till i Favoriter",
+            "addContactToGroup": "Lägg till kontakt i grupp",
+            "addContactsToGroup": "Lägg till kontakter i grupp",
+            "copyCallIdToClipboard": "Kopiera samtals-ID till urklipp",
+            "copyVoicemailIdToClipboard": "Kopiera röstbrevlåde-ID till urklipp",
+            "deleteVoicemail": "Ta bort röstmeddelande",
+            "deleteVoicemails": "Ta bort röstmeddelanden",
+            "downloadVMASWav": "Ladda ned röstmeddelande som .wav-fil",
+            "editVoicemailSubject": "Redigera röstmeddelandeämne",
+        "markHeard": "Markera som hört",
+        "markUnheard": "Markera som inte hört",
+            "flagVoicemail": "Spara röstmeddelande",
+            "flagVoicemails": "Spara röstmeddelanden",
+            "removeFlag": "Ta bort sparat röstmeddelande",
+            "removeFlags": "Ta bort sparade röstmeddelanden",
+            "showNumbers": "Visa nummer"
+        },
+        "state": {
+            "all": "Alla",
+            "flagged": "Flaggad",
+            "missed": "Missade",
+            "deleted": "Borttagen",
+            "unheard": "Oavlyssnade",
+            "heard": "Heard",
+            "saved": "Sparat"
+        },
+        "type": {
+            "calls": "Samtal",
+            "everything": "Allt",
+            "files": "Filer",
+            "groupCalls": "Gruppsamtal"
+        },
+        "callerIdUnknown": "Okänt uppringar-ID",
+        "callerIdBlocked": "Caller ID Blocked",
+        "callExport": {
+            "tooltip": "Export Call Data",
+            "dateRange": "__startDate__ - __endDate__",
+            "dateFormat": "YYYY MMMM D",
+            "dateFormatWithoutYear": "MMMM D",
+            "filterHeader": "Export Call Data:",
+            "filterOptions": {
+                "today": "Today",
+                "lastWeek": "Last week",
+                "lastMonth": "Last month"
+            },
+            "actions": {
+                "export": "Export"
+            },
+            "fileName": "CallData",
+            "exportedFile": {
+                "dateFormat": "YYYY-MM-DD",
+                "fileNameDateFormat": "YYYYMMDDHHmmss",
+                "timeFormat": "HH:mm",
+                "durationFormat": "HH:mm:ss",
+                "durationFormatWithHours": "mm:ss",
+                "date": "Date",
+                "time": "Time(__tzString__)",
+                "direction": "Direction",
+                "number": "Number",
+                "duration": "Duration",
+                "note": "Call Note",
+                "private": "Private"
+            }
+        }
+    },
+
+    "greetingController": {
+        "save": "Spara inspelning",
+        "cancel": "Ignorera inspelning"
+    },
+
+    "voiceMessage": {
+        "re" : "Ang: ",
+        "fwd": "Vidarekoppla: ",
+        "reply": "Svara",
+        "forward": "Vidarekoppla",
+        "save": "Save",
+        "unsave": "Unsave",
+        "delete": "Ta bort",
+        "restore": "Återställ",
+        "restoreTooltip": "Återställ röstmeddelande och flytta till ”Inkorgen”",
+        "timeformatLongDateTime": "YYYY MMMM D [&bull;] h:mm A",
+        "to": "Till",
+        "subject": "Ämne",
+        "send": "Skicka",
+        "cancel": "Avbryt",
+        "receipt": "Kvitto",
+        "includeOriginal": "Ta med original",
+        "searchPrompt": "Sök efter en kontakt...",
+        "subjectPrompt": "Ämne för röstmeddelande...",
+        "savedVMTimeFormat": "YYYY-MM-DD HH-mm-ss",
+        "voicemail": "Röstbrevlåda",
+        "errors": {
+            "errorWithServerErrorCode" : "Åtgärden är ofullständig. Kod för serverfel (hex): ",
+            "noSubjectWhenSendingVoicemailError": "Vill du skicka meddelandet utan ett ämne?"
+        },
+		 "mitelVMSystem": "Röstbrevlåda system för Mitel"
+    },
+
+    "mediaPlayer": {
+        "playVia": "Spela upp via",
+        "playViaComputer": "Använd datorns högtalare",
+        "playViaDeskphone": "Använd telefonen",
+        "stop": "Stopp",
+        "record": "Spela in",
+        "play": "Spela upp",
+        "pause": "Paus",
+        "deskphone": "Telefon",
+        "computer": "Dator",
+        "timestamp": {
+            "lessThanAnHour": "mm:ss",
+            "lessThanTenMinutes": "m:ss",
+            "atLeastAnHour": "hh:mm:ss"
+        }
+    },
+
+    "selfPresence": {
+        "Cancel": "Avbryt",
+        "selectColor": "Välj en färg...",
+            "typeStatus": "Ange en status …",
+            "SelectColor": "Välj färg",
+            "Available": "Tillgänglig",
+            "Busy": "Upptagen",
+            "Unavailable": "Otillgänglig",
+            "AdditionalNote": "Ytterligare meddelanden",
+            "CustomStatus": "Anpassa status",
+            "BackButton": "Åter",
+            "HintText": "Meddelandet visas med status",
+            "CustomHintText": "Skriv meddelande (högst 50 tecken)",
+            "DoneButtonLabel": "Klar",
+            "CancelButtonlabel": "Avbryt",
+        "logout": "Logga ut"
+    },
+
+    "camera": {
+        "header": "Videoinställningar",
+        "noneSupported": "Inga inställningar är tillgängliga för denna enhet.",
+        "settingName": {
+            "exposure": "Exponering",
+            "whiteBalance": "Vitbalans",
+            "focus": "Fokus",
+            "torch": "Lampa",
+            "focusPoint": "Brännpunkt"
+        },
+        "settingValue": {
+            "locked": "Låst",
+            "auto": "Automatiskt (en gång)",
+            "continuous": "Fortsatt automatik",
+            "on": "På",
+            "off": "Av",
+            "unknown": "Vet ej"
+        }
+    },
+    "upgrade": {
+        "upgradeNeededTitle" : "Uppgradering erfordras",
+        "upgradeSuggestedTitle": "Uppgradering föreslagen",
+        "upgradeProgressTitle": "Uppgradering pågår",
+        "upgradeNeededMessage": "En uppgradering krävs för att kunna fortsätta använda Connect-klient. Vill du uppgradera nu?",
+        "upgradeSuggestedMessage": "En uppgradering är tillgänglig för Connect-klient. Vill du uppgradera nu?",
+            "upgradeProgressMessage": "Uppgradering av Connect-klienten till den senaste versionen",
+        "upgradeContactAdminMessage": "En uppgradering krävs för att kunna fortsätta använda Connect-klient. Kontakta administratören",
+        "upgradeNow": "Uppgradera nu",
+            "upgradeText": "Uppgradera",
+        "upgradeOk": "OK",
+        "remindMeLater": "Påminn mig senare",
+            "later": "Senare",
+        "quit": "Avsluta",
+        "cancel" : "Avbryta",
+        "progressText": "Förlopp",
+            "downloadError": "Ett problem uppstod när filen hämtades, starta om och försök igen.",
+        "upgradeError": "Uppgraderingsfel",
+        "upgradeTimeoutError": "Tidsgräns för uppgradering har uppnåtts. Starta om Mitel Connect.",
+            "restartClient": "Starta om nu"
+    },
+
+    "call": {
+        "state": {
+            "0": "Inaktiv",
+            "1": "Inkommande samtal...",
+            "2": "Inkommande samtal...",
+            "3": "Ringsignal",
+            "4": "Slår numret...",
+            "5": "Ringer upp...",
+            "6": "Upptaget",
+            "7": "Ändra signalordning",
+            "8": "Avbrottssignal",
+            "9": "Nätverket är upptaget",
+            "10": "Ansluten",
+            "11": "Ringer upp...",
+            "12": "Vänta",
+            "13": "Vänta, avvaktar överföring",
+            "14": "Vänta, avvaktar konferens",
+            "15": "Parkerad",
+            "16": "I konferens",
+            "17": "Samtal avslutades",
+            "18": "Vet ej",
+            "19": "sätter dig att vänta",
+            "20": "Fortsätter plocka",
+            "21": "Fortsätter återta",
+            "22": "Kopplat från ogiltig adress",
+            "23": "Ansluten, i kö på AG",
+            "24": "Gammal vänteinställning, tyst övervakning",
+            "25": "Ansluten, viskning-sökning",
+            "26": "Ansluten (tyst)",
+            "active": "Aktiv",
+            "RemoteHoldWithTimer": " __timer__ sätter dig att vänta",
+            "SilentMonitorWithTimer": " __timer__ tyst medhörning",
+            "SilentCoachWithTimer": " __timer__ tyst vägledning",
+            "WhisperPageWithTimer": " __timer__ viskning-sökning",
+            "ParkWithTimer": " __timer__ parkerad",
+            "HoldWithTimer": " __timer__ vänta",
+            "consult": " __timer__ konsultera..."
+        },
+        "features": {
+            "call": "Ring upp",
+            "hold": "Vänta",
+            "unhold":"Återta",
+            "end": "Lägg på",
+            "callPhoneType": "Ring upp __phoneType__",
+            "callMailbox": "Uppringningsbrevlåda",
+            "sendVoicemail": "Skicka röstmeddelande",
+            "pickupUnpark": "Plocka\/återta",
+            "intercom": "Snabbtelefon",
+            "whisper": "Viskning-sökning",
+            "silentMonitor": "Tyst medhörning",
+            "silentCoach": "Silent Coach",
+            "bargeIn": "Bryt in",
+            "alert": "Varna när kontakt finns tillgänglig på",
+            "park": "Parkera",
+            "parkAndPage": "Parkera och sök",
+            "parkAndIntercom": "Parkera och snabbtelefon",
+            "unpark": "Återta",
+            "pickup": "Svara",
+            "callMove": "Flytta samtal",
+            "toVM": "Till röstmeddelande",
+            "toAA": "Till autosvar",
+            "transfer": "Överför",
+            "silentCoachConsult": "Konsultera arbetsledare",
+            "silentCoachResume": "Återta Coach",
+            "maliciousCall": "Flagga misstänkta samtal",
+            "mergeCallTo": "Slå samman med",
+            "mergeCallFrom": "Slå samman",
+            "mute": "Ljud av",
+            "unmute": "Sätt på ljud",
+            "muteAll": "Ljud av, alla",
+            "unmuteAll": "Ljud på, alla",
+            "videoOn":"Sätt på videokamera",
+            "videoOff":"Stäng av videokamera",
+            "videoDisabled":"Videokamera är inaktiverad",
+            "videoCamera": "Videokamera",
+            "videoOnHold": "Videokameran fungerar inte för det väntande videosamtalet",
+            "share": "Dela din skärm",
+            "info": "Info",
+            "record": "Starta inspelning",
+            "endRecord": "Sluta inspelning",
+            "raiseHand": "Räck upp hand",
+            "addParticipant": "Lägg till deltagare",
+            "editCallNote":"Redigera samtalsanteckning",
+            "accountCode":"Ring med kontokod",
+            "enterAccountCode":"Ange kontokoden nedan och tryck på Enter för att ringa upp",
+            "hideAccountCodes":"Dölj alla kontokoder",
+            "showAccountCodes":"Visa alla kontokoder",
+            "lock":"Lås",
+            "unlock":"Lås upp",
+            "cancel": "avbryt",
+            "complete": "slutför",
+            "video": {
+                "promptBelow":"Andra deltagare i detta samtal använder video. Tryck på kameraknappen nedan för att gå med i videoläge.",
+                "dontRemindAgain":" Påminn mig inte igen",
+                "ok":"OK",
+                "promptAbove":"Andra deltagare i detta samtal använder video. Tryck på kameraknappen ovan för att gå med i videoläge."
+            },
+            "adhocConferenceLimit":"Gräns för tillfällig konferens har uppnåtts",
+            "routingSlip": "Samtalsinformation",
+            "callNote": "Samtalsanteckning",
+            "acceptCall":"Godkänn",
+            "rejectCall":"Ignorera",
+            "message": "Meddelande"
+        },
+        "DN_AA": "Autosvar",
+        "DN_BkpAA": "Säkerhetskopiera autosvar",
+        "callNotes": {
+            "enterCallNotePrompt": "Skriv in en ny samtalsanteckning och tryck på Enter för att spara"
+        },
+        "workgroupName":"Arbetsgrupp: ",
+        "huntgroupName":"Sökgrupp: ",
+            "calls": "samtal"
+    },
+    "messagesConversation": {
+        "removeConversation": "Ta bort konversation",
+        "muteConversation": "Stäng av ljud i konversation",
+        "unmuteConversation": "Sätt på ljud i konversation",
+        "markAsRead": "Markera som läst"
+    },
+    "eventDraft": {
+            "successMeetingMsg": "Möte har skapats.",
+            "openOutlookMsg": "Vänta medan vi öppnar Outlook.",
+            "useMyBridgeTxt": "Använd min egen brygga",
+            "presenterHelp": "Presentatörer",
+            "participantHelp": "Deltagare",
+            "moreSettingsLabel": "Fler inställningar",
+            "useOwnBridgeTxt": "Du kan använda din egen konferensbrygga istället för dem som genererats av systemet.",
+            "presenterHelpText": "Presentatörer kan dela sina skärmar.",
+            "participantHelpText": "Deltagare måste begära godkännande från mötesorganisatören för att kunna dela sina skärmar.",
+            "addEditBridge": "Du kan också lägga till en ny konferensbrygga eller redigera de befintliga i din profil.",
+            "creatingMeeting": "Skapa möte.",
+            "moreSettingsTxt": "Ytterligare konfigurationsalternativ för möten finns tillgängliga.",
+        "name": {
+            "label": "Namn",
+            "placeholder": "Namnlöst möte",
+            "required": "Mötesnamn krävs."
+        },
+        "mpv": {
+            "description": "Beskrivning",
+            "enterMeetingDescription": "Ange mötesbeskrivning",
+            "eventType": "Händelsetyp",
+            "collaboration": "Samarbete",
+            "video": "Video"
+       },
+        "starts": {
+            "label": "Startar",
+            "dateLabel": "Datum",
+            "timeLabel": "Starttid"
+        },
+        "duration": {
+            "label": "Möten varade",
+            "help": {
+            "hours": "Timme",
+            "hours_plural": "Timmar",
+            "minutes": "Minut",
+            "minutes_plural": "Minuter"
+            },
+                "required": "Mötets varaktighet måste anges."
+        },
+        "recurrence": {
+            "label": "Inträffar",
+            "option": {
+                "once": "En gång",
+                "daily": "Dagligen",
+                "weekly": "Varje vecka",
+                "biweekly": "Varannan vecka",
+                "monthly": "Varje månad"
+            }
+        },
+        "onsiteLocation": {
+            "label": "Plats",
+            "placeholder": "Plats"
+        },
+        "type": {
+            "label": "Mötestyp",
+            "option":  {
+                "collaborative": "Partners",
+                "presentation": "Presentation"
+            }
+        },
+        "organizers": {
+            "label": "Organisatörer",
+            "placeholder": "Ange namn på organisatörer"
+        },
+        "presenters": {
+            "label": "Presentatörer",
+            "placeholder": "Ange namn på presentatörer"
+        },
+                "useMyBridge": "Använd min egen brygga",
+                "UsePresentation": "Lägg till ytterligare deltagare som behöver godkännande från mötesorganisatören för att dela sina skärmar. (dvs. vid stora evenemang, i officiella byggnader etc.)",
+        "participants": {
+            "label": "Deltagare",
+            "placeholder": "Ange namn på deltagare"
+        },
+        "agenda": {
+            "label": "Agenda",
+            "AgendaTermLabel": "Ärende på agenda",
+            "AgendaMinutesLabel": "Agendatid",
+            "term": {
+                "placeholder": "Ange ärende på agenda"
+            },
+            "time": {
+                "placeholder": "tid",
+                "segment": "min"
+            },
+            "overview": {
+                "label": "Sammanfattning",
+                "placeholder": "Ange mötessammanfattning"
+            }
+        },
+        "files": {
+            "label": "Filer"
+        },
+        "settings": {
+            "ShowMeetingSettings": "+ Visa inställningar",
+            "HideMeetingSettings": "– Dölj inställningar"
+        },
+        "passwordProtect": {
+            "label": "Skydda möten med lösenord"
+        },
+        "password": {
+            "label": "Lösenord",
+            "placeholder": "Ange lösenord",
+                "required": "Lösenord krävs."
+        },
+            "customAccessCode": "Anpassade åtkomstkoder",
+        "accessCodeError": {
+                "accessCodesAreSame": "Deltagar- och organisatörskod får inte vara samma.",
+                "participantCodeAlreadyInUse": "Denna deltagarkod används redan.",
+                "hostCodeAlreadyInUse": "Denna organisatörskod används redan."
+        },
+        "participantCode": {
+            "label": "Deltagarkod",
+            "placeholder": "Ange kod"
+        },
+        "hostCode": {
+            "label": "Organisatörskod",
+            "placeholder": "Ange kod"
+        },
+        "meetingStart": {
+            "label": "Starta mötet",
+            "option": {
+                "anyoneJoins": "När alla gått med",
+                "organizerJoins": "När en av organisatörerna går med"
+            }
+        },
+        "participantSettings": {
+            "label": "Deltagare",
+            "announceArrival": {
+                "label": "Meddela när deltagare går med och lämnar",
+                "option": {
+        "playAudioTone": "Spela upp en enkel ljudsignal",
+        "promptToRecord": "Uppmana deltagarna att spela in sina namn och meddela när de går med eller lämnar mötet"
+                }
+            },
+            "muteOnEntry": {
+                "label": "Stäng av ljud när deltagare går med"
+            },
+            "showAllNames": {
+                "label": "Visa allas namn för alla deltagare"
+            },
+            "allowImWith": {
+                "label": "Tillåt deltagare att utbyta snabbmeddelande med",
+                "option": {
+        "everyone": "Alla",
+        "organizers": "Bara organisatörerna"
+                }
+            },
+            "whenDialingOut": {
+                "label": "Vid samtal till deltagare",
+                "option": {
+        "mustPressOne": "Måste trycka på 1 för att öppna mötesljudet",
+        "automaticallyAdded": "Mötesljudet läggs automatiskt till för deltagare"
+                }
+            }
+        },
+        "status": {
+            "error": {
+                "single": "Korrigera fältet: __fields__ innan en händelse skapas.",
+                "multiple": "Korrigera dessa fält: __fields__ innan en händelse skapas."
+            }
+        },
+            "createEventInvite": "Skapa",
+            "updateEventInvite": "Uppdatera"
+    },
+    "event": {
+        "limitationWarning" : {
+            "header": "Deltagare kopierade till urklipp.",
+            "message1": "På grund av en ändring av Outlook kan vi inte skicka deltagarlistan till Outlook.",
+            "message2": "Vi har kopierat listan för dig – klistra in den direkt i fältet “Till” i Outlook-inbjudan.",
+            "doNotShowAgain": "Visa inte detta igen",
+            "timeWarning1": "På grund av en ändring av Outlook kan datum och tid inte överföras korrekt till Outlook.",
+            "timeWarning2": "Bekräfta datum och tid innan du skickar mötesinbjudan.",
+            "editWarning1": "På grund av en ändring av Outlook stöds för närvarande inte redigering av möten.",
+            "editWarning2": "Använd Outlook-kalendern för att göra uppdateringar av detta möte.",
+            "editHeader": "Redigering stöds för närvarande inte"
+        },
+        "Upcoming": "Kommande",
+        "video": "Video",
+        "Past":"Tidigare",
+        "organizers": "Organisatörer",
+        "presenters": "Presentatörer",
+        "participants": "Deltagare",
+        "Reschedule": "Ny tid",
+        "agenda": "Agenda",
+        "enterAgendaTerm": "Ange ärende på agenda",
+        "time": "tid",
+        "min": "min",
+        "overview": "Sammanfattning",
+        "description": "Beskrivning",
+        "files": "Filer",
+            "cancelEvent": "Avbryt händelse",
+        "CancelMeeting": "Avbryt möte",
+        "JoinMeeting": "Gå med i möte",
+        "Collaborative": "Partners",
+        "Presentation": "Presentation",
+        "Video": "Video",
+        "EnterDropboxURL": "Ange webbadress för Dropbox",
+        "StarttheMeeting": "Starta mötet",
+        "Whenanyonejoins": "När alla gått med",
+        "Whenoneoftheorganize": "När en av organisatörerna går med",
+        "Participants": "Deltagare",
+        "Announcewhenparticip": "Meddela när deltagare går med och lämnar",
+        "Playasimpleaudiotone": "Spela upp en enkel ljudsignal",
+        "Promptparticipantsto": "Uppmana deltagarna att spela in sina namn och meddela när de går med och lämnar mötet",
+        "Muteparticipantsonen": "Stäng av ljud när deltagare går med",
+        "Showeveryonesnametoa": "Visa allas namn för alla deltagare",
+        "AllowparticipantstoI": "Tillåt deltagare att utbyta snabbmeddelande med",
+        "Everyone": "Alla",
+        "Justtheorganizers": "Bara organisatörerna",
+        "Whendialingouttopart": "Vid samtal till deltagare",
+        "Mustpressonetoentera": "Måste trycka på ”1” för att öppna mötesljudet",
+        "Participantsareautom": "Mötesljudet läggs automatiskt till för deltagare",
+        "name": "Namn",
+        "starts": "Startar",
+        "ends": "Slutar",
+        "OnSiteLocation": "Mötesplats",
+        "Meetingtype": "Mötestyp",
+        "Agenda": "Agenda",
+        "agendaTerm": "Agendapunkt",
+        "agendaTime": "Agendatid",
+        "agendaTimeLimit": "Agendan överstiger den tilldelade tiden med __minutes__ minut(er)",
+        "agendaTimeNumberError": "Agendatid måste anges med siffror",
+        "meetingDuration": "Varaktighet",
+        "meetingStartDate": "Datum",
+        "meetingStartTime": "Tid",
+        "meetingLasts": "Möten varade",
+        "Hours": "Timmar",
+        "Minutes": "Minuter",
+        "ShowMeetingSettings": "+ Visa inställningar",
+        "HideMeetingSettings": "– Dölj inställningar",
+        "ProtectMeetingwithpassword": "Skydda möten med lösenord",
+        "Overview": "Sammanfattning",
+        "EnterMeetingoverview": "Ange mötessammanfattning",
+        "Participantcode": "Deltagarkod",
+        "EnterCode": "Ange kod",
+        "HostCode": "Organisatörskod",
+        "EventMessage":"Vill du stänga panelen för händelseredigering?",
+        "EventUSBError":"Be administratören att aktivera konferensfunktionen för dig",
+        "NewEvent":"Ny händelse",
+        "CancelEvent":"Avbryt",
+        "Recorded":"Inspelad",
+        "Recurring":"Återkommande",
+        "fetchingEvents": "Hämtar händelser...",
+        "meetingDurationNumberError":"Mötets längd måste anges med siffror",
+        "calendarError":"Valt datum får inte redan vara passerat",
+        "pastMeetingError":"Möten kan inte planeras i då-tid",
+        "meetingDurationError":"Konferenser är begränsade till 8 timmar",
+        "meetingIsInProgressWantToCancel":"Möte pågår. Är det säkert att du vill avbryta mötet?",
+        "organizerContactError": "Extern kontakt kan inte vara händelseorganisatör",
+        "cancelMeetingNotification": "Är det säkert att du vill avbryta mötet?",
+        "cancelRecurringMeetingNotification": "Om du väljer ”Avbryt möte” kommer serien att tas bort och inte bara den här instansen.",
+        "updateRecurringMeetingNotification": "Om du väljer ”OK” kommer serien att uppdateras och inte bara den här instansen.",
+            "discardMeetingNotification": "Vill du ta bort ändringarna?",
+        "deleteRecordingNotification": "Är det säkert att du vill ta bort den här inspelningen?",
+        "hostedbyText": "Organisatör(er)",
+        "overviewLabel": "Sammanfattning",
+        "howToJoinLabel": "Så här går du med",
+        "accessCodeLabel": "Åtkomstkod",
+        "howToJoinButton": "Klicka här för att gå med",
+        "UCBIDLabel": "ID:",
+        "leaderCodeLabel": "Ledarkod:",
+        "leaderUrl": "Webbadress för ledare:",
+        "participantCodeLabel": "Deltagarkod",
+        "attendeesLabel": "Deltagare",
+        "agendaLabel": "Agenda",
+        "minutesLabel": "Minuter",
+        "filesLabel": "Filer att granska",
+        "UpdateEvent": "Uppdatera händelse",
+        "SaveAndUpdateEvent": "Spara och uppdatera händelse",
+        "UCBPassword":"Lösenord",
+        "EnterPassword":"Ange lösenord",
+        "UCBpasswordLabel":"Lösenord",
+        "multipleContactsWithoutMail":"saknade en associerad e-postadress och togs bort från händelseinbjudan.",
+        "singleContactWithoutMail":"saknade en associerad e-postadress och togs bort från händelseinbjudan.",
+        "contactPlaceholder":"Ange e-postadress",
+        "editMeeting": "Redigera möte",
+        "eventEdit": "Redigera händelse",
+		"editMeetingNeedsEditorPermissions": "För att redigera en händelse som skapats av andra måste de göra dig till en deltagare och ge dig redigeringsbehörigheter för sin Outlook-kalender",
+        "onlyEditableFromOutlook": "Kan endast redigeras från Outlook",
+        "cannotCanelMeetingInProgress": "Det går inte att ta bort ett pågående möte",
+        "downloadIcs": "Ladda ned ICS-fil för extern kalender",
+        "copyNamesToClipboard": "Kopiera deltagares namn till urklipp",
+        "copyFileUrlToClipboard": "Kopiera filens webbadress till urklipp",
+        "newEventWithSameParticipants": "Ny händelse med samma deltagare",
+        "recordings": "Inspelningar",
+        "playBack": "Spela upp inspelning",
+        "download": "Ladda ned inspelning",
+        "deleteRecording": "Ta bort inspelning",
+        "copyRecordingUrlToClipboard": "Kopiera inspelningens webbadress till urklipp",
+        "hostCode": "Organisatörskod",
+        "participantCode": "Deltagarkod",
+        "participantUrl": "Webbadress för deltagare",
+        "localDialIn": "Uppringningsnummer",
+        "dialInExtension": "Uppringningsanknytning",
+            "extension": "Anknytning",
+            "dialInInfo": "Inringningsinformation",
+            "link": "Länk",
+        "password": "Lösenord",
+        "copyDialinToClipboard": "Kopiera konferensinfo till Urklipp",
+        "organizersPlaceholder": "Ange namn på organisatörer",
+        "presentersPlaceholder": "Ange namn på presentatörer",
+        "participantsPlaceholder": "Ange namn på deltagare",
+        "additionalCallingInfoLabel":"Ytterligare uppringningsnummer",
+        "occurs": "Inträffar",
+        "once":"En gång",
+        "daily":"Dagligen",
+        "weekly":"Varje vecka",
+        "monthly":"Varje månad",
+        "biweekly":"Varannan vecka",
+        "mpvTitleLable": "Rubrik:",
+        "mpvDescriptionLable": "Beskrivning:",
+        "mpvJoinFromLabel": "Gå med från din telefon (endast ljud):",
+        "mpvInviteText": "Du är inbjuden till ett Mitel-videomöte",
+        "mpvAccessCodeLable": "Din konferensdeltagarkod är: ",
+        "mpvDialInNumbersText": "Ytterligare samtalsinfo",
+        "mpvMoreInfoText": "För information och hjälp, besök:",
+        "mpvTollFreeText": "avgiftsfritt",
+        "reqCred": {
+            "header": "Exchange Credentials",
+            "RequestExchangeCred":"För att visa och skapa händelser måste du ange Exchange-autentiseringsuppgifter i Mitel Connect ",
+            "Username":"Användarnamn",
+            "Password":"Lösenord",
+            "submit": "Skicka",
+            "Connecting":"Ansluter till Exchange. Inloggningsuppgifter valideras...",
+            "Cancel": "Avbryt",
+            "errorConnecting":"Det går inte att få åtkomst till Exchange-servern med angivna inloggningsuppgifter.",
+            "errorTryAgain": "Försök igen eller kontakta systemadministratören.",
+            "success":"Ansluten till Exchange.",
+            "success1":{
+                "osx":"Du kan även hantera flerpunktsinloggningsuppgifter för video i Mitel-preferenser.",
+                "win":"Du kan även hantera flerpunktsinloggningsuppgifter för video i Mitel-inställningarna"
+            },
+            "ok":"OK"
+        },
+        "reqMPVCred": {
+            "header": "Inloggningsuppgifter för multipunktvideo",
+            "RequestMPVCred":"För att kunna skapa händelser måste du i Mitel Connect ange flerpunktsinloggningsuppgifter för videokonferens",
+            "Username": "Användarnamn",
+            "Password": "Lösenord",
+            "submitMPVCred": "Skicka",
+            "Connecting": "Ansluter till server. Inloggningsuppgifter valideras...",
+            "Cancel": "Ångra",
+            "errorConnecting":"Det går inte att få åtkomst till servern med angivna inloggningsuppgifter.",
+            "errorConnecting1":"Försök igen eller kontakta systemadministratören för att be om hjälp.",
+            "success":"Anslutning har etablerats.",
+            "success1":{
+                "osx":"Du kan även hantera inloggningsuppgifter för Exchange i Mitel-preferenser.",
+                "win":"Du kan även hantera Exchange-inloggningsuppgifter i Mitel-inställningarna"
+            },
+            "ok":"OK"
+        },
+        "invalidInput": " är ett obligatoriskt fält. Fyll i för att skapa en händelse.",
+        "invalidInputs": " är obligatoriska fält. Fyll i för att skapa en händelse.",
+        "invalidInputMPV": "för inte vara ett enskilt tecken",
+            "createConfFailed": "Ett fel uppstod när händelsen skapades, försök igen.",
+            "updateConfFailed": "Ett fel uppstod när händelsen uppdaterades, försök igen.",
+        "accessCodeLengthInvalid": "längden på åtkomstkoden ligger inte inom min\/max-intervallet",
+            "accessCodeInUse": "Åtkomstkoden används redan, uppdatera och försök igen.",
+        "hostCodeMatchesParticipantCodeError": "Deltagar- och organisatörskoder får inte vara lika. Ändra en innan du skapar händelsen.",
+        "meetingNameTooLong": "Mötesnamnet är för långt. Gör det kortare.",
+        "accessCodeRestrictions": "Det går inte att uppdatera p.g.a. åtkomstkodsbegränsningar.",
+        "mobileAutoDialLabel":"Mobil, autouppringning",
+        "voipLabel":"VoIP",
+        "iOSDevicesLabel":"iOS-enheter",
+        "otherDevicesLabel":"Andra enheter",
+        "andPressLabel":" och tyck på #",
+        "dialInExtensionLabel":"Anknytning",
+        "untitledMeeting":"Möte utan rubrik",
+        "eventInviteMessage":"Slutför inbjudan och skicka via Outlook",
+        "joinConferenceNoDial":"Gå endast med i chattläge",
+        "joinConferenceScreenShare":"Visa skärmdelning",
+        "joinConference":"Uppringning",
+        "joinVideoConference":"Gå med i videokonferens",
+        "openingOutlookWait":   "Outlook öppnas, vänta",
+        "cancelingConference": "Avbryter konferens",
+        "cancelConferenceFailed": "Det gick inte att avbryta konferens",
+        "openingOutlookFailed": "Det gick inte att öppna Outlook",
+        "openingOutlookFailedDialogIsOpen": "En dialogruta är öppen i Outlook. Stäng innan du fortsätter.",
+        "openingOutlookFailedExchangeUnavailable": "Anslutningen till Microsoft Exchange är inte tillgänglig.",
+        "createConference": "Konferens skapas",
+        "updateConference": "Konferens uppdateras",
+        "cancelConference": "Avbryter konferens",
+        "openOutlook": "Konferens har skapats. Vänta medan Outlook öppnas.",
+        "updateConferenceOutlook": "Konferensen har uppdaterats. Vänta medan Outlook öppnas.",
+        "answerCall":"Svara",
+        "recurring": "Återkommande händelse",
+        "copy": "Copy",
+        "more": "More",
+        "less": "Less",
+        "joinIconPopup": {
+            "callMeAt": "Ring mig vid",
+            "callMe": "Ring mig",
+            "callme":"Ring mig",
+            "callMeOn": "Ring mig på my __dest__",
+            "callMeAtDest": "Ring mig vid my __dest__",
+            "numberNotReachable": "Angivet number __number__ är otillgängligt",
+            "enterNumberToCallBack": "Ange nummer för att ringa tillbaka till dig",
+            "checkNumberForMissingDigits": "Kontrollera numret ovan efter fel och ogiltiga siffor"
+        },
+        "dialInIconTooltips":{
+            "dialMeInViaDevice": "Ring upp mig med min __dest__",
+            "dialMeInVia": "Ring upp mig med __label__ __number__",
+            "deskphone":"primär telefon",
+            "softphone": "SoftPhone",
+            "noPhoneSelected" :  "Ingen telefon har valts",
+            "dialMeIn": "Dial Me In",
+            "dialMeAt": "Dial Me At",
+            "joinScreenShare": "Join Screen Share"
+        },
+        "editEvent": {
+            "passwordExceedlimitedError" : "Möteslösenord är begränsade till 8 tecken",
+            "passwordCannotContainSpecialChar": "Lösenord får inte innehålla specialtecken: { \\ , # }",
+            "accessCodeError": "Åtkomstkodslängden ska ligga mellan __min__ och __max__",
+            "accessCodeParticipantError": "Åtkomstkoden måste anges med siffror.",
+            "accessCodeHostError": "Organisatörskoden måste anges med siffror."
+        },
+        "reservationLess": {
+            "name": {
+                "label": "Namn",
+                "placeholder": "Namn på ny brygga",
+                "required": "Namn på brygga krävs."
+            },
+            "participantCode": {
+                "label": "Deltagarkod",
+                "placeholder": "Ange kod"
+            },
+            "hostCode": {
+                "label": "Organisatörskod",
+                "placeholder": "Ange kod"
+            },
+            "accessCodeLengthError": "__CodeName__ bör vara mellan __min__ och __max__ långt.",
+            "accessCodeFormatError": "__CodeName__ får bara innehålla siffror.",
+            "accessCodeAlreadyUsed": "__CodeName__ används redan.",
+            "accessCodeRequired": "__CodeName__ krävs.",
+            "accessCodesAreSame": "Deltagar- och organisatörskod får inte vara samma.",
+            "passwordLengthError": "Lösenordet bör 8 tecken långt eller kortare.",
+            "passwordFormatError": "Lösenordet får inte innehålla specialtecken: { \\ , #}.",
+            "dialogActions": {
+                "add": "Lägg till",
+                "update": "Uppdatera",
+                "remove": "Ta bort",
+                "cancel": "Avbryt",
+                "keepBridge": "Behåll brygga",
+                "discard": "Kasta"
+            },
+            "removeBridge": "Vill du ta bort bryggan?",
+            "cancelEdit": "Vill du ta bort ändringarna?",
+            "moreSettings": "Fler inställningar",
+            "passwordProtect": {
+                "label": "Lösenordsskydda mötet"
+            },
+            "password": {
+                "label": "Lösenord",
+                "placeholder": "Ange lösenord",
+                "required": "Lösenord krävs"
+            },
+            "meetingStart": {
+                "label": "Starta möte",
+                "options": {
+            "anyoneJoins": "När någon ansluter"
+                }
+            },
+            "participantSettings": {
+                "label": "Deltagare",
+                "announceArrival": {
+            "label": "Meddela när deltagare anländer eller lämnar",
+            "options": {
+	            "playAudioTone": "Spela upp en enkel ljudsignal",
+	            "promptToRecord": "Uppmana deltagarna att spela in sina namn och meddela när de försöker ansluta till eller lämnar mötet"
+                    }
+                },
+                "muteOnEntry": {
+            "label": "Stäng av ljudet för deltagarna när de anländer"
+                },
+                "showAllNames": {
+            "label": "Visa varje användares namn för alla deltagare"
+                },
+                "whenDialingOut": {
+            "label": "När du ringer ut till deltagarna",
+        "options": {
+	            "mustPressOne": "Tryck på ett för att ansluta till ljuddelen av mötet",
+	            "automaticallyAdded": "Deltagarna läggs automatiskt till i ljuddelen av möte"
+                    }
+                }
+            },
+            "saveFailed": "Det går inte att spara en reservationslös konferens.",
+            "deleteFailed": "Det går inte att ta bort en reservationslös konferens."
+        },
+        "datepicker": {
+            "closeText": "Klar",
+            "prevText": "Förg.",
+            "nextText": "Nästa",
+            "currentText": "Idag",
+            "monthNames": "Januari, Februari, Mars, April, Maj, Juni, Juli, Augusti, September, Oktober, November, December",
+            "monthNamesShort": "Jan, Feb, Mar, Apr, Maj, Jun, Jul, Aug, Sep, Okt, Nov, Dec",
+            "dayNames": "Söndag, Måndag, Tisdag, Onsdag, Torsdag, Fredag, Lördag",
+            "dayNamesShort": "Sön, Mån, Tis, Ons, Tors, Fre, Lör",
+            "dayNamesMin": "Sö, Må, Ti, On, To, Fr, Lö",
+            "weekHeader": "Vk",
+            "dateFormat": "YY-MM-DD",
+            "firstDay": "1"
+        },
+        "dateTimeFormats": {
+            "dateFormat": "YYYY-MM-DD",
+            "timeFormat": "HH:mm",
+            "hourFormat": "HH",
+            "minuteformat": "mm",
+            "clockFormat": "HH:mm",
+            "longDateFormat": "YYYY MMMM ddd",
+            "timeFormatWithAmPm": "HH:mm",
+            "timeFormatWithOutAmPm": "HH:mm",
+            "duration": {
+                "hour": "h",
+                "minute": "m",
+                "full": "__hours__h __minutes__m",
+                "allDay": "__startDate__ - __endDate__"
+            },
+            "shortDateFormat": "ddd, MMMM D"
+        },
+        "enterEmail":"E-postadress",
+        "filter": {
+            "filter": "Filter",
+                "all": "Alla",
+                "recorded": "Endast inspelning"
+        },
+        "tooltip": {
+            "filter": "Filter",
+                "calendar": "Kalender",
+                "newEvent": "Ny händelse"
+        },
+            "allDay": "HELA DAGEN",
+        "freeSlot": {
+            "duration": {
+                "hour": "__hours__h open",
+                "minute": "__minutes__m open",
+                "full": "__hours__h __minutes__m open"
+            },
+                "newEvent": "Ny"
+        },
+            "addEmailError": "Lägg till e-postinformation för denna kontakt"
+    },
+
+    "app":{
+        "appName":"Manhattan",
+        "appMenuName": "Connect",
+        "productName": "Mitel Connect"
+    },
+
+    "conference": {
+        "loading": {
+            "initialize": "Läser in konferens",
+            "failed": "Det gick inte att läsa in konferens",
+            "enterPasswordHere": "Ange lösenord här...",
+            "recording": {
+                "failed" : "Kunde inte att spela upp inspelning.",
+                "close": "Stänga",
+                "reload": "Försök igen"
+            },
+            "close": "Avbryt",
+            "reload": "Läs in igen",
+            "enterPassword": "Ange lösenord för möte",
+            "confNotStarted": "Konferensen börjar när organisatören anländer."
+        },
+        "dialogs": {
+            "leave": {
+            "header": "Lämna konferensen",
+            "participant": "Vill du lämna konferensen?",
+            "participantHangup": "Vill du lämna konferensen och avsluta konferenssamtalet?",
+            "organizer": "Vill du lämna konferensen eller avsluta konferensen för alla deltagare?",
+            "organizerHangup": "Vill du lämna konferensen och avsluta konferenssamtalet för alla deltagare?"
+            },
+            "hasEnded": "Konferensen har avslutats. Adjö!",
+            "kickedOut": "Organisatören har tagit bort dig från mötet.",
+            "reconnecting": "Ansluter...",
+            "buttons": {
+                "endConference" : "Lämna och avsluta",
+                "leaveConference": "Lämna",
+                "cancel": "Avbryt"
+            }
+        },
+        "confirm": {
+            "kickOut": "Vill du ta bort __name__?"
+        },
+        "notify": {
+            "notificationHeader": "Meddelande",
+            "webOnlyRedcordingHeading": "Endast webbinspelning",
+            "removeAttendee": "Ta bort deltagare",
+            "webOnlyRecording": "Det här är endast en webbkonferens. Ingen UCB-ljudport är för närvarande kopplad till denna konferens"
+        },
+        "errors": {
+            "noCapacity":"Konferenslicens för system har överskridits. Försök igen senare.",
+            "noAudioCapacity": "Konferenslicens för systemljud har överskridits. Försök igen senare."
+        },
+        "roster": {
+            "noParticipants": "Inga deltagare",
+            "noParticipantsEvent": "Det finns inga andra deltagare i den här händelsen.",
+            "showList": "Visa lista",
+            "hideList": "Dölj lista"
+        },
+        "menu": {
+            "mute": "Stäng av ljud för __name__",
+            "unmute": "Aktivera ljud för __name__",
+            "kickout": "Ta bort __name__"
+        }
+    },
+
+    "conferenceTransfer": {
+        "pressEnterConf": "Tryck på Enter för konferens",
+            "typeNameOrExt": "Skriv in namn eller anknytning",
+        "typeNameOrExtAndEnter": "Ange namn eller anknytning. Tryck sedan på Enter.",
+        "typeNameOrIM": "Ange namn eller adress för snabbmeddelande. Tryck sedan på Enter.",
+        "selectTransferMode": "Välj överföringsläge",
+        "selectConferenceMode": "Välj konferensläge",
+        "park": "Parkera",
+        "consult": "Konsultera",
+        "intercom": "Snabbtelefon",
+        "whisper": "Viskning",
+        "transfer": "Överför",
+        "conference": "Konferens",
+        "merge": "Slå samman",
+        "addToConversation": "Lägg till kontakt i konversation",
+        "createNewConversation": "Skapa ny konversation",
+        "addContactToConference": "Lägg till kontakt i konferens",
+        "addToConferenceBlind": "Konferens",
+        "addToConferenceConsult": "Konsultera",
+        "addToConferenceIntercom": "Snabbtelefon",
+            "selectRecentTransfer": "Välj någon av dina senaste kontakter",
+            "selectFromConversation": "Välj någon av dina senaste kontakter",
+        "switchLimit": "Gräns på 8 för tillfällig konferens har uppnåtts",
+        "joinConferenceOne": "Ta in __joiner__ i ditt samtal med __member__",
+        "joinConferenceMany": "Låt __joiner__ delta i ditt gruppsamtal",
+        "dropFromConference": "Släpp från konferenssamtal",
+        "voicemail": "Röstbrevlåda",
+            "addParticipants": "Lägg till deltagare",
+            "addParticipant": "Lägg till deltagare",
+            "searchContactText": "Sök efter kontakter för att starta en konversation:",
+            "startConversation": "Start"
+    },
+
+    "supportNDebug": {
+        "error": {
+            "failOpenDialogConnectionError": "Server-\/anslutningsfel. Felkod: __code__. Stäng dialogrutan och försök igen."
+        },
+        "tabTitles": {
+            "logLevel": "Loggnivå",
+            "serverStatus": "Serverstatus",
+            "casSubscriptionStatus": "Status för CAS-prenumeration",
+            "personalContactData": "Data för personlig kontakt",
+            "softphoneStatus": "SoftPhone-status",
+            "logs": "Loggar",
+            "AudioDevice": "Ljudenhet"
+        },
+        "AudioDeviceInfo": {
+            "deviceMaker": "Enhetstillverkare",
+            "uid": "UID",
+            "internalName": "Internt namn",
+            "manufacturerName": "Tillverkarens namn",
+            "productID": "Produkt-ID",
+            "productName": "Produktnamn",
+            "serialNumber": "Serienummer",
+            "vendorID": "Leverantörs-ID",
+            "versionNumber": "Versionsnummer",
+            "usbFwVersion": "USB FW-version",
+            "baseFwVersion": "Base FW-version",
+            "bluetoothFwVersion": "Bluetooth FW-version",
+            "remoteFwVersion": "Remote FW-version",
+            "baseSerialNumber": "Base, serienummer",
+            "headsetSerialNumber": "Headset, serienummer"
+        },
+        "logLevel":{
+            "loggingOptions" : "Inloggningsalternativ",
+            "logs":"Loggar",
+            "errors":"Fel",
+            "warnings":"Varningar",
+            "warningsNote":"(Endast för utvecklare)",
+            "informations": "Information",
+            "debug": "Felsök",
+            "logNumberOfFiles": "Antal loggfiler",
+            "logSizePerFile": "Storleksbegränsning för varje loggfil (MB)"
+        },
+        "serverStatus":{
+            "connectionsStatus" : "Anslutningsstatus",
+            "connectionProtocol":"Anslutningsprotokoll",
+            "casSessionId":"ID för CAS-session",
+            "loginServer":"Inloggningsserver",
+            "homeCasServer": "Hem\/CAS-server",
+            "imServer": "Snabbmeddelandeserver",
+            "confBridge": "Konferensbrygga",
+            "clientIP":"Klient-IP",
+            "userDn":"Användar-DN",
+            "userName": "Användarnamn",
+            "clientVersion": "Klientversion",
+            "serverVersion": "Serverversion",
+            "loginType":"Inloggningstyp",
+            "clientState": "Klientstatus",
+            "eventLoopStatus":"Status för händelseloop",
+            "eventSinkCount": "Antal för händelse-sink",
+            "highLevelFeatures": "Högnivåfunktioner",
+            "deviceInfo": "EnhetsInfo",
+            "ccoid":"CCOID",
+            "canPlaceCall": "Kan placera samtal",
+            "videoSiteId": "ID för videoplats",
+            "phoneType": "Telefontyp",
+            "deviceActions": "Enhetsåtgärder",
+            "assignment": "Tilldelning",
+            "extension": "Anknytning",
+            "pingResult":"Ping-resultat",
+            "totalTimeForPing": "Total time för ping (ms)",
+            "refreshPing": "Uppdatera ping",
+            "connected": "Ansluten",
+            "notConnected": "Inte ansluten",
+            "online": "Online",
+            "offline": ":Offline",
+            "sso": "SSO",
+            "nonSso": "Icke-SSO"
+
+        },
+        "casContactData": {
+            "casContactStatistics" : "Statistik för CAS-kontakt",
+            "uploadEnabled": "Uppladdning aktiverad",
+            "uploadLimit": "Uppladdningsgräns",
+            "uploadSources": "Uppladdningskälla (och antal kontakter)",
+            "lastCMWinUploadStatus": "Senaste anslutningsuppladdning för XML\/CSV-filer",
+            "refresh": "Uppdatera",
+            "outlookAddInStatus": "Status för Outlook-tillägg",
+            "contactSynchronizer": "Kontaktsynkronisering",
+            "voicemailSynchronizer": "Röstmeddelandesynkronisering",
+            "scheduleSynchronizer": "Synkronisering av schemaläggning\/tillgänglighet",
+            "enabled": "Aktiverat",
+            "disabled": "Inaktiverad",
+            "and": "och"
+        },
+        "softphoneStatus": {
+            "softphoneNotConfiguredOrEnabled" : "Du är inte konfigurerad\/aktiverad för att använda SoftPhone-funktionen eller din primära tilldelning gäller för den primära telefonen och inte för SoftPhone.",
+            "wssLocation": "WSS-plats",
+            "endPointID": "Slutpunkts-ID",
+            "controllingSwitch": "Kontrollomkopplare",
+            "audioInputDevice": "Enhet för ljudindata",
+            "videoInputDevice": "Enhet för videoindata",
+            "default": "Standard",
+            "microphone": "Mikrofon"
+        },
+        "logs": {
+            "openLogFolder" : "Öppna loggmapp"
+        },
+        "subscriptions": {
+            "subscriptions": "Prenumerationsantal: __length__"
+        }
+    },
+
+    "common": {
+        "notifications": {
+            "screenShareRequest": " vill dela sina skärmar",
+            "im": "Snabbmeddelande",
+            "imTextPlaceholder": "Custom your response and press enter to send",
+            "imMultiple": "Snabbmeddelande från __length__ kontakter",
+            "newVoiceMail": "Nytt röstmeddelande",
+            "newVoiceMails": "Nya röstmeddelanden",
+            "incomingCall": "Inkommande samtal …",
+            "incomingURL": "Inkommande skärmdelning",
+            "PCA": "Följande användare är nu tillgänglig på  ",
+            "joinChatOnly":"Gå endast med i chattläge",
+            "joinScreenShare":"Visa skärmdelning",
+            "joinEventInChatMode":"Gå med i händelse i chattläge",
+            "dialIn":"Ring upp",
+            "toVM":"Till röstmeddelande",
+            "transfer":"Överför",
+            "workgroup": "Arbetsgrupp",
+            "send": "Skicka",
+            "callAddedToQueue": "Samtal har lagts till i kö",
+            "answer": "Svara",
+            "cannedResponse": "Fördefinierade svar",
+            "accept": "Godkänn",
+            "reject": "Avvisa",
+            "play": "Spela upp",
+            "openMessage": "Öppna meddelande",
+            "view": "Visa",
+            "close": "Stänga",
+            "ignore":"Ignorera",
+            "hide":"Dölj",
+            "IMOnline": "Snabbmeddelande är tillgängligt",
+            "IMOffline": "Snabbmeddelande är offline",
+            "joinVideoConference":"Gå med i videokonferens",
+            "newMessage" : "Nytt meddelande",
+            "newMessages" : "Nya meddelanden",
+            "respondWith": "Svara med:",
+            "timeFormats": {
+                "timeStamp": "HH:mm"
+            },
+            "CallerIdUnknown": "Vet ej",
+            "PCAAvailable": "Became available",
+            "PCANow": "Now",
+            "PCAAgo": "m ago"
+        },
+        "imOptions": {
+            "LaterCall" : "Ring mig senare",
+            "InMeeting": "I möte, men kan chatta med snabbmeddelande"
+            },
+        "true": "Sant",
+        "false": "Falskt",
+        "invalidValueWithColon": "Ogiltigt värde:",
+        "functionalityNotYetImplemented": "Funktionen är för deltagare inte implementerad",
+        "contactinfo": {
+            "consulting": "Konsulterar...",
+            "imoffline": "Offline",
+            "imonline": "Online"
+        },
+        "error": {
+            "unknownError" : "Okänt fel",
+            "shareUrlSentError": "Webbadress för skärmdelning"
+        },
+        "noSelection": "– Inget värde –",
+        "conferenceInfo": {
+            "additionalInfo": "Ytterligare samtalsinfo:",
+            "dialInInfo": "Uppringningsinfo:",
+            "extension" : "Anknytning:",
+            "participantCode": "Deltagarkod:",
+            "link": "Länk:",
+            "copy": "Kopiera",
+            "copiedSuccess": "Kopierat till urklipp",
+            "upcomingMeeting": "Kommande möten",
+            "lockMsg": "Konferens är låst",
+            "meetingInfo": "Mötesinfo"
+        }
+    },
+
+    "predefinedIMMessages": {
+        "invitedToGroupChat" : "Du är inbjuden till en gruppchatt.",
+        "messageSendError":"Ditt chattmeddelande gick inte igenom",
+        "offlineMessage": "– Offlinemeddelande. Skickat på"
+    },
+
+    "connectionSecurity": {
+        "secureHttpsConnection": "Din anslutning är säker, och Mitel-klienten skickar krypterade data.",
+        "insecureHttpsConnection": "Din Mitel-klient skickar krypterade data, men anslutningen är inte säker.",
+        "insecureHttpConnection": "Din anslutning är inte säker, och Mitel-klienten skickar okrypterade data.",
+        "insecureConnection" : "Din anslutning till servern är inte säker.",
+        "secureConnection" : "Din anslutning till servern är säker.",
+        "listInsecureServersPrompt" : "Dina anslutningar till följande servrar är osäkra:",
+        "secureServersPrompt" : "Din klient har säkra anslutningar till sina servrar.",
+        "serverListFormat": "__server__-server"
+    },
+
+    "certificateErrors": {
+        "continue" : "Fortsätt ändå",
+        "cancel": "Avbryt",
+        "serverTypes": {
+            "ABC": "autentisering",
+            "CAS": "klient",
+            "UCB": "konferenser",
+            "WSS": "SoftPhone",
+            "EXCHANGE": "Exchange",
+            "WSSUIM": "snabbmeddelandeserver",
+            "unknown": "okänd"
+        },
+        "certErrorText": {
+            "invalidCert" : "Din __server__-server har ett ogiltigt säkerhetscertifikat.",
+            "expired":  "Säkerhetscertifikatet har upphört."
+        },
+        "certErrorWarnings": {
+            "proceed" : "Om du fortsätter kan du skicka känslig information okrypterad.",
+            "cancelUCB": "Om du avbryter så kanske du inte kan ansluta till vissa av dina konferenser eller skapa nya.",
+            "cancelWSS": "Om du avbryter kanske du inte kan använda din softphone."
+        },
+        "unknownURL": "Okänd webbadress för säkerhetscertifikat."
+    },
+
+    "notifyErrors":{
+        "audioDevice": {
+            "cannotIntegrate": "Det går inte att integrera med ljudenheten."
+        },
+        "UCB": {
+            "noCapacity": "Det går inte att gå med i bryggan p.g.a. överskriden kapacitet.",
+            "notAbleToReachYouAt": "Det går inte att nå dig på __callMeNumber__",
+            "unableToLocateAndDial": "Det går inte att hitta och ringa upp __fullName__ i din händelse",
+            "locked": "Den här konferensen har låsts. Kontakta konferensorganisatören.",
+            "genericError": "Ett fel upptäcktes: __error__",
+            "noAudioCapacity":"Konferenslicensgränsvärde för systemljud har överskridits",
+            "genericAdhocError":"Det gick inte att dela skärm. Försök igen.",
+            "downloadRecError":"Det gick inte att ladda ned inspelning. Försök igen.",
+            "deleteRecError": "Det gick inte att ta bort inspelning. Försök igen."
+        },
+        "conference": {
+            "adhocConferenceLimit":"Gräns för tillfällig konferens har uppnåtts"
+        },
+        "warnings": {
+            "noPhoneSelected": "Varning: Ingen telefon har valts. Välj tilldelning för primär telefon innan du ringer upp mötet."
+        },
+        "IM":{
+            "NotAvailable":"Det går inte att ansluta till server för snabbmeddelande."
+        },
+        "exchange": {
+            "credentialsChanged": "Exchange-anslutningen är aktiv och inloggningsuppgifterna har ändrats. Omstart av Connect-klient krävs.",
+            "generalError": "Det går inte att få kontakt med Exchange-servern __exchgHost__."
+        },
+        "network": {
+            "noConnection": "Ingen internetanslutning. Kontrollera internetinställningarna och prova igen.",
+            "gotConnection": "Internetanslutningen har återställts. Försöker nå server.",
+            "noConnectionModal":"Återansluter...",
+			"noInternetConnection": "Ingen internetuppkoppling"
+        },
+        "VM": {
+            "selfvmdown" : "Din röstbrevlåda är inte tillgänglig",
+            "wgvmdown": "Din arbetsgrupps röstbrevlåda är inte tillgänglig",
+
+            "C110071D": "För många röstbrevlådeanslutningar",
+            "C110071E": "Server för röstbrevlådan är nere",
+            "C110071F": "Anslutning till röstbrevlådeserver är nere",
+            "C1100720": "Ogiltig brevlåda",
+            "C1100721": "Det gick inte att öppna brevlåda",
+            "C1100722": "Det gick inte att ringa till telefon",
+            "C1100723": "Den uppringda telefonen togs bort",
+            "C1100724": "Inget svar från uppringd telefon. Tiden har gått ut",
+            "C1100725": "Uppringd telefon är upptagen",
+            "C1100726": "Ogiltig meddelandereferens",
+            "C1100727": "Brevlådan är inte förvärvad",
+            "C1100728": "Brevlådan är upptagen",
+            "C1100729": "Meddelandeinitiering misslyckades",
+            "C110072C": "Det går inte att hitta filplats",
+            "C110072D": "Fel uppstod då röstmeddelande skulle spelas upp",
+            "C110072E": "Hämtning av fil för hälsningsfras misslyckades",
+            "C1100731": "Brevlådan används",
+            "C1100732": "Inloggning misslyckades",
+            "C1100733": "Meddelandeflytt till annan mapp misslyckades",
+            "C1100734": "Rensning av meddelanden misslyckades",
+            "C1100735": "Rensning av brevlåda misslyckades",
+            "C1100737": "Det gick inte att skicka meddelande",
+            "C1100738": "Det gick inte att skicka, ogiltiga adresser för mottagare: __param__",
+            "C1100740": "Brevlådan är inte initierad",
+            "C1100741": "Meddelande kunde inte hittas",
+            "C1100757": "Ogiltig brevlåda",
+            "C1100758": "Anslutning till VM-server har inte etablerats",
+            "C1100759": "Server har ändrats för användare",
+            "C1100990": "Det går inte att vidarebefordra privat meddelande",
+            "C1100991": "En ny adress är ogiltig för privat meddelande",
+            "C1100992": "Det går inte att skicka privat meddelande",
+            "C1100993": "Ett privat meddelande kan inte laddas ned",
+            "C1200DC3" : "Din anknytning är inte tillgänglig.",
+
+            "F0000001": "Den begärda brevlådan är för närvarande offline",
+            "F0000002": "Meddelandet vidarebefordrades inte eftersom det är markerat som privat",
+            "F0000003": "ID-för originalmeddelandet saknas för en vidarebefordran eller ett svar",
+            "F0000004": "Uppspelning misslyckades, meddelande-ID saknas",
+            "F0000005": "Extern tilldelning ej tillåten",
+            "F0000006": "Det gick inte att skicka, meddelandelådan är full för mottagaren\/mottagarna: __param__",
+            "F0000007": "Uppgift misslyckades, ingen användarinformation i server för CAS-röstbrevlåda",
+            "F0000008": "Uppgift misslyckades, ingen anslutning\/konfiguration till\/för röstbrevlådeserver",
+            "F0000009": "Uppgift misslyckades, ingen brevlådeinformation i server för CAS-röstbrevlåda",
+            "F000000A": "Filen saknas",
+            "F000000B": "Problem i fil som laddas upp",
+            "F000000C": "Parameter saknas för begäran",
+            "F000000D": "Ogiltigt sessions-ID",
+            "F000000E": "Problem uppstod när fil för nedladdning skulle kopieras",
+            "F000000F": "Det går inte att skapa sessions-ID på fjärrserver",
+            "F0000010": "Det gick inte att skicka, ogiltiga brevlådor för mottagare: __param__",
+            "F0000020": "Information för att spara fil saknas",
+            "F0000030": "Fel uppstod då fil skulle sparas",
+            "F0000040": "Brevlådan är otillgänglig",
+            "F0000050": "Telefonen är otillgänglig",
+            "F0000060": "Ogiltig åtgärd",
+            "F0000070": "Server för nedladdning är otillgänglig ",
+            "F0000080": "Giltig anknytning",
+            "F0000090": "Ogiltig ansluten part",
+            "GENERIC" : "Åtgärden kan inte slutföras, okänt serverfel",
+            "cantSendMsg": "Det går inte att skicka meddelande till server, statuskod: __status__",
+            "cannotPlayPrivateVMViaComputer": "Privat meddelande kan inte spelas upp över datorns högtalare. Använd telefonen.",
+            "cannotDownloadVMAsWav": "Det går inte att ladda ned röstmeddelande som en .wav-fil. Fel: __error__",
+            "cantSendVMToExtContacts": "Ett röstmeddelande kan inte skickas till en extern kontakt. Dessa externa kontakter togs bort från distributionslistan: __contacts__",
+            "noWebAudioSupportInMachine": "Inget stöd för webbljud på den här enheten. Gör om åtgärden",
+            "noLiveAudioInput": "Ingen ljudenhet har upptäckts. Kontrollera ljudinställningarna och prova igen.",
+            "cantTranscodeRecordedFileTryAgain": "Det går inte att spara inspelad fil. Försök igen.",
+            "cantSaveRecordedFile": "Det går inte att spara inspelad fil: __error__",
+            "cantSaveRecordedFileTryAgain": "Det går inte att spara inspelad fil. Prova igen eller spela in med telefon.",
+            "errorReadingRecordedFile": "Fel uppstod då inspelad fil skulle läsas av. Gör om åtgärden",
+            "errorUploadingFile": "Fel uppstod då fil skulle laddas upp: __error__",
+            "mailboxIsFull": "Brevlådan __mboxId__ är full",
+            "mailboxIsAlmostFull": "Brevlådan __mboxId__ är nästan full",
+            "mailboxIsZeroSize": "Brevlådan __mboxId__ är tom"
+        },
+        "cas": {
+            "down": "Vänta, återställer anslutning till server."
+        },
+        "presence": {
+            "NotAvailable": "Din aktuella status är Tillgänglig!",
+            "f0000001": "Meddelandet är okänt för CAS",
+            "f0000002": "I CAS saknas vändata för användaren",
+            "f0000003": "Ingen vän är registrerad i CAS med angivet vän-ID för den angivna användaren",
+            "f0000004": "Användaren har redan en vängrupp med detta namn",
+            "f0000005": "Ingen vän är registrerad i CAS med angivet vängrupps-ID för den angivna användaren",
+            "f0000006": "Ingen katalogspost finns för angivet ID",
+            "f0000007": "Länkad-ID-parametern saknades för begäran",
+            "f0000008": "Namnet på vännen är inte unikt",
+            "f0000009": "Tilläggs-ID-parametern saknades för begäran",
+            "f000000a": "Ta-bort-från-ID-parametern saknades för begäran",
+            "f000000b": "Adressparametern saknades för begäran",
+            "f000000c": "Cookien är okänd för CAS",
+            "f000000d": "Varningstoken är okänd för CAS",
+            "f000000e": "Vännen har inte delegerat behörighet för att ställa in CHM",
+            "f000000f": "”ext-context”-parametern i begäran är inte en giltig användare",
+            "f0000010": "Begäran stöds inte på den här åtkomstnivån",
+            "f0000011": "Vänner lästes inte in före denna begäran",
+            "f0000018": "Den speciella vängruppen",
+            "f0000019": "Ogiltig närvarotyp har angivits"
+        },
+        "chmSettings":{
+            "FwdAlways": "Vidarekopplingsläge är konfigurerat som ”Alltid”"
+        },
+        "endpointSelector": {
+            "ActiveCalls": "Det går inte att växla slutpunkter i aktiva samtal",
+            "ActiveCallsLogout": "Du kan inte logga ut under ett aktivt samtal med SoftPhone"
+        },
+        "softphone": {
+            "NoConfigSwitches": "Ingen konfigurationsomkopplare",
+            "WSSConnectionFailure": "Det går inte att ansluta till WSS",
+            "RSIPFailure": "Det går inte att tilldela en SoftPhone",
+            "Timeout": "Tiden för SoftPhone-registrering är ute",
+            "NoMedia": "Det går inte att komma över medieindata",
+            "eTelAlreadyHome":"Du är redan tilldelad till din primära telefon",
+            "eTelSoftPhoneNotAllowed":"Du saknar SoftPhone-behörigheter. Kontakta administratören för att få åtkomst till den här funktionen.",
+            "eTelOperationTimedout":"Tiden för åtgärden har gått ut",
+            "c1200dc3" : "Din anknytning är inte tillgänglig."
+        },
+        "tel": {
+            "tapi_80000001":"Linjeenheten används redan",
+            "tapi_80000002":"Ogiltigt ID för linjeenhet",
+            "tapi_80000003":"Det begärda bearer-läget är otillgängligt",
+            "tapi_80000005":"Ingen samtalsnärvaro är tillgänglig",
+            "tapi_80000006":"Alltför många resterande samtalsavslut",
+            "tapi_80000007":"Konferensen är full",
+            "tapi_80000008":"Uppringningsväxeln ”$” stöds inte",
+            "tapi_80000009":"Uppringningsväxeln ”W” stöds inte",
+            "tapi_8000000a":"The '?' dial modifier is not supported",
+            "tapi_8000000b":"Uppringningsväxeln ”@” stöds inte",
+            "tapi_8000000c":"Inkompatibel API-version",
+            "tapi_8000000d":"Inkompatibel anknytningsversion",
+            "tapi_8000000e":"TAPI-konfigurationsinformationen går inte att använda",
+            "tapi_8000000f":"Linjeenheten används redan",
+            "tapi_80000010":"Ogiltigt telefonnummer eller det är felaktigt formaterat",
+            "tapi_80000011":"Ogiltigt adress-ID",
+            "tapi_80000012":"Ogiltigt adressläge",
+            "tapi_80000013":"Åtgärden är inte tillåten i det aktuella adresstillståndet",
+            "tapi_80000014":"Ogiltig referens för TAPI-linjeprogram",
+            "tapi_80000015":"Ogiltigt programnamn",
+            "tapi_80000016":"Ogiltigt bearer-läge",
+            "tapi_80000017":"Ogiltigt samtalsavslutsläge",
+            "tapi_80000018":"Åtgärden är inte tillgänglig för detta samtal",
+            "tapi_80000019":"Ogiltig LINECALLPARAMS-struktur",
+            "tapi_8000001a":"Ogiltig samtalsbehörighet",
+            "tapi_8000001b":"Ogiltig samtalsvalsparameter",
+            "tapi_8000001c":"Åtgärden är inte tillåten i det aktuella samtalstillståndet",
+            "tapi_8000001d":"Ogiltig samtalstillståndslista",
+            "tapi_8000001e":"Ogiltigt telefonkorts-ID",
+            "tapi_8000001f":"Ogiltigt samtalsavsluts-ID",
+            "tapi_80000020":"Ogiltig konferenssamtalsreferens",
+            "tapi_80000021":"Ogiltig konsultationssamtalsreferens",
+            "tapi_80000022":"Ogiltig landskod",
+            "tapi_80000023":"Ogiltig enhetsklassidenitifierare",
+            "tapi_80000024":"Ogiltig enhetsreferens",
+            "tapi_80000025":"Ogiltiga uppringningsparametrar",
+            "tapi_80000026":"Ogiltig sifferlista",
+            "tapi_80000027":"Ogiltigt sifferläge",
+            "tapi_80000028":"Ogiltiga siffror",
+            "tapi_80000029":"Ogiltig anknytningsversion",
+            "tapi_8000002a":"Ogiltig grupplocknings-ID",
+            "tapi_8000002b":"Ogiltig linjereferens",
+            "tapi_8000002c":"Åtgärden är inte tillåten i det aktuella linjetillståndet",
+            "tapi_8000002d":"Ogiltigt plats-ID",
+            "tapi_8000002e":"Ogiltig medielista",
+            "tapi_8000002f":"Ogiltigt medieläge",
+            "tapi_80000030":"Ogiltigt meddelande-ID",
+            "tapi_80000032":"Ogiltig parameter",
+            "tapi_80000033":"Ogiltigt parkerings-ID",
+            "tapi_80000034":"Ogiltigt parkeringsläge",
+            "tapi_80000035":"Ogiltig pekare",
+            "tapi_80000036":"Ogiltigt val för samtalsbehörighet",
+            "tapi_80000037":"Ogiltig hastighet ",
+            "tapi_80000038":"Ogiltigt begärt läge",
+            "tapi_80000039":"Ogiltigt terminal-ID",
+            "tapi_8000003a":"Ogiltigt terminalläge",
+            "tapi_8000003b":"Ogiltigt tidsgränsvärde",
+            "tapi_8000003c":"Ogiltig signal",
+            "tapi_8000003d":"Ogiltig signallista",
+            "tapi_8000003e":"Ogiltigt signalläge",
+            "tapi_8000003f":"Ogiltigt överföringsläge",
+            "tapi_80000040":"Ingen enhet matchar de angivna kraven",
+            "tapi_80000041":"Detta samtal ingår inte i en konferens",
+            "tapi_80000042":"Enheten togs bort eller så var enhetsklassen inte känd",
+            "tapi_80000043":"Tjänsteleverantören togs bort",
+            "tapi_80000044":"Det finns inte tillräckligt mycket ledigt minne för att slutföra åtgärden",
+            "tapi_80000045":"Det finns ingen väntande begäran om uppringning med telefonist",
+            "tapi_80000046":"Programmet har inte ägarebehörighet för samtalet",
+            "tapi_80000047":"Programmet är inte registrerat för att hantera begäran",
+            "tapi_80000048":"Åtgärden misslyckades av icke angivna skäl",
+            "tapi_80000049":"Åtgärden stöds inte av underliggande tjänsteleverantör",
+            "tapi_8000004a":"Den begärda datahastigheten är inte tillgänglig",
+            "tapi_8000004b":"En av resurserna som behövs för att slutföra begäran är inte tillgänglig ",
+            "tapi_8000004c":"Kön med begäranden är full",
+            "tapi_8000004d":"Det gick inte att tilldela tillräckligt mycket minne för den minsta möjliga strukturstorleken",
+            "tapi_8000004e":"Det gick inte att vidarebefordra samtalet eftersom det inte gick att hitta det angivna målet",
+            "tapi_8000004f":"Det finns inget mål med högre prioritet för vidarebefordran av samtalet",
+            "tapi_80000050":"Telefonitjänsten har inte initierats",
+            "tapi_80000051":"Mängden användare-användarinformation överstiger den maximalt tillåtna",
+            "tapi_80000052":"Det går inte att slutföra åtgärden förrän alla TAPI-program anropar lineShutdown",
+            "tapi_80000053":"Du har inte rätt att ringa detta nummer",
+            "tapi_80000054":"Telefonkortsnumret eller annan faktureringsinformation avisades",
+            "tapi_80000055":"Ogiltig enhetsspecifik funktion",
+            "tapi_80000056":"Det går inte att ha två instanser av samma tjänsteleverantör",
+            "tapi_80000057":"Ogiltigt agent-ID",
+            "tapi_80000058":"Ogiltig agentgrupp",
+            "tapi_80000059":"Ogiltigt agentlösenord",
+            "tapi_8000005a":"Ogiltig agentstatus",
+            "tapi_8000005b":"Ogiltig agentaktivitet",
+            "tapi_8000005c":"Uppringningsväxeln ”:” stöds inte",
+            "tapi_8000005d":"Användaren avbröt den begärda åtgärden",
+            "tapi_8000005e":"Ogiltig adresstyp",
+            "tapi_8000005f":"Ogiltig status för agentsession",
+            "tapi_80000060":"Linjeenheten har kopplats från ",
+            "tapi_90000001":"Telefonenheten används redan",
+            "tapi_90000002":"Ogiltigt telefonenhets-ID",
+            "tapi_90000003":"Inkompatibel API-version",
+            "tapi_90000004":"Inkompatibel anknytningsversion",
+            "tapi_90000005":"TAPI-konfigurationsinformationen går inte att använda",
+            "tapi_90000006":"Telefonenheten används redan",
+            "tapi_90000007":"Ogiltig referens för TAPI-program",
+            "tapi_90000008":"Ogiltigt programnamn",
+            "tapi_90000009":"Ogiltig knapp- eller lamp-ID",
+            "tapi_9000000a":"Ogiltigt knappläge",
+            "tapi_9000000b":"Ogiltigt knapptillstånd",
+            "tapi_9000000c":"Ogiltigt datasegments-ID",
+            "tapi_9000000d":"Ogiltig enhetsklassidenitifierare",
+            "tapi_9000000e":"Ogiltig vcancelMeetingNotificationersion-anknytning",
+            "tapi_9000000f":"Ogiltigt hookswitch-enhets-ID ",
+            "tapi_90000010":"Ogiltigt hookswitch-läge",
+            "tapi_90000011":"Ogiltigt lampläge",
+            "tapi_90000012":"Ogiltig parameter",
+            "tapi_90000013":"Ogiltig telefonreferens",
+            "tapi_90000014":"Åtgärden är inte tillåten i det aktuella telefonläget",
+            "tapi_90000015":"Ogiltig pekare",
+            "tapi_90000016":"Ogiltig behörighet",
+            "tapi_90000017":"Ogiltigt ringläge",
+            "tapi_90000018":"Enheten togs bort eller så var enhetsklassen inte känd",
+            "tapi_90000019":"Tjänsteleverantören togs bort",
+            "tapi_9000001a":"Det finns inte tillräckligt mycket ledigt minne för att slutföra åtgärden",
+            "tapi_9000001b":"Programmet har inte ägarebehörighet för telefonen",
+            "tapi_9000001c":"Åtgärden misslyckades av icke angivna skäl",
+            "tapi_9000001d":"Åtgärden stöds inte av underliggande tjänsteleverantör",
+            "tapi_9000001f":"En av resurserna som behövs för att slutföra begäran är inte tillgänglig ",
+            "tapi_90000020":"Kön med begäranden är full",
+            "tapi_90000021":"Det gick inte att tilldela tillräckligt mycket minne för den minsta möjliga strukturstorleken",
+            "tapi_90000022":"Telefonitjänsten har inte initierats",
+            "tapi_90000023":"Det går inte att slutföra åtgärden förrän alla TAPI-program anropar phoneShutdown ",
+            "tapi_90000024":"Telefonenheten har kopplats från",
+            "tapi_c0000001":"Ogiltigt telefonläge",
+            "tapi_c0000002":"Åtgärden är inte tillgänglig för närvarande",
+            "tapi_c0000003":"Ogiltigt väntande samtalstillstånd",
+            "tapi_c0000004":"Ogiltig tuppelmatris",
+            "tapi_c0000005":"Ogiltig tuppel",
+            "tapi_c0000006":"Konferenssystemsanknytningar är inte tillåtna",
+            "tapi_c0000007":"Åtgärden kan inte slutföras eftersom tidsgränsen har uppnåtts",
+            "tapi_c0000009":"En ny deltagare kan inte läggas till p.g.a. konferenssystemets kapacitet.",
+            "tapi_d0000001":"Ogiltigt telefonläge",
+            "tapi_d0000002":"Åtgärden är inte tillgänglig för närvarande",
+            "tapi_d0000003":"Enheten är för närvarande offline",
+            "tapi_d0000004":"Den begärda åtgärden kan inte utföras i SMC eftersom den körs i bakgrunden",
+            "tapi_d0000005":"CED är inte registrerat",
+            "tapi_d0000006":"VOIP används inte i enheten för närvarande",
+            "tapi_c12b1194": "Ett minnesslutfel inträffade för omkopplaren",
+            "tapi_c12b1195": "Ett undantag upptäcktes i systemet",
+            "tapi_c12b1196": "Det går inte att skapa en ny tråd",
+            "tapi_c12b1197": "Okänt CCOID",
+            "tapi_c12b1198": "Okänt DN",
+            "tapi_c12b1199": "Okänt port-ID",
+            "tapi_c12b119a": "Funktionen är inte implementerad",
+            "tapi_c12b119b": "Ett internt fel upptäcktes i systemet",
+            "tapi_c12b119c": "Slut på referenser i systemet",
+            "tapi_c12b119d": "Okänd enhet",
+            "tapi_c12b119e": "Enhets-ID ligger inte inom intervallet",
+            "tapi_c12b119f": "Format som inte stöds",
+            "tapi_c12b11a0": "Enheten är inte klar",
+            "tapi_c12b11a1": "Slut på instans-ID:n i systemet",
+            "tapi_c12b11a2": "Enheten eller samtalsreferensen är för gammal",
+            "tapi_c12b11a3": "Databasen är inte klar",
+            "tapi_c12b11a4": "Enhetsfunktionerna har inte stöd för den begärda åtgärden",
+            "tapi_f0000001": "Generellt telefonifel",
+            "tapi_f0000002": "Det finns ingen enhet tilldelad till användarens anknytning",
+            "tapi_f0000003": "Det finns inget samtal med detta samtals-ID på användarens anknytning",
+            "tapi_f0000004": "Det går inte att ange en närvarovarning för samtalet",
+            "tapi_f0000005": "Meddelandet är okänt för CAS",
+            "tapi_f0000006": "Användaren är redan tilldelad till anknytningen hemma",
+            "tapi_f0000007": "Användaren finns redan på hemmaporten ",
+            "tapi_f0000008": "AnyPhone är inte tillåten för den här användaren",
+            "tapi_f0000009": "Inga aktuella nummer för Extern tilldelning är definierade",
+            "tapi_f000000a": "Inga samtalsnoteringar är tillåtna",
+            "tapi_f000000b": "Användaren saknar behörighet att använda SoftPhone",
+            "tapi_f000000c": "Tiden är ute för att skapa Softphone-port",
+            "tapi_f000000d": "Ogiltig SoftPhone-typ",
+            "tapi_f000000e": "Tiden för åtgärden har gått ut",
+            "tapi_f000000f": "Porten kan inte tilldels till",
+            "tapi_f0000010": "Konferensen avbröts",
+            "tapi_f0000011": "Överföringen avbröts",
+            "tapi_f0000012": "Kontokoden är ogiltig",
+            "tapi_f0000013": "Åtkomstnivån är inte tillräcklig för denna begäran",
+            "tapi_f0000014": "Ogiltig anknytning",
+            "tapi_f0000015": "Åtkomstnivån är inte tillräcklig för denna begäran",
+            "tapi_f0000016": "Användaren är inte behörig att ändra åtkomstkod för trunken",
+            "tapi_f0000017": "Åtkomstkod för trunken är ogiltig"
+        },
+        "upgrade": {
+            "upgradeError" : "Uppgraderad(e) fil(er) kan inte läsas in eller installeras. Kontakta systemadministratören."
+        },
+        "recording": {
+        "recordingFailed": "Inspelningen startade inte eftersom lagret i konferensbryggan är fullt."
+        },
+        "contactCard" : {
+            "callPickupUnparkUnsuccessful" : "Plockning/återtagning misslyckades.",
+            "cannotPickupOwnCall": "Det går inte att plocka egna samtal."
+        },
+        "reservationLessConference": {
+            "loadFailed": "Det går inte att läsa in en reservationslös konferens."
+        }
+    },
+    "attendees": "Deltagare",
+    "guest": "Gäst",
+    "organizer": "Organisatör",
+    "presenter": "Presentatör",
+    "participant": "Deltagare",
+    "groupChat": "Gruppchatt",
+    "nowSharing": "Delar nu",
+    "nowSpeaking": "Talar nu",
+    "unavailableUserName": "Otillgänglig",
+    "introduce": "Presentera dig själv som",
+            "join": {
+                "callme": "Ring mig på (valfritt)",
+                "enterName": "Ange namn",
+                "enterNumber": "Ange nummer",
+                "join": "Anslut"
+    },
+    "status": {
+        "recording": "Spelar in...",
+        "locked": "Låst"
+    },
+    "notification": {
+        "justJoined": "gick precis med.",
+        "raisedHand": "vinkade.",
+        "justLeft": "lämnade precis."
+    },
+    "ok": "OK",
+    "cancel": "Avbryt",
+    "hangUp": "Lägg på",
+    "hangUpMsg": "Är det säkert att du vill avsluta samtalet?",
+    "leaveConferenceMsg": "Om du stänger sidan innebär det att du lämnar mötet ”__confName__”.",
+
+    "im": {
+        "me":"Jag",
+        "participants": "deltagare",
+        "defaultExoUserName": "Gäst",
+        "timestamp": {
+            "am": "AM",
+            "pm": "PM",
+            "formatTime": "HH:mm",
+            "formatFullDate": "YYYY-MM-DD",
+            "formatShortDate": "YY-MM-DD",
+            "today": "Idag",
+            "yesterday": "Igår"
+        },
+        "userTyping":{
+            "1-UserTyping": "{0} skriver",
+            "2-UserTyping": "{0} och {1} skriver",
+            "3-UserTyping": "{0}, {1} och {2} skriver",
+            "4-UserTyping": "{0}, {1}, {2} och fler skriver"
+        }
+        },
+    "noItemsMessage":{
+        "no-events-upcoming": "Inga schemalagda händelser.",
+        "no-events-past" : "Inga händelser.",
+        "no-people-favorites": "Det finns inga favoriter.",
+        "no-people-favorites-suggestion": "Sök kontakter och markera (stjärna) som favoriter.",
+        "no-people-groups": "Det finns inga grupper.",
+        "no-people-groups-suggestion": "Skapa nya grupper för att organisera dina kontakter.",
+            "no-people-groups-members": "Vissa personer hör helt enkelt ihop.",
+            "no-people-groups-members-suggestion": "Lägg till några medlemmar i den här gruppen.",
+        "no-calls-missed": "Det finns inga missade samtal.",
+        "no-calls-all": "Ingen samtalshistorik.",
+        "no-voicemails-all": "Du har inga nya röstmeddelanden.",
+        "no-voicemails-unheard": "Tack för kontrollen, men du har inga oavlyssnade röstmeddelanden.",
+        "no-voicemails-flagged": "Inga sparade meddelanden.",
+        "no-voicemails-flagged-suggestion": "Spara röstmeddelandet för att lagra det permanent.",
+            "no-voicemails-license": "Röstbrevlådan inte är aktiverad.",
+        "no-message": "Det finns inga konversationer.",
+            "no-message-suggestion": "Sök efter en kontakt för att starta.",
+            "no-message-im-no-messages": "Låt oss starta den här konversationen!",
+            "no-message-im-no-messages-suggestion": "Skriv ett meddelande för att starta.",
+            "no-message-im-not-enabled": "Meddelanden inte är aktiverat.",
+            "no-message-im-not-enabled-suggestion": "Det verkar som om du måste ringa."
+    },
+
+    "dialogs": {
+        "divider": {
+            "or": "eller"
+        },
+        "invite": {
+            "title": "Info om mötesinbjudan",
+            "extension": "Anknytning",
+            "dialIn": "Uppringning",
+            "code": "Kod",
+            "lockMsg": "Konferens är låst. Be organisatören att låsa upp konferensen innan inbjudan vidarebefordras."
+        },
+        "callMe": {
+            "callViaComputer": "Samtal med dators ljudfunktion",
+            "callViaSoftPhone": "Samtal med SoftPhone",
+            "callViaExternalAssignment": "Samtal via extern tilldelning",
+            "callViaDeskPhone": "Samtal med primär telefon",
+            "callMe": "Ring mig",
+            "callMePlaceHolder": "  Ange nummer",
+            "dialInfo": "Uppringningsnummer: ",
+            "code": "Åtkomstkod: ",
+            "moreInfo": "Mer info",
+            "lessInfo": "Mindre info",
+            "copy": "Kopiera",
+            "callDisconnected": "Du har kopplats från.",
+            "callFailed": "Det går inte att ringa upp dig.",
+            "noOrganizerPrompt": "Tillgänglig när organisatör går med",
+            "callMeNotAllowed": "Ring mig-alternativet är inte tillgängligt"
+        },
+        "sharing": {
+            "shareFullScreen": "Dela helskärm",
+            "shareArea": "Dela område",
+            "shareWindow": "Dela fönster",
+            "waitingForShareApproval": "Väntar på organisatörens godkännande om skärmdelning",
+            "notAllowedToShare": "Organisatören tillåter inte delning för närvarande",
+            "copyUrlToClipboard": "Kopiera webbadress till urklipp",
+            "toShareScreenWith": "För skärmdelning med ",
+            "adhocConference": "Ad hoc-konferens",
+            "activelySharing": "Aktiv delning",
+            "activelySharingPopup": "Aktiv delning …"
+        },
+        "softPhone": {
+            "checkMic": "Kontrollera datormikrofon",
+            "sayHello": "Kontrollera datormikrofonen genom att säga ”Hej!”",
+            "dialIn": "Ring upp mig",
+            "back": "Bakåt",
+            "dialing": "Slår numret...",
+            "promptDownloadPlugin": "För att kunna använda datorns ljudfunktion måste du ladda ned ett litet plugin-program.",
+            "promptDownloadPluginUpgrade": "För att kunna använda datorns ljudfunktion måste du uppgradera plugin-programmet för Mitel Audio.",
+            "downloadPlugin": "Hämta",
+            "downloadPluginDescription": "Mitel hämtar ett insticksprogram för ljud som gör att du kan använda datorns ljud när du ringer in. När hämtningen är slutförd, installerar du och startar om webbläsaren.",
+            "error": {
+                "disconnected": "Du har kopplats från."
+            }
+        },
+        "presenter": {
+            "downloadInProgress": "När nedladdningen är klar ska du leta reda på appen Mitel Presenter och starta den.",
+            "downloadInProgressForIE": "När hämtningen är slutförd startar du om webbläsaren, letar rätt på applikationen Mitel Presenter och startar den.",
+            "downloadAlready": "Du har redan laddat ned presentörsprogrammet.",
+            "downloadComplete": "Leta reda på appen Mitel Presenter och starta den.",
+            "downloadRequest": "För att kunna dela skärmen måste du ladda ned Mitel Presenter.",
+            "download": "Hämta",
+            "downloadPresenter": "Ladda ned Mitel Presenter"
+        },
+        "layout": {
+            "all": "Alla",
+            "data": "Data",
+            "video": "Video"
+        },
+        "features":{
+            "layout": "Välj layout"
+        }
+    },
+
+    "shared": {
+        "waitingFor": "Väntar på",
+        "yourCollaborators": "dina medarbetare ",
+        "toStartSharing":"att starta delning.",
+        "ended": "delar inte längre.",
+        "msgs": {
+            "confLocked": "Konferensen har startat och har låsts av organisatören.",
+            "confNotStarted": "Konferensen börjar när organisatören anländer.",
+            "sharingPaused": "Delning har pausats."
+        }
+    },
+
+    "userphone": {
+
+        "title" : {
+            "label" : "Text",
+            "number": "Nummer",
+            "myPhones": "Mina telefoner"
+        },
+
+        "buttons": {
+                "add": "Lägg till",
+                "remove": "Ta bort",
+                "update": "Uppdatera"
+        },
+
+        "label": {
+            "press1ToConnect" : "Tryck på 1 för att ansluta",
+            "automaticallyConnect": "Anslut automatiskt",
+            "ringsToTry": "signaler för att försöka",
+            "numberOfRingsToTry": "Antal uppringningsförsök",
+            "removeNumber": "Ta bort",
+            "useSelectedNumber": "Använd valt nummer",
+            "addNumber": "Lägg till nummer",
+            "editNumber": "Ändra nummer",
+            "addNewNumber": "Lägg till nytt nummer",
+            "addLabel": "Lägg till text",
+            "edit": "Redigera",
+            "changeAnywhere": "Om dessa nummer ändras kommer detta att påverka alla ställen där de används",
+            "selectNumber": "Välj nummer",
+            "tryForNumRings": "Prova med __numOfRings__ signaler",
+            "confirmText1": "Numret som du försöker ta bort",
+            "confirmType" : "används som ett av dina __type__ nummer",
+            "confirmType2" : "används som ett av dina __type__ nummer och tilldelade externa nummer",
+            "confirmAssignedNum" : "används som ditt externt tilldelade nummer",
+            "confirmText3" : "Är det säkert att du vill ta bort det?",
+            "keepNumber": "Behåll nummer",
+            "typeSimulRing" : "SimuleringSignal",
+            "typeFindMe" : "FindMe",
+            "typeAssigned": "Tilldelat externt",
+            "dontRingAnyNumber": "Ring inte upp något nummer",
+            "mobileConnectClient": "Anslut mobilklient",
+            "remove": "Ta bort"
+        },
+
+        "error": {
+            "incorrectSelection" : "Inte ett giltigt nummerval",
+            "noExtensionNumber" : "Fel format. Ange telefonnummer med rätt uppringningskoder",
+            "noExternalNumber": "Du saknar behörighet att använda ett externt nummer som en __type__destination.",
+            "localNumbers": "Du har endast tillstånd att använda lokala nummer.",
+            "localNationalNumbers": "Du har endast tillstånd att använda lokala\/nationella nummer.",
+            "numberBeBetween": "Du har endast tillstånd att använda värden mellan 1 och 20",
+            "incorrectNumberFormat": "Felaktigt nummerformat",
+            "cannotUsedForForwarding": "Numret __number__ är detsamma som ditt nummer för Connect-mobilklienten. Du måste ta bort det. Klicka på felmeddelandet för att fortsätta.",
+            "sameAsConnectMobileNumber": "Numret __number__ är samma som numret för anslutning av mobilklient. Ange ett annat nummer.",
+            "generalErrorMobility" : "Obs! Enheten __number__ som används för att köra appen för Connect-mobilklienten kan inte användas för vidarekoppling.",
+            "generalError": "Det går inte att spara numret\/numren.",
+            "parseError": "Korrigera markerat(de) nummer.",
+            "badConnection": "Det har uppstått ett anslutningsproblem. Försök igen senare.",
+            "cannotSaveThisNumber": "Det här numret går inte att spara."
+        }
+    },
+
+    "CallFwdCheckBox": {
+        "displayText": "Inkommande samtal kopplas vidare till __dest__.",
+        "changeThis": "Ändra detta",
+            "voicemail": "röstbrevlåda",
+        "OK": "OK"
+    },
+
+    "dialPad": {
+            "dialPadMessage": "Tryck på Enter för att ringa",
+            "dialpad": "Knappsats"
+    },
+
+    "dialDefault": {
+        "selectNumber": "Välj vilket nummer som ska användas:",
+        "dontAskAgain": "Fråga inte igen om",
+        "AlwaysDialDefault": "Använda alltid standardnumret för dessa kontakter"
+    },
+
+    "workgroups": {
+        "agentStatusChanged" : "Agentstatus har ändrats",
+        "updateStatus" : "Ange status som",
+        "onThePhoneWith": "I samtal med",
+        "OnThePhone": "I samtal",
+        "recordingCall": "Spelar in samtal...",
+        "hideWorkgroupDetails": "Dölj arbetsgruppsinfo",
+        "showWorkgroupDetails": "Visa arbetsgruppsinfo",
+        "callQueue":"Köat",
+        "callTime": "Samtalstid",
+
+        "dashboard": {
+            "workgroups" : "Arbetsgrupper",
+            "wrapUp": "Paustid"
+        },
+
+        "enumPresence": {
+            "presUnknown" : "Vet ej",
+            "presOnline": "Tillgänglig",
+            "presRingingCall": "Inkommande samtal...",
+            "presWGRingingCall": "Inkommande AG-samtal...",
+            "presConnectedCall": "I samtal",
+            "presWGConnectedCall": "I WG-samtal",
+            "presWGParkedCall": "WG-samtal har parkerats",
+            "presParkedCall": "Samtal har parkerats",
+            "presHeldCall": "Vänta",
+            "presRecordingCall": "Spelar in samtal",
+            "presOnThePhone": "I ett telefonsamtal"
+        },
+
+        "calls":{
+             "longestWait": "Längsta väntan",
+             "shortestWait": "Kortaste väntan",
+             "dnis":"DNIS",
+             "longestWaittime": "Längsta väntetid:",
+             "voicemails": "Röstmeddelanden",
+             "calls": "Samtal",
+             "setAllAgents": "Ställ in alla agenter",
+             "status":"status",
+             "callTime":"Samtalstid",
+             "longestCall":"Längsta samtal:"
+        },
+
+        "status": {
+            "login" : "Logga in",
+            "logout": "Logga ut",
+            "return": "Avsluta paustid",
+            "wrapUp": "Paustid",
+            "loggedIn": "Inloggad",
+            "loggedOut": "Utloggad",
+            "stepAway": "Paustid"
+        },
+
+        "chmStatus": {
+            "onHour": "Arbetstid",
+            "offHour": "Ej arbetstid",
+            "holiday": "Helgdag",
+            "custom": "Anpassat"
+        },
+
+        "supervisorOptions": {
+            "dialMailbox" : "Uppringningsbrevlåda",
+            "unpark": "Återta",
+            "bargeIn": "Bryt in",
+            "silentCoach": "Silent Coach",
+            "silentMonitor": "Tyst medhörning",
+            "whisper": "Viskning",
+            "selectCallOptions": "Välj samtalsalternativ",
+            "startRecording": "Starta inspelning",
+            "stopRecording": "Stoppa inspelning"
+        },
+
+        "settings": {
+            "settings" : "Inställningar",
+            "secs": "sek",
+            "whenQueuedTime": "När kötid",
+            "whenCallsInQueue": "När samtal finns i kö",
+            "workgroupAlert": "Arbetsgruppvarningar",
+            "diplayAlertFor": "Visa varning för ",
+            "newCalls": "Nya samtal",
+            "allCallAlert": "Alla samtalsvarningar",
+            "alertSound": "Varningsljud"
+        },
+
+        "sortMenuItems": {
+            "agentState" : "Agentstatus",
+            "firstName": "Förnamn",
+            "lastName": "Efternamn",
+            "wrapUp": "Paustid"
+        },
+
+        "routingSlip":{
+            "close":"Stänga"
+        },
+
+        "callNotes": {
+            "routeSlipReason": {
+                "-5" : "StoppaInspelning",
+                "-4": "StartaInspeling",
+                "-3": "Koppla från",
+                "-2": "Avsluta",
+                "-1": "DirgeringTillKonto",
+                "0": "Null",
+                "1": "Direkt",
+                "2": "VidarekopplaUpptaget",
+                "3": "VidarekopplaIngetsvar",
+                "4": "VidarekopplaAlla",
+                "5": "PlockaÅterta",
+                "6": "UnPark",
+                "7": "Omdirigera",
+                "8": "Avslutning",
+                "9": "Överför",
+                "10": "Påminnelse",
+                "11": "Vet ej",
+                "12": "Otillgänglig",
+                "13": "Tränga in",
+                "14": "Parkerad",
+                "15": "PåskyndaPå",
+                "16": "DirigeringsBegäran",
+                "17": "Ringde upp",
+                "18": "Vidarekoppla",
+                "19": "Skapa",
+                "20": "Konferens",
+                "21": "Parkera",
+                "22": "TystÖvervakning",
+                "23": "BrytIn",
+                "24": "Spela in",
+                "25": "SkapaKonferensFörMig",
+                "26": "Visningsamtal",
+                "27": "SnabbtelefonSamtal",
+                "28": "TystRådgivning",
+                "29": "SkapaMötMigKonferens",
+                "30": "GåMedIMötMigKonferens",
+                "31": "SkapaMötMigKonferensUrsprung",
+                "32": "SkapaMötMigKonferensSamtal",
+                "33": "SignalAllaSamtal",
+                "34": "SignalAllaBesvarade"
+            },
+            "savePrompt": "Tryck på Enter för att spara och Esc för att avbryta",
+            "addNote": "Lägg till anteckning",
+            "closeNote": "Stänga",
+            "callNotePlaceholder":  "Samtalsanteckning"
+        },
+        "tabs": {
+            "queues" : "Köer",
+            "agents": "Agenter",
+            "voicemails": "Röstmeddelanden",
+            "voicemailsTab": {
+                "defaultLabel": "Alla"
+            }
+        },
+        "queueInfo": {
+            "queuedCalls" : "Samtal i kö...",
+            "longestQueued": "Längst i kö",
+            "longestCall": "Längsta samtal"
+        },
+
+        "telephonyOptions": {
+            "chat" : "Chatt",
+            "dialMailbox": "Uppringningsbrevlåda",
+            "sendVoicemail": "Skicka röstmeddelande",
+            "intercom": "Snabbtelefon",
+            "whisperPage": "Viskning-sökning",
+            "alertWhenAvailable": "Varna när kontakt finns tillgänglig på",
+            "recordCall": "Spela in samtal",
+            "stopRecordCall": "Stoppa inspelning"
+        },
+
+        "callSpecialOptions": {
+            "silentMonitor" : "Tyst medhörning",
+            "silentCoach": "Silent Coach",
+            "bargeIn": "Bryt in"
+        },
+
+        "timeFormats": {
+            "dateAndTimeFull": "YYYY-MM-DD HH:mm"
+        }
+    },
+
+    "appMenuItems": {
+         "quitapp": "Avsluta Connect",
+         "apppreferences": "Preferenser...",
+         "appupgrade": "Kontrollera om det finns uppdateringar...",
+         "appsettings": "Inställningar...",
+         "aboutapp": "Om Mitel Connect",
+         "build": "Build",
+         "copyright": "Upphovsrätt &copy; 2019 Mitel, Inc.",
+         "showToolbar": "Visa verktygsfält",
+         "editToolbar": "Redigera verktygsfält",
+         "help": "Hjälp",
+         "contactSupport": "Kontakta Mitel Support",
+         "connectUserGuide": "Användarhandbok",
+         "trainingVideos" : "Utbildningsvideor",
+         "exitapp": "Avsluta",
+         "alwaysOnTop": "Alltid överst",
+         "sendClientLogs": "Skicka klientloggar",
+        "productName": "Mitel Connect",
+        "aboutTitle": "Om",
+        "privacyPolicy": "Integritetspolicy"
+    },
+
+    "contextMenuItems": {
+        "copy": "Kopiera",
+        "cut": "Klipp ut",
+        "paste": "Klistra in",
+        "selectAll": "Markera alla"
+    },
+
+    "search": {
+        "loading": "Laddar...",
+        "directMatches": "Direkta matchningar",
+        "exchangePublicMatches": "Exchange offentliga matchningar",
+        "nameOrNumber": "Namn eller nummer",
+        "noResults": "Inga resultat hittades",
+        "pleaseEnterNameOrNumber": "Ange ett namn eller nummer",
+        "showCompanyName": "Visa företag",
+        "showDepartmentName": "Visa avdelning",
+        "showPhoneNumber": "Visa telefonnummer",
+        "phone": "Tel: ",
+        "extension": "Anknytning: ",
+        "more":"Mer",
+        "10":"Anknytning: ",
+        "100": "Affärsverksamhet: ",
+        "200": "Mobil: ",
+        "201": "Mobil 2: ",
+        "300": "Personsökare: ",
+        "400": "Hem: ",
+        "501": "Primär: ",
+        "511": "Affärsverksamhet 2: ",
+        "521": "Företag: ",
+        "531": "Hjälp: ",
+        "541": "Återuppringning: ",
+        "551": "Bil: ",
+        "561": "Hem 2: ",
+        "571": "Annan: ",
+        "5000": "Kontorsfax: ",
+        "5011": "Hemmafax: ",
+        "5021": "Annan fax: ",
+        "6001": "ISDN: ",
+        "6011": "Radio: ",
+        "6021": "Telex: ",
+        "6031": "TTY\/TDD: "
+    },
+
+    "trayMenu": {
+        "exit": "Avsluta"
+    },
+
+    "eventCell": {
+        "nowSpeaking" : "Talar nu",
+        "recording": "Spelar in..."
+    },
+
+    "programmableToolbar": {
+        "noToolbars": {
+            "prompt": "Klicka här om du vill lägga till knappar i verktygsfältet.",
+            "gotItButton": "Klart!",
+            "panelMessage": "Inga verktygsfältsknappar är konfigurerade"
+        },
+        "popup": {
+            "context": "Ange kontakt\/anknytning och tryck på ENTER för att utföra angiven åtgärd",
+            "contactPlaceholder": "Skriv namn"
+        },
+        "tooltip": {
+            "label": "Text ",
+            "monitorName": "Namn ",
+            "monitorStatus": "Status ",
+            "monitorCallInfo": "Samtalsinfo ",
+            "Shortcut": "Genväg",
+            "bcaLine": "Linje #",
+            "calls": "Samtal",
+            "number": "Nummer",
+            "audioPath": "Ljudbana"
+        },
+        "audioPath": {
+            "0" : "Högtalare",
+            "1": "Headset",
+            "2": "Trådlöst headset",
+            "3": "Bluetooth"
+        },
+        "labels": {
+            "toolbar" : "Verktygsfältsknappar",
+            "edittoolbar": "Välj knappar som ska visas i verktygsfältet"
+        },
+        "fixtooltip": {
+            "3":    "Övervaka anknytning",
+            "4":    "Ring upp",
+            "5":    "Uppringningsbrevlåda",
+            "6":    "Snabbtelefon",
+            "7":    "Tyst medhörning",
+            "8":    "Bryt in",
+            "9":    "Viskning-sökning",
+            "10":   "Plocka",
+            "11":   "Återta",
+            "12":   "Plocka eller återta",
+            "13":   "Svara på nattklocka",
+            "14":   "Sida",
+            "15":   "Dold överföring",
+            "16":   "Konsultativ överföring",
+            "17":   "Flytta över till brevlåda",
+            "18":   "Snabbtelefonsöverföring",
+            "19":   "Dold konferens",
+            "20":   "Konsultativ konferens",
+            "21":   "Snabbtelefonkonferens",
+            "22":   "Parkera",
+            "23":   "Parkera och sök",
+            "24":   "Spela in anknytning",
+            "25":   "Spela in samtal",
+            "26":   "Stäng av ljud för samtal",
+            "27":   "Skicka siffror",
+            "28":   "Viskning – Överföring",
+            "29":   "Centrex Flash",
+            "30":   "Bridged Call Appearance-samtal",
+            "31":   "Svara",
+            "32":   "Utför DDE-kommando",
+            "33":   "Grupp, plocka",
+            "34":   "Lägg på",
+            "35":   "Vänta",
+            "36":   "Ogiltig kommandorad",
+            "37":   "Anropa webbadress",
+            "38":   "Till autosvar",
+            "39":   "Överför till röstmeddelande",
+            "40":   "Överför",
+            "41":   "Konferens",
+            "42":   "Ändra samtalshanteringsläge",
+            "43":   "Tilldela till externt nummer",
+            "44":   "Inloggning för arbetsgrupp",
+            "45":   "Utloggning för arbetsgrupp",
+            "46":   "Paustid för arbetsgrupp",
+            "50":   "Öppna köbevakning",
+            "51":   "Öppna röstmeddelandevisning",
+            "55":   "Extern tilldelning",
+            "57":   "Lägg till\/Ändra kontakt",
+            "58":   "Gå till primär telefon",
+            "59":   "Redigera samtalsanteckning",
+            "60":   "Handsfree-läge",
+            "61":   "Hjälpinnehåll och index",
+            "62":   "Ange standard för ljudbana",
+            "81":   "Hotline",
+            "83":   "Spårning av falskt samtal",
+            "82":   "Silent Coach"
+        },
+        "description": {
+            "3" : "Visa när en anknytning har inkommande samtal, är i samtal eller i en konferens.",
+            "4": "Ring upp ett valfritt förprogrammerat nummer ",
+            "5": "Lämna ett röstmeddelande för en speciell anknytning",
+            "6": "Snabbtelefonssamtal till anknytning",
+            "7": "Lyssna på en konversation utan att du hörs",
+            "8": "Gå in i en konversation mellan två parter, båda parterna hör dig.",
+            "9": "Tala med en kontakt som är i telefon utan att uppringaren hör",
+            "10": "Plocka en uppringd linje",
+            "11": "Överta ett samtal från en annan kontakts anknytning",
+            "12": "",
+            "13": "Plocka nattklockesamtal",
+            "14": "Meddelande över personsökningssystemet",
+            "15": "Överför ett samtal ",
+            "16": "Fråga mottagande part om de kan ta ett inkommande samtal.",
+            "17": "Överför samtal till en kontakts röstbrevlåda",
+            "18": "Meddela överföring över kontaktens snabbtelefon",
+            "19": "Ta med en kontakt i ditt samtal utan att fråga",
+            "20": "Ta med en kontakt i ditt samtal sedan du frågat om han\/hon vill delta",
+            "21": "Ta med en kontakt i ditt samtal sedan du frågat om honom\/henne över snabbtelefon",
+            "22": "Låt ett samtal vänta på en annan kontakts anknytning.",
+            "23": "Låt ett samtal vänta på en annan kontakts anknytning och meddela detta över personsökningssystemet",
+            "24": "Spela in ett samtal på en annan anknytning",
+            "25": "Spela in ditt eget samtal",
+            "26": "Stäng av ljud för inkommande viskning eller sökning",
+            "27": "Skicka tonval under ett samtal",
+            "28": "Meddela överföring via viskning",
+            "29": "",
+            "30": "Visa när en bryggad linje har inkommande samtal, är i samtal eller i en konferens.",
+            "31": "Besvara inkommande samtal",
+            "32": "",
+            "33": "Plocka samtal för grupp på angiven anknytning",
+            "34": "Lägg på aktivt samtal",
+            "35": "Placera samtal i vänteläge",
+            "36": "",
+            "37": "Öppna webbläsare med webbadress",
+            "38": "Överför samtal till autosvar",
+            "39": "Överför samtal till din röstbrevlåda",
+            "40": "Överför samtal",
+            "41": "",
+            "42": "Ändra tillgänglighetsläge till __chm__.",
+            "43": "Ändra primär tilldelning till det senast använda externa numret",
+            "44": "Logga in arbetsgruppsagent i alla köer.",
+            "45": "Logga ut arbetsgruppsagent från alla köer.",
+            "46": "Placera arbetsgruppsagent i paustidsläge och pausa alla samtal.",
+            "47": "Öppna panelen Nyligen för att se samtalsloggen, röstbrevlådan och chattar",
+            "48": "",
+            "49": "Visa alla agenter",
+            "50": "",
+            "51": "Visa allt i min röstbrevlåda",
+            "52": "",
+            "53": "Öppna panelen Händelser",
+            "54": "",
+            "55": "Genväg för att ange extern tilldelning",
+            "56": "",
+            "57": "",
+            "58": "Tilldela dig själv till den primära telefonen",
+            "59": "Redigera samtalsanteckning för aktivt samtal",
+            "60": "",
+            "61": "",
+            "62": "Ändra ljudbana till __path__.",
+            "75": "Ange paustidskod",
+            "76": "Utvidga paustid",
+            "77": "Avsluta paustid",
+            "78": "Be arbetsledaren om hjälp",
+            "81": "Skapar hotline-cirkel mellan ansvarig och assistent. (Antas vara chef och gruppmedlemmar)",
+            "82": "Gör att du kan tala med dina kollegor och lyssna på konversationen, utan den andra partens vetskap.",
+            "83": "Gör att samtalaren med hjälp av stjärnkoder kan flagga inkommande och utgående samtal som stötande. Detta gör det möjligt att spåra och följa upp samtalet i det publika nätverket"
+        }
+    },
+
+    "audioDevice":{
+        "plantronicsPluginName": "CONNECT_PLANTRONICS"
+    },
+
+    "exoBrowserSupport": {
+        "warning": " Din nuvarande webbläsare/version stöds inte.",
+        "description": "För att kunna använda funktionerna i Connect Conference fullt ut ska du använda länkarna nedan för att installera en webbläsare som stöds eller uppgradera din aktuella webbläsare till den senaste versionen:",
+        "browser": {
+            "ie": "IE",
+            "edge": "Edge",
+            "firefox": "Firefox",
+            "chrome": "Chrome",
+            "safari": "Safari"
+        },
+        "proceedDescription": "Att använda en webbläsare som inte stöds kan resultera i återgivningsproblem. ",
+        "proceed": "Fortsätt ändå >"
+    }
+}

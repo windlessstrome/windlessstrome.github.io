@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="150" viewBox="0 0 170 150">
+    <g fill="none" fill-rule="evenodd" opacity=".5">
+        <path fill="#7C7F87" fill-rule="nonzero" d="M82.2 31s8.4-48.2 73 34.2c53.2 67.9-70.8 12.1-94.5 28.5-33.6 23.3-66.1 35-57.5-49.4 4.3-41.1 77 29.9 79-13.3z" opacity=".1"/>
+        <path fill="#FFF" fill-rule="nonzero" stroke="#7C7F87" stroke-linecap="round" stroke-linejoin="round" d="M86 78.9c1.1 8 2.3 14.4 3.6 14.3 1.2-.1.6-6.7-.6-14.7-1.1-8-1.2-14.6-3.6-14.3-2.2.3-.5 6.7.6 14.7z"/>
+        <g transform="translate(33 43)">
+            <path fill="#FFF" fill-rule="nonzero" stroke="#7C7F87" stroke-linecap="round" stroke-linejoin="round" d="M24.5 39.6c.9 7.1 1.8 12.8 3 12.7 1.2-.1.8-6-.1-13.1s-.7-13-3-12.7c-2.1.2-.7 6 .1 13.1z"/>
+            <ellipse cx="47.3" cy="88.4" fill="#7C7F87" fill-rule="nonzero" opacity=".15" rx="46.9" ry="3.2"/>
+            <g fill-rule="nonzero" transform="translate(14 6)">
+                <ellipse cx="11.2" cy="7.7" fill="#FFF" stroke="#7C7F87" stroke-linecap="round" stroke-linejoin="round" rx="5.9" ry="7.5"/>
+                <path fill="#FFF" stroke="#7C7F87" stroke-linecap="round" stroke-linejoin="round" d="M11.6 48.9L4.4 80c-2.1 6-4 4.7-3.6-.5l4.3-57.2c.1-3 2.5-5.3 5.5-5.3h2c3 0 5.4 2.3 5.5 5.3l3.8 54.9c.5 5.7-1.9 4.9-3 .4l-7-26.1"/>
+                <g fill="#BDC1C5" opacity=".5">
+                    <path d="M20.4 43.5l-1.2-20.7c-.1-3-2.5-5.3-5.5-5.3h-2c-3 0-5.4 2.3-5.5 5.3L4.6 43.5h15.8z"/>
+                    <path d="M12.7 49.4L5.4 80.5c-2.1 6-4 4.7-3.6-.5l4.3-57.2c.1-3 2.5-5.3 5.5-5.3h2c3 0 5.4 2.3 5.5 5.3l3.8 54.9c.5 5.7-1.9 4.9-3 .4l-7-26.1-.2-2.6z"/>
+                </g>
+            </g>
+            <g fill="#FFF" fill-rule="nonzero" stroke="#7C7F87" stroke-linecap="round" stroke-linejoin="round" transform="translate(34)">
+                <ellipse cx="11.4" cy="8.3" rx="6.4" ry="8.1"/>
+                <path d="M11.9 53L4 86.7c-2.3 6.5-4.3 5.1-3.9-.6l4.7-62c.1-3.2 2.7-5.7 5.9-5.7h2.2c3.2 0 5.8 2.5 5.9 5.7l4.1 59.6c.5 6.2-2.1 5.3-3.2.4l-7.6-28.3"/>
+            </g>
+            <path d="M45.2 56.5V16.9"/>
+        </g>
+        <g fill="#BDC1C5" fill-rule="nonzero" opacity=".5">
+            <path d="M88.4 90.1L87 67.7c-.1-3.2-2.7-5.7-5.9-5.7h-2.2c-3.2 0-5.8 2.5-5.9 5.7l-1.7 22.4h17.1z"/>
+            <path d="M80.1 96.6l-7.9 33.7c-2.3 6.5-4.3 5.1-3.9-.6l4.7-62c.1-3.2 2.7-5.7 5.9-5.7h2.2c3.2 0 5.8 2.5 5.9 5.7l4.1 59.6c.5 6.2-2.1 5.3-3.2.4l-7.6-28.3-.2-2.8z"/>
+        </g>
+        <g fill-rule="nonzero">
+            <path fill="#FFF" stroke="#7C7F87" stroke-linecap="round" stroke-linejoin="round" d="M87.4 78.7c-5.5 4.6-9.8 8.5-8.8 9.7 1 1.2 5.7-2.2 11.3-6.8 5.6-4.6 10.7-7.4 8.8-9.7-1.8-2.2-5.7 2.2-11.3 6.8z"/>
+            <g transform="translate(92 52)">
+                <ellipse cx="10.6" cy="7.7" fill="#FFF" stroke="#7C7F87" stroke-linecap="round" stroke-linejoin="round" rx="5.6" ry="7.1"/>
+                <path fill="#FFF" stroke="#7C7F87" stroke-linecap="round" stroke-linejoin="round" d="M11 46.7L4.1 76.1c-2 5.7-3.7 4.4-3.4-.5l4.1-54.1c.1-2.8 2.4-5 5.2-5h1.9c2.8 0 5.1 2.2 5.2 5l3.6 52c.5 5.4-1.8 4.6-2.8.4l-6.6-24.7"/>
+                <g fill="#BDC1C5" opacity=".5">
+                    <path d="M19.4 41.6L18.2 22c-.1-2.8-2.4-5-5.2-5h-1.9c-2.8 0-5.1 2.2-5.2 5L4.4 41.5h15v.1z"/>
+                    <path d="M12.1 47.2L5.2 76.6c-2 5.7-3.7 4.4-3.4-.5L5.9 22c.1-2.8 2.4-5 5.2-5H13c2.8 0 5.1 2.2 5.2 5l3.6 52c.5 5.4-1.8 4.6-2.8.4l-6.6-24.7-.3-2.5z"/>
+                </g>
+            </g>
+            <path fill="#FFF" stroke="#7C7F87" stroke-linecap="round" stroke-linejoin="round" d="M109.3 84.2c1.2 7.1 2.3 12.7 3.6 12.6 1.2-.1.5-6-.6-13.1-1.2-7.1-1.3-13-3.6-12.6-2.2.4-.6 6 .6 13.1z"/>
+        </g>
+        <path fill="#FFF" fill-rule="nonzero" stroke="#7C7F87" stroke-linecap="round" stroke-linejoin="round" d="M75.3 82.5c1.2 6.6 2.5 11.9 4 11.6 1.5-.2.8-5.7-.5-12.3-1.2-6.6-1.3-12.1-4-11.6-2.6.5-.7 5.7.5 12.3zM65.1 84.8c5.1 5.1 9.4 9 10.5 8.1 1-.9-2.9-5.4-8.1-10.5-5.1-5.1-8.6-9.9-10.5-8.1-1.8 1.7 2.9 5.3 8.1 10.5z"/>
+    </g>
+</svg>

@@ -1,0 +1,94 @@
+{
+	"topic": "config",
+	"message": "get-chm-settings",
+	"timestamp": 1417725879871,
+	"sequence-id": 1219,
+	"request-id": 30,
+	"response": 0,
+	"chm": [
+		[
+			"mode",
+			"fwd-mode",
+			"always-dest",
+			"busy-dest",
+			"na-dest",
+			"na-rings",
+			"enable-ringall",
+			"enable-greetingonlyvm",
+			"chm-custom-name",
+			"chm-status-indicator"
+		],
+		[
+			1,
+			2,
+			"101",
+			"101",
+			"101",
+			3,
+			true,
+			false,
+			"",
+			0
+		],
+		[
+			2,
+			1,
+			"101",
+			"101",
+			"101",
+			1,
+			true,
+			false,
+			"",
+			0
+		],
+		[
+			3,
+			1,
+			"101",
+			"101",
+			"101",
+			1,
+			true,
+			false,
+			"",
+			0
+		],
+		[
+			4,
+			1,
+			"101",
+			"101",
+			"101",
+			1,
+			false,
+			false,
+			"",
+			0
+		],
+		[
+			5,
+			1,
+			"101",
+			"101",
+			"101",
+			1,
+			false,
+			false,
+			"test",
+			2
+		],
+		[
+			6,
+			1,
+			"101",
+			"101",
+			"101",
+			1,
+			false,
+			false,
+			"",
+			0
+		]
+	]
+}

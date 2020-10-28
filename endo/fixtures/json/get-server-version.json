@@ -1,0 +1,12 @@
+{
+	"topic": "config",
+	"message": "get-server-version",
+	"timestamp": 1417574506398,
+	"sequence-id": 482,
+	"request-id": 15,
+	"response": 0,
+	"version": "21.4000.7900.0",
+	"product": "ShoreTel 15",
+	"upgrade-requirement": 3,
+	"upgrade-location": "https://10.17.20.54/ShoreWareResources/ClientInstall/setup.exe"
+}

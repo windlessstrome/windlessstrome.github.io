@@ -1,0 +1,105 @@
+{
+ "name": "Mitel",
+ "main": "index.html",
+ "domain": "manhattan",
+ "version": "006.3553.104.0",
+ "product_string": "Mitel-connect",
+ "inDevelopment": true,
+ "private": true,
+ "node-remote": [
+  "https://login.microsoftonline.com/*",
+  "http://localhost/*",
+  "https://staasf-staging4.shoretelsky.com/*"
+ ],
+ "scripts": {
+  "pack": "./pack-npm.sh",
+  "unpack-mac": "./unpack-npm.sh",
+  "unpack-win": "unpack-npm",
+  "install-dev-server": "npm i -g http-server",
+  "start": "npm run configure-dev && npm run start-dev-server",
+  "start-dev-server": "http-server -p 4300",
+  "configure-dev": "node configure-dev.js"
+ },
+ "window": {
+  "position": "center",
+  "width": 430,
+  "height": 430,
+  "min_width": 430,
+  "min_height": 430,
+  "show_in_taskbar": true,
+  "frame": false,
+  "show": false,
+  "id": "main",
+  "EnableLinkUp": false,
+  "icon": "./images/shoretel-icon.png"
+ },
+ "developer": {
+  "loginOnStartup": false,
+  "showDevToolsOnStartup": false,
+  "throwExceptions": true
+ },
+ "exo": {
+  "minSoftphonePlugin": "0.8.876"
+ },
+ "repository": {},
+ "dependencies": {
+  "can": "2.3.33",
+  "can-binarytree": "0.0.7",
+  "can-derive": "0.0.11",
+  "jquery": "1.11.2",
+  "jquery-ui": "git://github.com/jquery/jquery-ui.git#d6713024e16de90ea71dc0544ba34e1df01b4d8a",
+  "lodash": "git://github.com/lodash/lodash.git#6d521195975bae2dd1f40fb8b1807f02a75d8bfd",
+  "js-cookie": "2.0.2",
+  "timepicker": "1.8.9",
+  "moment": "2.6.0",
+  "moment-duration-format": "1.3.0",
+  "moment-timezone": "0.5.3",
+  "grunt": "0.4.5",
+  "grunt-cli": "0.1.13",
+  "grunt-shell": "0.6.4",
+  "grunt-zip": "0.13.0",
+  "bower": "1.3.5",
+  "sqlite3": "3.0.4",
+  "pbkdf2": "3.0.4",
+  "binascii": "0.0.1",
+  "node-webkit-updater": "^0.2.3",
+  "steal": "0.13.0",
+  "polymer": "^1.8.1",
+  "webcomponentsjs": "^0.7.0",
+  "file-saver": "^1.3.3",
+  "localforage": "^1.5.3",
+  "shor-avatar": "1.0.5"
+ },
+ "devDependencies": {
+  "grunt-contrib-clean": "0.5.0",
+  "grunt-contrib-connect": "^0.8.0",
+  "grunt-contrib-copy": "0.5.0",
+  "grunt-contrib-jshint": "0.10.0",
+  "grunt-contrib-cssmin": "3.0.0",
+  "grunt-node-webkit-builder": "0.1.21",
+  "grunt-msbuild": "^1.1.1",
+  "graceful-fs": "^4.1.2",
+  "grunt-npm-install": "0.1.0",
+  "grunt-rename": "0.1.3",
+  "qunitjs": "1.14.0",
+  "funcunit": "git://github.com/bitovi/funcunit.git#d7f20b0f3e0c2348648c71590a4595778d65d425",
+  "steal-tools": "0.13.2",
+  "documentjs": "^0.4.4",
+  "sinon": "^1.17.7",
+  "sinon-qunit": "^2.0.0",
+  "terser": "5.3.2"
+ },
+ "chromium-args": "--user-data-dir='%APPDATA%'\\Mitel\\'User Data' --disable-features=nw2 --disable-sync --media-cache-size=1 --disable-auth-negotiate-cname-lookup --enable-usermedia-screen-capturing --disable-raf-throttling --enable-precise-memory-info --js-flags='--expose-gc'",
+ "enableOperatorStreamFeatures": true,
+ "downloadURL": {
+  "ie": "https://support.microsoft.com",
+  "firefox": "https://www.mozilla.org/firefox",
+  "chrome": "https://www.google.com/chrome/browser/desktop/index.html",
+  "safari": "https://support.apple.com/safari",
+  "edge": "https://support.microsoft.com"
+ },
+ "web_accessible_resources": [
+  "index.html",
+  "outlook_authentication.html"
+ ]
+}

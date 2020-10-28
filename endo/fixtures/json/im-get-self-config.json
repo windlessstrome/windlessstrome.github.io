@@ -1,0 +1,17 @@
+{
+	"topic": "im",
+	"message": "get-self-config",
+	"timestamp": 1464246433203,
+	"sequence-id": 806788,
+	"request-id": 7,
+	"response": 0,
+	"account-name": "",
+	"address": "jvasoya@qa.shoretel.com",
+	"server": "10.198.104.149",
+	"port": 5222,
+	"server-type": 5,
+	"protocol": 1,
+	"invitation-accept": 1,
+	"flags": 128,
+	"im-status-note": ""
+}

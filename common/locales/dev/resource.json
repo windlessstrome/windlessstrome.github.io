@@ -1,0 +1,3517 @@
+{
+    "people": "Eoplepay",
+    "recent": "Ecentray",
+    "events": "Ventseay",
+    "drafts": "Raftsday",
+    "contacts": "Ontactscay",
+    "conversations": "Onversationscay",
+    "notifications": "Otificationsnay",
+    "calls": "Allscay",
+    "item": "Temiay",
+    "item_plural": "Temsiay",
+    "name": "may amenay isway __first__ __last__",
+    "profilePreferencesButton": "Referencespay",
+    "voicemails": "Oicemailsvay",
+    "messages": "Essagesmay",
+    "teamwork": "Eamworktay",
+    "deletedVoicemailLabel": "Eletedday Oicemailsvay",
+    "controlBar": {
+        "call": "Allcay",
+        "endCall": "Anghay uay",
+        "mute": "Utemay",
+        "unmute": "Nmuteuay",
+        "share": "Haresay",
+        "raiseHand": "Aiseray Andhay",
+        "info": "Nfoiay"
+    },
+    "panel": {
+        "pinPanel": "Inpay",
+        "unpinPanel": "Npinuay"
+    },
+    "prefs": {
+        "message": {
+            "savingData": "Avingsay yourway hanges.cay Leasepay ait...way",
+            "loadingData": "Oadinglay referencespay ata.day Leasepay ait...way",
+            "noAccess": "Ouyay on'tday avehay ermissionpay tay accessway histay eature.fay"
+        },
+        "buttons": {
+            "label": {
+                "reconnect": "Rytay tay Econnectray",
+                "quit": "Losecay Ithoutway Avingsay",
+                "dismiss": "Ismissday"
+            }
+        },
+        "error": {
+            "failOpenDialogConnectionError": "Erver/Connectionsay Rror.eay Leasepay losecay hetay ialogday andway rytay again.way",
+            "genericServerError": "Onnectioncay tay erversay ailedfay andway yourway hangescay ereway otnay aved.say Leasepay aitway hileway way rytay again...way",
+            "saveError": "aay errorway occurredway uringday hetay rocessingpay ofway yourway equest.ray Ouryay hangescay ereway otnay aved.say",
+            "pageError": "Heretay isway anway errorway hileway etrievingray ataday ofway histay age.pay Leasepay losecay hetay ialogday andway rytay again.way",
+            "genericServerErrorNoRetry": "Onnectioncay tay erversay ailedfay andway yourway hangescay ereway otnay aved.say"
+        },
+        "tabTitles": {
+            "account": "Ccountaay",
+            "callRouting": "Allcay Outingray",
+            "voicemail": "Oicemailvay",
+            "im": "iay",
+            "video": "Ideovay",
+            "outlook": "Utlookoay",
+            "contactsIntegration": "Ontactscay /ay Utlookoay",
+            "notifications": "Otificationsnay",
+            "deskphone": "Eskphoneday",
+            "softphone": "Oftphonesay",
+            "telephony": "Elephonytay",
+            "appearance": "Ppearanceaay",
+            "programmableToolbar": "Rogrammablepay Oolbartay",
+            "workgroups": "Orkgroupsway",
+            "language": "Anguagelay"
+        },
+        "workgroup": {
+            "workgroup": "Orkgroupway",
+            "showMeNotif": "Howsay may otificationsnay henway allscay arriveway inway ueueqay",
+            "minimumNumberOfWgError": "Leasepay electsay atway eastlay oneway ueueqay tay onitormay",
+            "NotifTimeoutOnScreen": "Eepkay hetay otificationnay onway creensay orfay ",
+            "seconds": " econdssay",
+            "QueueMonitorSettingsLable": "Ueueqay Onitormay Lertaay Hresholdstay",
+            "showWorkgroup": " Nableeay Orkgroupway",
+            "thresholdAlert": "Urntay oay Hresholdtay Lertaay",
+            "queueExceeds": "Lertaay Henway Ueueqay Eachesray orway Xceedseay",
+            "timeExceeds": "Lertaay Henway Ueuedqay Imetay Xceedseay",
+            "sec": " econdssay",
+            "calls": "allscay",
+            "notifEnabledWhenLoggedOut": "Ontinuecay tay howsay otificationsnay hileway oggedlay outway ofway orkgroupsway",
+            "warningMessage": "Erozay isway otnay away alidvay optionway",
+            "invalidInputMessage": "Nvalidiay Nputiay"
+        },
+        "outlook": {
+            "title": {
+                "contacts": "Ontactscay",
+                "calendar": "Alendarcay",
+                "events": "Ventseay",
+                "ExchangeCredentials": "Xchangeeay Redentialscay",
+                "ExchangePublicContacts": "Xchangeeay Ublicpay Ontactscay"
+            },
+            "label": {
+                "doNotOpenOutlookContact": "day otnay openway Utlookoay henway addingway ontactcay tay Onnectcay",
+                "importContacts": "Yncsay may Acmay ontactscay",
+                "importOutlook": "Yncsay may Utlookoay ontactscay",
+                "importOutlookContactsDetail": "Ontactscay areway yncedsay henway Icrosoftmay Utlookoay isway unning.ray",
+                "importMacContactsDetail": "Ontactscay areway yncedsay henway Itelmay Onnectcay isway unning.ray",
+                "syncCalendar": "Yncsay may Xchangeeay alendarcay ithway may Itelmay Onnectcay availabilityway odes.may",
+                "syncCalendarDetail1": "Henway Utlookoay howssay may inway away ookedbay eeting,may witchsay may availabilityway tay In\"ay away Eeting\".may",
+                "syncCalendarDetail2": "Henway Utlookoay howssay may asway Out\"ay ofway Ffice\",oay witchsay may availabilityway tay Out\"ay ofway Ffice\".oay",
+                "syncCalendarDetail3": "Ouryay Do\"ay Otnay Isturb\",day Vacation\"\"ay andway Custom\"\"ay availabilityway odesmay illway alwaysway aketay recedencepay andway illway otnay bay affected.way",
+                "useOutlookWorkHours": "Seuay may Utlookoay Orkway Ourshay tay witchsay may Itelmay Onnectcay availabilityway tay Out\"ay ofway Ffice\".oay",
+                "UserName": "Seruay Amenay",
+                "Password": "Asswordpay",
+                "showContactFolders": "+ay Howsay ontactcay oldersfay",
+                "hideContactFolders": "-ay Idehay ontactcay oldersfay Contacts(ay reatedcay outsideway away olderfay istedlay elowbay illway otnay bay imported.)way",
+                "loadingContactFolders": "Oadinglay ontactcay olders...fay",
+                "removeImportedContacts": "Emoveray Yncedsay Ontactscay",
+                "confirmRemovingWinImportedContacts": "Histay actionway illway emoveray yourway importedway ontactscay romfay hetay Itelmay atabase.day Hetay ontactscay inway yourway Utlookoay illway otnay bay affected.way",
+                "confirmRemovingMacImportedContacts": "Histay actionway illway emoveray yourway importedway ontactscay romfay hetay Itelmay atabase.day Hetay ontactscay inway yourway oay xay Ontactscay appway illway otnay bay affected.way",
+                "removingImportedContactsInProgress": "Emovingray Yncedsay Ontacts...cay",
+                "enablePublicContactSearch": "Nableeay earchingsay orfay ontactscay inway may exchangeway ublicpay ontactcay oldersfay"
+            },
+            "error": {
+                "errorloadingContactFolders": "Roblempay oadinglay yourway ontactcay olders.fay Leasepay rytay againway ater.lay",
+                "errorSaveContactFolders": "Rroreay hileway avingsay hetay electedsay olders.fay Leasepay rytay againway ater.lay",
+                "okRemovingImportedContacts": "Uccess!say Ouryay ontactscay avehay eenbay emoved.ray",
+                "busyRemovingImportedContacts": "Hetay ystemsay isway urrentlycay usybay importingway ontactscay andway annotcay emoveray untilway importway isway omplete.cay Leasepay rytay againway ater.lay",
+                "errorRemovingImportedContacts": "Hetay ystemsay ashay encounteredway anway error.way Leasepay rytay againway ater.lay",
+                "noContactFolders": "nay oldersfay ound.fay",
+                "reachMaxUploadLimit": "Ersonalpay ontactcay uploadway aximummay ashay eenbay eached.ray Leasepay ontactcay yourway ystemsay administratorway ifway youway eednay tay uploadway additionalway ontacts.cay"
+            }
+        },
+        "callRouting": {
+            "tabs": {
+                "availability": "Vailabilityaay Outingray",
+                "power": "Owerpay Outingray",
+                "mobile": "Obilemay"
+            },
+            "availabilityOptions": {
+                "Available": "Vailableaay",
+                "InAMeeting": "iay away Eetingmay",
+                "OutOfOffice": "Utoay ofway Fficeoay",
+                "OnVacation": "Acationvay",
+                "Variable": "Ustom...cay",
+                "DND": "day Otnay Isturbday"
+            },
+            "buttons": {
+                "Previous": "Reviouspay",
+                "Next": "Extnay",
+                "Cancel": "Ancelcay",
+                "Done": "Oneday",
+                "Save": "Avesay"
+            },
+            "error": {
+                "couldNotGetServerData": "Ouldcay otnay etgay informationway romfay hetay erversay",
+                "couldNotSaveServerData": "way ouldcay otnay avesay yourway hanges.cay Leasepay gay hroughtay eachway anelpay andway orrectcay hetay ighlightedhay errors.way",
+                "couldNotSaveServerDataDND": "Ssueiay avingsay ataday tay hetay erver.say Leasepay rytay againway ater.lay"
+            },
+            "options": {
+                "myVoicemail": "may oicemailvay"
+            },
+            "userPhoneStrings": {
+                "shortForm": "__num__ (ay __label__ )ay",
+                "longForm": {
+                    "labelNumber": "__label__ __num__. ",
+                    "tryRingsPress1": "Rytay orfay __rings__ ings,ray ustmay resspay 1ay tay onnectcay",
+                    "tryRingsAnswer": "Rytay orfay __rings__ ings,ray automaticallyway onnectcay onway answerway"
+                }
+            },
+            "overview": {
+                "title": {
+                    "CustomizeYourRouting": "Ustomizecay yourway outingray",
+                    "availabilityWhen": "Henway "
+                },
+                "buttons": {
+                    "change": "Hangecay",
+                    "StartWizard": "Tartsay Izardway",
+                    "record": "Ecordray"
+                },
+                "routing": {
+                    "extension": "Ncomingiay allscay areway outedray tay yourway __dest__"
+                },
+                "simulring": {
+                    "noSimulring": "nay otherway honespay illway imultaneouslysay ingray",
+                    "thesePhones": "Hesetay honespay illway imultaneouslysay ing:ray __br1__ __num1__ __br2__ __num2__",
+                    "thisPhone": "Histay honepay illway imultaneouslysay ing:ray __br1__ __num__",
+                    "noPhonesSelected": "nay honespay electedsay tay imultaneouslysay ingray"
+                },
+                "incomingCall": {
+                    "ringRouteVM": "__num__ ingsray eforebay incomingway allscay areway outedray tay oicemailvay",
+                    "ringRouteNum": "__num__ ingsray eforebay incomingway allscay areway outedray tay __phone__",
+                    "alwaysForwardVM": "Ncomingiay allscay areway immediatelyway outedray tay oicemailvay",
+                    "alwaysForwardNum": "Ncomingiay allscay areway immediatelyway outedray tay __num__"
+                },
+                "findMe": {
+                    "press1Numbers": "iay allerscay resspay 1ay hileway isteninglay tay may oicemailvay reetinggay hentay rytay tay indfay may onway hesetay umbersnay equentially:say __br1__ __num1__ __br2__ __num2__",
+                    "press1Number": "iay allerscay resspay 1ay hileway isteninglay tay may oicemailvay reetinggay hentay rytay tay indfay may atway histay umber:nay __br1__ __num__",
+                    "press1NoPhones": "iay allerscay resspay 1ay hileway isteninglay tay may oicemailvay reeting,gay nay honespay areway electedsay tay equentiallysay ingray",
+                    "autoFindMeNumbers": "iay iay on'tday ickpay up,way ingray hesetay umbersnay equentially:say __br1__ __num1__ __br2__ __num2__",
+                    "autoFindMeNumber": "iay iay on'tday ickpay up,way ingray histay umber:nay __br1__ __num__",
+                    "autoFindMeNoPhones": "iay iay on'tday ickpay up,way nay honespay areway electedsay tay equentiallysay ingray"
+                },
+                "greetingRecording": {
+                    "noGreeting": "nay oicemailvay reetinggay ecordedray",
+                    "greetingRec": "Oicemailvay reetinggay ecordedray"
+                },
+                "greetingInteraction": {
+                    "allowed": "Allerscay areway allowedway tay eavelay away oicemailvay",
+                    "notAllowed": "Allerscay areway otnay allowedway tay eavelay away oicemailvay",
+                    "fwdToOperator": "Allerscay howay resspay 0ay uringday hetay oicemailvay reetinggay illway bay orwardedfay tay __exten__",
+                    "fwdToAutoAttendant": "Allerscay howay resspay 0ay uringday hetay oicemailvay reetinggay illway bay orwardedfay tay hetay Uto-Attendantaay"
+                },
+                "escalationProfile": "Oicemailvay Scalationeay Rofilepay",
+                "escalationProfileNone": "Onenay"
+            },
+            "mobileNumber": {
+                "title": "Ouyay avehay away eviceday unningray hetay Onnectcay obilemay lientcay",
+                "completeStep": "Leasepay ompletecay histay tepsay eforebay roceedingpay ithway allcay outingray etup.say",
+                "prompt": "Hatway isway hetay obilemay umbernay ofway hetay eviceday hereway youway installedway orway lanpay tay avehay hetay Onnectcay obilemay lientcay installed?way",
+                "noNumberOption": "may eviceday ithway Onnectcay obilemay lientcay illway otnay avehay away umbernay associatedway ithway itway",
+                "error": {
+                    "missingMobilityNumber": "Issingmay obilitymay umbernay",
+                    "invalidNumber": "Nvalidiay umbernay",
+                    "couldNotSaveServerData": "way ouldcay otnay avesay yourway hanges.cay"
+                }
+            },
+            "simulring": {
+                "availTitle": "Imultaneoussay Ingray Henway",
+                "incomingCall": "oay anway incomingway allcay ingray",
+                "myExtension": "may extensionway",
+                "alsoSimultaneouslyRing": "Lsoaay imultaneouslysay ingray hesetay umbersnay",
+                "numbersUsedEverywhere": "Hesetay umbersnay illway bay usedway everywhereway youway enableway imultaneoussay ingray",
+                "error": {
+                    "cannotBeTheSameNumber": "Ouyay annotcay useway hetay amesay entryway ultiplemay imestay"
+                }
+            },
+            "incomingCall": {
+                "availTitle": "Ncomingiay Allcay Orwardingfay Henway",
+                "prompts": {
+                    "incomingCall": "iay 'miay otnay ickingpay upway anway incomingway allcay atway",
+                    "myExtension": "may extensionway",
+                    "mobility": "Onnectcay obilemay lientcay",
+                    "simulRingNum": "__num__ (ay __label__ )ay "
+                },
+                "options": {
+                    "KeepRingingNumberAbove": "Eepkay ingingray hetay umbernay aboveway",
+                    "KeepRingingNumbersAbove": "Eepkay ingingray hetay umbersnay aboveway",
+                    "forwardTo": "Orwardfay hetay allcay tay ",
+                    "typeExtension": "ypetay anway extensionway erehay",
+                    "rings": "ingsray eforebay orwardingfay",
+                    "callStackForward": "ifway iay avehay oremay hantay __callStackDepth__ activeway allscay orwardfay immediatelyway tay ",
+                    "alwaysForward": "Lwaysaay orwardfay may allscay tay ",
+                    "voicemail": "oicemailvay",
+                    "someExtension": "omesay extensionway"
+                },
+                "error": {
+                    "missingForwardNumber": "Issingmay away orwardfay umbernay",
+                    "invalidNumber": "Nvalidiay umbernay",
+                    "externalNumbersNotAllowed": "Ouyay areway otnay allowedway tay orwardfay tay anway externalway umbernay",
+                    "local_number_only": "Leasepay enterway ocallay umbernay only.way",
+                    "local_or_national_only": "Ntereay ationalnay orway ocallay umbers.nay",
+                    "no_ext_cf_perms": "Ouyay areway otnay allowedway tay orwardfay tay anway externalway umbernay",
+                    "missing_tac": "Hetay runktay accessway odecay isway issing.may",
+                    "wrong_tac": "Hetay runktay accessway odecay isway incorrect.way",
+                    "cannot_assign_own_extension": "Ouyay annotcay assignway yourway ownway extension.way"
+                }
+            },
+            "findMe": {
+                "availTitle": "IndMefay Henway",
+                "options": {
+                    "findMeDisabled": "Isabled:day On'tday rytay tay IndMefay andway orwardfay hetay allcay tay oicemailvay",
+                    "findMeEnabled": "Nabled:eay Seuay may IndMefay ettingssay tay ontinuecay outingray hetay allcay"
+                },
+                "settings": {
+                    "FindMeSettings": "IndMefay Ettingssay",
+                    "settingsUsedEverywhere": "Hesetay ettingssay illway bay usedway hereverway IndMefay isway enabledway",
+                    "findMeBeforeVM": "Ingray may IndMefay umbersnay equentiallysay eforebay layingpay may oicemailvay",
+                    "playVM": "Laypay may oicemailvay irstfay",
+                    "callerPress1": "iay hetay allercay ressespay 1ay uringday hetay reetinggay hentay equentiallysay ingray may IndMefay umbersnay",
+                    "promptCaller": "Romptpay hetay allercay tay ecordray heirtay amenay",
+                    "findMeNumbersPrompt": "may IndMefay umbersnay hattay illway bay usedway equentiallysay",
+                    "settingsWarning": ":ay Utoaay onnectcay ettingssay day otnay applyway tay IndMefay"
+                }
+            },
+            "greetingRecording": {
+                "availTitle": "Oicemailvay Reeting:gay Ecordingray &ay Laybackpay Henway",
+                "prompts": {
+                    "line1": "Ouryay allerscay illway earhay away reetinggay henway heytay eachray yourway oicemail.vay",
+                    "line2": "Ecordray andway laybackpay yourway reetinggay ow.nay"
+                },
+                "warning": "Int:hay Ouyay avehay IndMefay urnedtay N.oay Sersuay ancay resspay 1ay uringday yourway oicemailvay reetinggay tay engageway IndMe.fay iay youway antway usersway tay nowkay aboutway histay apabilitycay youway houldsay entionmay itway inway yourway oicemailvay reeting.gay"
+            },
+            "greetingInteraction": {
+                "availTitle": "Reetinggay Ptionsoay Henway",
+                "prompt": "Reaay allerscay allowedway tay eavelay away oicemailvay afterway earinghay yourway reeting?gay",
+                "options": {
+                    "yes": "Es,yay allerscay ancay eavelay away oicemailvay",
+                    "no": "O,nay allerscay illway otnay bay ableway tay eavelay away oicemailvay"
+                },
+                "press0": "iay allerscay resspay 0''ay hileway isteninglay tay yourway reetinggay",
+                "forward": "Orwardfay allscay tay",
+                "autosuggestPrompt": "ypetay anway extensionway erehay",
+                "error": {
+                    "validInternalNumber": "Leasepay enterway away alidvay internalway umbernay"
+                }
+            },
+            "DND": {
+                "title": "Henway",
+                "condition": {
+                    "Always": "Lwaysaay orwardfay allway may allscay tay",
+                    "Never": "Evernay orwardfay may allscay"
+                },
+                "options": {
+                    "voicemail": "oicemailvay",
+                    "anotherExtension": "anotherway extensionway"
+                }
+            },
+            "powerOverview": {
+                "title": "may Owerpay Ulesray",
+                "buttons": {
+                    "create": "Reatecay Ewnay Owerpay Uleray"
+                },
+                "text": {
+                    "takesEffect": "Akestay effectway eforebay availabilityway outingray",
+                    "noRules": "Ouyay avehay nay owerpay ulesray"
+                }
+            },
+            "powerRouting": {
+                "title": "Uleray Amenay",
+                "buttons": {
+                    "numberMatches": "+ay umbernay atchesmay",
+                    "dialedNumber": "+ay ialedday umbernay",
+                    "availability": "+ay may availabilityway",
+                    "onPhone": "+ay onway hetay honepay",
+                    "time": "+ay imetay isway",
+                    "forward": "Orwardfay Allcay tay",
+                    "remove": "emoveray",
+                    "CreateRule": "Reatecay Uleray",
+                    "SaveRule": "Avesay Uleray",
+                    "Cancel": "Ancelcay",
+                    "Edit": "Diteay",
+                    "Delete": "Eleteday"
+                },
+                "text": {
+                    "When": "Henway",
+                    "Then": "Hentay",
+                    "ThenForwardCallTo": "Hentay orwardfay allcay tay",
+                    "and": "AND--ay",
+                    "or": "OR--ay",
+                    "enabled": "Nabledeay",
+                    "disabled": "Isabledday"
+                },
+                "numberRule": {
+                    "option": {
+                        "is": "Hetay umbernay isway",
+                        "internalNumber": "Hetay umbernay isway anyway internalway umbernay",
+                        "internalExt": "Hetay umbernay isway anway internalway extensionway tartingsay ithway",
+                        "anyExternalNumber": "Hetay umbernay isway anyway externalway umbernay",
+                        "externalNumber": "Hetay umbernay isway anway externalway umbernay tartingsay ithway",
+                        "private": "Hetay umbernay isway rivatepay",
+                        "outOfArea": "Hetay umbernay isway outway ofway area/unknownway"
+                    }
+                },
+                "dialedNumberRule": {
+                    "prompt": "Umbernay allercay ialedday tay eachray may isway"
+                },
+                "availabilityRule": {
+                    "prompt": "may availabilityway isway"
+                },
+                "onPhoneRule": {
+                    "prompt": "'miay onway hetay honepay"
+                },
+                "timeRule": {
+                    "prompts": {
+                        "time": "Imetay isway",
+                        "day": "Ayday",
+                        "from": "romfay",
+                        "to": "tay",
+                        "am": "amway",
+                        "pm": "pay"
+                    },
+                    "days": {
+                        "Monday": "Ondaymay",
+                        "Tuesday": "Uesdaytay",
+                        "Wednesday": "Ednesdayway",
+                        "Thursday": "Hursdaytay",
+                        "Friday": "Ridayfay",
+                        "Saturday": "Aturdaysay",
+                        "Sunday": "Undaysay"
+                    }
+                },
+                "forwardRule": {
+                    "vm": "may oicemailvay",
+                    "autoFindMe": "autoway IndMefay",
+                    "announcedFindMe": "announcedway IndMefay",
+                    "ringtone": "laypay ingtoneray",
+                    "SelectNumber": "Electsay Umbernay"
+                },
+                "error": {
+                    "alphaNumericOnly": "Nlyoay alphanumericway haracterscay areway allowedway",
+                    "numbersOnly": "Nlyoay umbersnay areway allowedway",
+                    "availabilityRequired": "Ouyay ustmay electsay atway eastlay oneway availabilityway tatesay",
+                    "ruleNameExceedsMaxLength": "Uleray amenay exceedsway __number__ haractercay imitlay",
+                    "missingDialedNumber": "Issingmay away ialedday umbernay",
+                    "dayOfWeekRequired": "Ouyay ustmay electsay atway eastlay oneway ayday ofway hetay eekway",
+                    "missingRuleName": "Issingmay uleray amenay",
+                    "missingConditions": "Issingmay onditionscay orfay histay uleray",
+                    "missingNumberMatch": "Issingmay away umbernay tay atchmay",
+                    "ruleNameAlreadyUsed": "Hetay amenay __name__''ay isway alreadyway eingbay usedway bay anotherway uleray",
+                    "timeError": "Hetay from''ay imetay ustmay bay eforebay hetay to''ay imetay",
+                    "dialedNumberExceedsLimit": "Ialedday umbernay exceedsway __number__ haractercay imitlay",
+                    "externalNumberOnly": "Histay ieldfay equiresray umbersnay andway +ay onlyway",
+                    "missingForwardNumber": "Issingmay away orwardfay umbernay",
+                    "invalidNumber": "Nvalidiay umbernay",
+                    "externalWildcardPlusStart": "Hetay +ay haractercay ancay onlyway appearway atway hetay eginningbay ofway hetay umbernay",
+                    "maxRules": "Ouyay avehay eachedray hetay aximummay umbernay ofway ules.ray Ouyay ustmay eleteday away uleray ifway youway antway tay reatecay away ule.ray",
+                    "externalNumbersNotAllowed": "Ouyay areway otnay allowedway tay orwardfay tay anway externalway umbernay",
+                    "emptyTimeError": "Hetay imetay ieldsfay annotcay bay emptyway"
+                }
+            }
+        },
+        "notifications": {
+            "tabs": {
+                "voicemail": "Oicemailvay",
+                "sounds": "Oundssay",
+                "popup": "Opuppay"
+            },
+            "voicemail": {
+                "label": {
+                    "emailAboutIncoming": "Endsay emailway otificationnay aboutway incomingway oicemailvay tay ",
+                    "attachWave": "Ttachaay oicemailvay asway away aveway ilefay",
+                    "markHeard": "Arkmay oicemailvay asway eardhay"
+                },
+                "message": {
+                    "incorrectemailerr": "Leasepay enterway away alidvay emailway address.way"
+                }
+            },
+            "popup": {
+                "title": {
+                    "incomingIM": "Ncomingiay iay",
+                    "incomingVoiceMail": "Ncomingiay Oicemailvay",
+                    "incomingCall": "Ncomingiay Allcay",
+                    "incomingScreenshare": "Ncomingiay Creensay Haresay"
+                },
+                "label": {
+                    "showForIncoming": "Howsay away ystemsay otificationnay orfay anway incomingway iay",
+                    "showForIncomingCall": "Howsay away ystemsay otificationnay orfay anway incomingway Allcay",
+                    "showForScreenShare": "Howsay away ystemsay otificationnay orfay incomingway Creensay Haresay",
+                    "showContent": "Howsay iay ontentcay inway hetay otificationnay",
+                    "keepOnScreen": "Eepkay otificationnay onway creensay orfay ",
+                    "showForVoicemail": "Howsay away ystemsay otificationnay orfay away oicemailvay",
+                    "numOfSeconds": " econdssay"
+                },
+                "buttons": {
+                    "configureViaOSXConfig": "Onfigurecay iavay oay xay Otificationnay Enter...cay"
+                }
+            },
+            "sounds": {
+                "mediaGenericError": "Heretay isway omesay roblempay usingway histay audioway ile.fay Leasepay rytay again.way",
+                "mediaSourceError": "Hetay audioway ourcesay ofway histay ilefay isway otnay upported.say",
+                "mediaDecodeError": "Heretay isway anway errorway hileway ecodingday histay audioway ile.fay",
+                "mediaNetworkError": "Heretay isway omesay errorway hileway ownloadingday histay audioway ile.fay",
+                "mediaAbortError": "Etchingfay ofway audioway ilefay asway abortedway bay hetay user.way",
+                "label": {
+                    "audioAlerts": "Udioaay Lertsaay",
+                    "forEvent": "Orfay eventway",
+                    "noAudioAlerts": "nay audioway alertway",
+                    "playAlert": "Laypay alertway",
+                    "on": "oay",
+                    "off": "FFoay"
+                },
+                "events": {
+                    "newVoicemail": "ewnay oicemailvay",
+                    "incomingInternalCall": "allcay romfay anway internalway umbernay",
+                    "incomingExternalCall": "allcay romfay anway externalway umbernay",
+                    "newConversation": "ewnay iay essagemay initiatingway away ewnay onversationcay",
+                    "existingConversation": "ewnay iay essagemay initiatingway anway existingway onversationcay",
+                    "incomingMonitoredCall": "onitoredmay allcay",
+                    "incomingSharedLineCall": "haredsay inelay allcay"
+                },
+                "buttons": {
+                    "removeSound": "Emoveray Oundsay",
+                    "addNewSound": "Ddaay Ewnay Oundsay"
+                },
+                "errors": {
+                    "wavFileOnly": "Nlyoay wav.ay ilesfay ancay bay electedsay"
+                }
+            }
+        },
+        "im": {
+            "tabs": {
+                "settings": "Annedcay iay Esponsesray",
+                "blocknotification": "Lockbay Otificationsnay"
+            },
+            "settings": {
+                "cannedImResponses": "Annedcay iay Esponsesray",
+                "imResponseInfo": "Ouyay ancay espondray ithway anway iay essagemay tay anway incomingway allcay romfay anotherway Itelmay ontact.cay Ddaay yourway ownway annedcay esponses.ray",
+                "addCannedResponse": "Ddaay Annedcay Esponseray",
+                "delete": "Eleteday"
+            },
+            "blockNotification": {
+                "blockNotificationInfo": "Lockbay incomingway iay otificationsnay orfay hesetay usersway uringday oneway onway oneway iay hat.cay",
+                "blockNotificationMessage": "Ouyay illway ontinuecay tay eceiveray incomingway iay otificationsnay orfay hesetay usersway uringday away roupgay hat.cay",
+                "SearchPrompt": "Ypetay ontactcay ame...nay"
+            }
+        },
+        "account": {
+            "tabs": {
+                "login": "Oginlay",
+                "access": "Ccessaay",
+                "exchange": "aay Redentialscay",
+                "mpv": "Ideovay Redentialscay",
+                "exchangeAccount": "Xchangeeay Ccountaay"
+            },
+            "login": {
+                "label": {
+                    "connection": "Onnectioncay",
+                    "connectedto": "Onnectedcay tay",
+                    "username": "Sernameuay",
+                    "signin": "Henway iay ignsay intoway may omputercay",
+                    "autostartoption": "automaticallyway tartsay Itelmay product<ay amenay bd>tay"
+                },
+                "form": {
+                    "title": "Hangecay Ewnay Asswordpay",
+                    "label": {
+                        "current": "Urrentcay",
+                        "new": "Ewnay",
+                        "retype": "Etyperay tay onfirmcay",
+                        "passwordstrength": "Trengthsay"
+                    },
+                    "message": {
+                        "passwordnotmatch": "Ewnay asswordspay enteredway on'tday atch.may",
+                        "samepassworderr": "Leasepay useway away ifferentday assword.pay",
+                        "successchangepassword": "Ouryay asswordpay isway uccessfullysay hanged.cay",
+                        "invalidcurrentpassword": "Ntereay away orrectcay urrentcay asswordpay",
+                        "changepassworderr": "Ouryay asswordpay asn'thay eenbay hanged.cay Leasepay rytay againway ater.lay",
+                        "charRestriction": "Asswordpay annotcay ontaincay \\b''ay orway \\n''ay",
+                        "charRestrictionForVoicemail": "Nlyoay umericalnay igitsday areway allowed.way",
+                        "good": "Oodgay",
+                        "weak": "Eakway",
+                        "strong": "Trongsay",
+                        "accountlockout": "Hetay accountway isway ockedlay outway",
+                        "passwordexpired": "Hetay user'sway asswordpay ashay expired,way andway ustmay bay hangedcay eforebay away ickettay ancay bay issuedway",
+                        "requirementnotmeet": "Hetay ewnay asswordpay uppliedsay bay hetay userway oesday otnay onformcay tay hetay ystem'ssay asswordpay equirementsray",
+                        "expiredoutside": "Hetay equestedray expiryway eriodpay isway outsideway hetay angeray ofway aluesvay allowedway bay hetay Uthenticatoraay",
+                        "runtimefail": "aay untimeray ailurefay occurredway hileway attemptingway tay avesay hetay ewnay asswordpay",
+                        "required": "Histay ieldfay isway equired.ray",
+                        "minlength": "Leasepay enterway atway eastlay __length__ haracters.cay",
+                        "maxlength": "Leasepay enterway nay oremay hantay __length__ haracters.cay",
+                        "passwordTooWeak": "Leasepay rytay away ewnay assword.pay Ouryay asswordpay trengthsay isway otnay trongsay enough.way"
+                    },
+                    "buttons": {
+                        "setnewpassword": "Etsay Ewnay Asswordpay"
+                    }
+                }
+            },
+            "access": {
+                "title": {
+                    "availabilityState": "Vailabilityaay Tatesay"
+                },
+                "label": {
+                    "allowState": "Llowaay hesetay usersway tay hangecay may availabilityway tatesay onway may ehalfbay",
+                    "sendClickDataToShoretel": "Es,yay iay antway tay elphay Itelmay uildbay etterbay roducts!pay Endsay anonymousway ataday tay Itel.may",
+                    "restartConnectforNewRelic": "Orfay hetay hangecay tay aketay effectway leasepay estartray yourway Onnectcay Lientcay",
+                    "automaticallyLaunchShoretel": "Utomaticallyaay aunchlay Itelmay Onnectcay henway tartingsay hetay omputercay"
+                },
+                "delegateContacts": {
+                    "SearchPrompt": "Ypetay ontactcay ame...nay"
+                }
+            },
+            "mpv": {
+                "title": {
+                    "manageMPVCredentials": "Anagemay Ultipointmay Ideovay Redentialscay"
+                },
+                "label": {
+                    "userName": "Seruay amenay",
+                    "password": "Asswordpay",
+                    "saveCredentials": "Avesay Redentialscay",
+                    "verifyCredentials": "Erifyingvay Redentialscay",
+                    "clearCredentials": "Learcay Redentialscay",
+                    "mpvDetailDesc": "Ouryay ultipointmay ideovay redentialscay illway bay usedway tay reatecay ideovay events.way"
+                },
+                "success": {
+                    "validCredentials": "Avedsay redentialscay uccessfully!say"
+                },
+                "error": {
+                    "validUsername": "Leasepay enterway away alidvay userway ame.nay",
+                    "validPassword": "Leasepay enterway away alidvay assword.pay",
+                    "invalidCredentials": "Erversay authenticationway error.way Leasepay rytay ewnay usernameway andway assword.pay",
+                    "unableToSave": "Ailedfay tay avesay redentials.cay Leasepay rytay again!way",
+                    "serverUnreachable": "Ailedfay tay onnectcay tay erver.say Leasepay rytay againway ater.lay"
+                }
+            },
+            "exchange": {
+                "title": {
+                    "manageExchangeCredentials": "Anagemay aay Redentialscay"
+                },
+                "label": {
+                    "detailDesc": "Ouryay aay redentialscay illway bay usedway tay authenticateway againstway Xchangeeay andway elphay youway reatecay ewnay events.way",
+                    "userName": "Seruay amenay",
+                    "password": "Asswordpay",
+                    "saveCredentials": "Avesay Redentialscay",
+                    "verifyCredentials": "Erifyingvay aay Redentials...cay",
+                    "unlinkCredentials": "Nlinkuay Itelmay Onnectcay romfay Xchangeeay",
+                    "linkExchange": "Inklay Xchangeeay Ccountaay"
+                },
+                "error": {
+                    "exchangePending": "way areway erifyingvay yourway aay redentials.cay Leasepay omecay ackbay ater.lay",
+                    "exchangeLoginFailed": "Erversay error.way Leasepay ontactcay yourway ystemsay administrator.way",
+                    "exchangeUnknown": "Ouryay Xchangeeay erversay isway otnay etsay up.way Leasepay ontactcay yourway ystemsay administratorway",
+                    "exchangeAuthenticationFailed": "Xchangeeay erversay authenticationway error.way Leasepay rytay ewnay usernameway andway assword.pay",
+                    "exchangeTimeout": "Imeout.tay",
+                    "validUsername": "Leasepay enterway away alidvay userway ame.nay",
+                    "validPassword": "Leasepay enterway away alidvay assword.pay",
+                    "unlinkMsg": "Leasepay estartray hetay lientcay orfay unlinkway tay aketay effect.way",
+                    "alreadyLogin": "Ouyay areway urrentlycay oggedlay inway ithway Itelmay Onnectcay redentials.cay"
+                }
+            }
+        },
+        "video": {
+            "tabs": {
+                "permissions": "Ermissionspay",
+                "camera": "Ameracay Etupsay"
+            },
+            "permissions": {
+                "description": "Henway iay oinjay away onversationcay hereway hetay otherway artypay isway usingway heirtay ameracay",
+                "auto": "Utomaticallyaay tartsay may ameracay ithoutway askingway",
+                "ask": "Skaay may ifway iay antway tay useway may ameracay",
+                "never": "Evernay askway e,may 'lliay urntay hetay ameracay oay yselfmay"
+            },
+            "camera": {
+                "choose": "Electsay hetay ideovay eviceday youway antway tay useway orfay ideovay allscay",
+                "adjust": "Djustaay Ameracay Ettings...say",
+                "preview": "Reviewpay ofway hetay electedsay ideovay eviceday",
+                "startVideoError": "Rroreay tartingsay ideovay orfay electedsay evice.day",
+                "checkDevice": "Leasepay heckcay hetay eviceday",
+                "cameraSettingError": "Rroreay tartingsay Ameracay Ettingssay"
+            }
+        },
+        "deskphone": {
+            "labels": {
+                "language": "Anguagelay orfay Eskphoneday andway Oicemailvay enumay",
+                "wallpaper": "Allpaperway",
+                "ringtone": "Ingtoneray"
+            },
+            "dropdown": {
+                "standardring": "Tandardsay Ingray",
+                "ring2": "Ingray 2ay",
+                "ring3": "Ingray 3ay",
+                "ring4": "Ingray 4ay",
+                "none": "Onenay"
+            }
+        },
+        "voicemail": {
+            "title": {
+                "playback": "Laybackpay",
+                "setup": "Etupsay",
+                "escalation": "Scalationeay",
+                "outlook": "Utlookoay"
+            },
+            "playback": {
+                "label": {
+                    "playEnvelopeInfo": "Laypay envelopeway informationway henway isteninglay tay essagesmay"
+                }
+            },
+            "setup": {
+                "title": {
+                    "changeVoicemailPassword": "Hangecay Oicemailvay Asswordpay",
+                    "recordDefaultGreeting": "Ecordray Amenay Orfay Efaultday Oicemailvay Reetinggay"
+                },
+                "label": {
+                    "recordNewGreeting": "Ecordray Ewnay Reetinggay",
+                    "recordNewName": "Ecordray Ewnay Amenay"
+                },
+                "error": {
+                    "saveError": "Heretay isway anway issueway avingsay yourway reeting.gay Ouryay reetinggay isway otnay aved.say"
+                }
+            },
+            "escalation": {
+                "options": {
+                    "header": "Oicemailvay Scalationeay Ptions:oay",
+                    "description": "Histay optionway ettingsay illway applyway tay allway oicemailvay escalationway rofilespay youway addedway elow.bay",
+                    "firstUnheardOption": "Otifynay orfay irstfay unheardway essagemay",
+                    "eachNewMessageOption": "Otifynay orfay eachway ewnay essagemay"
+                },
+                "profiles": {
+                    "header": "Oicemailvay Scalationeay Rofiles:pay",
+                    "description": "Ddaay rofilespay tay ustomizecay yourway ownway oicemailvay escalationway outes.ray"
+                },
+                "deleteProfileDialog": "Eleteday Rofilepay",
+                "addNewProfile": "Ddaay Ewnay Rofilepay",
+                "editExistingProfile": "Diteay Rofilepay",
+                "ProfileDefaultName": "Rofilepay",
+                "NumberColHeader": "Umbernay",
+                "NameColHeader": "Rofilepay Amenay",
+                "editProfile": "Diteay",
+                "deleteProfile": "Eleteday",
+                "NofifyFirstMessage": "Otifynay orfay irstfay unheardway essagemay",
+                "NotifyEveryMessage": "Otifynay orfay eachway ewnay essagemay",
+                "profile": {
+                    "name": "Rofilepay Amenay",
+                    "cancel": "Ancelcay",
+                    "add": "Ddaay",
+                    "update": "Pdateuay",
+                    "repeatTimes": "Epeatray Imestay",
+                    "repeatTimesPlaceholder": "Axmay 002ay",
+                    "namePlaceholder": "Ntereay rofilepay amenay",
+                    "addStep": "Ddaay Tepsay",
+                    "deleteStep": "Eleteday tepsay",
+                    "step": {
+                        "sendNotificationEmail": "Endsay emailway otificationnay",
+                        "attachWaveFile": "Ttachaay Aveway Ilefay",
+                        "sendPhoneNotifications": "Endsay honepay otificationsnay",
+                        "thisNumberIsAPager": "Histay umbernay isway away agerpay",
+                        "enterEmailAddress": "Ntereay emailway addressway",
+                        "enterPhoneNumber": "Ntereay honepay umbernay",
+                        "enterPagerId": "Ntereay agerpay iay",
+                        "enterPagerData": "Ntereay agerpay ataday",
+                        "timeout": "Imeouttay",
+                        "max3600": "Axmay 6003ay",
+                        "minutes": " Inutesmay",
+                        "notifyUrgentVoicemailsOnly": "Otifynay orfay urgentway oicemailsvay onlyway"
+                    },
+                    "validation": {
+                        "profileName": "Rofilepay amenay equired.ray",
+                        "profileNameExists": "Rofilepay amenay alreadyway exists.way",
+                        "email": "Maileay addressway equired.ray",
+                        "invalidEmail": "Nvalidiay emailway address.way",
+                        "phone": "Honepay umbernay equired.ray",
+                        "invalidPhoneNumber": "Nvalidiay honepay umber.nay",
+                        "cannotUseDIDNumber": "Leasepay day otnay enterway yourway ownway officeway umber.nay",
+                        "atLeastOneNotification": "aay eastlay oneway ypetay ofway otificationnay isway equired.ray",
+                        "invalidData": "Nvalidiay ata.day Agerpay D/dataiay onlyway allowsway igits,day ommas,cay paces,say arentheses,pay yphens.hay"
+                    }
+                }
+            },
+            "outlook": {
+                "title": {
+                    "outlookIntegration": "Utlookoay Ntegrationiay"
+                },
+                "label": {
+                    "showVoicemailInOutlook": "Howsay may oicemailsvay inlineway inway may Utlookoay inboxway"
+                }
+            }
+        },
+        "telephony": {
+            "label": {
+                "concurrentCalls": "Aximummay umbernay ofway oncurrentcay allscay",
+                "dialOut": "Ialday Utoay Refixpay",
+                "suppressCallWaiting": "Uppresssay allcay aitingway onetay henway 'miay onway away allcay",
+                "suppressDialTone": "Uppresssay ialday onetay henway 'miay off-hookway inway eadsethay odemay onway away eskphoneday",
+                "autoCloseConversationPanel": "Losecay ontactcay ardcay afterway allcay endsway",
+                "showAccessToRoutingSlipAndCallNotes": "Howsay accessway tay outingray lipsay andway allcay otenay orfay eachway allcay inway hetay ashboardday"
+            }
+        },
+        "softphone": {
+            "label": {
+                "captureAudioThrough": "Apturecay audioway hroughtay",
+                "enableAutoRegister": "oay tartupsay assignway may tay may oftphonesay",
+                "enableAutoGainControl": "Nableeay autoway aingay ontrolcay"
+            }
+        },
+        "language": {
+            "label": {
+                "deskphoneVoicemailMenu": "Eskphoneday &ay oicemailvay enusmay",
+                "phoneReboot": "Equiresray away honepay ebootray",
+                "clientLanguage": "iay antway tay useway histay applicationway inway",
+                "restartConnect": "tay witchsay hetay anguagelay leasepay estartray yourway Onnectcay Lientcay"
+            },
+            "clientlanguages": {
+                "englishUS": "Nglisheay US)(ay",
+                "englishUK": "Nglisheay UK)(ay",
+                "spanish": "españolway",
+                "french": "rançaisfay",
+                "german": "Eutschday",
+                "swedish": "Venskasay",
+                "chinese": "Hinesecay Simplified)(ay"
+            },
+            "deskphoneVoiceMainDropDown": {
+                "1": "Nglisheay US)(ay",
+                "2": "españolway España)(ay",
+                "3": "Eutschday",
+                "4": "Nglisheay UK)(ay",
+                "5": "rançaisfay",
+                "6": "Ederlandsnay",
+                "7": "Spañoleay CALA)(ay",
+                "8": "Anskday",
+                "9": "Talianoiay",
+                "10": "Venskasay",
+                "11": "Hinesecay Simplified)(ay",
+                "12": "Orsknay",
+                "13": "Ortuguêspay Brasil)(ay",
+                "14": "Apanesejay",
+                "15": "Oreankay",
+                "16": "Hinese(Hongcay Ong)kay",
+                "17": "Hinesecay Traditional)(ay",
+                "18": "Ortuguêspay Portugal)(ay",
+                "23": "Nglisheay Australia)(ay",
+                "26": "Ebrewhay",
+                "27": "rançaisfay anadiencay "
+            }
+        }
+    },
+    "title": {
+        "activeCall": "Ctiveaay Allcay",
+        "back": "Ackbay",
+        "callNote": "Allcay Otenay",
+        "domain": "Omainday",
+        "duration": "Urationday",
+        "email": "Maileay",
+        "emailOrUsername": "Maileay oay Sernameuay",
+        "forwarded": "Orwardedfay",
+        "guid": "UIDgay",
+        "inProgress": "iay Rogresspay",
+        "login": "Oginlay",
+        "logIn": "Oginlay",
+        "loggingIn": "Ogginglay iay",
+        "newPassword": "Ewnay Asswordpay",
+        "origin": "Riginoay",
+        "password": "Asswordpay",
+        "private": "Rivatepay",
+        "retypePassword": "Etyperay Asswordpay",
+        "routingSlip": "Outingray Lipsay",
+        "savePassword": "Avesay Asswordpay",
+        "server": "Erversay",
+        "strength": "Trengthsay",
+        "showSupportInfo": "+ay Upportsay Nfoiay",
+        "hideSupportInfo": "-ay Idehay Upportsay Nfoiay",
+        "to": "tay",
+        "urgent": "Rgentuay",
+        "useAD": "Seuay Ctiveaay Irectoryday",
+        "username": "Sernameuay",
+        "voiceMessage": "Oicevay Essagemay",
+        "dnis": "NISday",
+        "accountCode": "Ccountaay Odecay"
+    },
+    "authportal": {
+        "login": {
+            "loadingHeaderText": "Anghay Ight.tay",
+            "authPortalSigningIn": "Igningsay N...iay",
+            "loadingTextToConnectClient": "way areway edirectingray youway tay Itelmay Onnectcay applicationway",
+            "signIn": "Ignsay iay",
+            "signInText": "Ignsay inway tay ontinuecay tay Itelmay Onnectcay"
+        }
+    },
+    "login": {
+        "changeCreds": "Rytay aay Ifferentday Maileay oay Asswordpay",
+        "emailOrUsername": "Maileay orway usernameway",
+        "optional": "Ptionaloay orfay addedway ecuritysay",
+        "setNewPassword": "Avesay &ay Oginlay",
+        "emailPlaceholder": "Maileay (ay ame@example.comnay )ay",
+        "passwordPlaceholder": "Asswordpay",
+        "newPasswordPlaceholder": "Reatecay away ewnay asswordpay",
+        "retypePasswordPlaceholder": "Etyperay hetay asswordpay",
+        "showAdvanced": "Howsay advancedway",
+        "signingIn": "Igningsay iay",
+        "splash": "Rilliantlybay Implesay",
+        "rememberThis": "Ememberray may",
+        "useWindowsCredentials": "Seuay Indowsway Redentialscay",
+        "help": "Elphay",
+        "passwordRequirement": "Asswordpay Equirementsray",
+        "charcterLimitText": "Etweenbay 8ay andway 2ay haracterscay",
+        "specialCharText": "aay eastlay oneway pecialsay haractercay (ay #ay $ay %ay &ay _ay -ay =ay +ay",
+        "numberLetterText": "aay eastlay oneway umbernay andway etterlay",
+        "noSpaceText": "nay pacessay",
+        "error": {
+            "adAuthNotSupported": "Utomaticaay oginlay usingway indowsway redentialscay romfay outsideway hetay orporatecay etworknay isway otnay available.way Leasepay enterway enterway yourway Onnectcay lientcay usernameway andway asswordpay tay ogin.lay",
+            "adExpired": "Ouryay Ctiveaay Irectoryday redentialscay avehay expired,way leasepay updateway hemtay andway rytay again.way",
+            "blankDomain": "Omainday equired.ray",
+            "blankPassword": "Asswordpay equired.ray",
+            "blankServer": "Erversay addressway equired.ray",
+            "blankUsername": "Sernameuay equired.ray",
+            "cantFindServer": "tay ignsay inway way alsoway eednay tay nowkay yourway erver.say",
+            "cantLogIn": "Ithereay yourway username,way assword,pay orway erversay idn'tday atch.may Leasepay rytay again.way",
+            "cantLogInLocked": "Hetay username,way asswordpay orway erversay idn'tday atchmay orway hetay accountway isway ockedlay out.way Leasepay aitway andway rytay again.way",
+            "phoneOnlyLogIn": "Ouyay areway otnay authorizedway tay accessway Onnectcay lientcay asedbay onway yourway urrentcay ervicesay lan.pay ",
+            "certError": "Nableuay tay oginlay ecausebay away erversay espondedray ithway anway invalidway ecuritysay ertificate.cay",
+            "homeServerConfiguration": "Ouryay AScay omehay erversay appearsway tay bay improperlyway onfigured,cay leasepay ontactcay upport.say",
+            "passwordChange": "Asswordpay expired.way Leasepay reatecay away ewnay assword.pay",
+            "passwordExpired": "Asswordpay expired.way",
+            "passwordCreateNew": "Leasepay reatecay away ewnay assword.pay",
+            "passwordMismatch": "Asswordspay on'tday atch.may Leasepay rytay again.way",
+            "passwordNotNew": "Ouryay ewnay asswordpay ustmay bay ifferentday romfay yourway oldway assword.pay",
+            "passwordTooLong": "Ncorrectiay assword.pay Leasepay rytay again.way",
+            "passwordTooShort": "Ouryay ewnay asswordpay annotcay bay underway __length__ haracters.cay",
+            "twoDomains": "On'tday includeway away omainday asway artpay ofway hetay username.way",
+            "unableToReachServer": "Nableuay tay eachray yourway erversay atway __server__.",
+            "unableToReachServerGeneric": "Nableuay tay eachray yourway erver.say",
+            "accountLockedOut": "Hetay accountway isway ockedlay out.way"
+        },
+        "passwordStrength": {
+            "weak": "Eakway",
+            "okay": "Ediummay",
+            "good": "Trongsay"
+        },
+        "name": "AMEnay",
+        "email": "MAILeay",
+        "password": "EETINGmay ASSWORDpay",
+        "signin": "Ignsay iay",
+        "invalid": "Nvalidiay Assword.pay Leasepay rytay again.way"
+    },
+    "routeSlip": {
+        "0": "Ullnay",
+        "1": "Irectday",
+        "2": "Allcay orwarded,fay usybay ignal.say",
+        "3": "Allcay orwarded,fay nay answer.way",
+        "4": "Allcay orwardedfay automaticallyway",
+        "5": "Allcay ickedpay bay __party1__.",
+        "6": "Allcay unparkedway romfay __party1__.",
+        "7": "Allcay edirectedray romfay __party1__ tay __party2__.",
+        "8": "Allcay ompleted.cay",
+        "9": "__party1__ ransferredtay allcay tay __party2__.",
+        "10": "Eminderray",
+        "11": "Nknownuay",
+        "12": "Navailableuay",
+        "13": "Ntrudediay bay __party1__",
+        "14": "Allcay arkedpay onway __party2__.",
+        "15": "__party1__ ampedcay onway __party2__.",
+        "16": "Outeray equestray",
+        "17": "__party1__ alledcay __party2__.",
+        "18": "Allcay orwardedfay romfay __party1__ tay __party2__.",
+        "19": "Allcay originatedway ithway __party2__.",
+        "20": "__party2__ asway onferencedcay in.way",
+        "21": "Ouldn'tcay unpark;way Allcay eturnedray",
+        "22": "__party1__ ilentsay onitoredmay __party2__.",
+        "23": "__party1__ argedbay inway onway __party2__'s all.cay",
+        "24": "__party1__ ecordedray all.cay",
+        "25": "__party1__ asway onferencedcay in.way",
+        "26": "__party1__ hisperway agedpay __party2__.",
+        "27": "__party1__ intercomway alledcay __party2__.",
+        "28": "__party1__ ilentsay oachedcay __party2__.",
+        "29": "__party1__ asway onferencedcay in.way",
+        "30": "__party1__ oinedjay __party2__'s ad-hocway onference.cay",
+        "31": "Riginatedoay allcay",
+        "32": "Oinedjay onferencecay",
+        "33": "Alledcay __party2__",
+        "34": "answeredway onway __party2__",
+        "35": " __party1__ ovedmay allcay tay __party2__",
+        "-5": "__party2__ toppedsay ecordingray hetay allcay ithway __party1__.",
+        "-4": "__party2__ tartedsay ecordingray hetay allcay ithway __party1__.",
+        "-3": "Allcay isconnected.day",
+        "-2": "Allcay erminated.tay",
+        "-1": "Allcay outedray tay __party1__"
+    },
+    "presence": {
+        "chm": {
+            "Offline": "Fflineoay",
+            "Available": "Vailableaay",
+            "InAMeeting": "iay away eetingmay",
+            "OutOfOffice": "Utoay ofway officeway",
+            "Vacation": "oay acationvay",
+            "Custom": "Ustom...cay",
+            "Variable": "Ustom...cay",
+            "DoNotDisturb": "day otnay isturbday",
+            "DND": "day Otnay Isturbday",
+            "undefined": "Nknownuay"
+        },
+        "availability": {
+            "offline": "Fflineoay",
+            "not-available": "Otnay Vailableaay",
+            "busy": "Usybay",
+            "available": "Vailableaay",
+            "on-the-phone": "oay hetay honepay"
+        },
+        "OnThePhone": "oay Hetay Honepay",
+        "Ringing": "Ingingray",
+        "ChangeAvailibility": "Hangecay Vailabilityaay"
+    },
+    "PhoneCurrentAssignment": {
+        "UnAssign": "nay Eskphoneday",
+        "Assigned": "Ssignedaay Eskphoneday",
+        "Deskphone": "Eskphoneday",
+        "Softphone": "Oftphonesay",
+        "External": "Xternaleay",
+        "dashboard": {
+            "softphone": "Oftphonesay",
+            "deskphone": "Eskday honepay",
+            "external": "Xternaleay umbernay",
+            "none": "Otnay assignedway"
+        }
+    },
+    "contactCard": {
+        "privateUser": "Rivatepay Seruay",
+        "group": "Roupgay",
+        "muteGroup": "Utemay roupgay",
+        "unMuteGroup": "Nmuteuay roupgay",
+        "hideInfo": "-ay Idehay Nfoiay",
+        "newContact": "Reatecay Ewnay Ontactcay",
+        "showInfo": "+ay Nfoiay",
+        "showInfoTab": "Nfoiay",
+        "editContact": "Diteay",
+        "deleteContact": "Eleteday",
+        "address": "DDRESSaay",
+        "members": "embersmay",
+        "member": "embermay",
+        "typeimmsg": "Ypetay away essagemay ere...hay",
+        "noparticipants": "Heretay areway nay articipantspay inway histay roup.gay",
+        "offlineparticipents": "Fflineoay roupgay embersmay aymay otnay eceiveray essages.may",
+        "conference": {
+            "bringIntoMeeting": "Ringbay Ntoiay Eetingmay",
+            "callAttendee": "Allcay Ttendeeaay",
+            "messageAttendee": "Essagemay Ttendeeaay",
+            "kickOutOfMeeting": "Ickkay Utoay oay Eetingmay",
+            "muteUnmute": "Ute/Unmutemay attendeeway",
+            "kickOut": "Ickkay outway attendeeway"
+        },
+        "showFiles": "Howsay Ilesfay __numFiles__(ay attached)way",
+        "hideFiles": "Idehay Ilesfay __numFiles__(ay attached)way",
+        "searchingContactCard": "Earchingsay Onversationcay Istoryhay",
+        "noSearchMatchFound": "nay Esultsray Oundfay",
+        "accept": "Cceptaay",
+        "reject": "Ejectray",
+        "parked": "Arkedpay",
+        "participantLikeToShare": "__participant__ ouldway ikelay tay haresay heirtay creen.say",
+        "participantsRequestedToShare": "Hosetay articipantspay ouldway ikelay tay haresay heirtay creen.say",
+        "attendees": "Ttendeesaay",
+        "loadingAttendees": "oadinglay attendees...way",
+        "groups": {
+            "everything": "Verythingeay",
+            "calls": "Allscay",
+            "voicemails": "Oicemailsvay",
+            "messages": "Essagesmay"
+        },
+        "searchConversation": "Earchsay histay onversationcay",
+        "searchConversations": "Earchsay allway onversationscay",
+        "dnis": "Dialed][ay  __dnis__",
+        "workGroupName": "WG][ay  __name__",
+        "huntGroupName": "HG][ay  __name__",
+        "deleteContactTitle": "Eleteday Ontactcay",
+        "deleteContactQuery": "Ouldway youway ikelay tay eleteday histay ontact?cay",
+        "buddyCallStack": {
+            "incoming": "Incoming][ay",
+            "connected": "Connected][ay",
+            "onHold": "On[ay Old]hay",
+            "parked": "Parked][ay",
+            "incomingCallSingle": "__counter__ incomingway allcay",
+            "connectedCallSingle": "__counter__ onnectedcay allcay",
+            "onHoldCallSingle": "__counter__ onway oldhay allcay",
+            "parkedCallSingle": "__counter__ arkedpay allcay",
+            "incomingCallsMulti": "__counter__ incomingway allscay",
+            "connectedCallsMulti": "__counter__ onnectedcay allscay",
+            "onHoldCallsMulti": "__counter__ onway oldhay allscay",
+            "parkedCallsMulti": "__counter__ arkedpay allscay"
+        },
+        "SharinginProgress": "Creensay haresay alreadyway inway rogress.pay tay ontinue,cay leasepay losecay andway rytay againway"
+    },
+    "contactPointType": {
+        "phoneNumberType": {
+            "extension": "extensionway",
+            "im": "iay",
+            "did": "IDday",
+            "business": "usinessbay",
+            "work": "orkway",
+            "mobile": "obilemay",
+            "mobile2": "obilemay 2ay",
+            "pager": "agerpay",
+            "home": "omehay",
+            "primary": "rimarypay",
+            "business2": "usinessbay 2ay",
+            "work2": "orkway 2ay",
+            "company": "ompanycay",
+            "assistance": "assistantway",
+            "callback": "allbackcay",
+            "car": "arcay",
+            "home2": "omehay 2ay",
+            "other": "otherway",
+            "speedDial": "peedsay ialday",
+            "email": "emailway",
+            "email2": "emailway 2ay",
+            "email3": "emailway 3ay",
+            "fax": "officeway axfay",
+            "homefax": "omehay axfay",
+            "primaryfax": "otherway axfay",
+            "isdn": "isdnway",
+            "radio": "adioray",
+            "telex": "elextay",
+            "ttytdd": "ty/tddtay",
+            "pdl": "ersonalpay istributionday istlay",
+            "null": "unknownway",
+            "default": "usinessbay"
+        },
+        "im": "iay",
+        "extension": "XTENSIONeay",
+        "email": "MAILeay",
+        "phone": "HONEpay UMBERnay",
+        "fax": "AXfay",
+        "other": "THERoay",
+        "unknown": "Nknownuay"
+    },
+    "groupdetail": {
+        "NewGroup": "Ewnay Roupgay",
+        "SearchPrompt": "Ragday orway ypetay ontactcay amenay erehay",
+        "Cancel": "Ancelcay",
+        "SaveChanges": "Avesay Hangescay",
+        "Name": "Amenay",
+        "People": "Eoplepay",
+        "Group": "Roupgay",
+        "InvalidGroupName": "Leasepay amenay yourway roup.gay",
+        "EmptyGroupError": "Leasepay addway atway eastlay oneway ontact.cay",
+        "IsAlreadyGroup": "Heretay isway alreadyway away roupgay alled.cay",
+        "PickAnotherName": "Leasepay ickpay anotherway ame.nay",
+        "DiscardChanges": "Losingcay histay indowway illway iscardday yourway hanges.cay",
+        "groupName": "Roupgay Amenay",
+        "members": "Embersmay",
+        "deleteGroup": "Eleteday Roupgay",
+        "groupMembers": "Roupgay Embersmay",
+        "create": "Reatecay",
+        "save": "Avesay",
+        "delete": "Eleteday",
+        "groupNameRequired": "Roupgay amenay equired.ray",
+        "groupMembersRequired": "Roupgay embersmay areway equired.ray"
+    },
+    "groupitem": {
+        "StartGroupChat": "Tartsay Hatcay",
+        "ScheduleMeeting": "Chedulesay Eetingmay",
+        "GroupVoicemail": "Endsay Oicemailvay",
+        "Members": "Embersmay",
+        "EditGroup": "Diteay Roupgay"
+    },
+    "personal_directory": {
+        "Cancel": "Ancelcay",
+        "SaveChanges": "Avesay Hangescay tay Ontactcay",
+        "AddContact": "Reatecay",
+        "JobTitle": "Itletay",
+        "Company": "Ompanycay",
+        "Name": "Amenay",
+        "FirstName": "Irstfay Amenay",
+        "MiddleName": "Iddlemay Amenay",
+        "LastName": "Astlay Amenay",
+        "CompanyName": "Ompanycay",
+        "Department": "Epartmentday",
+        "Business": "Usinessbay",
+        "Mobile": "Obilemay",
+        "Pager": "Agerpay",
+        "HomeNumber": "Omehay Umbernay",
+        "Fax": "Axfay",
+        "Email": "Maileay",
+        "IM": "iay",
+        "Address": "Ddressaay",
+        "City": "Itycay",
+        "Country": "Ountrycay",
+        "State": "Tatesay",
+        "Zip": "Ipzay",
+        "Type": "Ypetay",
+        "Home": "Omehay",
+        "Assistant": "Ssistantaay",
+        "AddNumber": "Add+ay",
+        "discardChanges": "Iscardday Hangecay",
+        "numbers": "Honepay Umbernay",
+        "createContact": "Ewnay Ontactcay",
+        "editContact": "Diteay Ontactcay",
+        "contactInfo": "Ontactcay Nfoiay",
+        "work": "Orkway",
+        "number": "Umbernay",
+        "firstNameError": "Irstfay amenay equired.ray",
+        "save": "Avesay",
+        "deleteContact": "Eleteday Ontactcay",
+        "deleteContactNotification": "Ouldway youway ikelay tay eleteday __selectedContact__?",
+        "phoneNumError": "Ustmay bay umbersnay only.way",
+        "emptyFieldsError": "Mail,eay iay orway honepay umbernay isway equired.ray"
+    },
+    "messagebox": {
+        "No": "nay",
+        "Yes": "Esyay",
+        "Add": "Ddaay",
+        "OK": "oay",
+        "msg": "day youway antway tay avesay asway away Raft?day",
+        "Cancel": "Ancelcay",
+        "Keep": "Eepkay",
+        "Delete": "Eleteday",
+        "Remove": "Emoveray",
+        "SaveChanges": "Avesay Hangescay",
+        "FirstName": "Irstfay Amenay",
+        "MiddleName": "Iddlemay Amenay",
+        "LastName": "Astlay Amenay",
+        "CompanyName": "Ompanycay Amenay",
+        "Department": "Epartmentday",
+        "Business": "Usinessbay",
+        "Mobile": "Obilemay",
+        "Pager": "Agerpay",
+        "HomeNumber": "Omehay Umbernay",
+        "Fax": "Axfay",
+        "Email": "Maileay",
+        "IM": "iay",
+        "groupdetail": "day youway antway tay avesay asway away Raft?day",
+        "contactsCantRcvVM": "__numContacts__ ofway hetay ontactscay electedsay an'tcay eceiveray away Oicemail.vay day youway tillsay antway tay ontinue?cay",
+        "deleteGroup": "Ouldway youway ikelay tay eleteday __groupname__?",
+        "deleteProfile": "Ouldway youway ikelay tay eleteday __profileName__?",
+        "errormsg": "aay eastlay oneway amenay isway andatorymay ",
+        "numbererrormsg": "aay eastlay oneway umbernay isway andatorymay ",
+        "keepmeeting": "Eepkay Eetingmay",
+        "cancelmeeting": "Ancelcay Eetingmay",
+        "DeleteRecording": "Eleteday Ecordingray",
+        "CancelDeleteRecording": "Ancelcay",
+        "discardPopupHeader": "Iscardday Hangecay",
+        "recurringMeetingConfirmationHeader": "Pdateuay Hangescay",
+        "discardchanges": "Iscardday",
+        "canceldiscard": "Ancelcay",
+        "cancelDeleteContact": "Ancelcay Eleteday",
+        "confirmDeleteContact": "Eleteday Ontactcay",
+        "updateClient": "Ouyay antway tay updateway hetay lient?cay",
+        "updateClientAdmistrative": "Ontactcay admistratorway tay upgradeway yourway lientcay",
+        "dontAddEmailToRecord": "On'tday Ddaay Maileay tay Ecordray",
+        "addEmailToRecord": "Ddaay Maileay tay Ecordray",
+        "addEmailTitle": "Ddaay Maileay",
+        "addEmailMessage": "Ouldway youway ikelay tay addway ewnay emailway informationway orfay histay ontact?cay",
+        "doYouWantToDiscardChanges": "day youway antway tay iscardday hanges?cay",
+        "downloadProgress": "Ownloading....day",
+        "dontSend": "On'tday Endsay",
+        "sendAnyway": "Endsay Nywayaay",
+        "continue": "Ontinuecay",
+        "voicemail": "Oicemailvay",
+        "one": "Neoay",
+        "some": "Omesay",
+        "groupVoicemailMsg": "ofway hetay ontactscay electedsay annotcay eceiveray hetay oicemail.vay Reaay youway uresay youway ouldway ikelay tay roceed?pay"
+    },
+    "editprofile": {
+        "Cancel": "Ancelcay",
+        "ok": "oay",
+        "yes": "Esyay",
+        "SaveChanges": "Avesay"
+    },
+    "userconf": {
+        "Extn": "Xtensioneay",
+        "number": "Ial-inday Nfoiay",
+        "pcode": "Articipantpay Odecay",
+        "hcode": "Rganizeroay Odecay",
+        "password": "Asswordpay",
+        "link": "Inklay",
+        "clipbrd": "Opycay tay Lipboardcay",
+        "copiedToClipboard": "Opiedcay tay Lipboardcay",
+        "event": "Oinjay may Venteay Ownay",
+        "screenshare": "Iewvay Creensay Haresay",
+        "copy": "Opycay",
+        "edit": "Diteay",
+        "sharingName": "isway haringsay heirtay creensay",
+        "additionalCallingInfoLabel": "Dditionalaay Allingcay Nfoiay"
+    },
+    "profile": {
+        "edit": "Diteay",
+        "preferences": "Referencespay",
+        "uploadPicture": "Ploaduay Icturepay",
+        "changePicture": "Hangecay Icturepay",
+        "removePicture": "Emoveray Icturepay",
+        "passignment": "Rimarypay Ssignmentaay",
+        "confbridge": "may Onferencecay Ridgebay",
+        "phones": "may Honespay",
+        "artefact": "Rtefactaay",
+        "settings": "Ettingssay",
+        "addNewBridge": "Ddaay Ewnay Onferencecay Ridgebay",
+        "editBridge": "Diteay Onferencecay Ridgebay",
+        "loadingReservationLessConferences": "Oading...lay"
+    },
+    "peoplelist": {
+        "fetching": "Etchingfay Avorites...fay",
+        "groups": {
+            "Favorites": "Avoritesfay",
+            "fetching": "Etchingfay Roups...gay"
+        },
+        "menu": {
+            "addToGroup": "Ddaay Ontactcay tay Roupgay",
+            "addContactsToGroup": "Ddaay Ontactscay tay Roupgay",
+            "sendVoicemail": "Endsay Oicemailvay",
+            "sendIM": "Endsay iay",
+            "createConference": "Chedulesay Onferencecay",
+            "call": "Ialday",
+            "sort": "Ortsay"
+        },
+        "people": {
+            "Availability": "Vailabilityaay",
+            "LastContact": "Astlay Ontactcay",
+            "All": "Llaay",
+            "MyOrder": "may Rderoay",
+            "LastName": "Astlay Amenay",
+            "FirstName": "Irstfay Amenay"
+        },
+        "tooltips": {
+            "hasParkedCall": "Ontactcay ashay arkedpay allscay"
+        },
+        "SearchByNameOrExt": "Earchsay bay amenay orway extway",
+        "dropMenu": {
+            "transfer": {
+                "blind": "Lindbay Ransfertay",
+                "consult": "Onsultcay Ransfertay",
+                "intercom": "Ntercomiay Ransfertay",
+                "mailbox": "Ransfertay Ailboxmay",
+                "whisper": "Ransfertay Hisperway"
+            },
+            "conference": {
+                "blind": "Lindbay Onferencecay",
+                "consult": "Onsultcay Onferencecay",
+                "intercom": "Ntercomiay Onferencecay"
+            },
+            "park": {
+                "park": "Arkpay",
+                "page": "Arkpay andway Agepay",
+                "intercom": "Arkpay andway Ntercomiay"
+            }
+        },
+        "SearchPrompt": "Earchsay andway addway anway existing...way",
+        "Favorites": "Avoritesfay",
+        "All": "Llaay",
+        "Group": "Roupsgay",
+        "NewContact": "Ewnay Ontactcay",
+        "NewGroup": "Ewnay Roupgay",
+        "CreatePDL": "Reatecay Ewnay Ontactcay inway Irectoryday",
+        "MultipleItemsWithGhostedImage": "+ay __numberofcontacts__ oremay",
+        "searchPlaceholder": "Earchsay bay amenay orway extway",
+        "MoreOptions": {
+            "SortLabel": "Ortsay bay",
+            "SortTitle": "Ortsay",
+            "SortBy": {
+                "LastName": "Astlay Amenay",
+                "FirstName": "Irstfay Amenay",
+                "Availability": "Vailabilityaay",
+                "LastContact": "Astlay Ontactcay",
+                "MyOrder": "may Rderoay"
+            },
+            "ShowLabel": "Howsay",
+            "ShowDetails": {
+                "CompanyName": "Ompanycay Amenay",
+                "DepartmentName": "Epartmentday Amenay",
+                "PhoneNumber": "Honepay Umbernay"
+            },
+            "AddContactTitle": "Ewnay Ontactcay",
+            "AddGroupTitle": " orway Roupgay",
+            "AddContact": "Ddaay Ontactcay",
+            "AddGroup": "Ddaay Roupgay",
+            "ListView": "Istlay Iewvay",
+            "CompactView": "Ompactcay Iewvay",
+            "ChangeViewTitle": "Hangecay Iewvay"
+        }
+    },
+    "primaryAssignment": {
+        "pextn": "Ncomingiay allscay illway ing:ray",
+        "deskphone": "Eskday honepay",
+        "assigned": "Ouyay areway otnay assignedway tay yourway ownway eskphone.day",
+        "backtodesk": "gay Ackbay tay may Eskday Honepay",
+        "softphone": "Oftphonesay",
+        "softsettings": "Djustaay Oftphonesay Ettings...say",
+        "snumber": "Xternaleay Ssignmentaay Umbernay"
+    },
+    "userphones": {
+        "home": "Omehay",
+        "mobile": "Obilemay",
+        "rings": "  ingsray",
+        "connect": "Resspay 1ay tay onnectcay",
+        "autoconnect": "Utomaticallyaay Onnectcay",
+        "remove": "Emoveray"
+    },
+    "endpoint": {
+        "idevice": "Nputiay Eviceday",
+        "odevice": "Utputoay Eviceday",
+        "selectNumber": "Leasepay electsay umbernay",
+        "selectedNumber": "Electedsay Honepay isway ",
+        "selection": {
+            "prompt": "Ndeay Ointpay Extension)(ay",
+            "unassigned": "Nassigneduay",
+            "primary": "Eskphoneday",
+            "soft": "Oftphonesay"
+        },
+        "softphone": {
+            "heading": "Oftphonesay Ettingssay",
+            "audio": "Udioaay Eviceday",
+            "video": "Ideovay Eviceday"
+        }
+    },
+    "recentList": {
+        "conferenceCall": "Onferencecay allcay",
+        "incoming": "Ncomingiay",
+        "missed": "Issedmay",
+        "outgoing": "Utgoingoay",
+        "fetching": "Etchingfay Istory...hay",
+        "timeFormatDate": "M/DD/YYmay",
+        "timeFormatDateFullYear": "M/DD/YYYYmay",
+        "timeFormatFull": "M/DD/YYmay :mmhay aay",
+        "timeFormatTime": ":mmhay aay",
+        "yesterday": "Esterdayyay",
+        "menu": {
+            "addContact": "Ddaay aay away Ontactcay",
+            "addToFavorites": "Ddaay tay Avoritesfay",
+            "addContactToGroup": "Ddaay Ontactcay tay Roupgay",
+            "addContactsToGroup": "Ddaay Ontactscay tay Roupgay",
+            "copyCallIdToClipboard": "Opycay Allcay iay tay Lipboardcay",
+            "copyVoicemailIdToClipboard": "Opycay Oicemailvay iay tay Lipboardcay",
+            "deleteVoicemail": "Eleteday Oicemailvay",
+            "deleteVoicemails": "Eleteday Oicemailsvay",
+            "downloadVMASWav": "Ownloadday Oicemailvay asway AVway",
+            "editVoicemailSubject": "Diteay Oicemailvay Ubjectsay",
+            "markHeard": "Arkmay asway Eardhay",
+            "markUnheard": "Arkmay asway Nhearduay",
+            "flagVoicemail": "Avesay Oicemailvay",
+            "flagVoicemails": "Avesay Oicemailsvay",
+            "removeFlag": "Nsaveuay Oicemailvay",
+            "removeFlags": "Nsaveuay Oicemailsvay",
+            "showNumbers": "Howsay Umbersnay"
+        },
+        "state": {
+            "all": "Llaay",
+            "flagged": "Laggedfay",
+            "missed": "Issedmay",
+            "deleted": "Eletedday",
+            "unheard": "Nhearduay",
+            "heard": "Eardhay",
+            "saved": "Avedsay"
+        },
+        "type": {
+            "calls": "Allscay",
+            "everything": "Verythingeay",
+            "files": "Ilesfay",
+            "groupCalls": "Roupgay Allscay"
+        },
+        "callerIdUnknown": "Allercay iay Nknownuay",
+        "callerIdBlocked": "Allercay iay Lockedbay",
+        "callExport": {
+            "tooltip": "Xporteay Allcay Ataday",
+            "dateRange": "__startDate__ -ay __endDate__",
+            "dateFormat": "MMMmay day YYYyay",
+            "dateFormatWithoutYear": "MMMmay day",
+            "filterHeader": "Xporteay Allcay Ata:day",
+            "filterOptions": {
+                "today": "Odaytay",
+                "lastWeek": "Astlay eekway",
+                "lastMonth": "Astlay onthmay"
+            },
+            "actions": {
+                "export": "Xporteay"
+            },
+            "fileName": "AllDatacay",
+            "exportedFile": {
+                "dateFormat": "YYY-MM-DDyay",
+                "fileNameDateFormat": "MDDYYYYHHmmssmay",
+                "timeFormat": "H:mmhay",
+                "durationFormat": "H:mm:sshay",
+                "durationFormatWithHours": "m:ssmay",
+                "date": "Ateday",
+                "time": "Ime(__tzString__)tay",
+                "direction": "Irectionday",
+                "number": "Umbernay",
+                "duration": "Urationday",
+                "note": "Allcay Otenay",
+                "private": "Rivatepay"
+            }
+        }
+    },
+    "greetingController": {
+        "save": "Avesay Ecordingray",
+        "cancel": "Iscardday Ecordingray"
+    },
+    "voiceMessage": {
+        "re": "E:ray ",
+        "fwd": "Wd:fay ",
+        "reply": "Eplyray",
+        "forward": "Orwardfay",
+        "save": "Avesay",
+        "unsave": "Nsaveuay",
+        "delete": "Eleteday",
+        "restore": "Estoreray",
+        "restoreTooltip": "Estoreray histay oicemailvay andway ransfertay itway tay Inbox''ay",
+        "timeformatLongDateTime": "MMMmay day YYYyay &bull;][ay :mmhay aay",
+        "to": "O:tay",
+        "subject": "Ubject:say",
+        "send": "Endsay",
+        "cancel": "Ancelcay",
+        "receipt": "Eceiptray",
+        "includeOriginal": "Ncludeiay Riginaloay",
+        "searchPrompt": "Earchsay orfay away ontact...cay",
+        "subjectPrompt": "Oicemailvay Ubject...say",
+        "savedVMTimeFormat": "D-MMM-YYYYday h-mm-sshay away",
+        "voicemail": "Oicemailvay",
+        "errors": {
+            "errorWithServerErrorCode": "Perationoay incomplete.way Erversay Rroreay odecay Hex):(ay ",
+            "noSubjectWhenSendingVoicemailError": "day youway antway tay endsay histay essagemay ithoutway away ubject?say"
+        },
+        "mitelVMSystem": "Itelmay Oicevay Ailmay Ystemsay"
+    },
+    "mediaPlayer": {
+        "playVia": "Laypay iavay",
+        "playViaComputer": "Seuay Omputercay Peakerssay",
+        "playViaDeskphone": "Seuay Eskphoneday",
+        "stop": "Topsay",
+        "record": "Ecordray",
+        "play": "Laypay",
+        "pause": "Ausepay",
+        "deskphone": "Eskphoneday",
+        "computer": "Omputercay",
+        "timestamp": {
+            "lessThanAnHour": "m:ssmay",
+            "lessThanTenMinutes": ":ssmay",
+            "atLeastAnHour": "h:mm:sshay"
+        }
+    },
+    "selfPresence": {
+        "Cancel": "Ancelcay",
+        "selectColor": "Hoosecay away olor...cay",
+        "typeStatus": "Ypetay away tatus...say",
+        "SelectColor": "Electsay olorcay",
+        "Available": "Vailableaay",
+        "Busy": "Usybay",
+        "Unavailable": "Navailableuay",
+        "AdditionalNote": "Dditionalaay Otenay",
+        "CustomStatus": "Ustomcay Tatussay",
+        "BackButton": "Ackbay",
+        "HintText": "Otenay illway bay isplayedday ithway tatussay",
+        "CustomHintText": "Ypetay essagemay 50(ay haracterscay ax)may",
+        "DoneButtonLabel": "Oneday",
+        "CancelButtonlabel": "Ancelcay",
+        "logout": "Ogoutlay"
+    },
+    "camera": {
+        "header": "Ideovay Ettingssay",
+        "noneSupported": "nay ettingssay availableway orfay histay evice.day",
+        "settingName": {
+            "exposure": "Xposureeay",
+            "whiteBalance": "Hiteway Alancebay",
+            "focus": "Ocusfay",
+            "torch": "Orchtay",
+            "focusPoint": "Ocusfay Ointpay"
+        },
+        "settingValue": {
+            "locked": "Ockedlay",
+            "auto": "Utomaticaay once)(ay",
+            "continuous": "Ontinuouscay Utomaticaay",
+            "on": "oay",
+            "off": "Ffoay",
+            "unknown": "Nknownuay"
+        }
+    },
+    "upgrade": {
+        "upgradeNeededTitle": "Pgradeuay Equiredray",
+        "upgradeSuggestedTitle": "Pgradeuay Uggestedsay",
+        "upgradeProgressTitle": "Pgradeuay inway Rogresspay",
+        "upgradeNeededMessage": "aay upgradeway isway equiredray tay ontinuecay usingway hetay Onnectcay lient.cay day youway antway tay upgradeway ow?nay",
+        "upgradeSuggestedMessage": "aay upgradeway isway availableway orfay yourway Onnectcay lient.cay day youway antway tay upgradeway ow?nay",
+        "upgradeProgressMessage": "Pgradinguay yourway Onnectcay lientcay tay hetay atestlay ersionvay",
+        "upgradeContactAdminMessage": "aay upgradeway isway equiredray tay ontinuecay usingway hetay Onnectcay lient.cay Leasepay ontactcay yourway administratorway",
+        "upgradeNow": "Pgradeuay Ownay",
+        "upgradeText": "Pgradeuay",
+        "upgradeOk": "oay",
+        "remindMeLater": "Emindray may Aterlay",
+        "later": "Aterlay",
+        "quit": "Xiteay",
+        "cancel": "Ancelcay",
+        "progressText": "Rogresspay",
+        "downloadError": "Heretay asway anway issueway ownloadingday hetay ile,fay leasepay estartray tay rytay again.way",
+        "upgradeError": "Pgradeuay Rroreay",
+        "upgradeTimeoutError": "Pgradeuay imedtay out.way Leasepay estartray Itelmay Onnect.cay",
+        "restartClient": "Estartray Ownay"
+    },
+    "call": {
+        "state": {
+            "0": "Dleiay",
+            "1": "Ncomingiay All...cay",
+            "2": "Ncomingiay All...cay",
+            "3": "Ialday Onetay",
+            "4": "Ialing...day",
+            "5": "Alling...cay",
+            "6": "Usybay",
+            "7": "Eorderray Onetay",
+            "8": "Nterceptiay Onetay",
+            "9": "Etworknay Usybay",
+            "10": "Onnectedcay",
+            "11": "Alling...cay",
+            "12": "oay Oldhay",
+            "13": "oay Oldhay Endingpay Ransfertay",
+            "14": "oay Oldhay Endingpay Onferencecay",
+            "15": "Arkedpay",
+            "16": "Onferencedcay",
+            "17": "Allcay Ndedeay",
+            "18": "Nknownuay",
+            "19": "utpay youway onway oldhay",
+            "20": "Roceedingpay Ickuppay",
+            "21": "Roceedingpay Nparkuay",
+            "22": "Isconnectedday Nvalidiay Ddressaay",
+            "23": "Onnectedcay Ueuedqay oay way",
+            "24": "Ldoay Oldhay Etupsay Ilentsay Onmay",
+            "25": "Onnectedcay Hisperway Agepay",
+            "26": "Onnectedcay Muted)(ay",
+            "active": "Ctiveaay",
+            "RemoteHoldWithTimer": " __timer__ utpay youway oay Oldhay",
+            "SilentMonitorWithTimer": " __timer__ Ilentsay Onitormay",
+            "SilentCoachWithTimer": " __timer__ Ilentsay Oachcay",
+            "WhisperPageWithTimer": " __timer__ Hisperway Agepay",
+            "ParkWithTimer": " __timer__ Arkedpay",
+            "HoldWithTimer": " __timer__ oay Oldhay",
+            "consult": " __timer__ Onsulting...cay"
+        },
+        "features": {
+            "call": "Ialday",
+            "hold": "Oldhay",
+            "unhold": "Nholduay",
+            "end": "Anguphay",
+            "callPhoneType": "Allcay __phoneType__",
+            "callMailbox": "Ialday Ailboxmay",
+            "sendVoicemail": "Endsay Oicemailvay",
+            "pickupUnpark": "Ickup/Unparkpay",
+            "intercom": "Ntercomiay",
+            "whisper": "Hisperway Agepay",
+            "silentMonitor": "Ilentsay Onitormay",
+            "silentCoach": "Ilentsay Oachcay",
+            "bargeIn": "Argebay iay",
+            "alert": "Lertaay Henway Vailableaay",
+            "park": "Arkpay",
+            "parkAndPage": "Arkpay &ay Agepay",
+            "parkAndIntercom": "Arkpay &ay Ntercomiay",
+            "unpark": "Nparkuay",
+            "pickup": "Ickuppay",
+            "callMove": "Ovemay Allcay",
+            "toVM": "tay Oicevay Ailmay",
+            "toAA": "tay Utoaay Ttendantaay",
+            "transfer": "Ransfertay",
+            "silentCoachConsult": "Onsultcay Upervisorsay",
+            "silentCoachResume": "Esumeray Oachcay",
+            "maliciousCall": "Lagfay Aliciousmay Allcay",
+            "mergeCallTo": "Ergemay ithway",
+            "mergeCallFrom": "Ergemay",
+            "mute": "Utemay",
+            "unmute": "Nmuteuay",
+            "muteAll": "Utemay allway",
+            "unmuteAll": "Nmuteuay allway",
+            "videoOn": "Urntay onway ideovay ameracay",
+            "videoOff": "Urntay offway ideovay ameracay",
+            "videoDisabled": "Ideovay ameracay isabledday",
+            "videoCamera": "Ideovay ameracay",
+            "videoOnHold": "Ouryay ideovay ameracay isway inoperableway hileway hetay ideovay allcay isway onway oldhay",
+            "share": "Haresay yourway creensay",
+            "info": "Nfoiay",
+            "record": "Tartsay ecordingray",
+            "endRecord": "Ndeay ecordingray",
+            "raiseHand": "Aiseray Andhay",
+            "addParticipant": "Ddaay Articipantpay",
+            "editCallNote": "Diteay Allcay Otenay",
+            "accountCode": "Allcay ithway Ccountaay Odecay",
+            "enterAccountCode": "Ntereay accountway odecay andway resspay NTEReay tay ialday",
+            "hideAccountCodes": "Idehay Llaay Ccountaay Odescay",
+            "showAccountCodes": "Howsay Llaay Ccountaay Odescay",
+            "lock": "Ocklay",
+            "unlock": "Nlockuay",
+            "cancel": "ancelcay",
+            "complete": "ompletecay",
+            "video": {
+                "promptBelow": "Theroay artiespay onway histay allcay areway usingway ideo.vay tay oinjay inway ideovay ode,may resspay hetay ameracay uttonbay elow.bay",
+                "dontRemindAgain": " On'tday emindray may againway",
+                "ok": "oay",
+                "promptAbove": "Theroay artiespay onway histay allcay areway usingway ideo.vay tay oinjay inway ideovay ode,may resspay hetay ameracay uttonbay above.way"
+            },
+            "adhocConferenceLimit": "D-hocaay onferencecay imitlay ashay eenbay eachedray",
+            "routingSlip": "Outingray Lipsay",
+            "callNote": "Allcay Otenay",
+            "acceptCall": "Cceptaay",
+            "rejectCall": "Gnoreiay",
+            "message": "Essagemay"
+        },
+        "DN_AA": "Utoaay Ttendantaay",
+        "DN_BkpAA": "Ackupbay Utoaay Ttendantaay",
+        "callNotes": {
+            "enterCallNotePrompt": "Ypetay inway away ewnay allcay otenay andway resspay enterway tay avesay"
+        },
+        "workgroupName": "Orkgroup:way ",
+        "huntgroupName": "Untgroup:hay ",
+        "calls": "allscay"
+    },
+    "messagesConversation": {
+        "removeConversation": "Emoveray Onversationcay",
+        "muteConversation": "Utemay Onversationcay",
+        "unmuteConversation": "Nmuteuay Onversationcay",
+        "markAsRead": "Arkmay asway Eadray"
+    },
+    "eventDraft": {
+        "successMeetingMsg": "Uccessfullysay reatedcay eeting.may",
+        "openOutlookMsg": "Leasepay aitway hileway way openway Utlook.oay",
+        "useMyBridgeTxt": "Seuay may ownway ridgebay",
+        "presenterHelp": "Resenterspay",
+        "participantHelp": "Articipantspay",
+        "moreSettingsLabel": "Oremay Ettingssay",
+        "useOwnBridgeTxt": "Ouyay ancay useway yourway ownway onferencecay ridgebay insteadway ofway hetay ystemsay eneratedgay ones.way",
+        "presenterHelpText": "Resenterspay illway bay ableway tay haresay heirtay creen.say",
+        "participantHelpText": "Articipantspay illway eednay tay equestray orfay approvalway romfay eetingmay organizerway tay haresay heirtay creen.say",
+        "addEditBridge": "Ouyay ancay alsoway addway ewnay onferencecay ridgebay orway editway existingway onesway inway yourway rofilepay creen.say",
+        "creatingMeeting": "Reatingcay eeting.may",
+        "moreSettingsTxt": "Dditionalaay eetingmay optionway onfigurationscay available.way",
+        "name": {
+            "label": "Amenay",
+            "placeholder": "Ntitleduay Eetingmay",
+            "required": "Eetingmay amenay equired.ray"
+        },
+        "mpv": {
+            "description": "Escriptionday",
+            "enterMeetingDescription": "Ntereay Eetingmay Escriptionday",
+            "eventType": "Venteay Ypetay",
+            "collaboration": "Udioaay Onferencecay",
+            "video": "Egacylay Ideovay",
+            "miteam": "Ideovay Onferencecay",
+            "miTeamButtonMessage": "Tartsay orway Chedulesay away ideovay eetingmay"
+        },
+        "starts": {
+            "label": "Tartssay",
+            "dateLabel": "Ateday",
+            "timeLabel": "Tartsay Imetay"
+        },
+        "duration": {
+            "label": "Eetingmay Astslay",
+            "help": {
+                "hours": "Ourhay",
+                "hours_plural": "Ourshay",
+                "minutes": "Inutemay",
+                "minutes_plural": "Inutesmay"
+            },
+            "required": "Eetingmay urationday equired.ray"
+        },
+        "recurrence": {
+            "label": "Ccursoay",
+            "option": {
+                "once": "Nceoay",
+                "daily": "Ailyday",
+                "weekly": "Eeklyway",
+                "biweekly": "I-weeklybay",
+                "monthly": "Onthlymay"
+            }
+        },
+        "onsiteLocation": {
+            "label": "oay Itesay Ocationlay",
+            "placeholder": "oay Itesay Ocationlay"
+        },
+        "type": {
+            "label": "Ypetay",
+            "option": {
+                "collaborative": "Ollaborativecay",
+                "presentation": "Resentationpay"
+            }
+        },
+        "organizers": {
+            "label": "Rganizersoay",
+            "placeholder": "Ntereay organizerway amesnay"
+        },
+        "presenters": {
+            "label": "Resenterspay",
+            "placeholder": "Ntereay resenterpay amesnay"
+        },
+        "useMyBridge": "Seuay may ownway ridgebay",
+        "UsePresentation": "Ddaay additionalway articipantspay howay equireray approvalway romfay hetay eetingmay organizerway tay haresay heirtay creen.say i.e.(ay igbay events,way ownhallstay etc.)way",
+        "participants": {
+            "label": "Articipantspay",
+            "placeholder": "Ntereay articipantpay amesnay"
+        },
+        "agenda": {
+            "label": "Gendaaay",
+            "AgendaTermLabel": "Gendaaay Temiay",
+            "AgendaMinutesLabel": "Gendaaay Imetay",
+            "term": {
+                "placeholder": "Ntereay Gendaaay Temiay"
+            },
+            "time": {
+                "placeholder": "imetay",
+                "segment": "may"
+            },
+            "overview": {
+                "label": "Verviewoay",
+                "placeholder": "Ntereay eetingmay overviewway"
+            }
+        },
+        "files": {
+            "label": "Ilesfay"
+        },
+        "settings": {
+            "ShowMeetingSettings": "+ay Howsay Ettingssay",
+            "HideMeetingSettings": "-ay Idehay Ettingssay"
+        },
+        "passwordProtect": {
+            "label": "Rotectpay Eetingmay ithway Asswordpay"
+        },
+        "password": {
+            "label": "Asswordpay",
+            "placeholder": "Ntereay asswordpay",
+            "required": "Asswordpay equired.ray"
+        },
+        "customAccessCode": "Ustomcay Ccessaay Odecay",
+        "accessCodeError": {
+            "accessCodesAreSame": "Articipantpay andway Rganizeroay Odecay annotcay bay hetay ame.say",
+            "participantCodeAlreadyInUse": "Articipantpay Odecay isway alreadyway inway use.way",
+            "hostCodeAlreadyInUse": "Rganizeroay Odecay isway alreadyway inway use.way"
+        },
+        "participantCode": {
+            "label": "Articipantpay Odecay",
+            "placeholder": "Ntereay odecay"
+        },
+        "hostCode": {
+            "label": "Rganizeroay Odecay",
+            "placeholder": "Ntereay odecay"
+        },
+        "meetingStart": {
+            "label": "Tartsay hetay Eetingmay",
+            "option": {
+                "anyoneJoins": "Henway anyoneway oinsjay",
+                "organizerJoins": "Henway oneway ofway hetay organizersway oinsjay"
+            }
+        },
+        "participantSettings": {
+            "label": "Articipantspay",
+            "announceArrival": {
+                "label": "Nnounceaay henway articipantspay arriveway andway eavelay",
+                "option": {
+                    "playAudioTone": "Laypay away implesay audioway onetay",
+                    "promptToRecord": "Romptpay articipantspay tay ecordray heirtay amenay andway announceway henway heytay rytay tay oinjay andway eavelay hetay eetingmay"
+                }
+            },
+            "muteOnEntry": {
+                "label": "Utemay articipantspay onway entryway"
+            },
+            "showAllNames": {
+                "label": "Howsay everyones'sway amenay tay allway articipantspay"
+            },
+            "allowImWith": {
+                "label": "Llowaay articipantspay tay iay ithway",
+                "option": {
+                    "everyone": "Veryoneeay",
+                    "organizers": "Ustjay hetay organizersway"
+                }
+            },
+            "whenDialingOut": {
+                "label": "Henway ialingday outway tay articipantspay",
+                "option": {
+                    "mustPressOne": "Ustmay resspay oneway tay enterway audioway ortionpay ofway hetay eetingmay",
+                    "automaticallyAdded": "Articipantspay areway automaticallyway addedway tay hetay audioway ortionpay ofway hetay eetingmay"
+                }
+            }
+        },
+        "status": {
+            "error": {
+                "single": "Leasepay orrectcay histay ield:fay __fields__ eforebay reatingcay anway event.way",
+                "multiple": "Leasepay orrectcay hesetay ields:fay __fields__ eforebay reatingcay anway event.way"
+            }
+        },
+        "createEventInvite": "Reatecay",
+        "updateEventInvite": "Pdateuay"
+    },
+    "event": {
+        "limitationWarning": {
+            "header": "Ttendeesaay opiedcay tay lipboard.cay",
+            "message1": "Ueday tay anway Utlookoay hange,cay way areway unableway tay asspay hetay attendeesway istlay tay Utlook.oay",
+            "message2": "way avehay opiedcay hetay istlay orfay youway -ay leasepay astepay irectlyday intoway hetay To”“ay ieldfay inway hetay Utlookoay invitation.way",
+            "doNotShowAgain": "day otnay howsay histay againway",
+            "timeWarning1": "Ueday tay anway Utlookoay hange,cay hetay ateday andway imetay aymay otnay ransfertay orrectlycay tay Utlook.oay",
+            "timeWarning2": "Leasepay onfirmcay hetay ateday andway imetay eforebay endingsay hetay eetingmay invitation.way",
+            "editWarning1": "Ueday tay anway Utlookoay hange,cay editingway eetingsmay isway otnay urrentlycay upported.say",
+            "editWarning2": "Leasepay useway hetay Utlookoay alendarcay tay akemay updatesway tay histay eeting.may",
+            "editHeader": "Ditingeay isway otnay urrentlycay upportedsay"
+        },
+        "Upcoming": "Pcominguay",
+        "video": "Ideovay",
+        "Past": "Astpay",
+        "organizers": "Rganizersoay",
+        "presenters": "Resenterspay",
+        "participants": "Articipantspay",
+        "Reschedule": "Escheduleray",
+        "agenda": "Gendaaay",
+        "enterAgendaTerm": "Ntereay Gendaaay Temiay",
+        "time": "imetay",
+        "min": "may",
+        "overview": "Verviewoay",
+        "description": "Escriptionday",
+        "files": "Ilesfay",
+        "cancelEvent": "Ancelcay Venteay",
+        "CancelMeeting": "Ancelcay Eetingmay",
+        "JoinMeeting": "Oinjay Eetingmay",
+        "Collaborative": "Ollaborativecay",
+        "Presentation": "Resentationpay",
+        "Video": "Ideovay",
+        "EnterDropboxURL": "Ntereay Ropboxday RLuay",
+        "StarttheMeeting": "Tartsay hetay Eetingmay",
+        "Whenanyonejoins": "Henway anyoneway oinsjay",
+        "Whenoneoftheorganize": "Henway oneway ofway hetay organizersway oinsjay",
+        "Participants": "Articipantspay",
+        "Announcewhenparticip": "Nnounceaay henway articipantspay arriveway andway eavelay",
+        "Playasimpleaudiotone": "Laypay away implesay audioway onetay",
+        "Promptparticipantsto": "Romptpay articipantspay tay ecordray heirtay amenay andway announceway henway heytay oinjay andway eavelay hetay eetingmay",
+        "Muteparticipantsonen": "Utemay articipantspay onway entryway",
+        "Showeveryonesnametoa": "Howsay everyone'sway amenay tay allway articipantspay",
+        "AllowparticipantstoI": "Llowaay articipantspay tay iay ithway",
+        "Everyone": "Veryoneeay",
+        "Justtheorganizers": "Ustjay hetay organizersway",
+        "Whendialingouttopart": "Henway ialingday outway tay articipantspay",
+        "Mustpressonetoentera": "Ustmay resspay oneway tay enterway audioway ortionpay ofway hetay eetingmay",
+        "Participantsareautom": "Articipantspay areway automaticallyway addedway tay hetay audioway ortionpay ofway hetay eetingmay",
+        "name": "Amenay",
+        "starts": "Tartssay",
+        "ends": "Ndseay",
+        "OnSiteLocation": "oay Itesay Ocationlay",
+        "Meetingtype": "Eetingmay ypetay",
+        "Agenda": "Gendaaay",
+        "agendaTerm": "Gendaaay Ermtay",
+        "agendaTime": "Gendaaay Imetay",
+        "agendaTimeLimit": "Ouryay agendaway exceedsway hetay allottedway imetay bay __minutes__ inute(s)may",
+        "agendaTimeNumberError": "Gendaaay imetay ustmay bay away umbernay",
+        "meetingDuration": "Urationday",
+        "meetingStartDate": "Ateday",
+        "meetingStartTime": "Imetay",
+        "meetingLasts": "Eetingmay Astslay",
+        "Hours": "Ourshay",
+        "Minutes": "Inutesmay",
+        "ShowMeetingSettings": "+ay Howsay Ettingssay",
+        "HideMeetingSettings": "-ay Idehay Ettingssay",
+        "ProtectMeetingwithpassword": "Rotectpay Eetingmay ithway asswordpay",
+        "Overview": "Verviewoay",
+        "EnterMeetingoverview": "Ntereay Eetingmay overviewway",
+        "Participantcode": "Articipantpay Odecay",
+        "EnterCode": "Ntereay Odecay",
+        "HostCode": "Rganizeroay Odecay",
+        "EventMessage": "day youway antway tay losecay hetay Venteay Diteay Anel?pay",
+        "EventUSBError": "Leasepay ontactcay yourway iay administratorway tay enableway Create\"ay Vent\"eay eaturefay orfay youway",
+        "NewEvent": "Ewnay Venteay",
+        "CancelEvent": "Ancelcay",
+        "Recorded": "Ecordedray",
+        "Recurring": "Ecurringray",
+        "fetchingEvents": "Etchingfay Vents...eay",
+        "meetingDurationNumberError": "Eetingmay urationday ustmay bay away umbernay",
+        "calendarError": "Electedsay ateday annotcay bay away astpay ateday",
+        "pastMeetingError": "Eetingmay annotcay bay cheduledsay inway hetay astpay",
+        "meetingDurationError": "Onferencecay eetingsmay areway imitedlay tay 8ay ourshay",
+        "meetingIsInProgressWantToCancel": "Eetingmay isway urrentlycay inway rogress.pay Reaay youway uresay youway antway tay ancelcay histay eeting?may",
+        "organizerContactError": "Xternaleay Ontactcay ancay otnay bay anway Venteay Rganizeroay",
+        "cancelMeetingNotification": "Reaay youway uresay youway antway tay ancelcay histay eeting?may",
+        "cancelRecurringMeetingNotification": "Electingsay Cancel’‘ay illway eleteday hetay eries,say otnay ustjay histay instance.way",
+        "updateRecurringMeetingNotification": "Electingsay OK''ay illway updateway hetay eries,say otnay ustjay histay instance.way",
+        "discardMeetingNotification": "Ouldway youway ikelay tay iscardday yourway hanges?cay",
+        "deleteRecordingNotification": "Reaay youway uresay youway antway tay eleteday histay ecording?ray",
+        "hostedbyText": "Rganizer(s)oay",
+        "overviewLabel": "Verviewoay",
+        "howToJoinLabel": "Owhay tay Oinjay",
+        "accessCodeLabel": "Articipantpay Odecay",
+        "howToJoinButton": "Lickcay erehay tay oinjay",
+        "UCBIDLabel": "D:iay",
+        "leaderCodeLabel": "Eaderlay Ode:cay",
+        "leaderUrl": "Eaderlay RL:uay",
+        "participantCodeLabel": "Articipantpay Odecay",
+        "attendeesLabel": "Ttendeesaay",
+        "agendaLabel": "Gendaaay",
+        "minutesLabel": "Inutesmay",
+        "filesLabel": "Ilesfay tay Eviewray",
+        "UpdateEvent": "Pdateuay Venteay",
+        "SaveAndUpdateEvent": "Avesay &ay Pdateuay Venteay",
+        "UCBPassword": "Asswordpay",
+        "EnterPassword": "Ntereay Asswordpay",
+        "UCBpasswordLabel": "Asswordpay",
+        "multipleContactsWithoutMail": "idday otnay avehay anway associatedway emailway addressway andway ereway emovedray romfay hetay eventway invite.way",
+        "singleContactWithoutMail": "idday otnay avehay anway associatedway emailway addressway andway asway emovedray romfay hetay eventway invite.way",
+        "contactPlaceholder": "Lickcay tay addway email…way",
+        "editMeeting": "Diteay Eetingmay",
+        "eventEdit": "Diteay Venteay",
+        "editMeetingNeedsEditorPermissions": "tay editway anway eventway reatedcay bay othersway heytay ustmay akemay youway away elegateday andway rantgay youway Ditoreay ermissionspay orfay heirtay Utlookoay alendarcay",
+        "onlyEditableFromOutlook": "Nlyoay editableway romfay Utlookoay",
+        "cannotCanelMeetingInProgress": "Annotcay eleteday away eetingmay inway rogresspay",
+        "downloadIcs": "Ownloadday CSiay ilefay Orfay Xternaleay Alendarcay",
+        "copyNamesToClipboard": "Opycay articipantspay amesnay tay lipboardcay",
+        "copyFileUrlToClipboard": "Opycay ilefay RLuay tay lipboardcay",
+        "newEventWithSameParticipants": "Ewnay Venteay Ithway Amesay Articipantspay",
+        "recordings": "Ecordingsray",
+        "playBack": "Laypay ackbay ecordingray",
+        "download": "Ownloadday ecordingray",
+        "deleteRecording": "Eleteday ecordingray",
+        "copyRecordingUrlToClipboard": "Opycay ecordingray RLuay tay lipboardcay",
+        "hostCode": "Rganizeroay odecay",
+        "participantCode": "Articipantpay Odecay",
+        "participantUrl": "Articipantpay RLuay",
+        "localDialIn": "Ial-inday Nfoiay",
+        "dialInExtension": "Ialday iay Xtensioneay",
+        "extension": "Xtensioneay",
+        "dialInInfo": "Ial-inday Nfoiay",
+        "link": "Inklay",
+        "password": "Asswordpay",
+        "copyDialinToClipboard": "Opycay Ial-inday Nfoiay tay Lipboardcay",
+        "organizersPlaceholder": "Ntereay organizerway amesnay",
+        "presentersPlaceholder": "Ntereay resenterpay amesnay",
+        "participantsPlaceholder": "Ntereay articipantpay amesnay",
+        "additionalCallingInfoLabel": "Dditionalaay Allingcay Nfoiay",
+        "occurs": "Ccursoay",
+        "once": "Nceoay",
+        "daily": "Ailyday",
+        "weekly": "Eeklyway",
+        "monthly": "Onthlymay",
+        "biweekly": "I-weeklybay",
+        "mpvTitleLable": "Itle:tay",
+        "mpvDescriptionLable": "Escription:day",
+        "mpvJoinFromLabel": "tay oinjay romfay yourway honepay audio(ay only):way",
+        "mpvInviteText": "Ouyay areway invitedway tay away Itelmay ideovay eetingmay",
+        "mpvAccessCodeLable": "Ouryay onferencecay articipantpay odecay is:way ",
+        "mpvDialInNumbersText": "Dditionalaay Allingcay Nfoiay",
+        "mpvMoreInfoText": "Orfay informationway orway upportsay leasepay isit:vay",
+        "mpvTollFreeText": "oll-freetay",
+        "reqCred": {
+            "header": "Xchangeeay Redentialscay",
+            "RequestExchangeCred": "tay iewvay andway reatecay eventsway Itelmay Onnectcay eedsnay yourway Xchangeeay redentialscay",
+            "Username": "Seruay amenay",
+            "Password": "Asswordpay",
+            "submit": "Ubmitsay",
+            "Connecting": "Onnectingcay tay Xchange.eay Alidatingvay redentialscay",
+            "Cancel": "Ancelcay",
+            "errorConnecting": "way ereway otnay ableway tay accessway yourway Xchangeeay erversay ithway hetay rovidedpay redentials.cay",
+            "errorTryAgain": "Leasepay rytay againway orway ontactcay yourway ystemsay administratorway orfay elp.hay",
+            "success": "Uccessfullysay onnectedcay tay Xchange.eay",
+            "success1": {
+                "osx": "iay hetay uturefay youway ancay anagemay yourway Xchangeeay redentialscay inway Itelmay References.pay",
+                "win": "iay hetay uturefay youway ancay anagemay yourway Xchangeeay redentialscay inway Itelmay Ettingssay"
+            },
+            "ok": "oay"
+        },
+        "reqMPVCred": {
+            "header": "Ultipointmay Ideovay Redentialscay",
+            "RequestMPVCred": "tay reatecay events,way Itelmay Onnectcay eedsnay yourway UltiPointmay Ideovay Onferencecay Redentialscay",
+            "Username": "Seruay amenay",
+            "Password": "Asswordpay",
+            "submitMPVCred": "Ubmitsay",
+            "Connecting": "Onnectingcay tay erver.say Alidatingvay redentialscay",
+            "Cancel": "Ancelcay",
+            "errorConnecting": "way ereway otnay ableway tay accessway erversay ithway hetay rovidedpay redentials.cay",
+            "errorConnecting1": "Leasepay rytay againway orway ontactcay yourway ystemsay administratorway orfay elp.hay",
+            "success": "Uccessfullysay onnectedcay tay erver.say",
+            "success1": {
+                "osx": "iay hetay uturefay youway ancay anagemay yourway UltiPointmay Ideovay redentialscay inway Itelmay References.pay",
+                "win": "iay hetay uturefay youway ancay anagemay yourway UltiPointmay Ideovay redentialscay inway Itelmay Ettings.say"
+            },
+            "ok": "oay"
+        },
+        "invalidInput": " isway away equiredray ield.fay Leasepay illfay itway inway tay reatecay anway event.way",
+        "invalidInputs": " areway equiredray ields.fay Leasepay illfay hemtay inway tay reatecay anway event.way",
+        "invalidInputMPV": "annotcay bay away inglesay haractercay",
+        "createConfFailed": "aay errorway occurredway hileway reatingcay hetay event,way leasepay rytay again.way",
+        "updateConfFailed": "aay errorway occurredway hileway updatingway hetay event,way leasepay rytay again.way",
+        "accessCodeLengthInvalid": "accessway odecay engthlay isway otnay ithinway hetay in/maxmay angeray",
+        "accessCodeInUse": "Ccessaay odecay alreadyway inway use,way leasepay updateway andway rytay again.way",
+        "hostCodeMatchesParticipantCodeError": "Articipantpay andway Rganizeroay odescay annotcay bay hetay ame.say Leasepay odifymay oneway eforebay reatingcay hetay event.way",
+        "meetingNameTooLong": "Hetay eetingmay amenay isway ootay ong,lay leasepay update.way",
+        "accessCodeRestrictions": "Annotcay updateway ueday tay accessway odecay estrictions.ray",
+        "mobileAutoDialLabel": "Obilemay UtoDialaay",
+        "voipLabel": "OIPvay",
+        "iOSDevicesLabel": "iOSway Evicesday",
+        "otherDevicesLabel": "Theroay Evicesday",
+        "andPressLabel": " andway resspay #ay",
+        "dialInExtensionLabel": "Xtensioneay",
+        "untitledMeeting": "Ntitleduay Eetingmay",
+        "eventInviteMessage": "Leasepay inishfay inviteway andway endsay iavay Utlookoay",
+        "joinConferenceNoDial": "Oinjay inway hatcay odemay onlyway",
+        "joinConferenceScreenShare": "Iewvay Creensharesay",
+        "joinConference": "Ialday inway",
+        "joinVideoConference": "Oinjay Ideovay Onferencecay",
+        "openingOutlookWait": "Peningoay Utlookoay leasepay aitway",
+        "cancelingConference": "Ancelingcay onferencecay",
+        "cancelConferenceFailed": "Ancelcay onferencecay ailedfay",
+        "openingOutlookFailed": "Utlookoay ailedfay tay open,way leasepay akemay uresay yourway accessway tay Utlookoay isway availableway andway rytay again.way",
+        "openingOutlookFailedDialogIsOpen": "aay Utlookoay ialogday oxbay isway open.way Leasepay losecay eforebay roceeding.pay",
+        "openingOutlookFailedExchangeUnavailable": "Hetay onnectioncay tay Icrosoftmay Xchangeeay isway unavailable.way",
+        "createConference": "Reatingcay onferencecay",
+        "updateConference": "Leasepay aitway hileway way updateway yourway eeting.may",
+        "cancelConference": "Leasepay aitway hileway way ancelcay yourway eeting.may",
+        "openOutlook": "Uccessfullysay reatedcay onference.cay Leasepay aitway hileway way openway Utlook.oay",
+        "updateConferenceOutlook": "Uccessfullysay updatedway onference.cay Leasepay aitway hileway way openway Utlook.oay",
+        "answerCall": "Nsweraay",
+        "recurring": "Ecurringray Venteay",
+        "copy": "Opycay",
+        "more": "Oremay",
+        "less": "Esslay",
+        "joinTwMeeting": "OINjay",
+        "joinIconPopup": {
+            "callMeAt": "Allcay may at:way",
+            "callMe": "Allcay may",
+            "callme": "Allcay may",
+            "callMeOn": "Allcay may onway may __dest__",
+            "callMeAtDest": "Allcay may atway may __dest__",
+            "numberNotReachable": "Pecifiedsay umbernay __number__ isway otnay eachableray",
+            "enterNumberToCallBack": "Ntereay umbernay tay allcay youway ackbay",
+            "checkNumberForMissingDigits": "Leasepay heckcay hetay umbernay aboveway orfay issingmay orway invalidway igitsday"
+        },
+        "dialInIconTooltips": {
+            "dialMeInViaDevice": "Ialday may inway iavay may __dest__",
+            "dialMeInVia": "Ialday may inway iavay __label__ __number__",
+            "deskphone": "eskphoneday",
+            "softphone": "oftphonesay",
+            "noPhoneSelected": "nay honepay electedsay",
+            "dialMeIn": "Ialday may iay",
+            "dialMeAt": "Ialday may aay",
+            "joinScreenShare": "Oinjay Creensay Haresay",
+            "joinTWMeeting": "Oinjay Eamworktay Eetingmay",
+            "joinMiTeamMeeting": "Oinjay Eetingmay"
+        },
+        "editEvent": {
+            "passwordExceedlimitedError": "Eetingmay asswordspay areway imitedlay tay 8ay haracterscay",
+            "passwordCannotContainSpecialChar": "Asswordpay annotcay ontaincay pecialsay haracters:cay {ay \\ay ,ay #ay }ay",
+            "accessCodeError": "Ccessaay odecay engthlay houldsay bay etweenbay __min__ andway __max__",
+            "accessCodeParticipantError": "Articipantpay odecay annotcay ontaincay etterslay orway ymbols.say",
+            "accessCodeHostError": "Rganizeroay odecay annotcay ontaincay etterslay orway ymbols.say"
+        },
+        "reservationLess": {
+            "name": {
+                "label": "Amenay",
+                "placeholder": "Ewnay Ridgebay Amenay",
+                "required": "Ridgebay amenay equired.ray"
+            },
+            "participantCode": {
+                "label": "Articipantpay Odecay",
+                "placeholder": "Ntereay Odecay"
+            },
+            "hostCode": {
+                "label": "Rganizeroay Odecay",
+                "placeholder": "Ntereay Odecay"
+            },
+            "accessCodeLengthError": "__codeName__ engthlay houldsay bay etweenbay __min__ andway __max__.",
+            "accessCodeFormatError": "__codeName__ ustmay bay umbersnay only.way",
+            "accessCodeAlreadyUsed": "__codeName__ isway alreadyway inway use.way",
+            "accessCodeRequired": "__codeName__ Equired.ray",
+            "accessCodesAreSame": "Articipantpay andway Rganizeroay Odecay annotcay bay hetay ame.say",
+            "passwordLengthError": "Asswordspay houldsay bay esslay hantay orway equalway tay 8ay haracters.cay",
+            "passwordFormatError": "Asswordpay annotcay ontaincay pecialsay haracters:cay {ay \\ay ,ay #ay }ay",
+            "dialogActions": {
+                "add": "Ddaay",
+                "update": "Pdateuay",
+                "remove": "Emoveray",
+                "cancel": "Ancelcay",
+                "keepBridge": "Eepkay Ridgebay",
+                "discard": "Iscardday"
+            },
+            "removeBridge": "Ouldway youway ikelay tay emoveray histay ridge?bay",
+            "cancelEdit": "Ouldway youway ikelay tay iscardday yourway hange?cay",
+            "moreSettings": "Oremay Ettingssay",
+            "passwordProtect": {
+                "label": "Rotectpay Eetingmay ithway Asswordpay"
+            },
+            "password": {
+                "label": "Asswordpay",
+                "placeholder": "Ntereay Asswordpay",
+                "required": "Asswordpay equiredray"
+            },
+            "meetingStart": {
+                "label": "Tartsay Hetay Eetingmay",
+                "options": {
+                    "anyoneJoins": "Henway anyoneway oinsjay"
+                }
+            },
+            "participantSettings": {
+                "label": "Articipantspay",
+                "announceArrival": {
+                    "label": "Nnounceaay henway articipantpay arriveway andway eavelay",
+                    "options": {
+                        "playAudioTone": "Laypay away implesay audioway onetay",
+                        "promptToRecord": "Romptpay articipantspay tay ecordray heirtay amenay andway announceway henway heytay rytay tay oinjay andway eavelay hetay eetingmay"
+                    }
+                },
+                "muteOnEntry": {
+                    "label": "Utemay Articipantspay onway entryway"
+                },
+                "showAllNames": {
+                    "label": "Howsay everyones'sway amenay tay allway articipantspay"
+                },
+                "whenDialingOut": {
+                    "label": "Henway ialingday outway tay articipantspay",
+                    "options": {
+                        "mustPressOne": "Ustmay resspay oneway tay enterway audioway ortionpay ofway hetay eetingmay",
+                        "automaticallyAdded": "Articipantspay areway automaticallyway addedway tay hetay audioway ortionpay ofway hetay eetingmay"
+                    }
+                }
+            },
+            "saveFailed": "Annotcay avesay eservation-lessray onference.cay",
+            "deleteFailed": "Annotcay eleteday eservation-lessray onference.cay"
+        },
+        "datepicker": {
+            "closeText": "Oneday",
+            "prevText": "Revpay",
+            "nextText": "Extnay",
+            "currentText": "Odaytay",
+            "monthNames": "Anuary,jay Ebruary,fay Arch,may Pril,aay Ay,may Une,jay Uly,jay Ugust,aay Eptember,say Ctober,oay Ovember,nay Ecemberday",
+            "monthNamesShort": "An,jay Eb,fay Ar,may Pr,aay Ay,may Un,jay Ul,jay Ug,aay Ep,say Ct,oay Ov,nay Ecday",
+            "dayNames": "Unday,say Onday,may Uesday,tay Ednesday,way Hursday,tay Riday,fay Aturdaysay",
+            "dayNamesShort": "Un,say On,may Ue,tay Ed,way Hu,tay Ri,fay Atsay",
+            "dayNamesMin": "U,say O,may U,tay E,way H,tay R,fay say",
+            "weekHeader": "way",
+            "dateFormat": "m/dd/yymay",
+            "firstDay": "0ay"
+        },
+        "dateTimeFormats": {
+            "dateFormat": "M/DD/YYYYmay",
+            "timeFormat": "H:mmhay",
+            "hourFormat": "hay",
+            "minuteformat": "may",
+            "clockFormat": "h:mmahay",
+            "longDateFormat": "ddd,day MMMmay day YYYyay",
+            "timeFormatWithAmPm": ":mmhay aay",
+            "timeFormatWithOutAmPm": ":mmhay",
+            "duration": {
+                "hour": "hay",
+                "minute": "may",
+                "full": "__hours__h __minutes__m",
+                "allDay": "__startDate__ -ay __endDate__"
+            },
+            "shortDateFormat": "dd,day MMMmay day"
+        },
+        "enterEmail": "Maileay Ddressaay",
+        "filter": {
+            "filter": "Ilterfay",
+            "all": "Llaay",
+            "recorded": "Ecordedray Nlyoay"
+        },
+        "tooltip": {
+            "filter": "Ilterfay",
+            "calendar": "Alendarcay",
+            "newEvent": "Ewnay Venteay"
+        },
+        "allDay": "LLaay AYday",
+        "freeSlot": {
+            "duration": {
+                "hour": "__hours__h openway",
+                "minute": "__minutes__m openway",
+                "full": "__hours__h __minutes__m openway"
+            },
+            "newEvent": "Ewnay"
+        },
+        "addEmailError": "Leasepay addway emailway informationway orfay histay ontactcay"
+    },
+    "app": {
+        "appName": "Anhattanmay",
+        "appMenuName": "Onnectcay",
+        "productName": "Itelmay Onnectcay"
+    },
+    "conference": {
+        "loading": {
+            "initialize": "Oadinglay Onferencecay",
+            "failed": "Oadinglay Onferencecay Ailedfay",
+            "enterPasswordHere": "Ntereay asswordpay ere...hay",
+            "recording": {
+                "failed": "Nableuay tay laybackpay ecording.ray",
+                "close": "Losecay",
+                "reload": "Rytay Gainaay"
+            },
+            "close": "Ancelcay",
+            "reload": "Eloadray",
+            "enterPassword": "Ntereay Eetingmay Asswordpay",
+            "confNotStarted": "Hetay onferencecay illway tartsay henway hetay organizerway arrives.way"
+        },
+        "dialogs": {
+            "leave": {
+                "header": "Eavelay Onferencecay",
+                "participant": "Ouldway youway ikelay tay eavelay hetay onference?cay",
+                "participantHangup": "Ouldway youway ikelay tay eavelay andway anghay upway romfay hetay onference?cay",
+                "organizer": "Ouldway youway ikelay tay eavelay histay onference,cay orway endway onferencecay orfay allway articipants?pay",
+                "organizerHangup": "Ouldway youway ikelay tay eavelay andway anghay upway romfay hetay onference,cay orway endway hetay onferencecay orfay allway articipants?pay"
+            },
+            "hasEnded": "Hetay onferencecay ashay ended.way Oodbye!gay",
+            "kickedOut": "Hetay organizerway ustjay emovedray youway romfay histay eeting.may",
+            "reconnecting": "Ryingtay tay econnect...ray",
+            "buttons": {
+                "endConference": "Eavelay &ay Ndeay",
+                "leaveConference": "Eavelay",
+                "cancel": "Ancelcay"
+            }
+        },
+        "confirm": {
+            "kickOut": "Ouldway youway ikelay tay emoveray __name__?"
+        },
+        "notify": {
+            "notificationHeader": "Otificationnay",
+            "webOnlyRedcordingHeading": "Ebway Nlyoay Ecordingray",
+            "removeAttendee": "Emoveray Ttendeeaay",
+            "webOnlyRecording": "Histay isway away ebway onlyway ecording.ray nay CBuay audioway ortpay isway urrentlycay oundedbay tay histay onferencecay"
+        },
+        "errors": {
+            "noCapacity": "Ystemsay Onferencecay Icenselay ashay eenbay exceeded.way Leasepay rytay againway ater.lay",
+            "noAudioCapacity": "Ystemsay Udioaay Onferencecay Icenselay ashay eenbay exceeded.way Leasepay rytay againway ater.lay"
+        },
+        "roster": {
+            "noParticipants": "nay Articipantspay",
+            "noParticipantsEvent": "Heretay areway nay otherway articipantspay inway histay event.way",
+            "showList": "Howsay istlay",
+            "hideList": "Idehay istlay"
+        },
+        "menu": {
+            "mute": "Utemay __name__",
+            "unmute": "Nmuteuay __name__",
+            "kickout": "Emoveray __name__"
+        }
+    },
+    "conferenceTransfer": {
+        "pressEnterConf": "Resspay NTEReay tay onferencecay",
+        "typeNameOrExt": "Ypetay amenay orway extensionway",
+        "typeNameOrExtAndEnter": "Ypetay amenay orway extensionway andway resspay NTER.eay",
+        "typeNameOrIM": "Ypetay amenay orway iay addressway andway resspay NTER.eay",
+        "selectTransferMode": "Electsay Ransfertay Odemay",
+        "selectConferenceMode": "Electsay Onferencecay Odemay",
+        "park": "Arkpay",
+        "consult": "Onsultcay",
+        "intercom": "Ntercomiay",
+        "whisper": "Hisperway",
+        "transfer": "Ransfertay",
+        "conference": "Onferencecay",
+        "merge": "Ergemay",
+        "addToConversation": "Ddaay Ontactcay tay Onversationcay",
+        "createNewConversation": "Reatecay Ewnay Onversationcay",
+        "addContactToConference": "Ddaay ontactcay tay onferencecay",
+        "addToConferenceBlind": "Onferencecay",
+        "addToConferenceConsult": "Onsultcay",
+        "addToConferenceIntercom": "Ntercomiay",
+        "selectRecentTransfer": "Electsay oneway romfay yourway ecentray ontactscay",
+        "selectFromConversation": "Electsay oneway romfay yourway ecentray ontactscay",
+        "switchLimit": "D-hocaay onferencecay imitlay ofway 8ay ashay eenbay eachedray",
+        "joinConferenceOne": "Ringbay __joiner__ intoway yourway allcay ithway __member__",
+        "joinConferenceMany": "Ergemay __joiner__ intoway yourway roupgay allcay",
+        "dropFromConference": "Ropday romfay onferencecay allcay",
+        "voicemail": "Oicemailvay",
+        "addParticipants": "Ddaay Articipantspay",
+        "addParticipant": "Ddaay Articipantpay",
+        "searchContactText": "Earchsay orfay ontactscay tay tartsay away onversation:cay",
+        "startConversation": "Tartsay"
+    },
+    "supportNDebug": {
+        "error": {
+            "failOpenDialogConnectionError": "Erver/Connectionsay Rror.eay Rroreay Ode:cay __code__. Leasepay losecay hetay ialogday andway rytay again.way"
+        },
+        "tabTitles": {
+            "logLevel": "Oglay Evellay",
+            "serverStatus": "Erversay Tatussay",
+            "casSubscriptionStatus": "AScay Ubscriptionsay Tatussay",
+            "personalContactData": "Ersonalpay Ontactcay Ataday",
+            "softphoneStatus": "Oftphonesay Tatussay",
+            "logs": "Ogslay",
+            "AudioDevice": "Udioaay Eviceday"
+        },
+        "AudioDeviceInfo": {
+            "deviceMaker": "Eviceday Akermay",
+            "uid": "IDuay",
+            "internalName": "Nternaliay Amenay",
+            "manufacturerName": "Anufacturermay Amenay",
+            "productID": "Roductpay iay",
+            "productName": "Roductpay Amenay",
+            "serialNumber": "Erialsay Umbernay",
+            "vendorID": "Endorvay iay",
+            "versionNumber": "Ersionvay Umbernay",
+            "usbFwVersion": "SBuay fay Ersionvay",
+            "baseFwVersion": "Asebay fay Ersionvay",
+            "bluetoothFwVersion": "Luetoothbay fay Ersionvay",
+            "remoteFwVersion": "Emoteray fay Ersionvay",
+            "baseSerialNumber": "Asebay Erialsay Umbernay",
+            "headsetSerialNumber": "Eadsethay Erialsay Umbernay"
+        },
+        "logLevel": {
+            "loggingOptions": "Ogginglay Ptionsoay",
+            "logs": "Ogslay",
+            "errors": "Rrorseay",
+            "warnings": "Arningsway",
+            "warningsNote": "Only(ay orfay evelopers)day",
+            "informations": "Nformationiay",
+            "debug": "Ebugday",
+            "logNumberOfFiles": "Umbernay ofway oglay ilesfay",
+            "logSizePerFile": "Izesay imitlay orfay eachway oglay ilefay megabytes)(ay"
+        },
+        "serverStatus": {
+            "connectionsStatus": "Onnectioncay Tatussay",
+            "connectionProtocol": "Onnectioncay Rotocolpay",
+            "casSessionId": "AScay Essionsay iay",
+            "loginServer": "Oginlay Erversay",
+            "homeCasServer": "Ome/CAShay Erversay",
+            "imServer": "iay Erversay",
+            "confBridge": "Onferencecay Ridgebay",
+            "clientIP": "Lientcay iay",
+            "userDn": "Seruay day",
+            "userName": "Seruay Amenay",
+            "clientVersion": "Lientcay Ersionvay",
+            "serverVersion": "Erversay Ersionvay",
+            "loginType": "Oginlay Ypetay",
+            "clientState": "Lientcay Tatesay",
+            "eventLoopStatus": "Venteay Ooplay Tatussay",
+            "eventSinkCount": "Venteay Inksay Ountcay",
+            "highLevelFeatures": "Ighhay Evellay Eaturesfay",
+            "deviceInfo": "EviceInfoday",
+            "ccoid": "COIDcay",
+            "canPlaceCall": "Ancay Lacepay Allcay",
+            "videoSiteId": "Ideovay Itesay iay",
+            "phoneType": "Honepay Ypetay",
+            "deviceActions": "Eviceday Ctionsaay",
+            "assignment": "Ssignmentaay",
+            "extension": "Xtensioneay",
+            "pingResult": "Ingpay Esultray",
+            "totalTimeForPing": "Otaltay Imetay orfay Ing(ms)pay",
+            "refreshPing": "Efreshray Ingpay",
+            "connected": "Onnectedcay",
+            "notConnected": "Otnay Onnectedcay",
+            "online": "Nlineoay",
+            "offline": "Offline:ay",
+            "sso": "SOsay",
+            "nonSso": "On-SSOnay"
+        },
+        "casContactData": {
+            "casContactStatistics": "AScay Ontactcay Tatisticssay",
+            "uploadEnabled": "Ploaduay Nabledeay",
+            "uploadLimit": "Ploaduay Imitlay",
+            "uploadSources": "Ploaduay Ourcessay and(ay umbernay ofway ontacts)cay",
+            "lastCMWinUploadStatus": "Astlay Onnectcay Ploaduay orfay ML/CSVxay Ilesfay",
+            "refresh": "Efreshray",
+            "outlookAddInStatus": "Utlookoay DdInaay Tatussay",
+            "contactSynchronizer": "Ontactcay Ynchronizersay",
+            "voicemailSynchronizer": "Oicemailvay Ynchronizersay",
+            "scheduleSynchronizer": "Chedule/availabilitysay Ynchronizersay",
+            "enabled": "Nabledeay",
+            "disabled": "Isabledday",
+            "and": "andway"
+        },
+        "softphoneStatus": {
+            "softphoneNotConfiguredOrEnabled": "Ouyay areway otnay onfigured/enabledcay tay useway hetay oftphonesay eaturefay oay yourway rimarypay assignmentway isway orfay hetay eskphoneday andway otnay oftphone.say",
+            "wssLocation": "SSway Ocationlay",
+            "endPointID": "Ndeay Ointpay iay",
+            "controllingSwitch": "Ontrollingcay Witchsay",
+            "audioInputDevice": "Udioaay Nputiay Eviceday",
+            "videoInputDevice": "Ideovay Nputiay Eviceday",
+            "default": "Efaultday",
+            "microphone": "Icrophonemay"
+        },
+        "logs": {
+            "openLogFolder": "Penoay Oglay Olderfay"
+        },
+        "subscriptions": {
+            "subscriptions": "Ubscriptionsay ount:cay __length__"
+        }
+    },
+    "common": {
+        "notifications": {
+            "screenShareRequest": " ouldway ikelay tay haresay creensay",
+            "im": "iay",
+            "imTextPlaceholder": "Ustomcay yourway esponseray andway resspay enterway tay endsay",
+            "imMultiple": "iay romfay  __length__ ontactscay",
+            "newVoiceMail": "Ewnay Oicemailvay",
+            "newVoiceMails": "Ewnay Oicemailsvay",
+            "incomingCall": "Ncomingiay all...cay",
+            "incomingURL": "Ncomingiay Creensay Haresay",
+            "PCA": "ashay ecomebay availableway atway",
+            "joinChatOnly": "Oinjay inway hatcay odemay onlyway",
+            "joinScreenShare": "Iewvay Creensharesay",
+            "joinEventInChatMode": "Oinjay eventway inway hatcay odemay",
+            "dialIn": "Ialday inway",
+            "toVM": "tay Oicevay Ailmay",
+            "transfer": "Ransfertay",
+            "workgroup": "Orkgroupway",
+            "send": "Endsay",
+            "callAddedToQueue": "Allcay addedway tay ueueqay",
+            "answer": "Nsweraay",
+            "cannedResponse": "Annedcay Esponseray",
+            "accept": "Cceptaay",
+            "reject": "Ejectray",
+            "play": "Laypay",
+            "openMessage": "Penoay Essagemay",
+            "view": "Iewvay",
+            "close": "Losecay",
+            "ignore": "Gnoreiay",
+            "hide": "Idehay",
+            "IMOnline": "iay Vailableaay",
+            "IMOffline": "iay Fflineoay",
+            "joinVideoConference": "Oinjay Ideovay Onferencecay",
+            "newMessage": "Ewnay Essagemay",
+            "newMessages": "Ewnay Essagesmay",
+            "respondWith": "Espondray ith:way",
+            "timeFormats": {
+                "timeStamp": ":mmhay away"
+            },
+            "CallerIdUnknown": "Nknownuay",
+            "PCAAvailable": "Ecamebay availableway",
+            "PCANow": "Ownay",
+            "PCAAgo": "may agoway"
+        },
+        "imOptions": {
+            "LaterCall": "Allcay youway aterlay",
+            "InMeeting": "iay away eetingmay utbay iay ancay alktay overway iay"
+        },
+        "true": "Ruetay",
+        "false": "Alsefay",
+        "invalidValueWithColon": "Nvalidiay Alue:vay",
+        "functionalityNotYetImplemented": "Unctionalityfay Otnay Etyay Mplementediay",
+        "contactinfo": {
+            "consulting": "Onsulting...cay",
+            "imoffline": "Fflineoay",
+            "imonline": "Nlineoay"
+        },
+        "error": {
+            "unknownError": "Nknownuay Rroreay",
+            "shareUrlSentError": "Creensay Haresay RLuay"
+        },
+        "noSelection": "-ay nay Aluevay -ay",
+        "conferenceInfo": {
+            "additionalInfo": "Dditionalaay Allingcay Nfo:iay",
+            "dialInInfo": "Ial-inday Nfo:iay",
+            "extension": "Xtension:eay",
+            "participantCode": "Articipantpay Ode:cay",
+            "link": "Ink:lay",
+            "copy": "Opycay",
+            "copiedSuccess": "Opiedcay tay Lipboardcay",
+            "upcomingMeeting": "Pcominguay Eetingmay",
+            "lockMsg": "Onferencecay isway ockedlay",
+            "meetingInfo": "Eetingmay Nfoiay"
+        }
+    },
+    "predefinedIMMessages": {
+        "invitedToGroupChat": "Ouyay areway invitedway intoway roupgay hat.cay",
+        "messageSendError": "Ouryay hatcay essagemay idday otnay gay hroughtay",
+        "offlineMessage": "-ay Fflineoay essage.may Entsay onway"
+    },
+    "connectionSecurity": {
+        "secureHttpsConnection": "Ouryay onnectioncay isway ecure,say andway yourway lientcay isway endingsay encryptedway ata.day",
+        "insecureHttpsConnection": "Ouryay lientcay isway endingsay encryptedway ata,day utbay yourway onnectioncay isway otnay ecure.say",
+        "insecureHttpConnection": "Ouryay onnectioncay isway otnay ecure,say andway yourway lientcay isway endingsay unencryptedway ata.day",
+        "insecureConnection": "Ouryay onnectioncay tay hetay erversay isway otnay ecure.say",
+        "secureConnection": "Ouryay onnectioncay tay hetay erversay isway ecure.say",
+        "listInsecureServersPrompt": "Ouryay onnectioncay tay hetay ollowingfay erverssay isway insecure:way",
+        "secureServersPrompt": "Ouryay lientcay ashay away ecuresay onnectioncay tay itsway ervers.say",
+        "serverListFormat": "__server__ erversay"
+    },
+    "certificateErrors": {
+        "continue": "Roceedpay Nywayaay",
+        "cancel": "Ancelcay",
+        "serverTypes": {
+            "ABC": "authenticationway",
+            "CAS": "lientcay",
+            "UCB": "onferencingcay",
+            "WSS": "oftphonesay",
+            "EXCHANGE": "exchangeway",
+            "WSSUIM": "iay erversay",
+            "unknown": "unknownway"
+        },
+        "certErrorText": {
+            "invalidCert": "Ouryay __server__ erversay ashay anway invalidway ecuritysay ertificate.cay",
+            "expired": "Histay ecuritysay ertificatecay ashay expired.way"
+        },
+        "certErrorWarnings": {
+            "proceed": "iay youway roceedpay youway aymay bay endingsay ensitivesay informationway unencrypted.way",
+            "cancelUCB": "iay youway ancel,cay youway aymay otnay bay ableway tay oinjay omesay ofway yourway onferencescay orway reatecay ewnay ones.way",
+            "cancelWSS": "iay youway ancel,cay youway illway otnay bay ableway tay useway yourway oftphone.say"
+        },
+        "unknownURL": "Nknownuay ecuritysay ertificatecay url.way"
+    },
+    "notifyErrors": {
+        "audioDevice": {
+            "cannotIntegrate": "Annotcay integrateway ithway hetay audioway eviceday ardware.hay"
+        },
+        "UCB": {
+            "noCapacity": "Nableuay tay oinjay yourway ridgebay ecausebay itway isway outway ofway apacity.cay",
+            "notAbleToReachYouAt": "way ereway otnay ableway tay eachray youway atway __callMeNumber__",
+            "unableToLocateAndDial": "Nableuay tay ocatelay andway ialday __fullName__ intoway yourway eventway",
+            "locked": "Histay onferencecay ashay eenbay ocked.lay Leasepay ontactcay hetay onferencecay organizer.way",
+            "genericError": "aay errorway occured:way __error__",
+            "noAudioCapacity": "Ystemsay Udioaay Onferencecay Icenselay Imitlay ashay eenbay exceededway",
+            "genericAdhocError": "Ouldcay otnay haresay creen.say Leasepay rytay again.way",
+            "downloadRecError": "Ouldcay otnay ownloadday ecording.ray Leasepay rytay again.way",
+            "deleteRecError": "Ouldcay otnay eleteday ecording.ray Leasepay rytay again.way"
+        },
+        "conference": {
+            "adhocConferenceLimit": "D-hocaay onferencecay imitlay ashay eenbay eachedray"
+        },
+        "warnings": {
+            "noPhoneSelected": "Arning!way nay honepay elected.say Leasepay electsay yourway rimarypay honepay assignmentway eforebay ialingday intoway hetay eeting.may"
+        },
+        "IM": {
+            "NotAvailable": "Nableuay tay onnectcay tay iay erver.say"
+        },
+        "exchange": {
+            "credentialsChanged": "Xchangeeay onnectioncay activeway andway redentialscay avehay hanged,cay Onnectcay Lientcay estartray isway equired.ray",
+            "generalError": "Nableuay tay ontactcay tay Xchangeeay erversay __exchgHost__."
+        },
+        "network": {
+            "noConnection": "nay internetway onnection.cay Leasepay heckcay yourway internetway ettingsay andway rytay again.way",
+            "gotConnection": "Nternetiay onnectioncay isway estored.ray Ryingtay tay eachray erver.say",
+            "noConnectionModal": "Econnecting...ray",
+            "noInternetConnection": "Heretay isway nay Nternetiay onnection.cay"
+        },
+        "VM": {
+            "selfvmdown": "Ouryay oicevay ailboxmay isway otnay availableway",
+            "wgvmdown": "Ouryay orkgroupway oicevay ailboxmay isway otnay availableway",
+            "C110071D": "Ootay anymay oicemailvay onnectionscay",
+            "C110071E": "Oicemailvay erversay isway ownday",
+            "C110071F": "Onnectioncay tay oicemailvay erversay isway ownday",
+            "C1100720": "Ailboxmay isway invalidway",
+            "C1100721": "Ailboxmay openway ailedfay",
+            "C1100722": "Ialedday honepay ailedfay",
+            "C1100723": "Ialedday honepay abortedway",
+            "C1100724": "nay answerway romfay ialedday hone.pay Imedtay outway",
+            "C1100725": "Ialedday honepay isway usybay",
+            "C1100726": "Nvalidiay essagemay andlehay",
+            "C1100727": "Ailboxmay isway otnay acquiredway",
+            "C1100728": "Ailboxmay isway usybay",
+            "C1100729": "Essagemay initializationway ailedfay",
+            "C110072C": "Nableuay tay indfay ilefay ositionpay",
+            "C110072D": "Rroreay layingpay hetay oicevay essagemay ilefay",
+            "C110072E": "Etgay reetinggay ilefay amenay ailedfay",
+            "C1100731": "Ailboxmay isway inway useway",
+            "C1100732": "Ogonlay ailedfay",
+            "C1100733": "Essagemay ovemay tay anotherway olderfay ailedfay",
+            "C1100734": "Essagemay urgepay ailedfay",
+            "C1100735": "Ailboxmay urgepay ailedfay",
+            "C1100737": "Endsay essagemay ailedfay",
+            "C1100738": "Endsay ailed,fay invalidway addressesway orfay ecipient(s):ray __param__",
+            "C1100740": "Ailboxmay isway otnay initializedway",
+            "C1100741": "Essagemay ouldcay otnay bay oundfay",
+            "C1100757": "Ailboxmay isway invalidway",
+            "C1100758": "Onnectioncay tay vay erversay isway otnay establishedway",
+            "C1100759": "Erversay isway hangedcay orfay userway",
+            "C1100990": "Annotcay orwardfay rivatepay essagemay",
+            "C1100991": "aay ewnay addressway isway invalidway orfay rivatepay essagemay",
+            "C1100992": "Annotcay endsay rivatepay essagemay",
+            "C1100993": "aay rivatepay essagemay annotcay bay ownloadedday",
+            "C1200DC3": "Ouryay extensionway isway otnay available.way",
+            "F0000001": "Hetay equestedray ailboxmay isway urrentlycay offlineway",
+            "F0000002": "Hetay essagemay asway otnay orwardedfay ecausebay itway isway arkedmay asway rivatepay",
+            "F0000003": "Hetay originalway essagemay iay isway issingmay orfay away orwardfay orway eplyray",
+            "F0000004": "Laypay ailed,fay issingmay essagemay iay",
+            "F0000005": "Xternaleay assignmentway isway otnay allowedway",
+            "F0000006": "Endsay ailed,fay essagemay oxbay ullfay orfay ecipient(s):ray __param__",
+            "F0000007": "Asktay ailed,fay nay userway informationway inway AScay oicemailvay erversay",
+            "F0000008": "Asktay ailed,fay nay onnection/configurationcay tay oicemailvay erversay",
+            "F0000009": "Asktay ailed,fay nay ailboxmay informationway inway AScay oicemailvay erversay",
+            "F000000A": "Hetay ilefay isway issingmay",
+            "F000000B": "Roblempay inway uploadingway ilefay",
+            "F000000C": "Arameterpay isway issingmay romfay equestray",
+            "F000000D": "Nvalidiay essionsay iay",
+            "F000000E": "Roblemspay opyingcay hetay ilefay orfay ownloadingday",
+            "F000000F": "Ouldcay otnay reatecay essionsay iay onway emoteray erversay",
+            "F0000010": "Endsay ailed,fay invalidway ailboxesmay orfay ecipient(s):ray __param__",
+            "F0000020": "Issingmay informationway tay avesay ilefay",
+            "F0000030": "Rroreay inway avingsay ilefay",
+            "F0000040": "Ailboxmay isway inaccessibleway",
+            "F0000050": "Honepay isway unreachableway",
+            "F0000060": "Perationoay isway invalidway",
+            "F0000070": "Ownloadday erversay isway unreachableway ",
+            "F0000080": "Xtensioneay isway invalidway",
+            "F0000090": "Nvalidiay onnectedcay artypay",
+            "GENERIC": "Perationoay annotcay bay ompletedcay -ay unknownway erversay errorway",
+            "cantSendMsg": "Annotcay endsay essagemay tay erver,say tatussay ode:cay __status__",
+            "cannotPlayPrivateVMViaComputer": "Rivatepay essagemay annotcay bay layedpay overway omputercay peakers.say Leasepay useway Eskphone.day",
+            "cannotDownloadVMAsWav": "Annotcay ownloadday oicemailvay asway AVway ile,fay error:way __error__",
+            "cantSendVMToExtContacts": "aay oicemailvay annotcay bay entsay tay anway externalway ontact.cay Hesetay externalway ontactscay ereway emovedray romfay hetay istributionday ist:lay __contacts__",
+            "noWebAudioSupportInMachine": "nay ebway audioway upportsay inway histay achine.may Leasepay etryray operationway",
+            "noLiveAudioInput": "Udioaay eviceday isway otnay etected.day Leasepay heckcay yourway audioway ettingssay andway rytay again.way",
+            "cantTranscodeRecordedFileTryAgain": "Annotcay avesay ecordedray ile.fay Leasepay rytay again.way",
+            "cantSaveRecordedFile": "Annotcay avesay ecordedray ile:fay __error__",
+            "cantSaveRecordedFileTryAgain": "Annotcay avesay ecordedray ile.fay Leasepay rytay againway orway ecordray iavay hone.pay",
+            "errorReadingRecordedFile": "Rroreay eadingray ecordedray ile.fay Leasepay etryray operationway",
+            "errorUploadingFile": "Rroreay uploadingway ile:fay __error__",
+            "mailboxIsFull": "Ailboxmay __mboxId__ isway ullfay",
+            "mailboxIsAlmostFull": "Ailboxmay __mboxId__ isway almostway ullfay",
+            "mailboxIsZeroSize": "Ailboxmay __mboxId__ isway erozay izesay"
+        },
+        "cas": {
+            "down": "Estoringray onnectioncay tay erver,say leasepay ait.way"
+        },
+        "presence": {
+            "NotAvailable": "Ouryay urrentcay tatesay isway otnay Vailable!aay",
+            "f0000001": "Hetay essagemay isway unknownway tay AScay",
+            "f0000002": "AScay ashay nay uddybay ataday orfay hetay userway",
+            "f0000003": "AScay isway unawareway ofway away uddybay ithway hetay rovidedpay uddy-idbay orfay hetay ivengay userway",
+            "f0000004": "Hetay userway alreadyway ashay away uddybay roupgay ithway hattay amenay",
+            "f0000005": "AScay isway unawareway ofway away uddybay ithway hetay rovidedpay uddy-group-idbay orfay hetay ivengay userway",
+            "f0000006": "nay irectoryday itemway existsway orfay hetay ivengay iay",
+            "f0000007": "Hetay equestray asway issingmay hetay inked-idlay arameterpay",
+            "f0000008": "Hetay uddybay amenay isway otnay uniqueway",
+            "f0000009": "Hetay equestray asway issingmay hetay add-to-idsway arameterpay",
+            "f000000a": "Hetay equestray asway issingmay hetay emove-from-idsray arameterpay",
+            "f000000b": "Hetay equestray asway issingmay hetay addressesway arameterpay",
+            "f000000c": "Hetay ookiecay isway unknownway tay AScay",
+            "f000000d": "Hetay alertway okentay isway unknownway tay AScay",
+            "f000000e": "Hetay uddybay ashay otnay elegatedday ermissionpay tay etsay HMcay",
+            "f000000f": "ext-context''ay arameterpay inway equestray isway otnay alidvay userway extensionway",
+            "f0000010": "Hetay equestray isway otnay upportedsay orfay histay accessway evellay",
+            "f0000011": "Uddiesbay ereway otnay reloadedpay eforebay histay equestray",
+            "f0000018": "Hetay pecialsay uddybay roupgay",
+            "f0000019": "Nvalidiay resencepay ypetay pecifiedsay"
+        },
+        "chmSettings": {
+            "FwdAlways": "Allcay Orwardingfay Odemay isway etsay tay Lways!aay"
+        },
+        "endpointSelector": {
+            "ActiveCalls": "An'tcay witchsay endpointsway hileway youway avehay activeway allscay",
+            "ActiveCallsLogout": "An'tcay ogoutlay hileway youway avehay activeway allscay onway oftphonesay"
+        },
+        "softphone": {
+            "NoConfigSwitches": "nay onfigurationcay witchsay",
+            "WSSConnectionFailure": "Nableuay tay onnectcay tay SSway",
+            "RSIPFailure": "Nableuay tay assignway tay oftphonesay",
+            "Timeout": "Oftphonesay egistrationray imedtay outway",
+            "DIDTimeout": "IDday umbernay isway otnay assigned.way Leasepay ontactcay yourway iay adminway orfay elp.hay",
+            "NoMedia": "Nableuay tay acquireway ediamay inputway",
+            "eTelAlreadyHome": "Ouyay areway alreadyway assignedway tay yourway eskphoneday",
+            "eTelSoftPhoneNotAllowed": "Ouyay day otnay avehay oftphonesay rivileges.pay Leasepay ontactcay yourway administratorway tay aingay accessway tay histay eature.fay",
+            "eTelOperationTimedout": "Hetay operationway ashay imedtay outway",
+            "c1200dc3": "Ouryay extensionway isway otnay available.way"
+        },
+        "tel": {
+            "tapi_80000001": "Hetay inelay eviceday isway alreadyway inway useway",
+            "tapi_80000002": "Nvalidiay inelay eviceday iay",
+            "tapi_80000003": "Hetay equestedray earerbay odemay isway unavailableway",
+            "tapi_80000005": "nay allcay appearanceway availableway",
+            "tapi_80000006": "Ootay anymay allcay ompletionscay outstandingway",
+            "tapi_80000007": "Hetay onferencecay isway ullfay",
+            "tapi_80000008": "Hetay $''ay ialday odifiermay isway otnay upportedsay",
+            "tapi_80000009": "Hetay W''ay ialday odifiermay isway otnay upportedsay",
+            "tapi_8000000a": "Hetay ?''ay ialday odifiermay isway otnay upportedsay",
+            "tapi_8000000b": "Hetay @''ay ialday odifiermay isway otnay upportedsay",
+            "tapi_8000000c": "Ncompatibleiay PIaay ersionvay",
+            "tapi_8000000d": "Ncompatibleiay extensionway ersionvay",
+            "tapi_8000000e": "Hetay APItay onfigurationcay informationway isway unusableway",
+            "tapi_8000000f": "Hetay inelay eviceday isway alreadyway inway useway",
+            "tapi_80000010": "Hetay honepay umbernay isway invalidway orway otnay roperlypay ormattedfay",
+            "tapi_80000011": "Nvalidiay addressway iay",
+            "tapi_80000012": "Nvalidiay addressway odemay",
+            "tapi_80000013": "Perationoay otnay ermittedpay inway urrentcay addressway tatesay",
+            "tapi_80000014": "Nvalidiay APItay inelay applicationway andlehay",
+            "tapi_80000015": "Nvalidiay applicationway amenay",
+            "tapi_80000016": "Nvalidiay earerbay odemay",
+            "tapi_80000017": "Nvalidiay allcay ompletioncay odemay",
+            "tapi_80000018": "Ctionaay isway unavailableway ithway hetay allcay",
+            "tapi_80000019": "Nvalidiay INECALLPARAMSlay tructuresay",
+            "tapi_8000001a": "Nvalidiay allcay rivilegepay",
+            "tapi_8000001b": "Nvalidiay allcay electsay arameterpay",
+            "tapi_8000001c": "Perationoay otnay ermittedpay inway urrentcay allcay tatesay",
+            "tapi_8000001d": "Nvalidiay allcay tatesay istlay",
+            "tapi_8000001e": "Nvalidiay allingcay ardcay iay",
+            "tapi_8000001f": "Nvalidiay allcay ompletioncay iay",
+            "tapi_80000020": "Nvalidiay onferencecay allcay andlehay",
+            "tapi_80000021": "Nvalidiay onsultationcay allcay andlehay",
+            "tapi_80000022": "Nvalidiay ountrycay odecay",
+            "tapi_80000023": "Nvalidiay eviceday lasscay identifierway",
+            "tapi_80000024": "Nvalidiay eviceday andlehay",
+            "tapi_80000025": "Nvalidiay ialingday arameterspay",
+            "tapi_80000026": "Nvalidiay igitday istlay",
+            "tapi_80000027": "Nvalidiay igitday odemay",
+            "tapi_80000028": "Nvalidiay igitsday",
+            "tapi_80000029": "Nvalidiay extensionway ersionvay",
+            "tapi_8000002a": "Nvalidiay roupgay ickuppay iay",
+            "tapi_8000002b": "Nvalidiay inelay andlehay",
+            "tapi_8000002c": "Perationoay otnay ermittedpay inway urrentcay inelay tatesay",
+            "tapi_8000002d": "Nvalidiay ocationlay iay",
+            "tapi_8000002e": "Nvalidiay ediamay istlay",
+            "tapi_8000002f": "Nvalidiay ediamay odemay",
+            "tapi_80000030": "Nvalidiay essagemay iay",
+            "tapi_80000032": "Nvalidiay arameterpay",
+            "tapi_80000033": "Nvalidiay arkpay iay",
+            "tapi_80000034": "Nvalidiay arkpay odemay",
+            "tapi_80000035": "Nvalidiay ointerpay",
+            "tapi_80000036": "Nvalidiay allcay rivilegepay electionsay",
+            "tapi_80000037": "Nvalidiay ateray",
+            "tapi_80000038": "Nvalidiay equestray odemay",
+            "tapi_80000039": "Nvalidiay erminaltay iay",
+            "tapi_8000003a": "Nvalidiay erminaltay odemay",
+            "tapi_8000003b": "Nvalidiay imeouttay aluevay",
+            "tapi_8000003c": "Nvalidiay onetay",
+            "tapi_8000003d": "Nvalidiay onetay istlay",
+            "tapi_8000003e": "Nvalidiay onetay odemay",
+            "tapi_8000003f": "Nvalidiay ransfertay odemay",
+            "tapi_80000040": "nay eviceday atchesmay hetay pecifiedsay equirementsray",
+            "tapi_80000041": "Hetay allcay isway otnay artpay ofway away onferencecay",
+            "tapi_80000042": "Hetay eviceday asway emoved,ray orway hetay eviceday lasscay isway otnay ecognizedray",
+            "tapi_80000043": "Hetay ervicesay roviderpay asway emovedray",
+            "tapi_80000044": "Nsufficientiay emorymay availableway tay ompletecay hetay operationway",
+            "tapi_80000045": "nay Ssistedaay Elephonytay equestsray areway endingpay",
+            "tapi_80000046": "Hetay applicationway isway oesday otnay avehay WNERoay rivilegepay onway hetay allcay",
+            "tapi_80000047": "Hetay applicationway isway otnay egisteredray tay andlehay equestsray",
+            "tapi_80000048": "Hetay operationway ailedfay orfay unspecifiedway easonsray",
+            "tapi_80000049": "Hetay operationway isway otnay upportedsay bay hetay underlyingway ervicesay roviderpay",
+            "tapi_8000004a": "Hetay equestedray ataday ateray isway otnay availableway",
+            "tapi_8000004b": "aay esourceray eedednay tay ulfillfay hetay equestray isway otnay availableway",
+            "tapi_8000004c": "Hetay equestray ueueqay isway alreadyway ullfay",
+            "tapi_8000004d": "Hetay applicationway ailedfay tay allocateway ufficientsay emorymay orfay hetay inimummay tructuresay izesay",
+            "tapi_8000004e": "Hetay allcay andoffhay ailedfay ecausebay hetay pecifiedsay argettay asway otnay oundfay",
+            "tapi_8000004f": "nay igherhay rioritypay argettay existsway orfay hetay allcay andoffhay",
+            "tapi_80000050": "Hetay elephonytay ervicesay ashay otnay eenbay initializedway",
+            "tapi_80000051": "Hetay amountway ofway user-userway infoway exceedsway hetay aximummay ermittedpay",
+            "tapi_80000052": "Hetay operationway annotcay bay ompletedcay untilway allway APItay applicationsway allcay ineShutdownlay",
+            "tapi_80000053": "Ouyay areway otnay ermittedpay tay allcay histay umbernay",
+            "tapi_80000054": "Hetay allingcay ardcay umbernay orway otherway illingbay informationway asway ejectedray",
+            "tapi_80000055": "Nvalidiay evice-specificday eaturefay",
+            "tapi_80000056": "Ouyay annotcay avehay wotay instancesway ofway hetay amesay ervicesay roviderpay",
+            "tapi_80000057": "Nvalidiay agentway iay",
+            "tapi_80000058": "Nvalidiay agentway roupgay",
+            "tapi_80000059": "Nvalidiay agentway asswordpay",
+            "tapi_8000005a": "Nvalidiay agentway tatesay",
+            "tapi_8000005b": "Nvalidiay agentway activityway",
+            "tapi_8000005c": "Hetay :''ay ialday odifiermay isway otnay upportedsay",
+            "tapi_8000005d": "Hetay userway ancelledcay hetay equestedray operationway",
+            "tapi_8000005e": "Nvalidiay addressway ypetay",
+            "tapi_8000005f": "Nvalidiay agentway essionsay tatesay",
+            "tapi_80000060": "Hetay inelay eviceday ashay eenbay isconnectedday",
+            "tapi_90000001": "Hetay honepay eviceday isway alreadyway inway useway",
+            "tapi_90000002": "Nvalidiay honepay eviceday iay",
+            "tapi_90000003": "Ncompatibleiay PIaay ersionvay",
+            "tapi_90000004": "Ncompatibleiay extensionway ersionvay",
+            "tapi_90000005": "Hetay APItay onfigurationcay informationway isway unusableway",
+            "tapi_90000006": "Hetay honepay eviceday isway alreadyway inway useway",
+            "tapi_90000007": "Nvalidiay APItay honepay applicationway andlehay",
+            "tapi_90000008": "Nvalidiay applicationway amenay",
+            "tapi_90000009": "Nvalidiay uttonbay orway amplay iay",
+            "tapi_9000000a": "Nvalidiay uttonbay odemay",
+            "tapi_9000000b": "Nvalidiay uttonbay tatesay",
+            "tapi_9000000c": "Nvalidiay ataday egmentsay iay",
+            "tapi_9000000d": "Nvalidiay eviceday lasscay identifierway",
+            "tapi_9000000e": "Nvalidiay extensionway cancelMeetingNotificationersionvay",
+            "tapi_9000000f": "Nvalidiay ookswitchhay eviceday iay",
+            "tapi_90000010": "Nvalidiay ookswitchhay odemay",
+            "tapi_90000011": "Nvalidiay amplay odemay",
+            "tapi_90000012": "Nvalidiay arameterpay",
+            "tapi_90000013": "Nvalidiay honepay andlehay",
+            "tapi_90000014": "Perationoay otnay ermittedpay inway urrentcay honepay tatesay",
+            "tapi_90000015": "Nvalidiay ointerpay",
+            "tapi_90000016": "Nvalidiay rivilegepay",
+            "tapi_90000017": "Nvalidiay ingray odemay",
+            "tapi_90000018": "Hetay eviceday asway emoved,ray orway hetay eviceday lasscay isway otnay ecognizedray",
+            "tapi_90000019": "Hetay ervicesay roviderpay asway emovedray",
+            "tapi_9000001a": "Nsufficientiay emorymay availableway tay ompletecay hetay operationway",
+            "tapi_9000001b": "Hetay applicationway isway oesday otnay avehay WNERoay rivilegepay onway hetay honepay",
+            "tapi_9000001c": "Hetay operationway ailedfay orfay unspecifiedway easonsray",
+            "tapi_9000001d": "Hetay operationway isway otnay upportedsay bay hetay underlyingway ervicesay roviderpay",
+            "tapi_9000001f": "aay esourceray eedednay tay ulfillfay hetay equestray isway otnay availableway",
+            "tapi_90000020": "Hetay equestray ueueqay isway alreadyway ullfay",
+            "tapi_90000021": "Hetay applicationway ailedfay tay allocateway ufficientsay emorymay orfay hetay inimummay tructuresay izesay",
+            "tapi_90000022": "Hetay elephonytay ervicesay ashay otnay eenbay initializedway",
+            "tapi_90000023": "Hetay operationway annotcay bay ompletedcay untilway allway APItay applicationsway allcay honeShutdownpay",
+            "tapi_90000024": "Hetay honepay eviceday ashay eenbay isconnectedday",
+            "tapi_c0000001": "Nvalidiay honepay tatesay",
+            "tapi_c0000002": "Hetay operationway isway otnay availableway atway histay imetay",
+            "tapi_c0000003": "Nvalidiay endingpay allcay tatesay",
+            "tapi_c0000004": "Nvalidiay upletay arrayway",
+            "tapi_c0000005": "Nvalidiay upletay",
+            "tapi_c0000006": "Onferencingcay ystemsay extensionsway isway otnay allowedway",
+            "tapi_c0000007": "Hetay operationway annotcay bay ompletedcay ueday tay imeouttay",
+            "tapi_c0000009": "aay ewnay articipantpay annotcay bay addedway ecausebay hetay onferencingcay ystemsay isway atway apacity.cay",
+            "tapi_d0000001": "Nvalidiay honepay tatesay",
+            "tapi_d0000002": "Hetay operationway isway otnay availableway atway histay imetay",
+            "tapi_d0000003": "Hetay eviceday isway urrentlycay offlineway",
+            "tapi_d0000004": "MCsay isway unableway tay erformpay hetay equestedray actionway ecausebay itway isway unningray inway hetay ackgroundbay",
+            "tapi_d0000005": "EDcay otnay egisteredray",
+            "tapi_d0000006": "Hetay eviceday isway otnay usingway OIPvay atway histay imetay",
+            "tapi_c12b1194": "aay out-of-memoryway errorway ocurredway onway hetay witchsay",
+            "tapi_c12b1195": "Hetay ystemsay encounteredway anway exceptionway",
+            "tapi_c12b1196": "Nableuay tay reatecay away ewnay hreadtay",
+            "tapi_c12b1197": "Hetay COIDcay isway unknownway",
+            "tapi_c12b1198": "Hetay day isway unknownway",
+            "tapi_c12b1199": "Hetay ortpay iay isway unknownway",
+            "tapi_c12b119a": "Hetay eaturefay isway otnay implementedway",
+            "tapi_c12b119b": "Hetay ystemsay encounteredway anway internalway errorway",
+            "tapi_c12b119c": "Hetay ystemsay isway outway ofway andleshay",
+            "tapi_c12b119d": "Hetay eviceday isway unknownway",
+            "tapi_c12b119e": "Hetay eviceday iay isway outway ofway angeray",
+            "tapi_c12b119f": "Nsupporteduay ormatfay",
+            "tapi_c12b11a0": "Hetay eviceday isway otnay eadyray",
+            "tapi_c12b11a1": "Hetay ystemsay isway outway ofway instanceway Dsiay",
+            "tapi_c12b11a2": "Hetay eviceday orway allcay andlehay isway obsoleteway",
+            "tapi_c12b11a3": "Hetay atabaseday isway otnay eadyray",
+            "tapi_c12b11a4": "Hetay eviceday apabilitiescay day otnay upportsay hetay equestedray actionway",
+            "tapi_f0000001": "Eneralgay Elphonytay ailurefay",
+            "tapi_f0000002": "Heretay isway nay eviceday assignedway tay hetay user'sway extensionway",
+            "tapi_f0000003": "Heretay isway nay allcay ithway hattay allcay idway onway hetay user'sway extensionway",
+            "tapi_f0000004": "Nableuay tay etsay away resencepay alertway onway hetay allcay",
+            "tapi_f0000005": "Hetay essagemay isway unknownway tay AScay",
+            "tapi_f0000006": "Hetay userway isway alredayway assignedway tay heirtay omehay extensionway",
+            "tapi_f0000007": "Hetay userway isway alreadyway onway heirtay omehay ortpay ",
+            "tapi_f0000008": "NyPhoneaay isway otnay allowedway orfay histay userway",
+            "tapi_f0000009": "nay urrentcay Xternaleay Ssignmentaay umbernay isway efinedday",
+            "tapi_f000000a": "nay allcay otesnay allowedway",
+            "tapi_f000000b": "Hetay userway oesday otnay avehay ermissionpay tay useway Oftphonesay",
+            "tapi_f000000c": "Oftphonesay ortpay reationcay imedtay outway",
+            "tapi_f000000d": "Nvalidiay oftphonesay ypetay",
+            "tapi_f000000e": "Hetay operationway imedtay outway",
+            "tapi_f000000f": "Hetay ortpay annotcay bay assignedway tay",
+            "tapi_f0000010": "Hetay onferencecay asway abortedway",
+            "tapi_f0000011": "Hetay ransfertay asway abortedway",
+            "tapi_f0000012": "Hetay accountway odecay isway invalidway",
+            "tapi_f0000013": "Hetay accessway evellay isway insufficientway orfay hetay equestray",
+            "tapi_f0000014": "Nvalidiay extensionway",
+            "tapi_f0000015": "Hetay accessway evellay isway insufficientway orfay hetay equestray",
+            "tapi_f0000016": "Hetay userway isway otnay allowedway tay odifymay heirtay runktay accessway odecay",
+            "tapi_f0000017": "Hetay runktay accessway odecay isway invalidway"
+        },
+        "upgrade": {
+            "upgradeError": "Pgradeuay ile(s)fay annotcay bay oaded/installed.lay Leasepay ontactcay yourway ystemsay administrator.way"
+        },
+        "recording": {
+            "recordingFailed": "Ecordingray idday otnay tartsay ecausebay hetay onferencecay ridgebay toragesay isway ull.fay"
+        },
+        "contactCard": {
+            "callPickupUnparkUnsuccessful": "Ickup/unparkpay asway unsuccessful.way",
+            "cannotPickupOwnCall": "Allcay ickuppay otnay availableway onway ownway all.cay"
+        },
+        "reservationLessConference": {
+            "loadFailed": "Annotcay oadlay eservation-lessray onferences.cay"
+        },
+        "microsoftOAuth": {
+            "adminConsent": "365oay eedsnay ermissionpay tay erformpay ync.say  Leasepay askway yourway iay adminway tay endsay onsentcay romfay hetay Itelmay Dminaay Ortal.pay"
+        }
+    },
+    "attendees": "Ttendeesaay",
+    "guest": "Uestgay",
+    "organizer": "Rganizeroay",
+    "presenter": "Resenterpay",
+    "participant": "Articipantpay",
+    "groupChat": "Roupgay Hatcay",
+    "nowSharing": "Ownay Haringsay",
+    "nowSpeaking": "Ownay Peakingsay",
+    "unavailableUserName": "Navailableuay",
+    "introduce": "Ntroduceiay yourselfway asway",
+    "join": {
+        "callme": "Allcay may atway optional)(ay",
+        "enterName": "Ntereay amenay",
+        "enterNumber": "Ntereay umbernay",
+        "join": "Oinjay"
+    },
+    "status": {
+        "recording": "Ecording...ray",
+        "locked": "Ockedlay"
+    },
+    "notification": {
+        "justJoined": "ustjay oined.jay",
+        "raisedHand": "aisedray and.hay",
+        "justLeft": "ustjay eft.lay"
+    },
+    "ok": "oay",
+    "cancel": "Ancelcay",
+    "hangUp": "Anghay uay",
+    "hangUpMsg": "Reaay youway uresay youway antway tay anghay upway hetay all?cay",
+    "leaveConferenceMsg": "Losingcay histay agepay illway akemay youway eavelay hetay eetingmay __confName__\".\"ay",
+    "im": {
+        "me": "may",
+        "participants": "articipantspay",
+        "defaultExoUserName": "Uestgay Seruay",
+        "timestamp": {
+            "am": "amway",
+            "pm": "pay",
+            "formatTime": ":mmhay aay",
+            "formatFullDate": "M/DD/YYYYmay",
+            "formatShortDate": "M/DD/YYmay",
+            "today": "Odaytay",
+            "yesterday": "Esterdayyay"
+        },
+        "userTyping": {
+            "1-UserTyping": "0}{ay isway ypingtay",
+            "2-UserTyping": "0}{ay andway 1}{ay areway ypingtay",
+            "3-UserTyping": "0},{ay 1}{ay andway 2}{ay areway ypingtay",
+            "4-UserTyping": "0},{ay 1},{ay 2}{ay andway oremay areway ypingtay"
+        }
+    },
+    "noItemsMessage": {
+        "no-events-upcoming": "nay cheduledsay events.way Eizesay hetay ay!day",
+        "no-events-past": "Othingnay tay eesay ere.hay",
+        "no-people-favorites": "Ometimes,say layingpay avoritesfay isway away oodgay hing.tay",
+        "no-people-favorites-suggestion": "Earchsay ontactscay andway tarsay hem.tay",
+        "no-people-groups": "Omesay eoplepay ustjay elongbay ogether.tay",
+        "no-people-groups-suggestion": "Reatecay ewnay roupsgay tay organizeway yourway ontacts.cay",
+        "no-people-groups-members": "Omesay eoplepay ustjay elongbay ogether.tay",
+        "no-people-groups-members-suggestion": "Ddaay omesay embersmay tay histay roup.gay",
+        "no-calls-missed": "Mazing.aay Ouyay avehay otnay issedmay away inglesay all.cay",
+        "no-calls-all": "Ip.zay Ada.nay Othing.nay",
+        "no-voicemails-all": "Hankstay orfay hecking,cay utbay youway avehay nay ewnay oicemails.vay  Ay!yay",
+        "no-voicemails-unheard": "Hankstay orfay hecking,cay utbay youway avehay nay unheardway oicemails.vay  Ay!yay",
+        "no-voicemails-flagged": "Omesay essagesmay areway orthway eeping.kay",
+        "no-voicemails-flagged-suggestion": "Avesay away oicemailvay tay eepkay itway ermanently.pay",
+        "no-voicemails-license": "Orry,say oicemailvay isway otnay enabled.way",
+        "no-message": "Et’slay etgay histay onversationcay tarted!say",
+        "no-message-suggestion": "Earchsay orfay away ontactcay tay egin.bay",
+        "no-message-im-no-messages": "Et’slay etgay histay onversationcay tarted!say",
+        "no-message-im-no-messages-suggestion": "Ypetay away essagemay tay egin.bay",
+        "no-message-im-not-enabled": "Orry,say essagingmay isway otnay enabled.way",
+        "no-message-im-not-enabled-suggestion": "Ookslay ikelay you'reway oinggay tay avehay tay all.cay"
+    },
+    "dialogs": {
+        "divider": {
+            "or": "orway"
+        },
+        "invite": {
+            "title": "Eetingmay Nviteiay Nfoiay",
+            "extension": "Xtensioneay",
+            "dialIn": "Ialday iay",
+            "code": "Odecay",
+            "lockMsg": "Onferencecay isway ocked.lay Skaay hetay organizerway tay unlockway hetay onferencecay eforebay orwardingfay hetay invite.way"
+        },
+        "callMe": {
+            "callViaComputer": "Allcay iavay Omputercay Udioaay",
+            "callViaSoftPhone": "Allcay iavay Oftphonesay",
+            "callViaExternalAssignment": "Allcay Xternaleay Ssignmentaay",
+            "callViaDeskPhone": "Allcay iavay Eskphoneday",
+            "callMe": "Allcay may",
+            "callMePlaceHolder": "Ntereay Umbernay",
+            "dialInfo": "Ocallay Ial-in:day ",
+            "code": "Articipantpay Ode:cay ",
+            "moreInfo": "Oremay Nfoiay",
+            "lessInfo": "Esslay Nfoiay",
+            "copy": "Opycay",
+            "callDisconnected": "Ouyay ereway isconnected.day",
+            "callFailed": "way ereway unableway tay allcay you.way",
+            "noOrganizerPrompt": "Vailableaay afterway anway organizerway oinsjay",
+            "callMeNotAllowed": "Allcay may optionway isway otnay availableway"
+        },
+        "sharing": {
+            "shareFullScreen": "Haresay Ullfay Creensay",
+            "shareArea": "Haresay Reaaay",
+            "shareWindow": "Haresay Indowway",
+            "waitingForShareApproval": "Aitingway orfay organizer'sway approvalway tay haresay creensay",
+            "notAllowedToShare": "Rganizeroay isway otnay ermittingpay haringsay atway histay omentmay",
+            "copyUrlToClipboard": "Opycay RLuay tay lipboardcay",
+            "toShareScreenWith": "tay haresay creensay ithway ",
+            "adhocConference": "aay ochay Onferencecay",
+            "activelySharing": "Ctivelyaay Haringsay",
+            "activelySharingPopup": "Ctivelyaay Haring...say"
+        },
+        "softPhone": {
+            "checkMic": "Heckcay Omputercay Icmay",
+            "sayHello": "tay heckcay hetay omputercay ic,may aysay Hello!\"\"ay",
+            "dialIn": "Ialday may iay",
+            "back": "Ackbay",
+            "dialing": "Ialing...day",
+            "promptDownloadPlugin": "tay useway yourway omputercay audio,way you'llway eednay tay ownloadday Itelmay Udioaay Lugin.pay",
+            "promptDownloadPluginUpgrade": "tay useway yourway omputercay audio,way youway illway eednay tay upgradeway hetay Itelmay Udioaay Lugin.pay",
+            "downloadPlugin": "Ownloadday",
+            "downloadPluginDescription": "Itelmay isway ownloadingday hetay audioway luginpay tay elphay youway ialday inway usingway yourway omputer’scay audio.way Henway ompletecay leasepay installway andway estartray yourway rowser.bay",
+            "error": {
+                "disconnected": "Ouyay ereway isconnected.day"
+            }
+        },
+        "presenter": {
+            "downloadInProgress": "Fteraay hetay ownloadday ompletes,cay indfay hetay Itelmay Resenterpay appway andway aunchlay it.way",
+            "downloadInProgressForIE": "Fteraay hetay ownloadday ompletes,cay leasepay estartray yourway rowser,bay indfay hetay Itelmay Resenterpay appway andway aunchlay it.way",
+            "downloadAlready": "Ouyay alreadyway ownloadedday hetay resenterpay oftware.say",
+            "downloadComplete": "Leasepay indfay hetay Itelmay resenterpay appway andway aunchlay it.way",
+            "downloadRequest": "tay haresay yourway creen,say you'llway eednay tay ownloadday Itelmay Resenter.pay",
+            "download": "Ownloadday",
+            "downloadPresenter": "Ownloadday Itelmay Resenterpay"
+        },
+        "layout": {
+            "all": "Llaay",
+            "data": "Ataday",
+            "video": "Ideovay"
+        },
+        "features": {
+            "layout": "Electsay Ayoutlay"
+        }
+    },
+    "shared": {
+        "waitingFor": "Aitingway orfay",
+        "yourCollaborators": "yourway ollaboratorscay ",
+        "toStartSharing": "tay tartsay haring.say",
+        "ended": "isway nay ongerlay haring.say",
+        "msgs": {
+            "confLocked": "Histay onferencecay ashay tartedsay andway ashay eenbay ockedlay bay hetay organizer.way",
+            "confNotStarted": "Hetay onferencecay illway tartsay henway hetay organizerway arrives.way",
+            "sharingPaused": "Haringsay isway aused.pay"
+        }
+    },
+    "userphone": {
+        "title": {
+            "label": "Abellay",
+            "number": "Umbernay",
+            "myPhones": "may Honespay"
+        },
+        "buttons": {
+            "add": "Ddaay",
+            "remove": "Emoveray",
+            "update": "Pdateuay"
+        },
+        "label": {
+            "press1ToConnect": "Resspay 1ay tay onnectcay",
+            "automaticallyConnect": "Utomaticallyaay onnectcay",
+            "ringsToTry": "ingsray tay rytay",
+            "numberOfRingsToTry": "Umbernay ofway Ingsray tay rytay",
+            "removeNumber": "Emoveray",
+            "useSelectedNumber": "Seuay Electedsay Umbernay",
+            "addNumber": "Ddaay Umbernay",
+            "editNumber": "Diteay Umbernay",
+            "addNewNumber": "Ddaay Ewnay Umbernay",
+            "addLabel": "Ddaay Abellay",
+            "edit": "Diteay",
+            "changeAnywhere": "Hangingcay hesetay umbersnay illway affectway everywhereway hetay umbersnay areway usedway",
+            "selectNumber": "Electsay Umbernay",
+            "tryForNumRings": "Rytay orfay __numOfRings__ ingsray",
+            "confirmText1": "Hetay umbernay youway areway ryingtay tay emoveray",
+            "confirmType": "isway eingbay usedway asway oneway ofway yourway __type__ umbersnay",
+            "confirmType2": "isway eingbay usedway asway oneway ofway yourway __type__  andway Ssignedaay Xternaleay umbersnay",
+            "confirmAssignedNum": "isway eingbay usedway asway yourway Ssignedaay Xternaleay umbernay",
+            "confirmText3": "Reaay youway uresay youway antway tay emoveray it?way",
+            "keepNumber": "Eepkay Umbernay",
+            "typeSimulRing": "ImulRingsay",
+            "typeFindMe": "IndMefay",
+            "typeAssigned": "Ssignedaay Xternaleay",
+            "dontRingAnyNumber": "On’tday Ingray Nyaay Umbernay",
+            "mobileConnectClient": "Onnectcay obilemay lientcay",
+            "remove": "Emoveray"
+        },
+        "error": {
+            "incorrectSelection": "Otnay away alidvay honepay entryway orfay electionsay",
+            "noExtensionNumber": "Hetay umbernay ormatfay isway incorrect.way Leasepay bay uresay tay enterway hetay ullfay umber;nay orfay exampleway xxx)(ay xx-xxxx.xay",
+            "noExternalNumber": "Ouyay day otnay avehay ermissionpay tay useway anway externalway umbernay asway away __type__ estination.day",
+            "localNumbers": "Ouyay areway onlyway allowedway tay useway ocallay umbers.nay",
+            "localNationalNumbers": "Ouyay areway onlyway allowedway tay useway ocal/nationallay umbers.nay",
+            "numberBeBetween": "Ouyay areway onlyway allowedway tay useway aluesvay etweenbay 1ay &ay 2ay",
+            "incorrectNumberFormat": "Ncorrectiay Umbernay Ormatfay",
+            "cannotUsedForForwarding": "Hetay umbernay __number__ isway hetay amesay asway yourway Onnectcay obilemay lientcay umber.nay Ouyay ustmay emoveray it.way Lickcay onway hetay errorway essagemay tay roceed.pay",
+            "sameAsConnectMobileNumber": "Hetay umbernay __number__ isway hetay amesay asway yourway Onnectcay obilemay lientcay umber.nay Leasepay enterway away ifferentday one.way",
+            "generalErrorMobility": "Ote:nay Hetay eviceday __number__ unningray yourway Onnectcay obilemay lientcay appway annotcay bay usedway orfay orwarding.fay",
+            "generalError": "Annotcay avesay hesetay umber(s).nay",
+            "parseError": "Leasepay orrectcay hetay ighlightedhay umber(s).nay",
+            "badConnection": "Heretay isway away onnectioncay issue.way Leasepay rytay againway ater.lay",
+            "cannotSaveThisNumber": "Annotcay avesay histay umber.nay"
+        }
+    },
+    "CallFwdCheckBox": {
+        "displayText": "Ouryay allscay areway eingbay orwardedfay tay __dest__.",
+        "changeThis": "Hangecay Histay",
+        "voicemail": "oicemailvay",
+        "OK": "oay"
+    },
+    "dialPad": {
+        "dialPadMessage": "Resspay enterway tay allcay",
+        "dialpad": "Ialpadday"
+    },
+    "dialDefault": {
+        "selectNumber": "Electsay umbernay tay ial:day",
+        "dontAskAgain": "On'tday askway histay againway aboutway",
+        "AlwaysDialDefault": "Lwaysaay ialday efaultday orfay hesetay ontactscay"
+    },
+    "workgroups": {
+        "agentStatusChanged": "Gentaay tatussay hangedcay",
+        "updateStatus": "Etsay aay",
+        "onThePhoneWith": "oay hetay Honepay Ithway",
+        "OnThePhone": "oay hetay Honepay",
+        "recordingCall": "Ecordingray All...cay",
+        "hideWorkgroupDetails": "Idehay Orkgroupway Etailsday",
+        "showWorkgroupDetails": "Howsay Orkgroupway Etailsday",
+        "callQueue": "Ueuedqay",
+        "callTime": "Allcay Imetay",
+        "dashboard": {
+            "workgroups": "Orkgroupsway",
+            "wrapUp": "Rapway uay"
+        },
+        "enumPresence": {
+            "presUnknown": "Nknownuay",
+            "presOnline": "Vailableaay",
+            "presRingingCall": "Ncomingiay All...cay",
+            "presWGRingingCall": "Ncomingiay way All...cay",
+            "presConnectedCall": "iay Allcay",
+            "presWGConnectedCall": "iay way Allcay",
+            "presWGParkedCall": "way Allcay Arkedpay",
+            "presParkedCall": "Allcay Arkedpay",
+            "presHeldCall": "oay Oldhay",
+            "presRecordingCall": "Ecordingray Allcay",
+            "presOnThePhone": "oay hetay Honepay"
+        },
+        "calls": {
+            "longestWait": "Ongestlay Aitway",
+            "shortestWait": "Hortestsay Aitway",
+            "dnis": "NISday",
+            "longestWaittime": "Ongestlay Aitway Ime:tay",
+            "voicemails": "Oicemailsvay",
+            "calls": "Allscay",
+            "setAllAgents": "Etsay Llaay Gentsaay",
+            "status": "tatussay",
+            "callTime": "Allcay imetay",
+            "longestCall": "Ongestlay All:cay"
+        },
+        "status": {
+            "login": "Oglay iay",
+            "logout": "Oglay Utoay",
+            "return": "Ndeay Rap-Upway",
+            "wrapUp": "Rap-Upway",
+            "loggedIn": "Oggedlay iay",
+            "loggedOut": "Oggedlay Utoay",
+            "stepAway": "Rap-Upway"
+        },
+        "chmStatus": {
+            "onHour": "N-Hoursoay",
+            "offHour": "Ff-Hoursoay",
+            "holiday": "Olidayhay",
+            "custom": "Ustomcay"
+        },
+        "supervisorOptions": {
+            "dialMailbox": "Ialday Ailboxmay",
+            "unpark": "Nparkuay",
+            "bargeIn": "Argebay inway",
+            "silentCoach": "Ilentsay Oachcay",
+            "silentMonitor": "Ilentsay Onitormay",
+            "whisper": "Hisperway",
+            "selectCallOptions": "Electsay Allcay Ptionoay",
+            "startRecording": "Tartsay Ecordingray",
+            "stopRecording": "Topsay Ecordingray"
+        },
+        "settings": {
+            "settings": "Ettingssay",
+            "secs": "ecssay",
+            "whenQueuedTime": "Henway  ueuedqay  imetay",
+            "whenCallsInQueue": "Henway allscay inway ueueqay",
+            "workgroupAlert": "Orkgroupway Lertsaay",
+            "diplayAlertFor": "Isplayday alertway orfay ",
+            "newCalls": "Ewnay Allscay",
+            "allCallAlert": "Llaay Allcay Lertsaay",
+            "alertSound": "Lertaay Oundsay"
+        },
+        "sortMenuItems": {
+            "agentState": "Gentaay Tatesay",
+            "firstName": "Irstfay Amenay",
+            "lastName": "Astlay amenay",
+            "wrapUp": "Rap-Upway"
+        },
+        "routingSlip": {
+            "close": "Losecay"
+        },
+        "callNotes": {
+            "routeSlipReason": {
+                "0": "Ullnay",
+                "1": "Irectday",
+                "2": "OrwardBusyfay",
+                "3": "OrwardNoAnswerfay",
+                "4": "OrwardAllfay",
+                "5": "Ickuppay",
+                "6": "NParkuay",
+                "7": "Edirectray",
+                "8": "Ompletioncay",
+                "9": "Ransfertay",
+                "10": "Eminderray",
+                "11": "Nknownuay",
+                "12": "Navailableuay",
+                "13": "Ntrudeiay",
+                "14": "Arkedpay",
+                "15": "AmpedOncay",
+                "16": "OuteRequestray",
+                "17": "Alledcay",
+                "18": "Orwardfay",
+                "19": "Riginateoay",
+                "20": "Onferencecay",
+                "21": "Arkpay",
+                "22": "IlentMonitorsay",
+                "23": "ArgeInbay",
+                "24": "Ecordray",
+                "25": "AkeMeConferencemay",
+                "26": "HisperCalledway",
+                "27": "NtercomCallediay",
+                "28": "IlentCoachedsay",
+                "29": "ReateMeetMeConferencecay",
+                "30": "OinMeetMeConferencejay",
+                "31": "ReateMeetMeConfOriginatecay",
+                "32": "ReateMeetMeConfCalledcay",
+                "33": "IngAllCalledray",
+                "34": "IngAllAnsweredray",
+                "-5": "EcordStopray",
+                "-4": "EcordStartray",
+                "-3": "Isconnectday",
+                "-2": "Erminatetay",
+                "-1": "IrectToAccday"
+            },
+            "savePrompt": "Resspay NTEReay tay avesay yourway ote,nay SCeay tay ancelcay",
+            "addNote": "Ddaay Otenay",
+            "closeNote": "Losecay",
+            "callNotePlaceholder": "Allcay Otenay"
+        },
+        "tabs": {
+            "queues": "Ueuesqay",
+            "agents": "Gentsaay",
+            "voicemails": "Oicemailsvay",
+            "voicemailsTab": {
+                "defaultLabel": "Llaay"
+            }
+        },
+        "queueInfo": {
+            "queuedCalls": "Ueuedqay Allscay",
+            "longestQueued": "Ongestlay Ueuedqay",
+            "longestCall": "Ongestlay Allcay"
+        },
+        "telephonyOptions": {
+            "chat": "Hatcay",
+            "dialMailbox": "Ialday Ailboxmay",
+            "sendVoicemail": "Endsay Oicemailvay",
+            "intercom": "Ntercomiay",
+            "whisperPage": "Hisperway Agepay",
+            "alertWhenAvailable": "Lertaay Henway Vailableaay",
+            "recordCall": "Ecordray Allcay",
+            "stopRecordCall": "Topsay Ecordingray"
+        },
+        "callSpecialOptions": {
+            "silentMonitor": "Ilentsay Onitormay",
+            "silentCoach": "Ilentsay Oachcay",
+            "bargeIn": "Argebay iay"
+        },
+        "timeFormats": {
+            "dateAndTimeFull": "M/DD/YYYYmay :mmhay away"
+        }
+    },
+    "appMenuItems": {
+        "quitapp": "Uitqay Onnectcay",
+        "apppreferences": "References...pay",
+        "appupgrade": "Heckcay orfay Pdates...uay",
+        "appsettings": "Ettings...say",
+        "aboutapp": "Boutaay Itelmay Onnectcay",
+        "build": "Uildbay",
+        "copyright": "Opyrightcay copy;&ay 015-2019,2ay Itelmay Etworksnay Orporation,cay Llaay Ightsray Eservedray",
+        "showToolbar": "Howsay Oolbartay",
+        "editToolbar": "Diteay Oolbartay",
+        "help": "Elphay",
+        "contactSupport": "Ontactcay Upportsay",
+        "connectUserGuide": "Seruay Uidegay",
+        "trainingVideos": "Rainingtay Ideosvay",
+        "exitapp": "Xiteay",
+        "alwaysOnTop": "Lwaysaay oay Optay",
+        "sendClientLogs": "Endsay Lientcay Ogslay",
+        "productName": "Itelmay Onnectcay",
+        "aboutTitle": "Boutaay",
+        "privacyPolicy": "Rivacypay Olicypay"
+    },
+    "contextMenuItems": {
+        "copy": "Opycay",
+        "cut": "Utcay",
+        "paste": "Astepay",
+        "selectAll": "Electsay Llaay"
+    },
+    "search": {
+        "10": "Xtension:eay ",
+        "100": "Usiness:bay ",
+        "200": "Obile:may ",
+        "201": "Obilemay 2ay ",
+        "300": "Ager:pay ",
+        "400": "Ome:hay ",
+        "501": "Rimary:pay ",
+        "511": "Usinessbay 2ay ",
+        "521": "Ompany:cay ",
+        "531": "Ssistant:aay ",
+        "541": "Allback:cay ",
+        "551": "Ar:cay ",
+        "561": "Omehay 2ay ",
+        "571": "Ther:oay ",
+        "5000": "Fficeoay ax:fay ",
+        "5011": "Omehay ax:fay ",
+        "5021": "Theroay ax:fay ",
+        "6001": "Sdn:iay ",
+        "6011": "Adio:ray ",
+        "6021": "Elex:tay ",
+        "6031": "TY/TDD:tay ",
+        "loading": "Oading...lay",
+        "directMatches": "Irectday Atchesmay",
+        "exchangePublicMatches": "Xchangeeay Ublicpay Atchesmay",
+        "nameOrNumber": "Amenay orway Umbernay",
+        "noResults": "nay Esultsray Oundfay",
+        "pleaseEnterNameOrNumber": "Leasepay Ntereay away Amenay orway Umbernay",
+        "showCompanyName": "Howsay Ompanycay Amenay",
+        "showDepartmentName": "Howsay Epartmentday Amenay",
+        "showPhoneNumber": "Howsay Honepay Umbernay",
+        "phone": "Hone:pay ",
+        "extension": "Xtension:eay ",
+        "more": "Oremay"
+    },
+    "trayMenu": {
+        "exit": "Xiteay"
+    },
+    "eventCell": {
+        "nowSpeaking": "Ownay Peakingsay",
+        "recording": "Ecording...ray"
+    },
+    "programmableToolbar": {
+        "noToolbars": {
+            "prompt": "Ouyay ancay addway uttonsbay tay hetay oolbartay bay lickingcay ere.hay",
+            "gotItButton": "Otgay it!way",
+            "panelMessage": "nay oolbartay uttonsbay onfiguredcay"
+        },
+        "popup": {
+            "context": "Ypetay hetay equiredray Ontact/Extncay andway resspay NTEReay tay erformpay pecifiedsay actionway",
+            "contactPlaceholder": "Ypetay Amenay"
+        },
+        "tooltip": {
+            "label": "Abellay ",
+            "monitorName": "Amenay ",
+            "monitorStatus": "Tatussay ",
+            "monitorCallInfo": "All-infocay ",
+            "Shortcut": "Hortcutsay",
+            "bcaLine": "Inelay #ay",
+            "calls": "All(s)cay",
+            "number": "Umbernay",
+            "audioPath": "Udioaay athpay"
+        },
+        "audioPath": {
+            "0": "Peakersay",
+            "1": "Eadsethay",
+            "2": "Irelessway Eadsethay",
+            "3": "Luetoothbay"
+        },
+        "labels": {
+            "toolbar": "Oolbartay Uttonsbay",
+            "edittoolbar": "Electsay uttonsbay tay isplayday inway yourway oolbartay"
+        },
+        "fixtooltip": {
+            "3": "Onitormay Xtensioneay",
+            "4": "Ialday",
+            "5": "Ialday Ailboxmay",
+            "6": "Ntercomiay",
+            "7": "Ilentsay Onitormay",
+            "8": "Argebay iay",
+            "9": "Hisperway Agepay",
+            "10": "Ickuppay",
+            "11": "Nparkuay",
+            "12": "Ickuppay orway Nparkuay",
+            "13": "Ickuppay Ightnay Ellbay",
+            "14": "Agepay",
+            "15": "Lindbay Ransfertay",
+            "16": "Onsultativecay Ransfertay",
+            "17": "Ransfertay tay Ailboxmay",
+            "18": "Ntercomiay Ransfertay",
+            "19": "Lindbay Onferencecay",
+            "20": "Onsultativecay Onferencecay",
+            "21": "Ntercomiay Onferencecay",
+            "22": "Arkpay",
+            "23": "Arkpay andway Agepay",
+            "24": "Ecordray Xtensioneay",
+            "25": "Ecordray Allcay",
+            "26": "Utemay Allcay",
+            "27": "Endsay Igitsday",
+            "28": "Hisperway Ransfertay",
+            "29": "Entrexcay Lashfay",
+            "30": "Ridgedbay Allcay Ppearanceaay",
+            "31": "Nsweraay",
+            "32": "Xecuteeay DEday Ommandcay",
+            "33": "Roupgay Ickuppay",
+            "34": "Anghay uay",
+            "35": "Oldhay",
+            "36": "Nvokeiay Ommandcay Inelay",
+            "37": "Nvokeiay RLuay",
+            "38": "tay Utoaay Ttendantaay",
+            "39": "Ransfertay tay Oicevay Ailmay",
+            "40": "Ransfertay",
+            "41": "Onferencecay",
+            "42": "Hangecay Allcay Andlinghay Tatesay",
+            "43": "Ssignaay tay Xternaleay Umbernay",
+            "44": "Orkgroupway Oginlay",
+            "45": "Orkgroupway Ogoutlay",
+            "46": "Orkgroupway Rap-Upway",
+            "50": "Penoay Ueueqay Onitormay",
+            "51": "Penoay Oicemailvay Iewervay",
+            "55": "Xternaleay Ssignmentaay",
+            "57": "Dd/Modifyaay Ontactcay",
+            "58": "gay tay Rimarypay Honepay",
+            "59": "Diteay Allcay Otenay",
+            "60": "Andsfreehay Odemay",
+            "61": "Elphay Ontentscay andway Ndexiay",
+            "62": "Etsay Efaultday Udioaay Athpay",
+            "81": "Otlinehay",
+            "82": "Ilentsay Oachcay",
+            "83": "Aliciousmay Allcay Racetay"
+        },
+        "description": {
+            "3": "Howsay henway anway extensionway ashay incomingway alls,cay isway onway hetay honepay orway inway away onference.cay",
+            "4": "Ialday away re-programmedpay umbernay ofway yourway hoosingcay",
+            "5": "Eavelay away oicemailvay orfay away pecifiedsay extensionway",
+            "6": "Ntercomiay anway extensionway",
+            "7": "Istenlay inway onway away onversationcay ithoutway eingbay eardhay",
+            "8": "Nterruptiay away onversationcay etweenbay wotay arties,pay othbay artiespay illway earhay you.way",
+            "9": "Alktay tay away ontactcay howay isway onway hetay honepay ithoutway allercay earinghay",
+            "10": "Ickpay upway away ingingray inelay",
+            "11": "Rabgay away eldhay allcay romfay anotherway ontact'scay extensionway",
+            "12": "",
+            "13": "Ickpay upway ightnay ellbay allcay",
+            "14": "Nnounceaay overway agingpay ystemsay",
+            "15": "Ransfertay away allcay ",
+            "16": "Skaay hetay eceivingray artypay ifway heytay illway aketay anway incomingway all.cay",
+            "17": "Ransfertay allcay tay away ontact'scay oicemailvay",
+            "18": "Nnounceaay ransfertay overway ontact'scay intercomway",
+            "19": "Ringbay away ontactcay intoway yourway allcay ithoutway askingway",
+            "20": "Ringbay away ontactcay intoway yourway allcay afterway askingway hemtay ifway heytay antway tay oinjay",
+            "21": "Ringbay away ontactcay intoway yourway allcay afterway askingway hemtay overway intercomway",
+            "22": "Lacepay allcay onway oldhay onway anotherway ontact'scay extension.way",
+            "23": "Lacepay allcay onway oldhay onway anotherway ontact'scay extensionway andway announceway itway overway agingpay ystemsay",
+            "24": "Ecordray away allcay onway anotherway extensionway",
+            "25": "Ecordray yourway ownway allcay",
+            "26": "Utemay incomingway hisperway orway agepay",
+            "27": "Endsay ouchtay onestay uringday away allcay",
+            "28": "Nnounceaay ransfertay iavay hisperway",
+            "29": "",
+            "30": "Howsay henway away ridgedbay inelay ashay incomingway alls,cay isway onway hetay honepay orway inway away onference.cay",
+            "31": "Nsweraay incomingway allcay",
+            "32": "",
+            "33": "Ickpay upway allcay orfay roupgay atway pecifiedsay extensionway",
+            "34": "Anghay upway onway activeway allcay",
+            "35": "Utpay allcay onway oldhay",
+            "36": "",
+            "37": "Penoay rowserbay tay RLuay",
+            "38": "Ransfertay allercay tay autoway attendantway",
+            "39": "Ransfertay allercay tay yourway oicemailvay",
+            "40": "Ransfertay allcay",
+            "41": "",
+            "42": "Hangecay yourway availabilityway tatesay tay __chm__.",
+            "43": "Hangecay yourway rimarypay assignmentway tay hetay astlay externalway umbernay usedway",
+            "44": "Oglay inway orkgroupway agentway intoway allway ueues.qay",
+            "45": "Oglay outway orkgroupway agentway outway ofway allway ueues.qay",
+            "46": "Utpay orkgroupway agentway intoway rap-upway odemay andway ausepay allway alls.cay",
+            "47": "Penoay Ecentray anelpay tay eesay allcay og,lay oicemailsvay andway hatscay",
+            "48": "",
+            "49": "Iewvay allway agentsway",
+            "50": "",
+            "51": "Iewvay allway ofway may oicemailsvay",
+            "52": "",
+            "53": "Penoay Ventseay anelpay",
+            "54": "",
+            "55": "Hortcutsay tay etsay yourway externalway assignmentway",
+            "56": "",
+            "57": "",
+            "58": "Ssignaay yourselfway tay yourway rimarypay honepay",
+            "59": "Diteay allcay otenay orfay activeway allcay",
+            "60": "",
+            "61": "",
+            "62": "Hangecay audioway athpay tay __path__.",
+            "75": "Ntereay rap-upway odecay",
+            "76": "Xtendeay rap-upway",
+            "77": "Ndeay rap-upway",
+            "78": "Skaay upervisorsay orfay assistanceway",
+            "81": "Reatescay  otlinehay ircuitcay etweenbay hetay executiveway andway assistant.way Supposed(ay tay bay anagermay andway eamtay ember)may",
+            "82": "Llowsaay youway tay peaksay tay yourway olleaguecay andway istenlay inway onway hetay onversation,cay ithoutway hetay otherway artypay onway hetay allcay nowing.kay",
+            "83": "allowsway allerscay tay lagfay anyway incomingway orway outgoingway allcay asway aliciousmay bay usingway away tarsay odecay hichway allowsway andway enablesway racingtay andway rackingtay ofway hetay allcay bay hetay ublicpay etworknay"
+        }
+    },
+    "audioDevice": {
+        "plantronicsPluginName": "ONNECT_PLANTRONICScay"
+    },
+    "exoBrowserSupport": {
+        "warning": " Orry,say yourway urrentcay rowser/versionbay isway otnay upported.say",
+        "description": "iay orderway tay experienceway Onnectcay Onferencecay unctionalityfay roperly,pay useway hetay inkslay elowbay tay installway away upportedsay rowserbay orway upgradeway tay hetay atestlay ersion:vay",
+        "browser": {
+            "ie": "iay",
+            "edge": "Dgeeay",
+            "firefox": "Irefoxfay",
+            "chrome": "Hromecay",
+            "safari": "Afarisay"
+        },
+        "proceedDescription": "Singuay anway unsupportedway rowserbay aymay esultray inway enderingray roblems.pay ",
+        "proceed": "Roceedpay anywayway >ay"
+    }
+}

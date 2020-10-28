@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "authUri":"https://10.17.21.125/userauth",
+    "keyId":1,"algorithmId":2,
+    "identity":{
+      "username":"OGoyal"
+    },
+    "created":"1467236939221",
+    "expiry":"1467496939221",
+    "renewBy":"1467497089221","custom":{"app-id":"Endo Client","server":"10.17.21.125"}},"signature":"CZk4C7XTnW4vsIrwYo2LMm1a5LrssOY10sYf4ywKy51ZNOMaw0i/TTmF5yl66TgwzD3CJ4Cwsw7bwNsT4XH1Ye62eyn0dgdaC98SPKNeC8Jd5joEy6yotskRETHo87An1RTgsIOl9W/0lddV2TW8zLcSQzawAFBOnyGC4882N1gsW2ftCxCEwQ9kf0vmk09fRTQbPs3VC/Axn3YM9LyKOKCAuadWwCEiTWBEuCjAgNC+r1vwApst1SCxuK44zpnGTj6YEys0Hburz46IFCQuRJahu0n+7/xOPg7yug2Z+5ZLrY3uMxGUq7cRkjor5dmxM3kwMxkjHuK7CNqP3npDcA==",
+  "pwdstrength":66,
+  "pwdminlength":6}

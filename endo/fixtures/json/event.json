@@ -1,0 +1,1085 @@
+{
+	"ItemId": {
+		"Id": "AAMkADcwYTIxNTI3LTczZTEtNDcxNC1hZjIyLTg0MTJjMzcyMTQyOQFRAAgI1PDMY4kAAEYAAAAAKW9qHY3BIk2XXvrLMOp9VwcActlcM4sHHUCbYyWNR8eVFQAAAAABDQAAzcPfdijAZ0qzab8YPR0H+AAAdHyhMgAAEA==",
+		"ChangeKey": "DwAAABYAAADNw992KMBnSrNpvxg9HQf4AAB4n1X8"
+	},
+	"Subject": "Angular Refresher and Teamwork Codebase TOIs",
+	"Body": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*** Updated with list of topics, as well as Conference Info ***\r\n\r\n\r\n\r\nAll,\r\n\r\n\r\n\r\nWith the upcoming start of the UIM client work, which will be a part of the current Teamwork codebase, we thought it would be beneficial to host a series of TOIs. These TOIs will aim to help get accustomed\r\n to the current code base, development environment, as well as a refresher on Angular (since training was several months ago).\r\n\r\n\r\n\r\nHere are the list of topics:\r\n\r\n\r\nMonday: Angular Refresher (led by Prashant Sharma)\r\n\r\n\r\nConsidering a lot of us went through Angular training several months ago, and haven’t touched it since, it’s easy to forget the finer details. Prashant will\r\n be giving a quick refresher, focusing on topics that are widely used in the Teamwork application.\r\n\r\nTuesday: Teamwork Development Environment (led by Eric Carino)\r\n\r\n\r\nBasically, how to get started. Where to get the code, how to build, how to deploy, how to test, and how to debug.\r\n\r\nThursday: Angular by Example (led by TBD)\r\n\r\n\r\nBuild a service, model, component, and unit tests from scratch.\r\n\r\nFriday: Teamwork Code Walkthrough (led by Nitu Shukla)\r\n\r\n\r\nAn overview of the current code base. Learn about existing services, models, and components. Also learn about upcoming changes to the code structure to make\r\n room for the UIM project.\r\n\r\n\r\n\r\n\r\nThanks,\r\n\r\nEric\r\n\r\n\r\n\r\nExtension: 4200\r\n\r\nNumber: &#43;1-408-962-1776\r\n\r\nParticipant Code: 930313721\r\n\r\nLink: \r\nhttps://confeng1.shoretel.com/conference/930313721\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+	"LastModifiedTime": "2017-08-29T02:46:25Z",
+	"UID": "D694C362-BD8E-415A-835C-EA313E868EDD",
+	"RecurrenceId": "2017-09-01T15:30:00Z",
+	"DateTimeStamp": "2017-08-29T02:46:20Z",
+	"Start": "2017-09-01T15:30:00Z",
+	"End": "2017-09-01T16:30:00Z",
+	"IsAllDayEvent": "false",
+	"LegacyFreeBusyStatus": "Tentative",
+	"Location": "+Alpine Meadows",
+	"IsMeeting": "true",
+	"IsCancelled": "false",
+	"IsRecurring": "true",
+	"MeetingRequestWasSent": "false",
+	"IsResponseRequested": "true",
+	"CalendarItemType": "Exception",
+	"MyResponseType": "NoResponseReceived",
+	"Organizer": {
+		"Mailbox": {
+			"Name": "Eric Carino",
+			"EmailAddress": "ECarino@shoretel.com",
+			"RoutingType": "SMTP"
+		}
+	},
+	"RequiredAttendees": {
+		"Attendee": [
+			{
+				"Mailbox": {
+					"Name": "Eric Carino",
+					"EmailAddress": "ECarino@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Unknown"
+			},
+			{
+				"Mailbox": {
+					"Name": "#Manhattan Dev",
+					"EmailAddress": "ManhattanDev@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Unknown"
+			}
+		]
+	},
+	"OptionalAttendees": {
+		"Attendee": [
+			{
+				"Mailbox": {
+					"Name": "Alex Hui",
+					"EmailAddress": "AHui@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Accept",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			},
+			{
+				"Mailbox": {
+					"Name": "Nitu Shukla",
+					"EmailAddress": "NShukla@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Accept",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			},
+			{
+				"Mailbox": {
+					"Name": "Soraya Siahpolo",
+					"EmailAddress": "SSiahpolo@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Accept",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			},
+			{
+				"Mailbox": {
+					"Name": "Ajinkya Mandhare",
+					"EmailAddress": "AMandhare@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Accept",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			},
+			{
+				"Mailbox": {
+					"Name": "Omung Goyal",
+					"EmailAddress": "OGoyal@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Accept",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			},
+			{
+				"Mailbox": {
+					"Name": "Julie Hsu",
+					"EmailAddress": "JHsu@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Accept",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			},
+			{
+				"Mailbox": {
+					"Name": "Bhagavan VN",
+					"EmailAddress": "bvn@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Accept",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			},
+			{
+				"Mailbox": {
+					"Name": "Lois Okino",
+					"EmailAddress": "LOkino@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Accept",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			},
+			{
+				"Mailbox": {
+					"Name": "Pascal Crausaz",
+					"EmailAddress": "PCrausaz@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Tentative",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			},
+			{
+				"Mailbox": {
+					"Name": "Rakesh Anchan",
+					"EmailAddress": "ranchan@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Accept",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			},
+			{
+				"Mailbox": {
+					"Name": "Nishat Ahmed",
+					"EmailAddress": "NAhmed@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Accept",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			},
+			{
+				"Mailbox": {
+					"Name": "Jignesh Vasoya",
+					"EmailAddress": "jvasoya@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Accept",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			},
+			{
+				"Mailbox": {
+					"Name": "Rajeev Pitre",
+					"EmailAddress": "rpitre@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Tentative",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			},
+			{
+				"Mailbox": {
+					"Name": "Mike Kilburn",
+					"EmailAddress": "MKilburn@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Accept",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			},
+			{
+				"Mailbox": {
+					"Name": "Meigy Tsai",
+					"EmailAddress": "mtsai@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Accept",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			},
+			{
+				"Mailbox": {
+					"Name": "Ashvin Patel",
+					"EmailAddress": "APatel@shoretel.com",
+					"RoutingType": "SMTP"
+				},
+				"ResponseType": "Accept",
+				"LastResponseTime": "0001-01-02T00:00:00Z"
+			}
+		]
+	},
+	"Duration": "PT1H",
+	"TimeZone": "(UTC-08:00) Pacific Time (US & Canada)",
+	"AppointmentSequenceNumber": "6",
+	"AppointmentState": "3",
+	"htmlBody": "<html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns:m=\"http://schemas.microsoft.com/office/2004/12/omml\" xmlns:mv=\"http://macVmlSchemaUri\" xmlns=\"http://www.w3.org/TR/REC-html40\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta name=\"Title\" content=\"\">\r\n<meta name=\"Keywords\" content=\"\">\r\n<meta name=\"Generator\" content=\"Microsoft Word 15 (filtered medium)\">\r\n<style><!--\r\n/* Font Definitions */\r\n@font-face\r\n\t{font-family:\"Courier New\";\r\n\tpanose-1:2 7 3 9 2 2 5 2 4 4;}\r\n@font-face\r\n\t{font-family:Wingdings;\r\n\tpanose-1:5 0 0 0 0 0 0 0 0 0;}\r\n@font-face\r\n\t{font-family:\"Cambria Math\";\r\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;}\r\n@font-face\r\n\t{font-family:Calibri;\r\n\tpanose-1:2 15 5 2 2 2 4 3 2 4;}\r\n/* Style Definitions */\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0in;\r\n\tmargin-bottom:.0001pt;\r\n\tfont-size:12.0pt;\r\n\tfont-family:\"Calibri\",sans-serif;}\r\na:link, span.MsoHyperlink\r\n\t{mso-style-priority:99;\r\n\tcolor:#0563C1;\r\n\ttext-decoration:underline;}\r\na:visited, span.MsoHyperlinkFollowed\r\n\t{mso-style-priority:99;\r\n\tcolor:#954F72;\r\n\ttext-decoration:underline;}\r\nspan.EmailStyle17\r\n\t{mso-style-type:personal;\r\n\tfont-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext;}\r\nspan.EmailStyle18\r\n\t{mso-style-type:personal-compose;\r\n\tfont-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext;}\r\nspan.msoIns\r\n\t{mso-style-type:export-only;\r\n\tmso-style-name:\"\";\r\n\ttext-decoration:underline;\r\n\tcolor:teal;}\r\n.MsoChpDefault\r\n\t{mso-style-type:export-only;\r\n\tfont-size:10.0pt;}\r\n@page WordSection1\r\n\t{size:8.5in 11.0in;\r\n\tmargin:1.0in 1.0in 1.0in 1.0in;}\r\ndiv.WordSection1\r\n\t{page:WordSection1;}\r\n/* List Definitions */\r\n@list l0\r\n\t{mso-list-id:1733118166;\r\n\tmso-list-type:hybrid;\r\n\tmso-list-template-ids:475956258 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}\r\n@list l0:level1\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:?;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:Symbol;}\r\n@list l0:level2\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:o;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:\"Courier New\",serif;}\r\n@list l0:level3\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:?;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:Wingdings;}\r\n@list l0:level4\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:?;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:Symbol;}\r\n@list l0:level5\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:o;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:\"Courier New\",serif;}\r\n@list l0:level6\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:?;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:Wingdings;}\r\n@list l0:level7\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:?;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:Symbol;}\r\n@list l0:level8\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:o;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:\"Courier New\",serif;}\r\n@list l0:level9\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:?;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:Wingdings;}\r\nol\r\n\t{margin-bottom:0in;}\r\nul\r\n\t{margin-bottom:0in;}\r\n--></style><!--[if gte mso 9]><xml>\r\n<o:shapedefaults v:ext=\"edit\" spidmax=\"1027\"/>\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n<o:shapelayout v:ext=\"edit\">\r\n<o:idmap v:ext=\"edit\" data=\"1\"/>\r\n</o:shapelayout></xml><![endif]-->\r\n</head>\r\n<body bgcolor=\"white\" lang=\"EN-US\" link=\"#0563C1\" vlink=\"#954F72\">\r\n<div class=\"WordSection1\">\r\n<p class=\"MsoNormal\"><span style=\"font-size:11.0pt\">*** Updated with list of topics, as well as Conference Info ***<o:p><br>\r\n</o:p></span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:11.0pt\"><o:p><br>\r\n</o:p></span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:11.0pt\">All,<o:p><br>\r\n</o:p></span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:11.0pt\"><o:p><br>\r\n</o:p></span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:11.0pt\">With the upcoming start of the UIM client work, which will be a part of the current Teamwork codebase, we thought it would be beneficial to host a series of TOIs. These TOIs will aim to help get accustomed\r\n to the current code base, development environment, as well as a refresher on Angular (since training was several months ago).<o:p><br>\r\n</o:p></span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:11.0pt\"><o:p><br>\r\n</o:p></span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:11.0pt\">Here are the list of topics:<o:p><br>\r\n</o:p></span></p>\r\n<ul style=\"margin-top:0in\" type=\"disc\">\r\n<li class=\"MsoNormal\" style=\"margin-left:0in;mso-list:l0 level1 lfo1\"><b><span style=\"font-size:11.0pt\">Monday:</span></b><span style=\"font-size:11.0pt\"> Angular Refresher (led by Prashant Sharma)<o:p><br>\r\n</o:p></span>\r\n<ul style=\"margin-top:0in\" type=\"circle\">\r\n<li class=\"MsoNormal\" style=\"margin-left:0in;mso-list:l0 level2 lfo1\"><span style=\"font-size:11.0pt\">Considering a lot of us went through Angular training several months ago, and haven’t touched it since, it’s easy to forget the finer details. Prashant will\r\n be giving a quick refresher, focusing on topics that are widely used in the Teamwork application.<o:p><br>\r\n</o:p></span></li></ul>\r\n</li><li class=\"MsoNormal\" style=\"margin-left:0in;mso-list:l0 level1 lfo1\"><b><span style=\"font-size:11.0pt\">Tuesday:</span></b><span style=\"font-size:11.0pt\"> Teamwork Development Environment (led by Eric Carino)<o:p><br>\r\n</o:p></span>\r\n<ul style=\"margin-top:0in\" type=\"circle\">\r\n<li class=\"MsoNormal\" style=\"margin-left:0in;mso-list:l0 level2 lfo1\"><span style=\"font-size:11.0pt\">Basically, how to get started. Where to get the code, how to build, how to deploy, how to test, and how to debug.<o:p><br>\r\n</o:p></span></li></ul>\r\n</li><li class=\"MsoNormal\" style=\"margin-left:0in;mso-list:l0 level1 lfo1\"><b><span style=\"font-size:11.0pt\">Thursday:</span></b><span style=\"font-size:11.0pt\"> Angular by Example (led by TBD)<o:p><br>\r\n</o:p></span>\r\n<ul style=\"margin-top:0in\" type=\"circle\">\r\n<li class=\"MsoNormal\" style=\"margin-left:0in;mso-list:l0 level2 lfo1\"><span style=\"font-size:11.0pt\">Build a service, model, component, and unit tests from scratch.<o:p><br>\r\n</o:p></span></li></ul>\r\n</li><li class=\"MsoNormal\" style=\"margin-left:0in;mso-list:l0 level1 lfo1\"><b><span style=\"font-size:11.0pt\">Friday:</span></b><span style=\"font-size:11.0pt\"> Teamwork Code Walkthrough (led by Nitu Shukla)<o:p><br>\r\n</o:p></span>\r\n<ul style=\"margin-top:0in\" type=\"circle\">\r\n<li class=\"MsoNormal\" style=\"margin-left:0in;mso-list:l0 level2 lfo1\"><span style=\"font-size:11.0pt\">An overview of the current code base. Learn about existing services, models, and components. Also learn about upcoming changes to the code structure to make\r\n room for the UIM project.<o:p><br>\r\n</o:p></span></li></ul>\r\n</li></ul>\r\n<p class=\"MsoNormal\"><span style=\"font-size:11.0pt\"><o:p><br>\r\n</o:p></span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:11.0pt\">Thanks,<o:p><br>\r\n</o:p></span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:11.0pt\">Eric<o:p><br>\r\n</o:p></span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:11.0pt\"><o:p><br>\r\n</o:p></span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:11.0pt\">Extension: 4200<o:p><br>\r\n</o:p></span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:11.0pt\">Number: &#43;1-408-962-1776<o:p><br>\r\n</o:p></span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:11.0pt\">Participant Code: 930313721<o:p><br>\r\n</o:p></span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:11.0pt\">Link: <a href=\"https://confeng1.shoretel.com/conference/930313721\">\r\nhttps://confeng1.shoretel.com/conference/930313721</a><o:p><br>\r\n</o:p></span></p>\r\n<p class=\"MsoNormal\"><o:p><br>\r\n</o:p></p>\r\n</div>\r\n</body>\r\n</html>\r\n",
+	"createdFromWindows": false,
+	"pcodeMeetingData": {
+		"id": "1085",
+		"brand_id": "1",
+		"access_id": "1428958",
+		"folder_id": "0",
+		"status": "STOP",
+		"login_type": "NAME",
+		"meeting_type": "PANEL",
+		"locked": "N",
+		"title": "My Panel Conference",
+		"description": "",
+		"image_id": "0",
+		"host_id": "96",
+		"scheduled": "N",
+		"date_time": "0000-01-01 00:00:00",
+		"duration": "00:00:00",
+		"close_register": "N",
+		"can_rate": "N",
+		"rating": "0",
+		"can_comment": "N",
+		"payment_id": "0",
+		"price": "0",
+		"currency": "0",
+		"public": "N",
+		"keyword": "",
+		"audio": "N",
+		"webserver_id": "0",
+		"storageserver_id": "0",
+		"tele_conf": "Y",
+		"tele_num": "",
+		"tele_num2": "",
+		"tele_pcode": "930313721",
+		"session_id": "72257",
+		"regform_id": "0",
+		"public_comment": "Y",
+		"client_data": "",
+		"rec_event_id": "58",
+		"audio_rec_id": "",
+		"audio_sync_time": "0",
+		"rec_ready": "N",
+		"can_download": "N",
+		"ending_rec": "N",
+		"entry_annc": "NONE",
+		"creator": "WEB",
+		"send_report": "Y",
+		"suppress_outdial_prompt": "N",
+		"days_of_week": "0",
+		"monthly_day_occurrence": "0",
+		"recurrence": "N",
+		"tz_key": "",
+		"server_version": "1",
+		"mute_on_entry": "N",
+		"participant_view": "ALL",
+		"participant_send": "HOSTONLY",
+		"recording_time_in_minutes": "0",
+		"recording_size_in_kb": "0",
+		"recording_size_in_mb": "0",
+		"conv_type": "RESERVLESS",
+		"meeting_nature": "COLL",
+		"meeting_rooms": ""
+	},
+	"UcbMeetingUrl": "https://confeng1.shoretel.com/conference/930313721",
+	"MuteParticipantsOnEntry": false,
+	"AutomaticallyAddedToAudio": false,
+	"PlaySimpleAudioTone": true,
+	"AnnounceWhanParticipantsArrive": false,
+	"ShowEveryonesNames": true,
+	"IMWithEveryone": false,
+	"StartTheMeetingWhanAnyoneJoins": true,
+	"organizers": [
+		{
+			"name": "Eric Carino",
+			"email": "ECarino@shoretel.com"
+		}
+	],
+	"presentors": [],
+	"participants": [
+		{
+			"name": "#Manhattan Dev",
+			"email": "ManhattanDev@shoretel.com"
+		},
+		{
+			"name": "Alex Hui",
+			"email": "AHui@shoretel.com"
+		},
+		{
+			"name": "Nitu Shukla",
+			"email": "NShukla@shoretel.com"
+		},
+		{
+			"name": "Soraya Siahpolo",
+			"email": "SSiahpolo@shoretel.com"
+		},
+		{
+			"name": "Ajinkya Mandhare",
+			"email": "AMandhare@shoretel.com"
+		},
+		{
+			"name": "Omung Goyal",
+			"email": "OGoyal@shoretel.com"
+		},
+		{
+			"name": "Julie Hsu",
+			"email": "JHsu@shoretel.com"
+		},
+		{
+			"name": "Bhagavan VN",
+			"email": "bvn@shoretel.com"
+		},
+		{
+			"name": "Lois Okino",
+			"email": "LOkino@shoretel.com"
+		},
+		{
+			"name": "Pascal Crausaz",
+			"email": "PCrausaz@shoretel.com"
+		},
+		{
+			"name": "Rakesh Anchan",
+			"email": "ranchan@shoretel.com"
+		},
+		{
+			"name": "Nishat Ahmed",
+			"email": "NAhmed@shoretel.com"
+		},
+		{
+			"name": "Jignesh Vasoya",
+			"email": "jvasoya@shoretel.com"
+		},
+		{
+			"name": "Rajeev Pitre",
+			"email": "rpitre@shoretel.com"
+		},
+		{
+			"name": "Mike Kilburn",
+			"email": "MKilburn@shoretel.com"
+		},
+		{
+			"name": "Meigy Tsai",
+			"email": "mtsai@shoretel.com"
+		},
+		{
+			"name": "Ashvin Patel",
+			"email": "APatel@shoretel.com"
+		}
+	],
+	"agenda": [],
+	"files": [],
+	"overview": "",
+	"location": "",
+	"ucbMeetingData": {
+		"meeting_id": 1428958,
+		"accessCode": "930313721",
+		"isCreator": false,
+		"isDelegate": false,
+		"delegateFolder": "",
+		"isOrganizer": false,
+		"eventKey": "1428958-1504279800",
+		"noUcb": false,
+		"foreignUcb": false,
+		"baseUrl": "https://confeng1.shoretel.com",
+		"ewsRecurrence": "N",
+		"ucbCalendarType": "Single",
+		"conf": {
+			"response": 0,
+			"debug-result-str": "found meeting",
+			"mtg-id": "1428958",
+			"teleconf": true,
+			"scheduled": true,
+			"mtg-type": "PANEL",
+			"title": "My Panel Conference",
+			"entry-annc": "NONE",
+			"suppress-outdial-prompt": false,
+			"mute-on-entry": false,
+			"participant-view": "ALL",
+			"participant-send": "HOSTONLY",
+			"leader-code": "842674175",
+			"participant-code": "930313721",
+			"password": "",
+			"public": false,
+			"allow-public-comments": "Y",
+			"leader-url": "https://confeng.shoretel.com/conference/842674175",
+			"participant-url": "https://confeng1.shoretel.com/conference/930313721",
+			"global-ucb-dn": "4200",
+			"global-external-number": "+1-408-962-1776",
+			"global-additional-info": "US Toll Free dial in +1(800) 425-9385 Enter Ext 4200\nIndia dial in +91 8066901591",
+			"systestpage-url": "https://confeng.shoretel.com/test",
+			"enable-custom-attendee-code": false,
+			"enable-custom-host-code": false,
+			"max-access-code-length": 9,
+			"min-access-code-length": 7,
+			"call-me-mode": "HOST",
+			"cluster-prefix-length": 0,
+			"start-time": 1504279800,
+			"end-time": 1504283400,
+			"duration": 60
+		},
+		"meeting": {
+			"id": "1085",
+			"brand_id": "1",
+			"access_id": "1428958",
+			"folder_id": "0",
+			"status": "STOP",
+			"login_type": "NAME",
+			"meeting_type": "PANEL",
+			"locked": "N",
+			"title": "Angular Refresher and Teamwork Codebase TOIs",
+			"description": "",
+			"image_id": "0",
+			"host_id": "96",
+			"scheduled": "N",
+			"date_time": "0000-01-01 00:00:00",
+			"duration": "00:00:00",
+			"close_register": "N",
+			"can_rate": "N",
+			"rating": "0",
+			"can_comment": "N",
+			"payment_id": "0",
+			"price": "0",
+			"currency": "0",
+			"public": "N",
+			"keyword": "",
+			"audio": "N",
+			"webserver_id": "0",
+			"storageserver_id": "0",
+			"tele_conf": "Y",
+			"tele_num": "",
+			"tele_num2": "",
+			"tele_pcode": "930313721",
+			"session_id": "72257",
+			"regform_id": "0",
+			"public_comment": "Y",
+			"client_data": "",
+			"rec_event_id": "58",
+			"audio_rec_id": "",
+			"audio_sync_time": "0",
+			"rec_ready": "N",
+			"can_download": "N",
+			"ending_rec": "N",
+			"entry_annc": "NONE",
+			"creator": "WEB",
+			"send_report": "Y",
+			"suppress_outdial_prompt": "N",
+			"days_of_week": "0",
+			"monthly_day_occurrence": "0",
+			"recurrence": "N",
+			"tz_key": "",
+			"server_version": "1",
+			"mute_on_entry": "N",
+			"participant_view": "ALL",
+			"participant_send": "HOSTONLY",
+			"recording_time_in_minutes": "0",
+			"recording_size_in_kb": "0",
+			"recording_size_in_mb": "0",
+			"conv_type": "RESERVLESS",
+			"meeting_nature": "COLL",
+			"meeting_rooms": "+Alpine Meadows"
+		},
+		"attendees": [
+			{
+				"id": "1572624",
+				"brand_id": "1",
+				"meeting_id": "1428958",
+				"session_id": "71980",
+				"host_id": "96",
+				"user_id": "3309",
+				"organizer_ids": null,
+				"attendee_type": "R",
+				"attendee_name": "Darshan A",
+				"invited": "R",
+				"attended": "Y",
+				"rec_present": "Y",
+				"join_time": "0000-01-01 00:00:00",
+				"leave_time": "0000-01-01 00:00:00",
+				"conv_type": "RESERVLESS"
+			},
+			{
+				"id": "1572625",
+				"brand_id": "1",
+				"meeting_id": "1428958",
+				"session_id": "71980",
+				"host_id": "96",
+				"user_id": "2628",
+				"organizer_ids": null,
+				"attendee_type": "R",
+				"attendee_name": "Preetish H S",
+				"invited": "R",
+				"attended": "Y",
+				"rec_present": "Y",
+				"join_time": "0000-01-01 00:00:00",
+				"leave_time": "0000-01-01 00:00:00",
+				"conv_type": "RESERVLESS"
+			},
+			{
+				"id": "1572626",
+				"brand_id": "1",
+				"meeting_id": "1428958",
+				"session_id": "71980",
+				"host_id": "96",
+				"user_id": "1919",
+				"organizer_ids": null,
+				"attendee_type": "R",
+				"attendee_name": "Mahesh Mehta",
+				"invited": "R",
+				"attended": "Y",
+				"rec_present": "Y",
+				"join_time": "0000-01-01 00:00:00",
+				"leave_time": "0000-01-01 00:00:00",
+				"conv_type": "RESERVLESS"
+			},
+			{
+				"id": "1572627",
+				"brand_id": "1",
+				"meeting_id": "1428958",
+				"session_id": "71980",
+				"host_id": "96",
+				"user_id": "70",
+				"organizer_ids": null,
+				"attendee_type": "R",
+				"attendee_name": "Eric Carino",
+				"invited": "R",
+				"attended": "Y",
+				"rec_present": "Y",
+				"join_time": "0000-01-01 00:00:00",
+				"leave_time": "0000-01-01 00:00:00",
+				"conv_type": "RESERVLESS"
+			},
+			{
+				"id": "1572628",
+				"brand_id": "1",
+				"meeting_id": "1428958",
+				"session_id": "71980",
+				"host_id": "96",
+				"user_id": "2403",
+				"organizer_ids": null,
+				"attendee_type": "R",
+				"attendee_name": "Jignesh Vasoya",
+				"invited": "R",
+				"attended": "Y",
+				"rec_present": "Y",
+				"join_time": "0000-01-01 00:00:00",
+				"leave_time": "0000-01-01 00:00:00",
+				"conv_type": "RESERVLESS"
+			},
+			{
+				"id": "1572629",
+				"brand_id": "1",
+				"meeting_id": "1428958",
+				"session_id": "71980",
+				"host_id": "96",
+				"user_id": "12",
+				"organizer_ids": null,
+				"attendee_type": "R",
+				"attendee_name": "Alex Hui",
+				"invited": "R",
+				"attended": "Y",
+				"rec_present": "Y",
+				"join_time": "0000-01-01 00:00:00",
+				"leave_time": "0000-01-01 00:00:00",
+				"conv_type": "RESERVLESS"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Eric Carino,ECarino@shoretel.com",
+				"attendee_type": "O",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "#Manhattan Dev,ManhattanDev@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Alex Hui,AHui@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Nitu Shukla,NShukla@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Soraya Siahpolo,SSiahpolo@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Ajinkya Mandhare,AMandhare@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Omung Goyal,OGoyal@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Julie Hsu,JHsu@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Bhagavan VN,bvn@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Lois Okino,LOkino@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Pascal Crausaz,PCrausaz@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Rakesh Anchan,ranchan@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Nishat Ahmed,NAhmed@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Jignesh Vasoya,jvasoya@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Rajeev Pitre,rpitre@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Mike Kilburn,MKilburn@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Meigy Tsai,mtsai@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			},
+			{
+				"meeting_id": 1428958,
+				"attendee_name": "Ashvin Patel,APatel@shoretel.com",
+				"attendee_type": "R",
+				"user_id": 0,
+				"host_id": "96",
+				"organizer_ids": "0",
+				"rec_present": "N",
+				"session_id": "0"
+			}
+		],
+		"agenda": [],
+		"content": [],
+		"recordings": [],
+		"sessions": [
+			{
+				"id": "32180",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Conference",
+				"mod_time": "2015-07-21 17:49:22",
+				"start_time": "2015-07-21 17:34:13",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "32277",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Conference",
+				"mod_time": "2015-07-23 13:02:16",
+				"start_time": "2015-07-23 04:56:55",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "32955",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Conference",
+				"mod_time": "2015-08-06 07:53:42",
+				"start_time": "2015-08-05 23:48:17",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "34372",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Conference",
+				"mod_time": "2015-09-02 16:20:24",
+				"start_time": "2015-09-02 15:43:17",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "43442",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Conference",
+				"mod_time": "2016-03-30 20:31:42",
+				"start_time": "2016-03-30 20:31:07",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "43497",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2016-03-31 17:05:37",
+				"start_time": "2016-03-31 16:11:14",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "43517",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2016-03-31 20:01:35",
+				"start_time": "2016-03-31 18:57:33",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "48213",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2016-06-22 23:03:03",
+				"start_time": "2016-06-22 22:50:41",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "59420",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2017-01-26 23:59:05",
+				"start_time": "2017-01-26 22:56:47",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "60902",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2017-02-23 00:37:46",
+				"start_time": "2017-02-22 16:32:21",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "60974",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2017-02-24 00:34:09",
+				"start_time": "2017-02-23 16:28:39",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "61550",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2017-03-03 19:34:48",
+				"start_time": "2017-03-03 18:33:24",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "61613",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2017-03-06 18:42:13",
+				"start_time": "2017-03-06 18:13:00",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "61810",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2017-03-09 01:03:02",
+				"start_time": "2017-03-09 00:01:25",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "71968",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2017-08-28 14:00:46",
+				"start_time": "2017-08-28 14:00:16",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "71969",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2017-08-28 14:03:09",
+				"start_time": "2017-08-28 14:02:39",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "71979",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2017-08-28 15:21:23",
+				"start_time": "2017-08-28 15:20:53",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "71980",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2017-08-28 16:30:41",
+				"start_time": "2017-08-28 15:21:40",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "72077",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2017-08-29 16:32:57",
+				"start_time": "2017-08-29 15:13:59",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "72145",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2017-08-30 15:32:53",
+				"start_time": "2017-08-30 15:32:22",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "72254",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2017-08-31 15:12:21",
+				"start_time": "2017-08-31 14:55:31",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "72255",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2017-08-31 15:13:03",
+				"start_time": "2017-08-31 15:12:51",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			},
+			{
+				"id": "72257",
+				"brand_id": "1",
+				"meeting_aid": "1428958",
+				"meeting_title": "My Panel Conference",
+				"mod_time": "2017-08-31 16:45:58",
+				"start_time": "2017-08-31 15:21:06",
+				"host_login": "ECarino@shoretel.com",
+				"max_concur_att": "0",
+				"license_code": "PV500",
+				"client_data": "",
+				"transcripts": null
+			}
+		]
+	},
+	"recurrence": "N",
+	"response": 0,
+	"debug-result-str": "found meeting",
+	"mtg-id": "1428958",
+	"teleconf": true,
+	"scheduled": true,
+	"mtg-type": "PANEL",
+	"title": "My Panel Conference",
+	"entry-annc": "NONE",
+	"suppress-outdial-prompt": false,
+	"mute-on-entry": false,
+	"participant-view": "ALL",
+	"participant-send": "HOSTONLY",
+	"leader-code": "842674175",
+	"participant-code": "930313721",
+	"password": "",
+	"public": false,
+	"allow-public-comments": "Y",
+	"leader-url": "https://confeng.shoretel.com/conference/842674175",
+	"participant-url": "https://confeng1.shoretel.com/conference/930313721",
+	"global-ucb-dn": "4200",
+	"global-external-number": "+1-408-962-1776",
+	"global-additional-info": "US Toll Free dial in +1(800) 425-9385 Enter Ext 4200\nIndia dial in +91 8066901591",
+	"systestpage-url": "https://confeng.shoretel.com/test",
+	"enable-custom-attendee-code": false,
+	"enable-custom-host-code": false,
+	"max-access-code-length": 9,
+	"min-access-code-length": 7,
+	"call-me-mode": "HOST",
+	"cluster-prefix-length": 0,
+	"start-time": 1504279800,
+	"end-time": 1504283400,
+	"duration": 60
+}

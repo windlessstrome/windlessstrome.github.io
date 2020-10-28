@@ -1,0 +1,9 @@
+
+{
+    "disableMacContactSync":false,
+    "showSysNtfyForIM":true,
+    "showIMcontent":true,
+    "keepNtfyOnScreen":true,
+    "showSysNtfyForVoicemail":false,
+    "secondsToKeepOnScreen":15
+}

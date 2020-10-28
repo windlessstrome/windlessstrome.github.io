@@ -1,0 +1,9 @@
+{
+	"topic" : "vm", 
+	"message" : "get-user-actions", 
+	"timestamp" : 1494902704519, 
+	"sequence-id" : 476909,
+	"request-id": 256,
+	"response": 0,
+	"user-actions" : 249
+}

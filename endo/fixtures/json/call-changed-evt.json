@@ -1,0 +1,72 @@
+{
+	"topic": "tel",
+	"message": "call-changed-evt",
+	"timestamp": 1463983263890,
+	"sequence-id": 701562,
+	"response": 4856,
+	"error": 0,
+	"call": {
+		"call-id": "00030000-0386-5722-2386-005056b615cf",
+		"ccoid": 536870935,
+		"ext": "120",
+		"actions": 21579714558,
+		"state": {
+			"state": 10,
+			"state-detail": 0,
+			"timestamp-connect": 1463983259849
+		},
+		"info": {
+			"called-num": "151",
+			"called-num-canonical": "151",
+			"called-name": "sparshith nr2",
+			"caller-num": "120",
+			"caller-num-canonical": "120",
+			"caller-name": "jignesh vasoyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"conn-num": "151",
+			"conn-num-canonical": "151",
+			"conn-name": "sparshith nr2",
+			"conn-im": "snr2@qa.shoretel.com",
+			"conn-email": "snr2@qa.shoretel.com",
+			"conn-cid": "42",
+			"conv-tag": "{\"cid\":[\"42\"]}",
+			"dnis": "",
+			"note": "",
+			"trunk": "",
+			"called-wg-name": "",
+			"consult-for-call-id": "",
+			"tapi-call-id": 4188836378,
+			"data-conf-url": "",
+			"data-conf-leader-url": "",
+			"data-conf-web-callid": "",
+			"flags": 108450021632,
+			"recorded-by": "",
+			"picked-or-unparked-from": "",
+			"bca-outbound": "",
+			"video-number": "151",
+			"video-device-caps": "",
+			"transfer-ctrl-party": "",
+			"transfer-party": "",
+			"route-slip": [
+				[
+					"reason",
+					"elapsed-seconds",
+					"party-name",
+					"party-number",
+					"party2-name",
+					"party2-number"
+				],
+				[
+					17,
+					0,
+					"jignesh vasoyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+					"120",
+					"sparshith nr2",
+					"151"
+				]
+			],
+			"named-values": {
+				"_ST*": ""
+			}
+		}
+	}
+}

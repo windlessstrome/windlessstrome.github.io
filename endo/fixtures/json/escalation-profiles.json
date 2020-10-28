@@ -1,0 +1,28 @@
+{
+	"EscalationProfiles" : [
+		{
+			"EscalationID": 61,
+			"LastUpdatedUTCTime": "2018-06-11 23:58:10 UTC",
+			"ParentDN": "398",
+			"ProfileName": "Profile 3",
+			"ProfileNumber": 3,
+			"RepeatCount": 0
+		},
+		{
+			"EscalationID": 62,
+			"LastUpdatedUTCTime": "2018-06-11 23:58:10 UTC",
+			"ParentDN": "398",
+			"ProfileName": "Profile 4",
+			"ProfileNumber": 4,
+			"RepeatCount": 0
+		},
+		{
+			"EscalationID": 63,
+			"LastUpdatedUTCTime": "2018-06-11 23:58:10 UTC",
+			"ParentDN": "398",
+			"ProfileName": "Profile 5",
+			"ProfileNumber": 5,
+			"RepeatCount": 0
+		}
+	]
+}

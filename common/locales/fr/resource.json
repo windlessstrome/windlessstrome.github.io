@@ -1,0 +1,3622 @@
+{
+    "people" : "Contacts",
+    "recent" : "Récent",
+    "events" : "Événements",
+    "drafts" : "Brouillons",
+    "contacts": "Contacts",
+    "conversations" : "Conversations",
+    "notifications": "Notifications",
+    "calls" : "Appels",
+    "item" : "Élément",
+    "item_plural" : "Éléments",
+    "name" : "Je m’appelle __first__ __last__",
+
+    "profilePreferencesButton" : "Préférences",
+    "voicemails": "Messages vocaux",
+    "messages": "Messages",
+    "deletedVoicemailLabel": "Messages vocaux supprimés",
+
+    "controlBar": {
+        "call": "Appeler",
+        "endCall": "Raccrocher",
+        "mute": "Désactiver le son",
+        "unmute": "Réactiver le son",
+        "share": "Partager",
+        "raiseHand": "Lever la main",
+        "info": "Informations"
+    },
+
+    "panel": {
+        "pinPanel" : "Épingler",
+        "unpinPanel" : "Désépingler"
+    },
+
+    "prefs": {
+        "message" : {
+            "savingData" : "Enregistrement des modifications...",
+            "loadingData" : "Chargement des données de préférences...",
+            "noAccess" : "Vous n’êtes pas autorisé à accéder à cette fonction"
+        },
+
+        "buttons" : {
+            "label" : {
+                "reconnect" : "Essayez de vous reconnecter",
+                "quit" : "Fermer sans enregistrer",
+                "dismiss" : "Faire disparaître"
+            }
+        },
+
+        "error": {
+            "failOpenDialogConnectionError" : "Erreur de serveur ou de connexion. Fermez la boîte de dialogue et réessayez.",
+            "genericServerError" : "Erreur de serveur ou de connexion. Modifications non enregistrées. Nouvel essai...",
+            "saveError" : "Erreur lors du traitement de la demande. Les modifications n'ont pas été enregistrées.",
+            "pageError" : "Erreur lors de la récupération des données d'annonce. Fermez la boîte de dialogue et réessayez.",
+            "genericServerErrorNoRetry": "La connexion au serveur a échoué et vos modifications n'ont pas été enregistrées."
+        },
+
+        "tabTitles": {
+            "account" : "Compte",
+            "callRouting" : "Routage des appels",
+            "voicemail" : "Messagerie vocale",
+            "im" : "MI",
+            "video" : "Vidéo",
+            "outlook" : "Outlook®",
+            "contactsIntegration" : "Contacts/Outlook®",
+            "notifications" : "Notifications",
+            "deskphone" : "Téléphone principal",
+            "softphone" : "SoftPhone",
+            "telephony" : "Téléphonie",
+            "appearance" : "Aspect",
+            "programmableToolbar" : "Barre d’outils programmable",
+            "workgroups" : "Groupes de travail",
+            "language" : "Langue"
+        },
+
+        "workgroup": {
+            "workgroup" : "Groupe de travail",
+            "showMeNotif" : "Afficher les notifications lors de la réception des appels dans la file d’attente",
+            "minimumNumberOfWgError" : "Sélectionnez au moins une file d'attente à gérer",
+            "NotifTimeoutOnScreen" : "Conserver la notification à l’écran pendant ",
+            "seconds" : " secondes",
+            "QueueMonitorSettingsLable" : "Seuils d'alerte pour le superviseur des files d'attente",
+            "showWorkgroup": " Activer le groupe de travail",
+            "thresholdAlert": "Activer l'alerte de seuil",
+            "queueExceeds": "Envoyer une alerte lorsque la file d'attente atteint ou dépasse",
+            "timeExceeds": "Envoyer une alerte lorsque la durée en file d’attente dépasse",
+            "sec": " secondes",
+            "calls": "appels",
+            "notifEnabledWhenLoggedOut": "Continuer d’afficher les notifications même si je suis déconnecté des groupes de travail",
+            "warningMessage": "« 0 » n'est pas une option valide",
+            "invalidInputMessage": "Saisie non valide"
+        },
+
+        "outlook": {
+            "title": {
+                "contacts" : "Contacts",
+                "calendar" : "Calendrier",
+                "events" : "Événements",
+                "ExchangeCredentials" : "Informations d’identification Exchange",
+                "ExchangePublicContacts": "Contacts publics Exchange"
+            },
+            "label": {
+                "doNotOpenOutlookContact": "Ne pas ouvrir Outlook lors de l'ajout de contacts à Connect",
+                "importContacts": "Synchroniser mes contacts Mac",
+                "importOutlook" : "Synchroniser mes contacts Outlook",
+                "importOutlookContactsDetail" : "Les contacts sont synchronisés lors de l'exécution de Microsoft Outlook.",
+                "importMacContactsDetail" : "Les contacts sont synchronisés lors de l'exécution de Mitel Connect.",
+                "syncCalendar" : "Synchroniser mon calendrier Exchange avec mes modes de disponibilité Mitel Connect.",
+                "syncCalendarDetail1" : "Lorsqu’Outlook indique que je participe à une réunion réservée, définir ma disponibilité sur « En réunion »",
+                "syncCalendarDetail2" : "Lorsqu’Outlook indique que mon état est « Absent(e) du bureau », définir ma disponibilité sur « Absent(e) du bureau »",
+                "syncCalendarDetail3" : "Vos modes de disponibilité « Ne pas déranger », « En vacances » et « Personnalisé » auront toujours préséance et ne seront pas affectés.",
+                "useOutlookWorkHours" : "Utiliser mes Heures de travail Outlook pour définir la disponibilité Mitel Connect sur « Absent(e) du bureau »",
+                "UserName" : "Nom d’utilisateur",
+                "Password" : "Mot de passe",
+                "showContactFolders" : "+ Afficher les dossiers de contacts",
+                "hideContactFolders": "- Masquer les dossiers de contacts (les contacts créés en dehors du dossier ci-dessous ne sont pas importés)",
+                "loadingContactFolders": "Chargement des dossiers de contacts...",
+                "removeImportedContacts": "Supprimer les contacts synchronisés",
+                "confirmRemovingWinImportedContacts": "Cette option supprime vos contacts importés de la base de données de Mitel. Cela ne concerne toutefois pas les contacts dans Outlook.",
+                "confirmRemovingMacImportedContacts": "Cette option supprime vos contacts importés de la base de données de Mitel. Cela ne concerne toutefois pas les contacts dans OS X.",
+                "removingImportedContactsInProgress": "Suppression des contacts synchronisés...",
+                "enablePublicContactSearch": "Il est possible de rechercher des contacts dans mes dossiers de contacts publics Exchange"
+            },
+            "error": {
+                "errorloadingContactFolders" : "Erreur lors du chargement des dossiers de contacts. Réessayez ultérieurement.",
+                "errorSaveContactFolders" : "Erreur lors de l'enregistrement des dossiers sélectionnés. Réessayez ultérieurement.",
+                "okRemovingImportedContacts": "Cette opération a réussi ! Vos contacts ont été supprimés.",
+                "busyRemovingImportedContacts": "Le système importe actuellement les contacts et ne peut pas supprimer les contacts existants tant que l'importation n'est pas terminée. Réessayez ultérieurement.",
+                "errorRemovingImportedContacts": "Le système a détecté une erreur. Réessayez ultérieurement.",
+                "noContactFolders":"Aucun dossier trouvé.",
+                "reachMaxUploadLimit":"Vous avez atteint la limite maximale de chargement de contacts personnels. Contactez votre administrateur système si vous devez charger d'autres contacts."
+            }
+        },
+        "callRouting": {
+            "tabs": {
+                "availability" : "Disponibilité",
+                "power" : "Avancé",
+                "mobile" : "Portable"
+            },
+            "availabilityOptions": {
+                "Available" : "Disponible",
+                "InAMeeting" : "En réunion",
+                "OutOfOffice" : "Absent(e) du bureau",
+                "OnVacation" : "En vacances",
+                "Variable" : "Personnalisé...",
+                "DND" : "Ne pas déranger"
+            },
+            "buttons": {
+                "Previous" : "Précédent",
+                "Next" : "Suivant",
+                "Cancel" : "Annuler",
+                "Done" : "Retourner",
+                "Save" : "Enregistrer"
+            },
+            "error": {
+                "couldNotGetServerData": "Impossible d'obtenir les informations auprès du serveur",
+                "couldNotSaveServerData" : "Impossible d’enregistrer les modifications. Examinez chaque panneau et corrigez les erreurs indiquées.",
+                "couldNotSaveServerDataDND" : "Impossible d’enregistrer les modifications. Réessayez ultérieurement."
+            },
+            "options": {
+                "myVoicemail" : "Ma messagerie vocale"
+            },
+            "userPhoneStrings": {
+                "shortForm" : "__num__ ( __label__ )",
+                "longForm": {
+                    "labelNumber" : "__label__ __num__. ",
+                    "tryRingsPress1" : "Essayer __rings__ sonneries, appuyer sur 1 pour se connecter",
+                    "tryRingsAnswer" : "Essayer __rings__ sonneries, connexion automatique après la réponse"
+                }
+            },
+            "overview": {
+                "title": {
+                    "CustomizeYourRouting" : "Personnalisez votre routage des appels",
+                    "availabilityWhen" : "Mode "
+                },
+                "buttons": {
+                    "change" : "Modifier",
+                    "StartWizard" : "Démarrer l’assistant",
+					"record": "Registre"
+                },
+                "routing": {
+                    "extension" : "Les appels entrants sont acheminés vers votre __dest__"
+                },
+                "simulring": {
+                    "noSimulring" : "Aucun autre téléphone ne sonnera en même temps",
+                    "thesePhones" : "Les téléphones suivants sonneront en même temps : __br1__ __num1__ __br2__ __num2__",
+                    "thisPhone" : "Le téléphone suivant sonnera en même temps : __br1__ __num__",
+                    "noPhonesSelected" : "Aucun des téléphones sélectionnés ne sonnera en même temps"
+                },
+                "incomingCall": {
+                    "ringRouteVM" : "__num__ sonneries avant l’acheminement des appels entrants vers la messagerie vocale",
+                    "ringRouteNum" : "__num__ sonneries avant l’acheminement des appels entrants vers __phone__",
+                    "alwaysForwardVM" : "Les appels entrants sont immédiatement acheminés vers la messagerie vocale",
+                    "alwaysForwardNum" : "Les appels entrants sont immédiatement acheminés vers __num__"
+                },
+                "findMe": {
+                    "press1Numbers": "Si les appelants appuient sur 1 lorsqu’ils écoutent le message d’accueil de ma messagerie vocale, la fonction Find Me est activée de façon séquentielle sur les numéros suivants : __br1__ __num1__ __br2__ __num2__",
+                    "press1Number": "Si les appelants appuient sur 1 lorsqu’ils écoutent le message d’accueil de ma messagerie vocale, la fonction Find Me est activée sur les numéros suivants : __br1__ __num__",
+                    "press1NoPhones": "Si les appelants appuient sur 1 lorsqu’ils écoutent le message d’accueil de ma messagerie vocale, aucun téléphone n’est sélectionné pour sonner de façon séquentielle",
+                    "autoFindMeNumbers": "Si je ne réponds pas, appeler les numéros suivants de façon séquentielle : __br1__ __num1__ __br2__ __num2__",
+                    "autoFindMeNumber": "Si je ne réponds pas, appeler ce numéro : __br1__ __num__",
+                    "autoFindMeNoPhones": "Si je ne réponds pas, aucun téléphone n’est sélectionné pour sonner de façon séquentielle"
+                },
+                "greetingRecording": {
+                    "noGreeting" : "Aucun message d’accueil de messagerie vocale enregistré",
+                    "greetingRec" : "Message d’accueil de messagerie vocale enregistré"
+                },
+                "greetingInteraction": {
+                    "allowed" : "Les appelants sont autorisés à laisser un message sur la messagerie vocale",
+                    "notAllowed" : "Les appelants ne sont pas autorisés à laisser un message sur la messagerie vocale",
+                    "fwdToOperator" : "Les appelants qui appuient sur 0 lorsqu’ils écoutent le message d’accueil de ma messagerie vocale sont transférés vers __exten__",
+                    "fwdToAutoAttendant" : "Les appelants qui appuient sur 0 lorsqu’ils écoutent le message d’accueil de ma messagerie vocale sont transférés vers le standard automatique"
+                },
+                "escalationProfile": "Profil d'escalade de messages vocaux",
+                "escalationProfileNone": "Aucun"
+            },
+            "mobileNumber": {
+                "title" : "L’un de vos périphériques exécute le client mobile Connect",
+                "completeStep": "Suivez cette étape avant de poursuivre la configuration du routage des appels.",
+                "prompt" : "Quel est le numéro de portable du périphérique sur lequel vous avez installé ou souhaitez installer le client mobile Connect ?",
+                "noNumberOption": "Aucun numéro de téléphone ne sera associé à mon périphérique doté du client mobile Connect",
+                "error": {
+                    "missingMobilityNumber": "Numéro de téléphone portable manquant",
+                    "invalidNumber" : "Numéro incorrect",
+                    "couldNotSaveServerData" : "Impossible d’enregistrer les modifications."
+                }
+            },
+            "simulring": {
+                "availTitle" : "Faire sonner simultanément quand",
+                "incomingCall" : "Lorsqu’un appel entrant retentit",
+                "myExtension" : "mon poste",
+                "alsoSimultaneouslyRing": "Faire également sonner simultanément les numéros suivants",
+                "numbersUsedEverywhere": "Ces numéros seront utilisés partout où vous utilisez la sonnerie simultanée",
+                "error": {
+                    "cannotBeTheSameNumber" : "Vous ne pouvez pas utiliser le même numéro pour plusieurs entrées."
+                }
+            },
+            "incomingCall": {
+                "availTitle" : "Renvoi des appels entrants lorsque",
+                "prompts": {
+                    "incomingCall": "Si je ne réponds pas à un appel sur",
+                    "myExtension" : "mon poste",
+                    "mobility" : "Client mobile Connect",
+                    "simulRingNum" : "__num__ ( __label__ ) "
+                },
+                "options": {
+                    "KeepRingingNumberAbove" : "Continuer d’appeler le numéro ci-dessus",
+                    "KeepRingingNumbersAbove" : "Continuer d’appeler les numéros ci-dessus",
+                    "forwardTo" : "Renvoyer l’appel à ",
+                    "typeExtension" : "saisissez un poste ici",
+                    "rings" : "sonneries avant le renvoi",
+                    "callStackForward" : "si j’ai plus de __callStackDepth__ appels actifs, les renvoyer immédiatement à ",
+                    "alwaysForward": "Toujours renvoyer les appels à ",
+                    "voicemail" : "la messagerie vocale",
+                    "someExtension" : "un poste"
+                },
+                "error": {
+                    "missingForwardNumber" : "L’un des numéros de renvoi est manquant",
+                    "invalidNumber" : "Numéro incorrect",
+                    "externalNumbersNotAllowed" : "Vous n’êtes pas autorisé à renvoyer l’appel à un numéro externe",
+                    "local_number_only": "Entrez uniquement des numéros locaux.",
+                    "local_or_national_only" : "Composez des numéros nationaux ou locaux",
+                    "no_ext_cf_perms" : "Vous n’êtes pas autorisé à renvoyer l’appel à un numéro externe",
+                    "missing_tac" : "Code d'accès à la ligne réseau manquant",
+                    "wrong_tac" : "Code d'accès à la ligne réseau incorrect",
+					"cannot_assign_own_extension": "Vous ne pouvez pas affecter votre propre poste."
+                }
+            },
+            "findMe": {
+                "availTitle" : "Activer Find Me lorsque",
+                "options": {
+                    "findMeDisabled" : "Désactivé : ne pas activer Find Me et renvoyer l’appel à la messagerie vocale",
+                    "findMeEnabled" : "Activé : utiliser mes paramètres Find Me pour poursuivre le routage de l’appel"
+                },
+                "settings": {
+                    "FindMeSettings" : "Paramètres Find Me",
+                    "settingsUsedEverywhere" : "Ces paramètres sont utilisés lorsque la fonction Find Me est activée",
+                    "findMeBeforeVM" : "Appeler mes numéros Find Me de façon séquentielle avant d’activer le message d’accueil de la messagerie vocale",
+                    "playVM" : "Lire tout d’abord ma messagerie vocale",
+                    "callerPress1" : "Si l’appelant appuie sur 1 lorsqu’il écoute le message d’accueil de ma messagerie vocale, appeler de façon séquentielle mes numéros Find Me",
+                    "promptCaller" : "Demander à l’appelant d’enregistrer son nom",
+                    "findMeNumbersPrompt" : "Mes numéros Find Me qui seront utilisés de façon séquentielle",
+                    "settingsWarning": ": Auto connect settings do not apply to FindMe"
+                }
+            },
+            "greetingRecording": {
+                "availTitle" : "Message d’accueil de la messagerie vocale : enregistrement et lecture lorsque",
+                "prompts": {
+                    "line1" : "Les appelants entendent le message d’accueil lorsqu’ils tombent sur votre messagerie vocale.",
+                    "line2": "Enregistrez et lisez votre message d’accueil maintenant."
+                },
+                "warning" : "Conseil : la fonction Find Me est activée. Les utilisateurs peuvent appuyer sur 1 lorsqu’ils écoutent le message d’accueil de votre messagerie vocale pour utiliser Find Me. Si vous souhaitez que les utilisateurs puissent utiliser cette fonction, indiquez-le dans le message d’accueil de votre messagerie vocale."
+            },
+            "greetingInteraction": {
+                "availTitle" : "Options de message d'accueil lorsque",
+                "prompt" : "Les appelants sont-ils autorisés à laisser un message sur votre messagerie vocale après avoir entendu le message d’accueil ?",
+                "options": {
+                    "yes" : "Oui, les appelants peuvent laisser un message",
+                    "no" : "Non, les appelants ne peuvent pas laisser de message"
+                },
+                "press0" : "Si les appelants appuient sur « 0 » lorsqu’ils écoutent le message d’accueil",
+                "forward" : "Renvoyer les appels à",
+                "autosuggestPrompt": "saisissez un poste",
+                "error": {
+                    "validInternalNumber" : "Saisissez un poste valide"
+                }
+            },
+            "DND": {
+                "title": "Mode",
+                "condition": {
+                    "Always": "Toujours renvoyer les appels à",
+                    "Never" : "Ne jamais renvoyer mes appels"
+                },
+                "options": {
+                    "voicemail" : "la messagerie vocale",
+                    "anotherExtension" : "un autre poste"
+                }
+            },
+            "powerOverview": {
+                "title" : "Avancé",
+                "buttons": {
+                    "create" : "Créer une règle de routage"
+                },
+                "text": {
+                    "takesEffect" : "Prend effet avant le routage selon disponibilité",
+                    "noRules" : "Vous n’avez défini aucune règle de routage avancé"
+                }
+            },
+            "powerRouting": {
+                "title" : "Nom de la règle",
+                "buttons": {
+                    "numberMatches" : "+ correspondances de numéro",
+                    "dialedNumber" : "+ numéro composé",
+                    "availability" : "+ ma disponibilité",
+                    "onPhone": "+ en ligne",
+                    "time" : "+ l’heure est",
+                    "forward" : "Renvoyer l’appel à",
+                    "remove" : "supprimer",
+                    "CreateRule" : "Créer une règle",
+                    "SaveRule" : "Enregistrer la règle",
+                    "Cancel" : "Annuler",
+                    "Edit" : "Modifier",
+                    "Delete" : "Supprimer"
+                },
+                "text": {
+                    "When" : "Lorsque",
+                    "Then" : "Alors",
+                    "ThenForwardCallTo" : "Renvoyer l’appel à",
+                    "and" : "-ET-",
+                    "or" : "-OU-",
+                    "enabled" : "Activé",
+                    "disabled" : "Désactivé"
+                },
+                "numberRule": {
+                    "option": {
+                        "is" : "Ce numéro est",
+                        "internalNumber" : "Ce numéro est un poste",
+                        "internalExt" : "Ce numéro est un poste qui commence par",
+                        "anyExternalNumber" : "Ce numéro est un numéro externe",
+                        "externalNumber" : "Ce numéro est un numéro externe qui commence par",
+                        "private" : "Ce numéro est privé",
+                        "outOfArea" : "Ce numéro est hors zone ou inconnu"
+                    }
+                },
+                "dialedNumberRule": {
+                    "prompt" : "Le numéro que l’appelant a composé pour me joindre est"
+                },
+                "availabilityRule": {
+                    "prompt" : "Ma disponibilité est"
+                },
+                "onPhoneRule": {
+                    "prompt" : "Je suis en ligne"
+                },
+                "timeRule": {
+                    "prompts": {
+                        "time" : "L’heure est",
+                        "day" : "Jour",
+                        "from" : "de",
+                        "to" : "à",
+                        "am" : "am",
+                        "pm" : "pm"
+                    },
+                    "days": {
+                        "Monday" : "Lundi",
+                        "Tuesday" : "Mardi",
+                        "Wednesday" : "Mercredi",
+                        "Thursday" : "Jeudi",
+                        "Friday" : "Vendredi",
+                        "Saturday" : "Samedi",
+                        "Sunday" : "Dimanche"
+                    }
+                },
+                "forwardRule": {
+                    "vm" : "ma messagerie vocale",
+                    "autoFindMe" : "Find Me automatique",
+                    "announcedFindMe" : "Find Me annoncée",
+                    "ringtone" : "faire retentir la sonnerie",
+                    "SelectNumber" : "Sélectionner un numéro"
+                },
+
+                "error" : {
+                    "alphaNumericOnly" : "Only alphanumeric characters are allowed",
+                    "numbersOnly" : "Seuls les chiffres sont autorisés",
+                    "availabilityRequired" : "Sélectionnez au moins un état de disponibilité",
+                    "ruleNameExceedsMaxLength" : "Le nom de la règle dépasse la limite de __number__ caractères",
+                    "missingDialedNumber" : "L’un des numéros composés est manquant",
+                    "dayOfWeekRequired" : "Sélectionnez au moins un jour de la semaine",
+                    "missingRuleName" : "Nom de règle manquant",
+                    "missingConditions" : "Conditions manquantes pour cette règle",
+                    "missingNumberMatch" : "Il manque un numéro de à mettre en correspondance",
+                    "ruleNameAlreadyUsed" : "Le nom « __name__ » est déjà utilisé par une autre règle",
+                    "timeError" : "L’heure de début doit être antérieure à l’heure de fin",
+                    "dialedNumberExceedsLimit" : "Les numéros composés dépassent la limite de __number__ caractères",
+                    "externalNumberOnly" : "Ce champ doit comporter uniquement des caractères numériques et le signe « + »",
+                    "missingForwardNumber" : "L’un des numéros de renvoi est manquant",
+                    "invalidNumber" : "Numéro incorrect",
+                    "externalWildcardPlusStart" : "Le signe « + » peut être inséré uniquement au début du numéro",
+                    "maxRules": "Vous avez atteint le nombre maximal de règles. Supprimez une règle pour en créer une nouvelle.",
+                    "externalNumbersNotAllowed" : "Vous n’êtes pas autorisé à renvoyer l’appel à un numéro externe",
+                    "emptyTimeError" : "Les champs d'heure ne peuvent pas être vides"
+                }
+            }
+        },
+
+        "notifications": {
+            "tabs": {
+                "voicemail" : "Messagerie vocale",
+                "sounds" : "Sons",
+                "popup" : "Fenêtre contextuelle"
+            },
+
+            "voicemail": {
+                "label": {
+                    "emailAboutIncoming" : "Envoyer une notification électronique sur le message vocal entrant à ",
+                    "attachWave" : "Joindre le message vocal en tant que fichier .wav",
+                    "markHeard" : "Marquer le message vocal comme écouté"
+                },
+                "message": {
+                    "incorrectemailerr" : "Saisissez une adresse électronique valide"
+                }
+            },
+
+            "popup": {
+                "title": {
+                    "incomingIM" : "MI entrant",
+                    "incomingVoiceMail" : "Message vocal entrant",
+                    "incomingCall" : "Appel entrant",
+                    "incomingScreenshare": "Partage d’écran entrant"
+                },
+
+                "label": {
+                    "showForIncoming" : "Afficher la notification du MI entrant",
+                    "showForIncomingCall" : "Afficher une notification système lors de la réception d’un appel",
+                    "showForScreenShare": "Afficher une notification système lors d'un partage d'écran entrant",
+                    "showContent" : "Afficher le contenu du MI dans la notification",
+                    "keepOnScreen" : "Conserver la notification à l’écran pendant ",
+                    "showForVoicemail" : "Afficher la notification pour le message vocal",
+                    "numOfSeconds" : " secondes"
+                },
+
+                "buttons": {
+                    "configureViaOSXConfig" : "Configurer via le centre de notifications OS X..."
+                }
+            },
+
+            "sounds": {
+                "mediaGenericError" : "Erreur lors de l'utilisation du fichier audio. Réessayez.",
+                "mediaSourceError":"Le format ou la source audio n'est pas pris(e) en charge.",
+                "mediaDecodeError": "Erreur de décodage avec le fichier audio.",
+                "mediaNetworkError": "Erreur de téléchargement avec le fichier audio.",
+                "mediaAbortError": "La récupération du fichier audio a été arrêtée par l'utilisateur.",
+                "label": {
+                    "audioAlerts" : "Alertes audio",
+                    "forEvent" : "Pour l’événement",
+                    "noAudioAlerts" : "Pas d’alerte audio",
+                    "playAlert" : "Lire l’alerte",
+                    "on" : "ACTIVÉ",
+                    "off" : "DÉSACTIVÉ"
+                },
+
+                "events": {
+                    "newVoicemail" : "nouveau message vocal",
+                    "incomingInternalCall": "appeler depuis un poste",
+                    "incomingExternalCall" : "appel d’un numéro externe",
+                    "newConversation" : "nouveau message MI pour commencer une nouvelle conversation",
+                    "existingConversation" : "nouveau message MI pour reprendre une conversation existante",
+                    "incomingMonitoredCall" : "appel supervisé",
+                    "incomingSharedLineCall" : "appel de ligne partagé"
+                },
+
+                "buttons": {
+                    "removeSound" : "Supprimer le son",
+                    "addNewSound" : "Ajouter un nouveau son"
+                },
+
+                "errors": {
+                    "wavFileOnly" : "Seuls les fichiers .wav peuvent être sélectionnés"
+                }
+            }
+        },
+        "im": {
+            "tabs": {
+                "settings": "Réponses prédéfinies",
+                "blocknotification" : "Bloquer les notifications"
+            },
+
+            "settings": {
+                "cannedImResponses": "Réponses prédéfinies",
+                "imResponseInfo": "Vous pouvez répondre à un appel entrant provenant d'un autre contact Mitel via un message instantané. Ajoutez vos propres réponses préenregistrées.",
+                "addCannedResponse": "Ajouter une réponse prédéfinie",
+                "delete" : "Supprimer"
+            },
+            "blockNotification": {
+                "blockNotificationInfo" : "Bloquer les notifications de MI entrantes pour ces utilisateurs sur un ou plusieurs chats par messagerie instantanée",
+                "blockNotificationMessage" : "Vous continuerez de recevoir les notifications de MI entrantes de ces utilisateurs lors d’un chat de groupe.",
+                "SearchPrompt" : "Saisir le nom du contact..."
+            }
+        },
+
+        "account": {
+            "tabs": {
+                "login" : "Connexion",
+                "access" : "Accès",
+                "exchange" : "Informations d’identification AD",
+                "mpv": "Informations d'identification des vidéos"
+            },
+
+            "login": {
+                "label": {
+                    "connection" : "Connexion",
+                    "connectedto" : "Connecté à",
+                    "username" : "Nom d’utilisateur",
+                    "signin" : "Lorsque je me connecte à mon ordinateur",
+                    "autostartoption" : "démarrer Mitel <product name tbd> automatiquement"
+                },
+                "form": {
+                    "title" : "Modifier le mot de passe",
+                    "label": {
+                        "current" : "Actuel",
+                        "new" : "Nouveau",
+                        "retype" : "Saisir à nouveau pour confirmer",
+                        "passwordstrength" : "Niveau de sécurité"
+                    },
+                    "message": {
+                        "passwordnotmatch": "Les mots de passe saisis ne correspondent pas.",
+                        "samepassworderr" : "Utilisez un autre mot de passe.",
+                        "successchangepassword": "Le mot de passe a bien été modifié.",
+                        "invalidcurrentpassword" : "Saisissez un mot de passe correct",
+                        "changepassworderr" : "Votre mot de passe n’a pas été modifié. Réessayez ultérieurement.",
+                        "charRestriction": "Le mot de passe ne peut pas contenir « \\b » ou « \\n »",
+                        "charRestrictionForVoicemail" : "Seuls les chiffres sont autorisés.",
+                        "good" : "Bon",
+                        "weak" : "Faible",
+                        "strong" : "Élevé",
+                        "accountlockout" : "Ce compte est bloqué",
+                        "passwordexpired" : "Votre mot de passe a expiré et doit être modifié avant l’émission d’un ticket",
+                        "requirementnotmeet" : "Le nouveau mot de passe ne répond pas aux exigences du système en matière de mots de passe",
+                        "expiredoutside" : "La période d’expiration demandée est en dehors des valeurs autorisées par l’authentificateur",
+                        "runtimefail" : "Une erreur d’exécution s’est produite lors de la tentative d’enregistrement du nouveau mot de passe",
+                        "required" : "Ce champ est obligatoire",
+                        "minlength" : "Saisissez au moins __length__ caractères.",
+                        "maxlength" : "Ne saisissez pas plus de __length__ caractères.",
+                        "passwordTooWeak" : "Essayez d’utiliser un autre mot de passe. Le niveau de sécurité du mot de passe n’est pas assez élevé."
+                    },
+                    "buttons": {
+                        "setnewpassword" : "Définir un nouveau mot de passe"
+                    }
+                }
+            },
+
+            "access": {
+                "title": {
+                    "availabilityState" : "État de disponibilité"
+                },
+                "label": {
+                    "allowState" : "Autoriser ces utilisateurs à modifier mon état de disponibilité en mon nom",
+                    "sendClickDataToShoretel": "Oui, je souhaite aider Mitel à développer de meilleurs produits ! Envoyez des données anonymes à Mitel.",
+                    "restartConnectforNewRelic" : "Pour que la modification soit appliquée, redémarrez votre client Connect.",
+					"automaticallyLaunchShoretel": "Lancez automatiquement Mitel Connect dès le démarrage de l’ordinateur"
+
+                },
+                "delegateContacts": {
+                    "SearchPrompt" : "Saisir le nom du contact..."
+                }
+            },
+            "mpv":{
+                "title":{
+                    "manageMPVCredentials" : "Gérer les informations d'identification des vidéos multipoints"
+                },
+
+                "label":{
+                    "userName" : "Nom d'utilisateur",
+                    "password" : "Mot de passe",
+                    "saveCredentials" : "Enregistrer les informations d'identification",
+                    "verifyCredentials" : "Vérification des informations d'identification",
+                    "clearCredentials" : "Effacer les informations d'identification",
+                    "mpvDetailDesc" : "Les informations d'identification des vidéos multipoints seront utilisées pour créer des événements vidéo."
+                },
+
+                "success":{
+                    "validCredentials" : "Les informations d'identification ont bien été enregistrées."
+                },
+
+                "error" : {
+                    "validUsername" : "Saisissez un nom d'utilisateur valide.",
+                    "validPassword" : "Saisissez un mot de passe valide.",
+                    "invalidCredentials" : "Erreur d'authentification du serveur. Essayez d’utiliser un autre nom et un autre mot de passe.",
+                    "unableToSave" : "Échec de l'enregistrement des informations d'identification. Réessayez.",
+                    "serverUnreachable": "Échec de la connexion au serveur. Réessayez ultérieurement."
+                }
+            },
+
+            "exchange": {
+                "title": {
+                    "manageExchangeCredentials" : "Gérer les informations d’identification AD"
+                },
+
+                "label": {
+                    "detailDesc" : "Vos informations d’identification AD vous permettent de vous authentifier sur Exchange et de créer de nouveaux événements.",
+                    "userName" : "Nom d’utilisateur",
+                    "password" : "Mot de passe",
+                    "saveCredentials" : "Enregistrer les informations d’identification",
+                    "verifyCredentials" : "Vérification des informations d’identification AD...",
+                    "unlinkCredentials" : "Dissocier Mitel Connect d’Exchange"
+                },
+
+                "error" : {
+                    "exchangePending" : "Impossible de vérifier les informations d’identification AD. Réessayez ultérieurement.",
+                    "exchangeLoginFailed" : "Erreur de serveur Contactez l'administrateur système.",
+                    "exchangeUnknown" : "Votre serveur Exchange n'est pas correctement configuré. Contactez l'administrateur système",
+                    "exchangeAuthenticationFailed" : "Erreur d’authentification du serveur Exchange. Essayez d’utiliser un autre nom et un autre mot de passe.",
+                    "exchangeTimeout" : "Délai expiré",
+                    "validUsername" : "Saisissez un nom d'utilisateur valide.",
+                    "validPassword" : "Saisissez un mot de passe valide.",
+                    "unlinkMsg" : "Redémarrez le client pour que la dissociation prenne effet.",
+                    "alreadyLogin" : "Vous êtes actuellement connecté avec les informations d’identification Mitel Connect."
+                }
+            }
+        },
+        "video": {
+            "tabs": {
+                "permissions" : "Autorisations",
+                "camera" : "Configuration de la caméra"
+            },
+            "permissions": {
+                "description" : "Lorsque je participe à une conversation dans laquelle mon interlocuteur utilise sa caméra",
+                "auto" : "Démarrer automatiquement ma caméra sans me demander",
+                "ask" : "Me demander si je souhaite utiliser ma caméra",
+                "never": "Ne jamais me demander, je démarrerai moi-même la caméra"
+            },
+            "camera": {
+                "choose": "Sélectionnez le périphérique vidéo à utiliser pour les appels vidéo",
+                "adjust" : "Configurer les paramètres de la caméra...",
+                "preview" : "Afficher un aperçu du périphérique vidéo sélectionné",
+                "startVideoError" : "Erreur lors du démarrage de la vidéo pour le périphérique sélectionné",
+                "checkDevice" : "Vérifiez le périphérique",
+                "cameraSettingError" : "Erreur lors du lancement des paramètres de la caméra"
+            }
+        },
+
+        "deskphone" : {
+            "labels" : {
+                "language" : "Langue du menu Téléphone et messagerie vocale",
+                "wallpaper" : "Papier peint",
+                "ringtone" : "Sonnerie"
+            },
+
+            "dropdown" : {
+                "standardring" : "Sonnerie standard",
+                "ring2" : "Sonnerie 2",
+                "ring3" : "Sonnerie 3",
+                "ring4" : "Sonnerie 4",
+                "none" : "Aucun"
+            }
+        },
+
+        "voicemail" : {
+            "title" : {
+                "playback" : "Lecture",
+                "setup" : "Configuration",
+                "escalation": "Escalade",
+                "outlook" : "Outlook®"
+            },
+
+            "playback" : {
+                "label" : {
+                    "playEnvelopeInfo" : "Lire les informations d'enveloppe lors de l'écoute des messages"
+                }
+            },
+
+            "setup" : {
+                "title" : {
+                    "changeVoicemailPassword" : "Modifier le mot de passe de la messagerie vocale",
+                    "recordDefaultGreeting" : "Enregistrer le nom dans le message d’accueil par défaut de la messagerie vocale"
+                },
+                "label" : {
+                    "recordNewGreeting" : "Enregistrer un nouveau message d’accueil",
+                    "recordNewName" : "Enregistrer un nouveau nom"
+                },
+
+                "error" : {
+                    "saveError" : "Erreur lors de l'enregistrement de votre message d'accueil. Votre message d’accueil n’a pas été enregistré."
+                }
+            },
+
+            "escalation": {
+            "options": {
+            "header": "Options d'escalade de messages vocaux :",
+            "description": "Ce paramètre d'option s'appliquera à tous les profils d'escalade de messages vocaux que vous avez ajoutés ci-dessous.",
+            "firstUnheardOption": "Notifier pour le premier message non écouté",
+            "eachNewMessageOption": "Notifier pour chaque nouveau message"
+                },
+            "profiles": {
+            "header": "Profils d'escalade de messages vocaux :",
+            "description": "Ajoutez des profils pour personnaliser vos propres itinéraires d'escalade de messages vocaux."
+                },
+            "deleteProfileDialog": "Supprimer le profil",
+            "addNewProfile": "Ajouter un nouveau profil",
+            "editExistingProfile": "Modifier le profil",
+            "ProfileDefaultName": "Profil",
+            "NumberColHeader": "Numéro",
+            "NameColHeader": "Nom du profil",
+            "editProfile": "Modifier",
+            "deleteProfile": "Supprimer",
+            "NofifyFirstMessage": "Notifier pour le premier message non écouté",
+            "NotifyEveryMessage": "Notifier pour chaque nouveau message",
+            "profile": {
+            "name": "Nom du profil",
+            "cancel": "Annuler",
+            "add": "Ajouter",
+            "update": "Mettre à jour",
+            "repeatTimes": "Nombre de répétitions",
+            "repeatTimesPlaceholder": "Max. 200",
+            "namePlaceholder": "Saisir un nom de profil",
+            "addStep": "Ajouter une étape",
+            "deleteStep": "Supprimer une étape",
+            "step": {
+            "sendNotificationEmail": "Envoyer une notification par e-mail",
+            "attachWaveFile": "Joindre un fichier Wave",
+            "sendPhoneNotifications": "Envoyer des notifications par téléphone",
+            "thisNumberIsAPager": "Ce numéro est un récepteur d'appel",
+            "enterEmailAddress": "Saisir l'adresse e-mail",
+            "enterPhoneNumber": "Saisir le numéro de téléphone",
+            "enterPagerId": "Saisir l'ID du récepteur d'appel",
+            "enterPagerData": "Saisir les données du récepteur d'appel",
+            "timeout": "Délai d'expiration",
+            "max3600": "Max. 3600",
+            "minutes": " Minutes",
+            "notifyUrgentVoicemailsOnly": "Notifier uniquement pour les messages vocaux urgents"
+                    },
+            "validation": {
+            "profileName": "Nom de profil requis.",
+            "profileNameExists": "Le nom du profil existe déjà.",
+            "email": "Adresse e-mail requise.",
+            "invalidEmail": "Adresse e-mail non valide.",
+            "phone": "Numéro de téléphone requis.",
+            "invalidPhoneNumber": "Numéro de téléphone non valide.",
+			"cannotUseDIDNumber": "Veuillez ne pas entrer votre propre numéro de bureau.",
+            "atLeastOneNotification": "Vous devez indiquer au moins un type de notification.",
+            "invalidData": "Données non valides. L'ID/les données du récepteur d'appel autorisent uniquement les chiffres, les virgules, les espaces, les parenthèses et les tirets."
+                    }
+                }
+            },
+
+            "outlook": {
+                "title" : {
+                    "outlookIntegration" : "Intégration d’Outlook®"
+                },
+                "label" : {
+                    "showVoicemailInOutlook" : "Afficher mes messages vocaux dans ma boîte de réception Outlook"
+                }
+            }
+        },
+
+        "telephony" : {
+            "label" : {
+                "concurrentCalls" : "Nombre maximal d’appels simultanés",
+                "dialOut" : "Préfixe d’accès sortant",
+                "suppressCallWaiting" : "Supprimer la tonalité d’attente des appels lorsque l'utilisateur est en ligne",
+                "suppressDialTone" : "Supprimer la tonalité lorsque le périphérique est décroché en mode casque sur un téléphone analogique",
+                "autoCloseConversationPanel" : "Fermer la fiche de contact une fois l’appel terminé",
+                "showAccessToRoutingSlipAndCallNotes" : "Afficher l'accès au bordereau de routage et à la note d'appel pour chaque appel du tableau de bord"
+            }
+        },
+
+        "softphone" : {
+            "label" : {
+                "captureAudioThrough" : "Capturer le son via",
+                "enableAutoRegister" : "Au démarrage, m’affecter au téléphone SoftPhone",
+                "enableAutoGainControl" : "Activer le contrôle automatique du gain"
+            }
+        },
+
+        "language"  : {
+            "label" : {
+                "deskphoneVoicemailMenu" : "Menus du téléphone et de la messagerie vocale",
+                "phoneReboot" : "Cela peut nécessiter un redémarrage de telephone",
+                "clientLanguage" : "Langue utilisée par l'application",
+                "restartConnect" : "Redémarrer le client Connect pour appliquer le changement de langue"
+            },
+            "clientlanguages" : {
+                "englishUS" : "English (US)",
+                "englishUK" : "English (UK)",
+                "spanish" : "español",
+                "french"  : "français",
+                "german" : "Deutsch",
+                "swedish" : "svenska",
+                "chinese" : "简体中文"
+            },
+            "deskphoneVoiceMainDropDown":{
+                "1" : "English(US)",
+                "2" : "español (España)",
+                "3" : "Deutsch",
+                "4" : "English (UK)",
+                "5" : "français",
+                "6" : "Nederlands",
+                "7" : "Español (CALA)",
+                "8" : "Dansk",
+                "9" : "Italiano",
+                "10" : "Svenska",
+                "11" : "Chinese(Simplified)",
+                "12" : "Norsk",
+                "13" : "Português (Brasil)",
+                "14" : "Japanese",
+                "15" : "Korean",
+                "16" : "Chinese(Hong Kong)",
+                "17" : "Chinese(Traditional)",
+                "18" : "Português (Portugal)",
+                "23" : "English (Australia)",
+                "26" : "Hebrew",
+                "27" : "français canadien "
+            }
+        }
+    },
+
+    "title": {
+        "activeCall" : "Appel actif",
+        "back" : "Retour",
+        "callNote" : "Note d'appel",
+        "domain" : "Domaine",
+        "duration" : "Durée",
+        "email" : "Adresse électronique",
+        "emailOrUsername" : "Adresse électronique ou Nom d’utilisateur",
+        "forwarded" : "Renvoyé",
+        "guid" : "GUID",
+        "inProgress" : "En cours",
+        "login" : "Connexion",
+        "logIn" : "Connexion",
+        "loggingIn": "Connexion",
+        "newPassword" : "Nouveau mot de passe",
+        "origin" : "Numéro",
+        "password" : "Mot de passe",
+        "private" : "Privé",
+        "retypePassword" : "Confirmer le mot de passe",
+        "routingSlip" : "Bordereau de routage",
+        "savePassword" : "Enregistrer le mot de passe",
+        "server" : "Serveur",
+        "strength" : "Niveau de sécurité",
+        "showSupportInfo" : "+ Informations d'assistance",
+        "hideSupportInfo" : "- Masquer les informations d’assistance",
+        "to" : "Destinataire",
+        "urgent" : "Urgent",
+        "useAD" : "Utiliser Active Directory®",
+        "username" : "Nom d’utilisateur",
+        "voiceMessage" : "Message vocal",
+        "dnis" : "DNIS",
+        "accountCode" : "Numéro de compte"
+    },
+
+    "authportal": {
+        "login": {
+            "loadingHeaderText": "Fixation à la main.",
+            "authPortalSigningIn": "Connexion...",
+            "loadingTextToConnectClient": "Nous vous redirigeons vers l’application Mitel Connect",
+            "signIn": "Se connecter",
+            "signInText": "Connectez-vous pour continuer sur Mitel Connect"
+        }
+    },
+
+    "login": {
+        "changeCreds" : "Essayer une autre adresse électronique ou un autre mot de passe",
+        "emailOrUsername" : "Adresse électronique ou nom d’utilisateur",
+        "optional" : "Facultatif pour la sécurité ajoutée",
+        "setNewPassword": "Enregistrer et se connecter",
+        "emailPlaceholder": "E-mail (nom@exemple.fr)",
+        "passwordPlaceholder": "Mot de passe",
+        "newPasswordPlaceholder": "Créer un mot de passe",
+        "retypePasswordPlaceholder": "Resaisir le mot de passe",
+        "showAdvanced" : "Afficher les options avancées",
+        "signingIn" : "Ouverture de session",
+        "splash" : "Remarquablement simple",
+        "rememberThis": "Se souvenir de moi",
+        "useWindowsCredentials": "Utiliser les informations d'identification réseau ou Exchange",
+        "help": "Aide",
+        "passwordRequirement": "Exigences en matière de mot de passe",
+        "charcterLimitText": "Entre 8 et 26 caractères",
+        "specialCharText": "Au moins un caractère spécial (! # $ % & _ - = +)",
+        "numberLetterText": "Au moins un chiffre et une lettre",
+        "noSpaceText": "Aucune espace",
+
+        "error": {
+            "adAuthNotSupported": "Il est impossible de se connecter automatiquement à l'aide d'informations d'identification en dehors du réseau d'entreprise. Saisissez le nom d'utilisateur et le mot de passe du client Connect pour vous connecter.",
+            "adExpired": "Vos informations d'identification Active Directory ont expiré. Saisissez-les à nouveau pour vous connecter.",
+        "blankDomain": "Domaine requis.",
+        "blankPassword": "Mot de passe requis.",
+        "blankServer": "Adresse de serveur requise.",
+        "blankUsername": "Nom d'utilisateur requis.",
+        "cantFindServer": "Pour vous connecter, nous devons également connaître votre serveur.",
+            "cantLogIn" : "Votre nom d’utilisateur, votre mot de passe ou le serveur ne correspondaient pas. Veuillez réessayer.",
+            "cantLogInLocked": "Le nom d'utilisateur, le mot de passe ou le serveur de correspond pas, ou bien le compte est verrouillé. Veuillez patienter et réessayer.",
+            "phoneOnlyLogIn" : "Pour utiliser Mitel Connect, mettez votre compte à niveau.",
+            "certError" : "Connexion impossible, car un serveur a renvoyé un certificat incorrect.",
+            "homeServerConfiguration": "Votre serveur central CAS n’est pas correctement configuré, contactez votre administrateur système.",
+            "passwordChange": "Mot de passe expiré. Veuillez créer un nouveau mot de passe.",
+            "passwordExpired": "Mot de passe expiré.",
+            "passwordCreateNew": "Veuillez créer un nouveau mot de passe.",
+            "passwordMismatch": "Les mots de passe ne correspondent pas. Réessayez.",
+            "passwordNotNew" : "Le nouveau mot de passe doit être différent de l’ancien mot de passe.",
+            "passwordTooLong": "Mot de passe incorrect. Réessayez.",
+            "passwordTooShort" : "Le nouveau mot de passe ne peut pas contenir moins de __length__ caractères.",
+            "twoDomains" : "N’incluez pas le domaine dans le nom d’utilisateur.",
+            "unableToReachServer" : "Impossible de joindre votre serveur à l’adresse __server__.",
+            "unableToReachServerGeneric" : "Impossible de joindre votre serveur.",
+            "accountLockedOut" : "Le compte est bloqué."
+        },
+
+        "passwordStrength": {
+            "weak": "Faible",
+            "okay": "Moyen",
+            "good": "Fort"
+        },
+
+        "name" : "NOM",
+        "email" : "ADRESSE ÉLECTRONIQUE",
+        "password" : "MOT DE PASSE DE LA RÉUNION",
+        "signin" : "Se connecter",
+        "invalid" : "Mot de passe incorrect. Veuillez réessayer."
+    },
+
+    "routeSlip": {
+        "-5" : "__party2__ a cessé d’enregistrer l’appel avec __party1__.",
+        "-4" : "__party2__ a commencé à enregistrer l’appel avec __party1__.",
+        "-3" : "Appel déconnecté.",
+        "-2" : "Appel terminé.",
+        "-1" : "Appel acheminé vers __party1__",
+        "0" : "Nul",
+        "1" : "Direct",
+        "2" : "Appel renvoyé, ligne occupée.",
+        "3" : "Appel renvoyé, sans réponse.",
+        "4" : "Appel renvoyé automatiquement",
+        "5" : "Appel pris par __party1__.",
+        "6": "Appel récupéré par __party1__.",
+        "7" : "Appel redirigé de __party1__ à __party2__.",
+        "8" : "Appel terminé.",
+        "9" : "__party1__ appel transféré à __party2__.",
+        "10" : "Rappel",
+        "11" : "Inconnu",
+        "12" : "Non disponible",
+        "13" : "Infiltré par __party1__",
+        "14" : "Appel parqué sur le poste de __party2__.",
+        "15" : "__party1__ en attente de rappel sur le poste de __party2__.",
+        "16" : "Demande d’acheminement",
+        "17" : "__party1__ appelé __party2__.",
+        "18" : "Appel renvoyé de __party1__ à __party2__.",
+        "19" : "Appel d’origine par __party2__.",
+        "20": "__party2__ a été ajouté à la conférence.",
+        "21" : "Récupération impossible ; appel renvoyé",
+        "22" : "__party1__ a passé un appel en écoute discrète à __party2__.",
+        "23" : "__party1__ est intervenu pendant l’appel de __party2__.",
+        "24" : "__party1__ a enregistré l’appel.",
+        "25": "__party1__ a été ajouté à la conférence.",
+        "26" : "__party1__ a effectué une annonce confidentielle avec __party2__.",
+        "27" : "__party1__ a appelé __party2__ par interphone.",
+        "28" : "__party1__ a passé un appel avec coach discret à __party2__.",
+        "29": "__party1__ a été ajouté à la conférence.",
+        "30" : "__party1__ a rejoint la conférence ponctuelle de __party2__.",
+        "31" : "Appel d’origine",
+        "32" : "A rejoint la conférence",
+        "33" : "__party2__ appelé",
+        "34" : "pris le __party2__",
+        "35" : " __party1__ appel déplacé vers __party2__"
+    },
+
+    "presence": {
+        "chm": {
+            "Offline" : "Hors connexion",
+            "Available" : "Disponible",
+            "InAMeeting" : "En réunion",
+            "OutOfOffice" : "Absent",
+            "Vacation" : "En vacances",
+            "Custom" : "Personnalisé...",
+            "Variable" : "Personnalisé...",
+            "DoNotDisturb" : "Ne pas déranger",
+            "DND": "Ne pas déranger",
+            "undefined" : "Inconnu"
+        },
+        "availability": {
+            "offline" : "Hors connexion",
+            "not-available" : "Non disponible",
+            "busy" : "Occupé",
+            "available" : "Disponible",
+            "on-the-phone": "En ligne"
+        },
+        "OnThePhone" : "En ligne",
+        "Ringing" : "Sonnerie en cours",
+        "ChangeAvailibility": "Modifier la disponibilité"
+    },
+
+    "PhoneCurrentAssignment" : {
+        "UnAssign" : "Pas de téléphone principal",
+        "Assigned" : "Téléphone principal affecté",
+        "Deskphone" : "Téléphone principal",
+        "Softphone" : "SoftPhone",
+        "External" : "Externe",
+        "dashboard": {
+            "softphone": "Softphone",
+            "deskphone": "Téléphone principal",
+            "external": "Numéro externe",
+            "none": "Non affecté"
+        }
+    },
+
+    "contactCard": {
+        "privateUser" : "Utilisateur privé",
+        "group" : "Groupe",
+        "muteGroup":"Désactiver le son du groupe",
+        "unMuteGroup":"Réactiver le son du groupe",
+        "hideInfo" : "- Masquer les informations",
+        "newContact" : "Créer un nouveau contact",
+        "showInfo" : "Informations",
+        "showInfoTab": "Infos",
+        "editContact" : "Modifier",
+        "deleteContact": "Supprimer",
+        "address" : "ADRESSE",
+        "members": "membres",
+        "member": "membre",
+        "typeimmsg" : "Saisissez votre message ici...",
+        "noparticipants" : "Il n’existe aucun participant à ce groupe.",
+        "offlineparticipents": "Il est possible que les membres du groupe non connectés ne reçoivent pas les messages.",
+        "conference": {
+            "bringIntoMeeting" : "Ajouter à la réunion",
+            "callAttendee": "Appeler participant",
+            "messageAttendee": "Envoyer un message à participant",
+            "kickOutOfMeeting": "Supprimer de la réunion",
+            "muteUnmute" : "Désactiver le son ou réactiver le son du participant",
+            "kickOut": "Supprimer le participant"
+        },
+        "showFiles" : "+ Afficher les fichiers (__numFiles__ joints)",
+        "hideFiles" : "- Masquer les fichiers (__numFiles__ joints)",
+        "searchingContactCard" : "Recherche de l'historique des conversations",
+        "noSearchMatchFound" : "Aucun résultat trouvé.",
+        "accept" : "Accepter",
+        "reject" : "Refuser",
+        "parked" : "PARQUÉ",
+        "participantLikeToShare" : "__participant__ souhaitent partager leur écran.",
+        "participantsRequestedToShare": "Ces participants veulent partager leur écran.",
+        "attendees" : "Participants",
+        "loadingAttendees" : "chargement des participants...",
+        "groups" : {
+            "everything" : "Tous",
+            "calls" : "Appels",
+            "voicemails" : "Messages vocaux",
+            "messages" : "Messages"
+        },
+        "searchConversation" : "Rechercher dans cette conversation" ,
+        "searchConversations": "Rechercher toutes les conversations",
+        "dnis" : "[Numéroté]  __dnis__",
+        "workGroupName" : "[GT]  __name__",
+        "huntGroupName" : "[GR]  __name__",
+        "deleteContactTitle": "Supprimer contact",
+        "deleteContactQuery":"Voulez-vous supprimer ce contact ?",
+        "buddyCallStack" : {
+            "incoming" : "[Entrant]",
+            "connected" : "[Connecté]",
+            "onHold" : "[En attente]",
+            "parked" : "[Parqué]",
+            "incomingCallSingle" : "__counter__ appel entrant",
+            "connectedCallSingle" : "__counter__ appel connecté",
+            "onHoldCallSingle" : "__counter__ appel en attente",
+            "parkedCallSingle" : "__counter__ appel parqué",
+            "incomingCallsMulti" : "__counter__ appels entrants",
+            "connectedCallsMulti" : "__counter__ appels connectés",
+            "onHoldCallsMulti" : "__counter__ appels en attente",
+            "parkedCallsMulti" : "__counter__ appels parqués"
+        },
+        "SharinginProgress": "Le partage d'écran est en cours. Pour continuer, fermez et réessayez."
+    },
+
+    "contactPointType": {
+        "phoneNumberType": {
+            "extension" : "poste",
+            "im" : "IM",
+            "did" : "DID",
+            "business" : "bureau",
+            "work" : "bureau",
+            "mobile" : "portable",
+            "mobile2" : "portable 2",
+            "pager" : "beeper",
+            "home" : "domicile",
+            "primary" : "principal",
+            "business2" : "bureau 2",
+            "work2" : "bureau 2",
+            "company" : "bociété",
+            "assistance" : "assistant",
+            "callback" : "rappeler",
+            "car" : "voiture",
+            "home2" : "domicile 2",
+            "other" : "autre",
+            "speedDial" : "numérotation rapide",
+            "email" : "adresse électronique",
+            "email2" : "adresse électronique 2",
+            "email3" : "adresse électronique 3",
+            "fax" : "Télécopieur bureau",
+            "homefax" : "Télécopieur Domicile",
+            "primaryfax" : "Autre télécopieur",
+            "isdn" : "RNIS",
+            "radio" : "Radio",
+            "telex" : "Télex",
+            "ttytdd" : "TTY/TDD",
+            "pdl" : "liste de distribution personnelles",
+            "null" : "Inconnu",
+            "default" : "Bureau"
+        },
+        "im" : "MI",
+        "extension" : "POSTE",
+        "email" : "ADRESSE ÉLECTRONIQUE",
+        "phone" : "NUMÉRO DE TÉLÉPHONE",
+        "fax" : "TÉLÉCOPIEUR",
+        "other" : "AUTRE",
+        "unknown" : "Inconnu"
+    },
+
+    "groupdetail": {
+        "NewGroup" : "Nouveau groupe",
+        "SearchPrompt": "Faites glisser ou saisissez ici le nom du contact",
+        "Cancel" : "Annuler",
+        "SaveChanges" : "Enregistrer les modifications",
+        "Name" : "Nom",
+        "People" : "Contacts",
+        "Group" : "Groupe",
+        "InvalidGroupName": "Nommez votre groupe.",
+        "EmptyGroupError": "Ajoutez au moins un contact.",
+        "IsAlreadyGroup": "Ce nom de groupe existe déjà.",
+        "PickAnotherName": "Choisissez un autre nom.",
+        "DiscardChanges":"Voulez-vous vraiment ignorer les modifications ?",
+        "groupName" : "Nom du groupe",
+        "members" : "Membres",
+            "deleteGroup": "Effacer le groupe",
+            "groupMembers": "Membres du groupe",
+            "create": "Créer",
+            "save": "Enregistrer",
+            "delete": "Supprimer",
+            "groupNameRequired": "Nom de groupe requis.",
+            "groupMembersRequired": "Les membres du groupe sont requis."
+    },
+
+    "groupitem": {
+            "StartGroupChat": "Démarrer une discussion en ligne",
+            "ScheduleMeeting": "Planifier une réunion",
+            "GroupVoicemail": "Envoyer un message vocal",
+        "Members" : "Membres",
+        "EditGroup" : "Modifier le groupe"
+    },
+
+    "personal_directory": {
+        "Cancel" : "Annuler",
+        "SaveChanges" : "Enregistrer les modifications apportées au contact",
+            "AddContact": "Créer",
+            "JobTitle": "Titre",
+        "Company" : "Entreprise",
+        "Name": "Nom",
+        "FirstName" : "Prénom",
+        "MiddleName" : "Deuxième prénom",
+        "LastName" : "Nom",
+        "CompanyName" : "Nom de l'entreprise",
+        "Department" : "Service",
+        "Business" : "Bureau",
+        "Mobile" : "Portable",
+        "Pager" : "Beeper",
+        "HomeNumber" : "Numéro personnel",
+        "Fax" : "Télécopie",
+        "Email" : "Adresse électronique",
+        "IM" : "MI",
+        "Address" : "Adresse",
+        "City" : "Ville",
+        "Country" : "Pays",
+        "State" : "Département",
+        "Zip"   :"Code postal",
+        "Type" : "Type",
+        "Home" : "Domicile",
+        "Assistant" : "Assistant",
+            "AddNumber": "+Ajouter",
+            "discardChanges": "Ignorer les modifications",
+            "numbers": "Numéro de téléphone",
+            "createContact": "Nouveau contact",
+            "editContact": "Modifier un contact",
+            "contactInfo": "Coordonnées",
+            "work": "Travail",
+            "number": "Numéro",
+            "firstNameError": "Prénom requis.",
+            "save": "Enregistrer",
+            "deleteContact": "Touche logicielle",
+            "deleteContactNotification": "Voulez-vous supprimer __selectedContact__ ?",
+            "phoneNumError": "Ne doit contenir que des chiffres.",
+            "emptyFieldsError": "Adresse e-mail, de messagerie instantanée ou numéro de téléphone requis."
+
+    },
+
+    "messagebox": {
+        "No" : "Non",
+        "Yes" : "Oui",
+        "Add": "Ajouter",
+        "OK" : "OK",
+        "msg" : "Voulez-vous l’enregistrer comme brouillon ?",
+        "Cancel" : "Annuler",
+        "Keep": "Conserver",
+        "Delete" : "Supprimer",
+        "Remove": "Supprimer",
+        "SaveChanges" : "Enregistrer les modifications",
+        "FirstName" : "Prénom",
+        "MiddleName" : "Deuxième prénom",
+        "LastName" : "Nom",
+        "CompanyName" : "Nom de l'entreprise",
+        "Department" : "Service",
+        "Business" : "Bureau",
+        "Mobile" : "Portable",
+        "Pager" : "Beeper",
+        "HomeNumber" : "Numéro personnel",
+        "Fax" : "Télécopie",
+        "Email" : "Adresse électronique",
+        "IM" : "MI",
+        "groupdetail" : "Voulez-vous l’enregistrer comme brouillon ?",
+        "contactsCantRcvVM" : "__numContacts__ des contacts sélectionnés ne peuvent pas recevoir de message vocal. Voulez-vous continuer ?",
+            "deleteGroup": "Voulez-vous supprimer __groupname__ ?",
+            "deleteProfile": "Voulez-vous supprimer __profileName__ ?",
+        "errormsg" : "Au moins un nom est obligatoire. " ,
+        "numbererrormsg" : "Au moins un numéro est obligatoire. ",
+        "keepmeeting" : "Conserver la réunion",
+        "cancelmeeting" : "Annuler la réunion",
+        "DeleteRecording": "Supprimer l'enregistrement",
+        "CancelDeleteRecording": "Annuler",
+            "discardPopupHeader": "Ignorer les modifications",
+            "recurringMeetingConfirmationHeader": "Mettre à jour les modifications",
+            "discardchanges": "Ignorer",
+        "canceldiscard" : "Annuler",
+        "cancelDeleteContact" : "Annuler la suppression",
+        "confirmDeleteContact" : "Supprimer un contact",
+        "updateClient" : "Voulez-vous mettre le client à jour ?",
+        "updateClientAdmistrative" : "Contactez votre administrateur système pour mettre votre client à niveau",
+        "dontAddEmailToRecord" : "Ne pas ajouter l’adresse électronique à la fiche",
+        "addEmailToRecord" : "Ajouter l’adresse électronique à la fiche",
+            "addEmailTitle": "Ajouter une adresse e-mail",
+            "addEmailMessage": "Voulez-vous ajouter de nouvelles informations d'e-mail pour ce contact ?",
+        "doYouWantToDiscardChanges" : "Voulez-vous ignorer les modifications ?",
+        "downloadProgress" : "Téléchargement en cours....",
+        "dontSend" : "Ne pas envoyer",
+        "sendAnyway" : "Envoyer quand même",
+            "continue": "Continuer",
+            "voicemail": "Messagerie vocale",
+            "one": "Un",
+            "some": "Certains",
+            "groupVoicemailMsg": "des contacts sélectionnés ne peu(ven)t pas recevoir le message vocal. Voulez-vous vraiment poursuivre ?"
+    },
+
+    "editprofile": {
+        "Cancel" : "Annuler",
+        "ok": "OK",
+        "yes": "Oui",
+        "SaveChanges" : "Enregistrer"
+    },
+
+    "userconf": {
+        "Extn" : "Poste",
+            "number": "Informations relatives à la composition",
+        "pcode" : "Code de participant",
+        "hcode" : "Code d'organisateur",
+            "password": "Mot de passe",
+        "link" : "Lien",
+        "clipbrd" : "Copier dans le Presse-papiers",
+            "copiedToClipboard": "Copié dans le presse-papiers",
+        "event" : "Participer à mon événement maintenant",
+            "screenshare": "Afficher le partage d'écran",
+            "copy": "Copier",
+            "edit": "Modifier",
+            "sharingName": "partagent leur écran",
+            "additionalCallingInfoLabel": "Informations d'appel supplémentaires"
+    },
+
+    "profile": {
+        "edit" : "Modifier",
+        "preferences" : "Préférences",
+            "uploadPicture": "Télécharger une image",
+            "changePicture": "Changer l'image",
+            "removePicture": "Supprimer l'image",
+        "passignment" : "Affectation principale",
+        "confbridge" : "Ma conférence multipoints",
+        "phones" : "Mes téléphones",
+        "artefact" : "Artefact",
+        "settings" : "Paramètres",
+            "addNewBridge": "Ajouter un nouveau pont de conférence",
+            "editBridge": "Modifier le pont de conférence",
+            "loadingReservationLessConferences": "Chargement en cours..."
+    },
+
+    "peoplelist": {
+            "fetching": "Récupération des favoris...",
+        "groups": {
+            "Favorites": "Favoris",
+            "fetching": "Récupération des groupes..."
+        },
+        "menu":{
+            "addToGroup": "Ajouter un contact au groupe",
+            "addContactsToGroup": "Ajouter des contacts au groupe",
+            "sendVoicemail" : "Envoyer un message vocal",
+            "sendIM" : "Envoyer un MI",
+            "createConference" : "Programmer la conférence",
+            "call" : "Composer",
+            "sort" : "Trier"
+        },
+        "people": {
+            "Availability" : "Disponibilité",
+            "LastContact" : "Dernier contact",
+            "All" : "Tous",
+            "MyOrder": "Ma commande",
+            "LastName": "Nom",
+            "FirstName": "Prénom"
+        },
+        "tooltips": {
+            "hasParkedCall" : "Ce contact a des appels parqués"
+                },
+        "SearchByNameOrExt" : "nom ou poste",
+        "dropMenu" : {
+            "transfer" : {
+                "blind" : "Transfert masqué",
+                "consult" : "Transfert avec consultation",
+                "intercom" : "Transfert par interphone",
+                "mailbox" : "Transférer à la messagerie vocale",
+                "whisper" : "Transfert confidentiel"
+            },
+            "conference" : {
+                "blind" : "Conférence masquée",
+                "consult" : "Conférence avec consultation",
+                "intercom" : "Conférence par interphone"
+            },
+            "park" : {
+                "park" : "Parquer",
+                "page" : "Parquer et annoncer",
+                "intercom" : "Parcage et Interphone"
+            }
+        },
+        "SearchPrompt" : "Rechercher un contact existant et l’ajouter...",
+        "Favorites" : "Favoris",
+        "All" : "Tous",
+        "Group" : "Groupes",
+        "NewContact" : "Nouveau contact",
+        "NewGroup" : "Nouveau groupe",
+        "CreatePDL" : "Créer un nouveau contact dans l’annuaire",
+        "MultipleItemsWithGhostedImage" : "+ __numberofcontacts__ plus",
+        "searchPlaceholder" : "nom ou poste",
+        "MoreOptions": {
+            "SortLabel": "Trier par",
+            "SortTitle": "Trier",
+            "SortBy": {
+            "LastName": "Nom",
+            "FirstName": "Prénom",
+            "Availability": "Disponibilité",
+            "LastContact": "Dernier contact",
+            "MyOrder": "Ma commande"
+            },
+            "ShowLabel": "Afficher",
+            "ShowDetails": {
+            "CompanyName": "Nom de la société",
+            "DepartmentName": "Nom du service",
+            "PhoneNumber": "Numéro de téléphone"
+            },
+            "AddContactTitle": "Nouveau contact",
+            "AddGroupTitle": " ou groupe",
+            "AddContact": "Ajouter un contact",
+            "AddGroup": "Ajouter un groupe",
+            "ListView": "Vue de la liste",
+            "CompactView": "Vue compacte",
+            "ChangeViewTitle": "Modifier la vue"
+        }
+
+    },
+
+    "primaryAssignment": {
+            "pextn": "Les appels entrants sonnent sur :",
+        "deskphone" : "téléphone principal",
+        "assigned": "Vous n'êtes pas affecté à votre téléphone principal.",
+            "backtodesk": "Revenir à Mon poste fixe",
+        "softphone" : "SoftPhone",
+        "softsettings" : "Configurer les paramètres Softphone...",
+        "snumber" : "numéro d’affectation externe"
+    },
+
+    "userphones": {
+         "home" : "Domicile",
+         "mobile" : "Portable",
+         "rings" : "  sonneries",
+         "connect" : "Appuyez sur 1 pour vous connecter",
+         "autoconnect" : "Connexion automatique",
+         "remove" : "Supprimer"
+    },
+
+    "endpoint": {
+         "idevice" : "Périphérique d’entrée",
+         "odevice" : "Périphérique de sortie",
+         "selectNumber" : "Sélectionnez un numéro",
+         "selectedNumber" : "Le téléphone sélectionné est ",
+        "selection": {
+            "prompt" : "Point de terminaison (poste)",
+            "unassigned" : "Non affecté",
+            "primary" : "Téléphone principal",
+            "soft" : "SoftPhone"
+        },
+        "softphone": {
+            "heading" : "Paramètres Softphone",
+            "audio" : "Périphérique audio",
+            "video" : "Périphérique vidéo"
+        }
+    },
+
+    "recentList": {
+        "conferenceCall": "Appel de conférence",
+            "incoming": "Entrant",
+            "missed": "Manqué",
+            "outgoing": "Sortant",
+        "fetching" : "Récupération de l’historique...",
+        "timeFormatDate" : "DD/MM/YY",
+        "timeFormatDateFullYear": "DD/MM/YYYY",
+        "timeFormatFull" : "DD/MM/YY HH:mm",
+        "timeFormatTime" : "HH:mm",
+        "yesterday": "Hier",
+        "menu": {
+            "addContact" : "Ajouter en tant que contact",
+            "addToFavorites" : "Ajouter aux favoris",
+            "addContactToGroup": "Ajouter un contact au groupe",
+            "addContactsToGroup": "Ajouter des contacts au groupe",
+            "copyCallIdToClipboard" : "Copier l’ID de l’appel dans le Presse-Papiers",
+            "copyVoicemailIdToClipboard" : "Copier l’ID du message vocal dans le Presse-Papiers",
+            "deleteVoicemail" : "Supprimer le message vocal",
+            "deleteVoicemails": "Supprimer les messages vocaux",
+            "downloadVMASWav" : "Télécharger le message vocal au format .wav",
+            "editVoicemailSubject" : "Modifier l’objet du message vocal",
+            "markHeard": "Marqué comme Écouté",
+            "markUnheard": "Marqué comme Non écouté",
+            "flagVoicemail": "Enregistrer le message vocal",
+            "flagVoicemails": "Enregistrer les messages vocaux",
+            "removeFlag": "Annuler l'enregistrement du message vocal",
+            "removeFlags": "Annuler l'enregistrement des messages vocaux",
+            "showNumbers" : "Afficher les numéros"
+        },
+        "state": {
+            "all" : "Tous",
+            "flagged" : "Marqué",
+            "missed" : "Manqué",
+            "deleted" : "Supprimé",
+            "unheard": "Non écouté",
+            "heard": "Écouté",
+            "saved": "Enregistré"
+        },
+        "type": {
+            "calls" : "Appels",
+            "everything" : "Tout",
+            "files" : "Fichiers",
+            "groupCalls" : "Appels de groupe"
+        },
+        "callerIdUnknown" : "ID d'appelant inconnu",
+        "callerIdBlocked": "ID d'appelant bloqué",
+        "callExport": {
+            "tooltip": "Exporter les données d'appel",
+            "dateRange": "__startDate__ - __endDate__",
+            "dateFormat": "MMMM D, YYYY",
+            "dateFormatWithoutYear": "MMMM D",
+            "filterHeader": "Exporter les données d'appel :",
+            "filterOptions": {
+            "today": "Aujourd'hui",
+            "lastWeek": "La semaine dernière",
+            "lastMonth": "Le mois dernier"
+            },
+            "actions": {
+                "export": "Exporter"
+            },
+            "fileName": "CallData",
+            "exportedFile": {
+                "dateFormat": "YYYY-MM-DD",
+                "fileNameDateFormat": "YYYYMMDDHHmmss",
+                "timeFormat": "HH:mm",
+                "durationFormat": "HH:mm:ss",
+                "durationFormatWithHours": "mm:ss",
+                "date": "Date",
+            "time": "Heure (__tzString__)",
+                "direction": "Direction",
+            "number": "Numéro",
+            "duration": "Durée",
+            "note": "Note d'appel",
+            "private": "Privé"
+            }
+        }
+    },
+
+    "greetingController": {
+        "save" : "Sauvegarder l’enregistrement",
+        "cancel" : "Supprimer l’enregistrement"
+    },
+
+    "voiceMessage" : {
+        "re" : "Re : ",
+        "fwd" : "Transf. : ",
+        "reply" : "Répondre",
+        "forward" : "Renvoyer",
+            "save": "Enregistrer",
+            "unsave": "Ne pas enregistrer",
+        "delete" : "Supprimer",
+        "restore" : "Restaurer",
+        "restoreTooltip" : "Restaurer la messagerie vocale et accéder à la boîte de réception",
+        "timeformatLongDateTime": "D MMMM, YYYY [&bull;] HH-mm",
+        "to" : "À :",
+        "subject" : "Objet :",
+        "send" : "Envoyer",
+        "cancel" : "Annuler",
+        "receipt" : "Reçu",
+        "includeOriginal" : "Inclure l’original",
+        "searchPrompt" : "Rechercher un contact...",
+        "subjectPrompt" : "Objet du message vocal...",
+        "savedVMTimeFormat" : "MM-DDD-YYYY HH-mm-ss",
+        "voicemail" : "Messagerie vocale",
+        "errors" : {
+            "errorWithServerErrorCode" : "Opération incomplète. Code d’erreur de serveur (hex.) : ",
+            "noSubjectWhenSendingVoicemailError" : "Voulez-vous vraiment envoyer ce message sans objet ?"
+        },
+		 "mitelVMSystem": "Système de courrier vocal Mitel"
+    },
+
+    "mediaPlayer": {
+        "playVia" : "Lire via",
+        "playViaComputer" : "Utiliser les haut-parleurs de l’ordinateur",
+        "playViaDeskphone": "Utiliser le téléphone",
+            "stop" : "Arrêter",
+            "record" : "Enregistrer",
+            "play" : "Lire",
+            "pause" : "Pause",
+        "deskphone": "Téléphone",
+            "computer" : "Ordinateur",
+        "timestamp": {
+            "lessThanAnHour": "mm:ss",
+            "lessThanTenMinutes": "m:ss",
+            "atLeastAnHour": "hh:mm:ss"
+        }
+    },
+
+    "selfPresence": {
+        "Cancel" : "Annuler",
+        "selectColor" : "Sélectionner une couleur...",
+        "typeStatus" : "Saisir un état...",
+        "SelectColor": "Sélectionner une couleur",
+        "Available": "Disponible",
+        "Busy": "Occupé",
+        "Unavailable": "Indisponible",
+        "AdditionalNote": "Note supplémentaire",
+        "CustomStatus": "État personnalisé",
+        "BackButton": "Précédent",
+        "HintText": "La note s'affiche en même temps que l'état",
+        "CustomHintText": "Saisir le message (50 caractères max.)",
+        "DoneButtonLabel": "Terminé",
+        "CancelButtonlabel": "Annuler",
+        "logout": "Déconnexion"
+    },
+
+    "camera": {
+        "header" : "Paramètres vidéo",
+        "noneSupported" : "Aucun paramètre disponible pour le périphérique",
+        "settingName": {
+            "exposure" : "Exposition",
+            "whiteBalance" : "Balance des blancs",
+            "focus" : "Mise au point",
+            "torch" : "Torche",
+            "focusPoint" : "Point focal"
+        },
+        "settingValue": {
+            "locked" : "Verrouillé",
+            "auto" : "Automatique (une fois)",
+            "continuous" : "Automatique en continu",
+            "on" : "Activé",
+            "off" : "Désactivé",
+            "unknown" : "Inconnu"
+        }
+    },
+    "upgrade": {
+        "upgradeNeededTitle" : "Mise à niveau requise",
+        "upgradeSuggestedTitle" : "Mise à niveau suggérée",
+        "upgradeProgressTitle" : "Mise à niveau en cours",
+        "upgradeNeededMessage" : "Une mise à niveau est requise pour continuer d’utiliser le client Connect. Voulez-vous effectuer la mise à niveau maintenant ?",
+        "upgradeSuggestedMessage" : "Une mise à niveau est disponible pour votre client Connect. Voulez-vous effectuer la mise à niveau maintenant ?",
+        "upgradeProgressMessage" : "Votre client Connect est en cours de mise à niveau vers la dernière version",
+        "upgradeContactAdminMessage" : "Une mise à niveau est requise pour continuer d’utiliser le client Connect. Contactez votre administrateur",
+        "upgradeNow" : "Mettre à niveau maintenant",
+        "upgradeText": "Mise à niveau",
+        "upgradeOk" : "OK",
+        "remindMeLater" : "Me rappeler plus tard",
+        "later": "Plus tard",
+        "quit" : "Quitter",
+        "cancel" : "Cancel",
+        "progressText" : "Progression",
+        "downloadError": "Un problème est survenu lors du téléchargement du fichier. Redémarrez pour réessayer.",
+        "upgradeError" : "Erreur de mise à niveau",
+        "upgradeTimeoutError" : "Expiration du délai de mise à niveau. Redémarrez Mitel Connect.",
+        "restartClient": "Redémarrer maintenant"
+    },
+
+    "call": {
+        "state": {
+            "0" : "Inactif",
+            "1" : "Appel entrant...",
+            "2" : "Appel entrant...",
+            "3" : "Tonalité",
+            "4" : "Numérotation en cours",
+            "5" : "Appel en cours...",
+            "6" : "Occupé",
+            "7" : "Tonalité tous circuits occupés",
+            "8" : "Tonalité d’interception",
+            "9" : "Réseau occupé",
+            "10" : "Connecté",
+            "11" : "Appel en cours...",
+            "12" : "En attente",
+            "13" : "En attente de transfert",
+            "14" : "En attente de conférence",
+            "15" : "Parqué",
+            "16" : "En conférence",
+            "17" : "L’appel a pris fin",
+            "18" : "Inconnu",
+            "19" : "vous a mis en attente",
+            "20" : "Prise d'appel en cours",
+            "21" : "Récupération en cours",
+            "22" : "Déconnecté, adresse non valide",
+            "23" : "Déconnecté, mis en file d’attente sur WG",
+            "24" : "Configuration en attente, écoute discrète",
+            "25" : "Connecté, annonce confidentielle",
+            "26" : "Connecté (son désactivé)",
+            "active": "Actif",
+            "RemoteHoldWithTimer" : " __timer__ vous a mis en attente",
+            "SilentMonitorWithTimer" : " __timer__ Écoute discrète",
+            "SilentCoachWithTimer" : " __timer__ Coach discret",
+            "WhisperPageWithTimer" : " __timer__ Annonce confidentielle",
+            "ParkWithTimer" : " __timer__ Parqué",
+            "HoldWithTimer" : " __timer__ En attente",
+            "consult" : " __timer__ Consultation..."
+        },
+        "features": {
+            "call" : "Composer",
+            "hold" : "En attente",
+            "unhold" : "Reprendre",
+            "end" : "Raccrocher",
+            "callPhoneType" : "Appeler __phoneType__",
+            "callMailbox" : "Appeler la messagerie vocale",
+            "sendVoicemail" : "Envoyer un message vocal",
+            "pickupUnpark" : "Prendre l'appel ou le récupérer",
+            "intercom" : "Interphone",
+            "whisper" : "Annonce confidentielle",
+            "silentMonitor" : "Écoute discrète",
+            "silentCoach" : "Coach discret",
+            "bargeIn" : "Intervenir",
+            "alert" : "M'avertir en cas de disponibilité",
+            "park" : "Parquer",
+            "parkAndPage" : "Parquer/Annoncer",
+            "parkAndIntercom" : "Parquer/Interphone",
+            "unpark" : "Récupérer",
+        "pickup": "Prise d'appel",
+            "callMove" : "Déplacer l’appel",
+            "toVM" : "Vers la messagerie vocale",
+            "toAA" : "Vers le standard automatique",
+            "transfer" : "Transférer",
+            "silentCoachConsult" : "Consulter le superviseur",
+            "silentCoachResume" : "Reprendre le coach",
+            "maliciousCall" : "Marquer l’appel nuisible",
+        "mergeCallTo": "Fusionner avec",
+            "mergeCallFrom" : "Fusionner",
+            "mute" : "Désactiver le son",
+            "unmute" : "Réactiver le son",
+            "muteAll" : "Désactiver le son pour tous",
+            "unmuteAll" : "Réactiver le son pour tous",
+            "videoOn" : "Allumer la caméra vidéo",
+            "videoOff" : "Éteindre la caméra vidéo",
+            "videoDisabled" : "Caméra vidéo désactivée",
+        "videoCamera": "Caméra vidéo",
+            "videoOnHold" : "Votre caméra vidéo ne fonctionne pas tant que l'appel vidéo est en attente",
+            "share" : "Partager votre écran",
+            "info" : "Informations",
+            "record" : "Démarrer l'enregistrement",
+            "endRecord" : "Arrêter l'enregistrement",
+            "raiseHand" : "Lever la main",
+            "addParticipant" : "Ajouter un participant",
+            "editCallNote" : "Modifier la note d’appel",
+            "accountCode" : "Appeler avec le code de compte",
+            "enterAccountCode" : "Saisissez le code de compte ci-dessous et appuyez sur ENTRÉE pour composer le numéro",
+            "hideAccountCodes" : "Masquer ltous les codes de compte",
+            "showAccountCodes" : "Afficher tous les codes de compte",
+            "lock" : "Verrouiller",
+            "unlock" : "Déverrouiller",
+        "cancel": "annuler",
+        "complete": "terminer",
+            "video": {
+                "promptBelow" : "D'autres personnes participant à cet appel utilisent le mode vidéo. Pour vous joindre à l'appel en mode vidéo, appuyez sur le bouton de caméra ci-dessous.",
+                "dontRemindAgain" : " Ne plus me le rappeler",
+                "ok" : "OK",
+                "promptAbove" : "D'autres personnes participant à cet appel utilisent le mode vidéo. Pour vous joindre à l'appel en mode vidéo, appuyez sur le bouton de caméra ci-dessus."
+            },
+            "adhocConferenceLimit" : "La limite de conférences ponctuelles a été atteinte",
+            "routingSlip" : "Bordereau de routage",
+            "callNote" : "Note d'appel",
+            "acceptCall":"Accepter",
+            "rejectCall":"Ignorer",
+            "message": "Message"
+        },
+        "DN_AA" : "Standard automatique",
+        "DN_BkpAA" : "Assistant automatique de secours",
+        "callNotes": {
+            "enterCallNotePrompt": "Saisissez une nouvelle note d'appel et appuyez sur la touche Entrée pour l'enregistrer."
+        },
+        "workgroupName":"Groupe de travail : ",
+        "huntgroupName":"Groupe de recherche : ",
+        "calls": "appels"
+    },
+    "messagesConversation": {
+        "removeConversation": "Supprimer la conversation",
+        "muteConversation": "Désactiver le son de la conversation",
+        "unmuteConversation": "Réactiver le son de la conversation",
+        "markAsRead": "Marquer comme lu(s)"
+    },
+    "eventDraft": {
+        "successMeetingMsg": "Réunion correctement créée.",
+        "openOutlookMsg": "Veuillez patienter pendant que nous ouvrons Outlook.",
+        "useMyBridgeTxt": "Utiliser mon propre pont",
+        "presenterHelp": "Présentateurs",
+        "participantHelp": "Participants",
+        "moreSettingsLabel": "Plus de paramètres",
+        "useOwnBridgeTxt": "Vous pouvez utiliser votre propre pont de conférence au lieu de ceux générés par le système.",
+        "presenterHelpText": "Les présentateurs pourront partager leur écran.",
+        "participantHelpText": "Les participants devront faire une demande d'approbation auprès de l'organisateur de la réunion pour pouvoir partager leur écran.",
+        "addEditBridge": "Vous pouvez également ajouter un nouveau pont de conférence ou modifier ceux existants dans votre écran de profil.",
+        "creatingMeeting": "Créer une réunion.",
+        "moreSettingsTxt": "Configurations d'options de réunion supplémentaires disponibles.",
+        "name": {
+            "label": "Nom",
+        "placeholder": "Réunion sans titre",
+        "required": "Nom de réunion requis."
+        },
+        "mpv": {
+            "description": "Description",
+            "enterMeetingDescription": "Saisir la description de la réunion",
+            "eventType": "Type d'événement",
+            "collaboration": "Collaboration",
+            "video": "Vidéo"
+       },
+        "starts": {
+            "label": "Début",
+            "dateLabel": "Date",
+            "timeLabel": "Heure de début"
+        },
+        "duration": {
+            "label": "Durée de la réunion",
+            "help": {
+                "hours": "Heure",
+        "hours_plural": "Heures",
+        "minutes": "Minute",
+                "minutes_plural": "Minutes"
+            },
+            "required": "Durée de la réunion requise."
+        },
+        "recurrence": {
+            "label": "Occurrence",
+            "option": {
+                "once": "Une fois",
+                "daily": "Une fois par jour",
+                "weekly": "Une fois par semaine",
+                "biweekly": "Deux fois par semaine",
+                "monthly": "Une fois par mois"
+            }
+        },
+        "onsiteLocation": {
+            "label": "Sur site",
+            "placeholder": "Sur site"
+        },
+        "type": {
+            "label": "Type de réunion",
+            "option":  {
+                "collaborative": "Collaborative",
+                "presentation": "Présentation"
+            }
+        },
+        "organizers": {
+            "label": "Organisateurs",
+            "placeholder": "Saisir le nom des organisateurs"
+        },
+        "presenters": {
+            "label": "Présentateurs",
+            "placeholder": "Saisir le nom des présentateurs"
+        },
+            "useMyBridge": "Utiliser mon propre pont",
+            "UsePresentation": "Ajoutez des participants supplémentaires devant faire une demande d'approbation auprès de l'organisateur de la réunion pour pouvoir partager leur écran. (grands événements, réunions publiques, etc.)",
+        "participants": {
+            "label": "Participants",
+            "placeholder": "Saisir le nom des participants"
+        },
+        "agenda": {
+            "label": "Programme",
+            "AgendaTermLabel": "Question du programme",
+            "AgendaMinutesLabel": "Heure du programme",
+            "term": {
+                "placeholder": "Spécifier le programme"
+            },
+            "time": {
+                "placeholder": "heure",
+                "segment": "m"
+            },
+            "overview": {
+                "label": "Présentation",
+                "placeholder": "Accéder à la présentation de la réunion"
+            }
+        },
+        "files": {
+            "label": "Fichiers"
+        },
+        "settings": {
+            "ShowMeetingSettings": "+ Afficher les paramètres",
+            "HideMeetingSettings": "- Masquer les paramètres"
+        },
+        "passwordProtect": {
+            "label": "Protéger la réunion par mot de passe"
+        },
+        "password": {
+            "label": "Mot de passe",
+            "placeholder": "Saisir le mot de passe",
+            "required": "Mot de passe requis."
+        },
+            "customAccessCode": "Codes d'accès personnalisé",
+        "accessCodeError": {
+            "accessCodesAreSame": "Le code du participant et celui de l'organisateur ne peuvent pas être identiques.",
+            "participantCodeAlreadyInUse": "Ce code du participant est déjà utilisé.",
+            "hostCodeAlreadyInUse": "Ce code d'organisateur est déjà utilisé."
+        },
+        "participantCode": {
+            "label": "Code de participant",
+            "placeholder": "Saisir le code"
+        },
+        "hostCode": {
+            "label": "Code d'organisateur",
+            "placeholder": "Saisir le code"
+        },
+        "meetingStart": {
+            "label": "Commencer la réunion",
+            "option": {
+                "anyoneJoins": "Lorsque tout le monde y prend part",
+                "organizerJoins": "Lorsque l'un des organisateurs y prend part"
+            }
+        },
+        "participantSettings": {
+            "label": "Participants",
+            "announceArrival": {
+                "label": "Annoncer l'arrivée et le départ des participants",
+                "option": {
+                    "playAudioTone": "Émettre une tonalité simple",
+                    "promptToRecord": "Demander aux participants d'enregistrer leur nom et de s'annoncer lorsqu’ils rejoignent ou quittent la réunion"
+                }
+            },
+            "muteOnEntry": {
+                "label": "Désactiver le son aux participants dès leur arrivée"
+            },
+            "showAllNames": {
+                "label": "Afficher le nom de tous les participants"
+            },
+            "allowImWith": {
+                "label": "Autoriser les participants à envoyer un MI à",
+                "option": {
+                    "everyone": "Tout le monde",
+                    "organizers": "Uniquement aux organisateurs"
+                }
+            },
+            "whenDialingOut": {
+                "label": "Lorsque les participants sont invités à rejoindre la réunion",
+                "option": {
+                    "mustPressOne": "Appuyer sur 1 pour accéder à la partie audio de la réunion.",
+                    "automaticallyAdded": "Les participants sont automatiquement ajoutés à la partie audio de la réunion"
+                }
+            }
+        },
+        "status": {
+            "error": {
+                "single": "Corrigez ce champ : __fields__ avant de créer un événement.",
+                "multiple": "Corrigez ces champs : __fields__ avant de créer un événement."
+            }
+        },
+            "createEventInvite": "Créer",
+            "updateEventInvite": "Mettre à jour"
+    },
+    "event": {
+        "limitationWarning" : {
+            "header":"Participants copiés dans le presse-papiers.",
+            "message1": "En raison d'un changement dans Outlook, nous ne pouvons pas transmettre la liste des participants à Outlook.",
+            "message2": "Nous avons copié la liste pour vous - veuillez la coller directement dans le champ “À” de l'invitation Outlook.",
+            "doNotShowAgain": "N'affichez plus ceci",
+            "timeWarning1": "En raison d'un changement dans Outlook, la date et l'heure peuvent ne pas être transférées correctement dans Outlook.",
+            "timeWarning2": "Veuillez confirmer la date et l'heure avant d'envoyer l'invitation à la réunion.",
+            "editWarning1": "En raison d'une modification dans Outlook, l'édition des réunions n'est pas prise en charge actuellement.",
+            "editWarning2": "Veuillez utiliser le calendrier Outlook pour mettre à jour cette réunion.",
+            "editHeader": "L'édition n'est pas prise en charge actuellement"
+        },
+        "Upcoming" : "À venir",
+        "video": "Vidéo",
+        "Past" : "Passé",
+        "organizers" : "Organisateurs",
+        "presenters" : "Présentateurs",
+        "participants" : "Participants",
+        "Reschedule" : "Modifier l'horaire",
+        "agenda" : "Programme",
+        "enterAgendaTerm" : "Spécifier le programme",
+        "time" : "heure",
+        "min" : "min",
+        "overview" : "Présentation",
+        "description": "Description",
+        "files" : "Fichiers",
+            "cancelEvent": "Annuler l'événement",
+        "CancelMeeting" : "Annuler la réunion",
+        "JoinMeeting" : "Participer à la réunion",
+        "Collaborative" : "Collaborative",
+        "Presentation" : "Présentation",
+        "Video": "Vidéo",
+        "EnterDropboxURL" : "Saisir l’URL d’accès à Dropbox",
+        "StarttheMeeting" : "Commencer la réunion",
+        "Whenanyonejoins" : "Lorsque tout le monde y prend part",
+        "Whenoneoftheorganize" : "Lorsque l’un des organisateurs y prend part",
+        "Participants" : "Participants",
+        "Announcewhenparticip" : "Annoncer l'arrivée et de départ des participants",
+        "Playasimpleaudiotone" : "Émettre une tonalité simple",
+        "Promptparticipantsto" : "Demander aux participants d’enregistrer leur nom et de s’annoncer lorsqu’ils rejoignent et quittent la réunion",
+        "Muteparticipantsonen" : "Désactiver le son aux participants dès leur arrivée",
+        "Showeveryonesnametoa" : "Afficher le nom de tous les participants",
+        "AllowparticipantstoI" : "Autoriser les participants à envoyer un MI à",
+        "Everyone" : "Tout le monde",
+        "Justtheorganizers" : "Uniquement aux organisateurs",
+        "Whendialingouttopart" : "Lorsque les participants sont invités à rejoindre la réunion",
+        "Mustpressonetoentera": "Appuyer sur 1 pour accéder à la partie audio de la réunion",
+        "Participantsareautom" : "Les participants sont automatiquement ajoutés à la partie audio de la réunion",
+        "name" : "Nom",
+        "starts" : "Début",
+        "ends" : "Fin",
+        "OnSiteLocation": "Emplacement de la réunion",
+        "Meetingtype" : "Type de réunion",
+        "Agenda" : "Programme",
+        "agendaTerm" : "Durée du programme",
+        "agendaTime" : "Heure du programme",
+        "agendaTimeLimit": "Le programme excède le temps alloué de __minutes__ minute(s)",
+        "agendaTimeNumberError" : "L'heure du programme doit être un chiffre",
+        "meetingDuration" : "Durée",
+        "meetingStartDate" : "Date",
+        "meetingStartTime" : "Heure",
+        "meetingLasts" : "Durée de la réunion",
+        "Hours" : "Heures",
+        "Minutes" : "Minutes",
+        "ShowMeetingSettings" : "+ Afficher les paramètres",
+        "HideMeetingSettings" : "- Masquer les paramètres",
+        "ProtectMeetingwithpassword" : "Protéger la réunion par mot de passe",
+        "Overview" : "Présentation",
+        "EnterMeetingoverview" : "Accéder à la présentation de la réunion",
+        "Participantcode" : "Code de participant",
+        "EnterCode" : "Saisir le code",
+        "HostCode" : "Code d'organisateur",
+        "EventMessage" : "Voulez-vous fermer le panneau Modifier l’événement ?",
+        "EventUSBError" : "Demandez à votre administrateur informatique d’activer la fonction de conférence pour vous",
+        "NewEvent" : "Nouvel événement",
+        "CancelEvent" : "Annuler",
+        "Recorded" : "Enregistré",
+        "Recurring" : "Périodique",
+        "fetchingEvents" : "Récupération des événements...",
+        "meetingDurationNumberError":"La durée de la réunion doit être une valeur numérique.",
+        "calendarError":"La date sélectionnée ne peut pas être dans le passé",
+        "pastMeetingError" : "La réunion ne peut pas être programmée dans le passé",
+        "meetingDurationError" : "Les réunions de conférence sont limitées à 8 heures",
+        "meetingIsInProgressWantToCancel":"La réunion est actuellement en cours. Voulez-vous vraiment annuler cette réunion ?",
+        "organizerContactError": "Le contact externe ne peut pas être un organisateur d'événements",
+        "cancelMeetingNotification" : "Voulez-vous vraiment annuler cette réunion ?",
+        "cancelRecurringMeetingNotification": "La sélection de l'option « Annuler la réunion » supprime non seulement l'instance, mais aussi les séries.",
+        "updateRecurringMeetingNotification": "La sélection de l'option « OK » supprime non seulement l'instance, mais aussi les séries.",
+            "discardMeetingNotification": "Voulez-vous ignorer vos modifications ?",
+        "deleteRecordingNotification": "Voulez-vous vraiment supprimer cet enregistrement ?",
+        "hostedbyText" : "Organisateur(s) - ",
+        "overviewLabel" : "Présentation",
+        "howToJoinLabel" : "Comment participer ?",
+        "accessCodeLabel": "Code d'accès",
+        "howToJoinButton" : "Cliquez ici pour participer",
+        "UCBIDLabel" : "ID :",
+        "leaderCodeLabel" : "Code de responsable :",
+        "leaderUrl": "URL du leader :",
+        "participantCodeLabel" : "Code de participant : ",
+        "attendeesLabel" : "Participants",
+        "agendaLabel" : "Programme",
+        "minutesLabel" : "Compte rendu",
+        "filesLabel" : "Fichiers à revoir",
+        "UpdateEvent" : "Mettre à jour l’événement",
+        "SaveAndUpdateEvent": "Enregistrer et mettre à jour l’événement",
+        "UCBPassword" : "Mot de passe",
+        "EnterPassword" : "Saisir le mot de passe",
+        "UCBpasswordLabel" : "Mot de passe ",
+        "multipleContactsWithoutMail" : "n’avaient aucune adresse électronique associée et ont été supprimés de l’invitation à l’événement.",
+        "singleContactWithoutMail" : "n’avait aucune adresse électronique associée et a été supprimé de l’invitation à l’événement.",
+        "contactPlaceholder": "Cliquez pour ajouter une ’adresse électronique…",
+        "editMeeting": "Modifier réunion",
+        "eventEdit": "Modifier l'événement",
+		"editMeetingNeedsEditorPermissions": "Pour modifier un événement créé par d'autres, ils doivent faire de vous un délégué et vous accorder les droits d'éditeur pour leur calendrier Outlook",
+        "onlyEditableFromOutlook" : "elle ne peut être modifiée qu'avec Outlook",
+        "cannotCanelMeetingInProgress" : "Impossible de supprimer une réunion en cours",
+        "downloadIcs" : "Télécharger le fichier ICS pour le calendrier externe",
+        "copyNamesToClipboard" : "Copier le nom des participants dans le Presse-Papiers",
+        "copyFileUrlToClipboard" : "Copier l'URL du fichier dans le Presse-papiers",
+        "newEventWithSameParticipants" : "Nouvel événement avec les mêmes participants",
+        "recordings": "Enregistrements",
+        "playBack": "Lire l’enregistrement",
+        "download": "Télécharger l'enregistrement",
+        "deleteRecording": "Supprimer l'enregistrement",
+        "copyRecordingUrlToClipboard" : "Copier l'URL de l’enregistrement dans le Presse-papiers",
+        "hostCode" : "Code d'organisateur",
+        "participantCode" : "Code de participant",
+        "participantUrl" : "URL du participant",
+        "localDialIn": "Local number to call",
+        "dialInExtension" : "Poste à appeler",
+            "extension": "Poste",
+            "dialInInfo": "Informations relatives à la composition",
+        "link": "Lien",
+        "password" : "Mot de passe",
+        "copyDialinToClipboard" : "Copier les informations de numérotation dans le Presse-papiers",
+        "organizersPlaceholder" : "Saisir le nom des organisateurs",
+        "presentersPlaceholder" : "Saisir le nom des présentateurs",
+        "participantsPlaceholder" : "Saisir le nom des participants",
+        "additionalCallingInfoLabel" : "Informations d'appel supplémentaires : ",
+        "occurs" : "Occurrence",
+        "once" : "Une fois",
+        "daily" : "Une fois par jour",
+        "weekly" : "Une fois par semaine",
+        "monthly" : "Une fois par mois",
+        "biweekly" : "Deux fois par mois",
+        "mpvTitleLable": "Titre :",
+        "mpvDescriptionLable": "Description :",
+        "mpvJoinFromLabel": "Pour vous joindre avec votre téléphone (audio uniquement) :",
+        "mpvInviteText": "Vous êtes invité à une réunion vidéo Mitel",
+        "mpvAccessCodeLable": "Votre code de participant à la conférence est : ",
+        "mpvDialInNumbersText": "Informations d'appel supplémentaires",
+        "mpvMoreInfoText": "Pour plus d'informations ou pour obtenir de l'aide, rendez-vous sur :",
+        "mpvTollFreeText": "appel gratuit",
+        "reqCred": {
+            "header": "Identifiants pour Exchange",
+            "RequestExchangeCred":"Mitel Connect nécessite vos informations d’identification Exchange pour afficher et créer des événements. ",
+            "Username" : "Nom d’utilisateur",
+            "Password" : "Mot de passe",
+            "submit": "Soumettre",
+            "Connecting":"Connexion à Exchange en cours. Validation des informations d’identification...",
+            "Cancel": "Annuler",
+            "errorConnecting":"Impossible d'accéder à votre serveur Exchange avec les informations d’identification fournies.",
+            "errorTryAgain": "Réessayez ou contactez votre administrateur système pour obtenir de l'aide.",
+            "success":"Connexion correcte à Exchange",
+            "success1":{
+                "osx":"Vous pouvez également gérer les informations d’identification de vidéoconférence multipoint dans les préférences Mitel.",
+                "win":"Vous pouvez également gérer les informations d’identification de vidéoconférence multipoint dans les paramètres Mitel."
+            },
+            "ok":"OK"
+        },
+        "reqMPVCred": {
+            "header": "Identifiants pour les vidéos point à point",
+            "RequestMPVCred":"Pour créer des événements, Connect a besoin de connaître vos informations d'identification de vidéoconférence multipoint.",
+            "Username": "Nom d'utilisateur",
+            "Password": "Mot de passe",
+            "submitMPVCred": "Soumettre",
+            "Connecting": "Connexion au serveur. Validation des informations d'identification...",
+            "Cancel": "Annuler",
+            "errorConnecting":"Impossible d'accéder au serveur avec les informations d’identification fournies.",
+            "errorConnecting1":"Réessayez ou contactez votre administrateur système pour obtenir de l'aide.",
+            "success":"Vous êtes connecté au serveur.",
+            "success1":{
+                "osx":"Vous pouvez également gérer les informations d’identification Exchange dans les préférences Mitel.",
+                "win":"Vous pouvez également gérer les informations d’identification Exchange dans les paramètres Mitel."
+            },
+            "ok" : "OK"
+        },
+        "invalidInput": " est un champ obligatoire. Renseignez-le pour créer un événement.",
+        "invalidInputs": " sont des champs obligatoires. Renseignez-le pour créer un événement.",
+        "invalidInputMPV": "ne peut pas être un caractère unique",
+            "createConfFailed": "Une erreur est survenue lors de la création de l'événement, veuillez réessayer.",
+            "updateConfFailed": "Une erreur est survenue lors de la mise à jour de l'événement, veuillez réessayer.",
+        "accessCodeLengthInvalid" : "La longueur de code d'accès est hors limites minimale et maximale",
+            "accessCodeInUse": "Ce code d'accès est déjà utilisé, veuillez le mettre à jour et réessayer.",
+        "hostCodeMatchesParticipantCodeError": "Le code du participant et celui de l'organisateur ne peuvent pas être identiques. Modifiez l'un des codes avant de créer l'événement.",
+        "meetingNameTooLong": "Le nom de la réunion est trop long. Raccourcissez-le.",
+        "accessCodeRestrictions": "Mise à jour impossible en raison de restrictions du code d’accès.",
+        "mobileAutoDialLabel" : "Numérotation automatique mobile ",
+        "voipLabel" : "VoIP",
+        "iOSDevicesLabel" : "Périphériques iOS",
+        "otherDevicesLabel" : "Autres périphériques",
+        "andPressLabel" : " et appuyez sur #",
+        "dialInExtensionLabel" : "Poste",
+        "untitledMeeting" : "Réunion sans nom",
+        "eventInviteMessage" : "Terminez l’invitation et envoyez-la via Outlook",
+        "joinConferenceNoDial" : "Participer en mode chat uniquement",
+        "joinConferenceScreenShare" : "Afficher l’écran de partage",
+        "joinConference" : "Rejoindre",
+        "joinVideoConference":"Rejoindre la vidéoconférence",
+        "openingOutlookWait":   "Ouverture d'Outlook...",
+        "cancelingConference" : "Annulation de la conférence",
+        "cancelConferenceFailed" : "Échec de l'annulation de la conférence",
+            "openingOutlookFailed": "Outlook n'a pas réussi à s'ouvrir, veuillez vous assurer que votre accès à Outlook est disponible et réessayez.",
+        "openingOutlookFailedDialogIsOpen": "Une boîte de dialogue Outlook est ouverte. Fermez-la avant de continuer.",
+        "openingOutlookFailedExchangeUnavailable": "La connexion à Microsoft Exchange n'est pas disponible.",
+        "createConference" : "Création d’une conférence",
+            "updateConference": "Veuillez patienter pendant que nous mettons à jour votre réunion.",
+            "cancelConference": "Veuillez patienter pendant que nous annulons votre réunion.",
+        "openOutlook": "La conférence a bien été créée. Attendez l'ouverture d'Outlook.",
+        "updateConferenceOutlook": "La conférence a bien été mise à jour. Attendez l'ouverture d'Outlook.",
+        "answerCall" : "Répondre",
+        "recurring" : "Événement récurrent",
+            "copy": "Copier",
+            "more": "Plus",
+            "less": "Moins",
+        "joinIconPopup": {
+            "callMeAt": "Appelez-moi sur :",
+            "callMe" : "M’appeler",
+            "callme" : "M’appeler",
+            "callMeOn" : "M’appeler sur ma __dest__",
+            "callMeAtDest" : "M’appeler à mon __dest__",
+            "numberNotReachable" : "Le numéro spécifié __number__ n’est pas joignable",
+            "enterNumberToCallBack"  : "Saisissez le numéro auquel vous rappeler",
+            "checkNumberForMissingDigits" : "Vérifiez si le numéro ci-dessus est incomplet ou contient des chiffres incorrects"
+        },
+        "dialInIconTooltips" :{
+            "dialMeInViaDevice" : "Accès entrant via mon __dest__",
+            "dialMeInVia" : "Accès entrant via __label__ __number__",
+            "deskphone" : "téléphone principal",
+            "softphone" : "Softphone",
+            "noPhoneSelected" :  "Aucun téléphone sélectionné",
+            "dialMeIn": "Composez-moi sur",
+            "dialMeAt": "Composez-moi à",
+            "joinScreenShare": "Rejoindre le partage d'écran"
+        },
+        "editEvent" : {
+            "passwordExceedlimitedError" : "Les mots de passe corrects sont limités à 8 caractères",
+            "passwordCannotContainSpecialChar": "Le mot de passe ne peut pas contenir de caractères spéciaux : { \\ , # }",
+            "accessCodeError" : "La longueur du code d'accès doit être comprise entre __min__ et __max__.",
+            "accessCodeParticipantError": "Le code du participant ne peut pas contenir de lettres ou de symboles.",
+            "accessCodeHostError": "Le code de l'organisateur doit être constitué de chiffres."
+        },
+        "reservationLess": {
+            "name": {
+            "label": "Nom",
+            "placeholder": "Nouveau nom de pont",
+            "required": "Nom de pont requis."
+            },
+            "participantCode": {
+            "label": "Code du participant",
+            "placeholder": "Saisir le code"
+            },
+            "hostCode": {
+            "label": "Code de l'organisateur",
+            "placeholder": "Saisir le code"
+            },
+            "accessCodeLengthError": "La longueur de __codeName__ doit être comprise entre __min__ et __max__.",
+            "accessCodeFormatError": "__codeName__ ne doit contenir que des chiffres.",
+            "accessCodeAlreadyUsed": "__codeName__ est déjà utilisé.",
+            "accessCodeRequired": "__codeName__ requis.",
+            "accessCodesAreSame": "Le code du participant et celui de l'organisateur ne peuvent pas être identiques.",
+            "passwordLengthError": "Les mots de passe doivent contenir 8 caractères maximum.",
+            "passwordFormatError": "Le mot de passe ne peut pas contenir les caractères spéciaux suivants : { \\ , # }.",
+            "dialogActions": {
+            "add": "Ajouter",
+            "update": "Mettre à jour",
+            "remove": "Supprimer",
+            "cancel": "Annuler",
+            "keepBridge": "Conserver le pont",
+            "discard": "Ignorer"
+            },
+            "removeBridge": "Voulez-vous supprimer ce pont ?",
+            "cancelEdit": "Voulez-vous ignorer votre modification ?",
+            "moreSettings": "Plus de paramètres",
+            "passwordProtect": {
+            "label": "Protéger la réunion avec un mot de passe"
+            },
+            "password": {
+            "label": "Mot de passe",
+            "placeholder": "Saisir le mot de passe",
+            "required": "Mot de passe requis"
+            },
+            "meetingStart": {
+            "label": "Démarrer la réunion",
+            "options": {
+        "anyoneJoins": "Lorsque quelqu'un la rejoint"
+                }
+            },
+            "participantSettings": {
+                "label": "Participants",
+                "announceArrival": {
+        "label": "Annoncer l'arrivée et le départ des participants",
+        "options": {
+        "playAudioTone": "Émettre simplement un son",
+        "promptToRecord": "Inviter les participants à enregistrer leurs noms et à annoncer leur arrivée ou leur départ"
+                    }
+                },
+                "muteOnEntry": {
+        "label": "Ne pas indiquer l'arrivée des participants"
+                },
+                "showAllNames": {
+        "label": "Rendre public le nom de chaque participant"
+                },
+                "whenDialingOut": {
+        "label": "Lorsqu'ils composent le numéro d'un participant",
+                    "options": {
+                "mustPressOne": "Doivent appuyer sur 1 pour rejoindre la partie audio de la réunion",
+	        "automaticallyAdded": "Les participants sont automatiquement ajoutés à la partie audio de la réunion"
+                    }
+                }
+            },
+            "saveFailed": "Impossible d'enregistrer une conférence sans réservation.",
+            "deleteFailed": "Impossible de supprimer une conférence sans réservation."
+        },
+        "datepicker": {
+            "closeText" : "Fermer",
+            "prevText" : "Préc",
+            "nextText" : "Suiv",
+            "currentText" : "aujourd’hui",
+            "monthNames" : "janvier, février , mars, avril, mai, juin , jullet, août , septembre, octobre, novembre, décembre",
+            "monthNamesShort" : "jan, fév , mar, avr, mai, jun , jul, aoû, sep, oct, nov, déc",
+            "dayNames" : "dimanche, lundi, mardi, mercredi, jeudi, vendredi, samedi",
+            "dayNamesShort" : "dim,lun,mar,mer,jeu,ven,sam",
+            "dayNamesMin" : "di,lu,ma,me,je,ve,sa",
+            "weekHeader" : "se",
+            "dateFormat" : "dd/mm/yy",
+            "firstDay": "1"
+        },
+        "dateTimeFormats" : {
+            "dateFormat" : "DD/MM/YYYY",
+            "timeFormat" : "HH:mm",
+            "hourFormat" : "HH",
+            "minuteformat" : "mm",
+            "clockFormat" : "HH:mm",
+            "longDateFormat" : "dddd D MMMM YYYY",
+            "timeFormatWithAmPm" : "HH:mm",
+            "timeFormatWithOutAmPm": "HH:mm",
+            "duration": {
+                "hour": " h",
+                "minute": " min",
+                "full": "__hours__ h __minutes__ min",
+                "allDay": "__startDate__ - __endDate__"
+            },
+            "shortDateFormat": "ddd, MMMM D"
+        },
+        "enterEmail" : "Adresse électronique",
+        "filter": {
+            "filter": "Filtre",
+            "all": "Tous",
+            "recorded": "Enregistrés uniquement"
+        },
+        "tooltip": {
+            "filter": "Filtre",
+            "calendar": "Calendrier",
+            "newEvent": "Nouvel événement"
+        },
+            "allDay": "TOUTE LA JOURNÉE",
+        "freeSlot": {
+            "duration": {
+            "hour": "Disponible __hours__ h",
+            "minute": "Disponible __minutes__ min",
+            "full": "Disponible __hours__ h __minutes__ min"
+            },
+            "newEvent": "Nouveau"
+        },
+            "addEmailError": "Veuillez ajouter des informations d'e-mail à ce contact"
+    },
+
+    "app":{
+        "appName" : "Manhattan",
+        "appMenuName" : "Connect",
+        "productName" : "Mitel Connect"
+    },
+
+    "conference": {
+        "loading": {
+            "initialize" : "Chargement de la conférence...",
+            "failed" : "Échec du chargement de la conférence",
+            "enterPasswordHere" : "Saisir le mot de passe",
+            "recording": {
+                "failed" : "Impossible de lire l'enregistrement.",
+                "close" : "Fermer",
+                "reload" : "Réessayer"
+            },
+            "close": "Annuler",
+            "reload": "Recharger",
+            "enterPassword" : "Saisir le mot de passe de la réunion",
+            "confNotStarted" : "La conférence démarre lorsque l’organisateur arrive"
+        },
+        "dialogs": {
+            "leave": {
+            "header": "Quitter la conférence",
+                "participant" : "Voulez-vous vraiment quitter la conférence ?",
+                "participantHangup" : "Voulez-vous vraiment quitter la conférence et vous déconnecter ?",
+                "organizer" : "Voulez-vous vraiment quitter la conférence, ou terminer la conférence pour tous les participants ?",
+                "organizerHangup" : "Voulez-vous vraiment quitter la conférence et vous déconnecter, ou terminer la conférence pour tous les participants ?"
+            },
+            "hasEnded": "La conférence est terminée. Au revoir !",
+            "kickedOut": "L’organisateur vous a supprimé de la réunion.",
+            "reconnecting" : "Tentative de reconnexion...",
+            "buttons": {
+                "endConference" : "Quitter et terminer",
+                "leaveConference" : "Quitter",
+                "cancel" : "Annuler"
+            }
+        },
+        "confirm": {
+            "kickOut": "Voulez-vous supprimer __name__ ?"
+        },
+        "notify": {
+            "notificationHeader": "Notification",
+            "webOnlyRedcordingHeading": "Enregistrement Web uniquement",
+            "removeAttendee": "Supprimer le participant",
+            "webOnlyRecording": "Ceci est un enregistrement Web uniquement. Aucun port audio UCB n'est actuellement lié à cette conférence"
+        },
+        "errors": {
+            "noCapacity" : "La licence de la conférence système a expiré. Réessayez ultérieurement.",
+            "noAudioCapacity" : "La licence de la conférence audio système a été dépassée. Réessayez ultérieurement."
+        },
+        "roster": {
+            "noParticipants" : "Aucun participant",
+            "noParticipantsEvent": "Personne d'autre ne participe à cet événement.",
+            "showList": "Afficher la liste",
+            "hideList": "Masquer la liste"
+        },
+        "menu": {
+            "mute" : "Désactiver le son pour __name__",
+            "unmute" : "Réactiver le son pour __name__",
+            "kickout" : "Supprimer __name__"
+        }
+    },
+
+    "conferenceTransfer": {
+        "pressEnterConf": "Appuyez sur la touche Entrée pour accéder à la conférence.",
+            "typeNameOrExt": "Saisir le nom ou le poste",
+        "typeNameOrExtAndEnter": "Saisissez le nom ou le poste, puis appuyez sur la touche Entrée.",
+        "typeNameOrIM": "Saisissez le nom ou l’adresse MI, puis appuyez sur la touche Entrée.",
+        "selectTransferMode" : "Sélectionner le mode de renvoi",
+        "selectConferenceMode" : "Sélectionner le mode de conférence",
+        "park" : "Parquer",
+        "consult" : "Consulter",
+        "intercom" : "Interphone",
+        "whisper" : "Confidentiel",
+        "transfer" : "Transférer",
+        "conference" : "Conférence",
+            "merge": "Fusionner",
+        "addToConversation" : "Ajouter le contact à la conversation",
+        "createNewConversation": "Créer une nouvelle conversation",
+        "addContactToConference" : "Ajouter le contact à la conférence",
+        "addToConferenceBlind" : "Conférence",
+        "addToConferenceConsult" : "Consulter",
+        "addToConferenceIntercom" : "Interphone",
+            "selectRecentTransfer": "En choisir un parmi vos contacts récents",
+            "selectFromConversation": "En choisir un parmi vos contacts récents",
+        "switchLimit" : "La limite de 8 conférences ponctuelles a été atteinte",
+        "joinConferenceOne" : "Ajouter __joiner__ à votre appel avec __member__",
+        "joinConferenceMany" : "Fusionner __joiner__ dans votre appel de groupe",
+        "dropFromConference" : "Supprimer de l’appel de conférence",
+        "voicemail" : "Messagerie vocale",
+            "addParticipants": "Ajouter des participants",
+            "addParticipant": "Ajouter un participant",
+            "searchContactText": "Rechercher des contacts pour démarrer une conversation :",
+            "startConversation": "Démarrer"
+    },
+
+    "supportNDebug": {
+        "error": {
+            "failOpenDialogConnectionError" : "Erreur de serveur ou de connexion. Code d'erreur : __code__. Fermez la boîte de dialogue et réessayez."
+        },
+        "tabTitles": {
+            "logLevel" : "Niveau du journal",
+            "serverStatus" : "État du serveur",
+            "casSubscriptionStatus" : "État de l’abonnement CAS",
+            "personalContactData" : "Données de contact personnelles",
+            "softphoneStatus" : "État du SoftPhone",
+            "logs" : "Journaux",
+            "AudioDevice": "Périphérique audio"
+        },
+        "AudioDeviceInfo": {
+            "deviceMaker": "Créateur de périphériques",
+            "uid": "UID",
+            "internalName": "Nom interne",
+            "manufacturerName": "Nom du fabricant",
+            "productID": "ID du produit",
+            "productName": "Nom du produit",
+            "serialNumber": "Numéro de série",
+            "vendorID": "Numéro de série",
+            "versionNumber": "Numéro de version",
+            "usbFwVersion": "Version FW USB",
+            "baseFwVersion": "Version FW base",
+            "bluetoothFwVersion": "Version FW Bluetooth",
+            "remoteFwVersion": "Version FW distante",
+            "baseSerialNumber": "Numéro de série de la base",
+            "headsetSerialNumber": "Numéro de série du casque"
+        },
+        "logLevel":{
+            "loggingOptions" : "Options de journalisation",
+            "logs" : "Journaux",
+            "errors" : "Erreurs",
+            "warnings" : "Avertissements",
+            "warningsNote" : "(Uniquement pour les développeurs)",
+            "informations" : "Informations",
+            "debug" : "Déboguer",
+            "logNumberOfFiles" : "Nombre de fichiers journaux",
+            "logSizePerFile" : "Limite de taille de chaque fichier journal (en mégaoctets)"
+        },
+        "serverStatus" :{
+            "connectionsStatus" : "État de la connexion",
+            "connectionProtocol" : "Protocole de connexion",
+            "casSessionId" : "ID de session CAS",
+            "loginServer" : "Se connecter au serveur",
+            "homeCasServer" : "Serveur central/CAS",
+            "imServer" : "Serveur MI",
+            "confBridge" : "Conférence multipoints",
+            "clientIP" : "IP du client",
+            "userDn" : "Nom de domaine de l’utilisateur",
+            "userName" : "Nom d’utilisateur",
+            "clientVersion" : "Version du client",
+            "serverVersion" : "Version du serveur",
+            "loginType" : "Accès à la page de connexion",
+            "clientState" : "État du client",
+            "eventLoopStatus" : "État de la boucle d’événement",
+            "eventSinkCount" : "Nombre de récepteurs d’événements",
+            "highLevelFeatures" : "Fonctions de niveau supérieur",
+            "deviceInfo" : "Informations sur le périphérique",
+            "ccoid" : "CCOID",
+            "canPlaceCall" : "Peut passer un appel",
+            "videoSiteId" : "ID du site vidéo",
+            "phoneType" : "Type de téléphone",
+            "deviceActions" : "Actions du périphérique",
+            "assignment" : "Affectation",
+            "extension" : "Poste",
+            "pingResult" : "Résultat du test Ping",
+            "totalTimeForPing" : "Durée totale du test Ping (ms)",
+            "refreshPing" : "Actualiser le test Ping",
+            "connected" : "Connecté",
+            "notConnected" : "Non connecté",
+            "online" : "En ligne",
+            "offline" : ":Hors connexion",
+            "sso" : "SSO",
+            "nonSso" : "Non SSO"
+
+        },
+        "casContactData" : {
+            "casContactStatistics" : "Statistiques de contact CAS",
+            "uploadEnabled" : "Chargement activé",
+            "uploadLimit" : "Limite de chargement",
+            "uploadSources" : "Charger les sources (et le nombre de contacts)",
+            "lastCMWinUploadStatus" : "Dernier chargement de fichiers XML/CSV du client Connect",
+            "refresh" : "Actualiser",
+            "outlookAddInStatus" : "État du complément Outlook",
+            "contactSynchronizer" : "Synchronisateur de contacts",
+            "voicemailSynchronizer" : "Synchronisateur de messages vocaux",
+            "scheduleSynchronizer" : "Synchronisateur de calendriers ou de disponibilité",
+            "enabled" : "Activé",
+            "disabled" : "Désactivé",
+            "and" : "et"
+        },
+        "softphoneStatus" : {
+            "softphoneNotConfiguredOrEnabled" : "Vous n’êtes pas autorisé à utiliser SoftPhone ou votre affectation est configurée pour votre téléphone principal.",
+            "wssLocation" : "Emplacement WSS",
+            "endPointID"   : "ID du point de terminaison",
+            "controllingSwitch" : "Commutateur de contrôle",
+            "audioInputDevice" : "Périphérique d’entrée audio",
+            "videoInputDevice" : "Périphérique d’entrée vidéo",
+            "default" : "Par défaut",
+            "microphone" : "Microphone"
+        },
+        "logs" : {
+            "openLogFolder" : "Ouvrir le dossier"
+        },
+        "subscriptions": {
+            "subscriptions" : "Nombre d’abonnements : __length__"
+        }
+    },
+
+    "common": {
+        "notifications": {
+            "screenShareRequest": " souhaitent partager leur écran",
+            "im" : "MI",
+            "imTextPlaceholder": "Personnalisez votre réponse et appuyez sur Entrée pour l'envoyer",
+            "imMultiple" : "MI de __length__ contacts",
+            "newVoiceMail" : "Nouveau message vocal",
+            "newVoiceMails" : "Nouveaux messages vocaux",
+            "incomingCall": "Appel entrant...",
+            "incomingURL": "Partage d'écran entrant",
+            "PCA" : "est devenu disponible le",
+            "joinChatOnly" : "Participer en mode chat uniquement",
+            "joinScreenShare" : "Afficher l’écran de partage",
+            "joinEventInChatMode" : "Rejoindre l’événement en mode chat",
+            "dialIn" : "Rejoindre",
+            "toVM" : "Vers la messagerie vocale",
+            "transfer" : "Transférer",
+            "workgroup" : "Groupe de travail",
+            "send" : "Envoyer",
+            "callAddedToQueue" : "Appel ajouté à la file d’attente",
+            "answer" : "Répondre",
+            "cannedResponse": "Réponse préenregistrée",
+            "accept" : "Accepter",
+            "reject": "Rejeter",
+            "play" : "Lire",
+            "openMessage" : "Ouvrir le message",
+            "view" : "Afficher",
+            "close" : "Fermer",
+            "ignore":"Ignorer",
+            "hide":"Masquer",
+            "IMOnline" : "MI disponible",
+            "IMOffline" : "MI hors ligne",
+            "joinVideoConference":"Rejoindre la vidéoconférence",
+            "newMessage" : "Nouveau message",
+            "newMessages" : "Nouveaux messages",
+            "respondWith": "Répondre avec :",
+            "timeFormats": {
+                "timeStamp" : "HH:mm"
+            },
+            "CallerIdUnknown": "Inconnu",
+            "PCAAvailable": "Became available",
+            "PCANow": "Now",
+            "PCAAgo": "m ago"
+        },
+        "imOptions": {
+            "LaterCall" : "Je vous rappelle plus tard",
+            "InMeeting" : "En réunion, mais peux communiquer par MI"
+            },
+        "true" : "Vrai",
+        "false" : "Faux",
+        "invalidValueWithColon" : "Valeur non valide :",
+        "functionalityNotYetImplemented" : "Fonctionnalité non implémentée",
+        "contactinfo": {
+            "consulting" : "Consultation...",
+            "imoffline" : "Hors connexion",
+            "imonline" : "En ligne"
+        },
+        "error" : {
+            "unknownError" : "Erreur inconnue",
+            "shareUrlSentError" : "URL du partage d’écran"
+        },
+        "noSelection" : "- Aucune valeur -",
+        "conferenceInfo": {
+            "additionalInfo": "Informations d'appel supplémentaires :",
+            "dialInInfo": "Informations de numérotation locale :",
+            "extension" : "Poste :",
+            "participantCode": "Code de participant :",
+            "link": "Lien :",
+            "copy": "Copier",
+            "copiedSuccess": "Copié dans le Presse-papiers",
+            "upcomingMeeting": "Réunion à venir",
+            "lockMsg": "La conférence est verrouillée",
+            "meetingInfo": "Informations sur la réunion"
+        }
+    },
+
+    "predefinedIMMessages" : {
+        "invitedToGroupChat" : "Vous êtes invité à un chat de groupe.",
+        "messageSendError" : "Votre message de chat n'a pas été envoyé.",
+        "offlineMessage" : "- Message hors connexion. Envoyé le"
+    },
+
+    "connectionSecurity" : {
+        "secureHttpsConnection": "Votre connexion est sécurisée et le client Mitel envoie des données chiffrées.",
+        "insecureHttpsConnection": "Votre client Mitel envoie des données chiffrées, mais la connexion n'est pas sécurisée.",
+        "insecureHttpConnection": "Votre connexion n'est pas sécurisée et le client Mitel envoie des données non chiffrées.",
+        "insecureConnection" : "Votre connexion au serveur n’est pas sécurisée.",
+        "secureConnection" : "Votre connexion au serveur est sécurisée.",
+        "listInsecureServersPrompt" : "Vos connexions aux serveurs suivants ne sont pas sécurisées :",
+        "secureServersPrompt" : "Votre client établit des connexions sécurisées à ses serveurs.",
+        "serverListFormat" : "Serveur de __server__"
+    },
+
+    "certificateErrors" : {
+        "continue" : "Voulez-vous quand même continuer ?",
+        "cancel" : "Annuler",
+        "serverTypes" : {
+            "ABC" : "authentification",
+            "CAS" : "client",
+            "UCB" : "conférence",
+            "WSS" : "softPhone",
+            "EXCHANGE": "Exchange",
+            "WSSUIM": "Serveur MI",
+            "unknown" : "inconnu"
+        },
+        "certErrorText" : {
+            "invalidCert" : "Votre serveur __server__ possède un certificat de sécurité non valide.",
+            "expired" :  "Le certificat de sécurité a expiré."
+        },
+        "certErrorWarnings" : {
+            "proceed" : "Si vous continuez, des informations sensibles non chiffrées peuvent être envoyées.",
+            "cancelUCB": "Si vous annulez, vous ne serez peut-être pas en mesure de rejoindre certaines de vos conférences ou d'en créer de nouvelles.",
+            "cancelWSS": "Si vous annulez, vous ne pourrez pas utiliser votre softphone."
+        },
+        "unknownURL" : "URL du certificat de sécurité inconnue."
+    },
+
+    "notifyErrors":{
+        "audioDevice": {
+            "cannotIntegrate": "L'intégration avec le périphérique audio est impossible."
+        },
+        "UCB": {
+            "noCapacity": "Impossible de joindre le pont, car la capacité a été dépassée.",
+            "notAbleToReachYouAt": "Impossible de vous joindre au __callMeNumber__",
+            "unableToLocateAndDial": "Impossible de localiser __fullName__ et de le faire participer à votre événement.",
+            "locked": "Cette conférence a été verrouillée. Veuillez contacter votre organisateur de conférence.",
+            "genericError" : "Une erreur est survenue : __error__",
+            "noAudioCapacity" : "La limite de la licence de la conférence audio système a été dépassée",
+            "genericAdhocError" : "Impossible de partager l'écran. Réessayez.",
+            "downloadRecError":"Impossible de télécharger l'enregistrement. Réessayez.",
+            "deleteRecError": "Impossible de supprimer l'enregistrement. Réessayez."
+        },
+        "conference": {
+            "adhocConferenceLimit" : "La limite de conférences ponctuelles a été atteinte"
+        },
+        "warnings": {
+            "noPhoneSelected": "Avertissement : aucun téléphone sélectionné. Sélectionnez le téléphone principal qui vous a été affecté avant d'accéder à la réunion."
+        },
+        "IM":{
+            "NotAvailable" : "Impossible de se connecter au serveur MI."
+        },
+        "exchange" : {
+            "credentialsChanged" : "La connexion Exchange est active et les informations d’identification ont changé ; le redémarrage du client Connect est requis.",
+            "generalError" : "Impossible de contacter le serveur Exchange __exchgHost__."
+        },
+        "network" : {
+            "noConnection" : "Pas de connexion à Internet. Vérifiez vos paramètres Internet et réessayez.",
+            "gotConnection" : "Connexion Internet rétablie. Tentative de connexion au serveur...",
+            "noConnectionModal" : "Reconnexion en cours...",
+			"noInternetConnection": "Il n’y a pas de connexion Internet."
+        },
+        "VM" : {
+            "selfvmdown" : "Votre messagerie vocale n'est pas disponible.",
+            "wgvmdown" : "La messagerie vocale de votre groupe de travail n'est pas disponible.",
+
+            "C110071D" : "Trop de connexions à la messagerie vocale",
+            "C110071E" : "Le serveur de messagerie vocale n'est pas disponible",
+            "C110071F" : "Impossible de se connecter au serveur de messagerie vocale",
+            "C1100720" : "La boîte vocale n'est pas valide",
+            "C1100721" : "Impossible d'accéder à la boîte vocale",
+            "C1100722" : "Échec du numéro composé",
+            "C1100723" : "Téléphone numéroté annulé",
+            "C1100724" : "Aucune réponse du numéro composé. Délai dépassé",
+            "C1100725" : "Le numéro composé est occupé",
+            "C1100726" : "Gestion du message incorrecte",
+            "C1100727" : "Impossible de se connecter à la messagerie vocale",
+            "C1100728" : "La messagerie vocale est occupée",
+            "C1100729" : "Échec de l’initialisation du message",
+            "C110072C" : "La position du fichier est introuvable",
+            "C110072D" : "Erreur lors de la lecture du fichier du message vocal",
+            "C110072E" : "Échec de l’obtention du nom du fichier de message d’accueil",
+            "C1100731" : "Messagerie vocale en cours d’utilisation",
+            "C1100732" : "Échec de la connexion",
+            "C1100733" : "Échec du déplacement du message vers un autre dossier",
+            "C1100734" : "Échec du vidage des messages",
+            "C1100735" : "Échec du vidage de la messagerie vocale",
+            "C1100737" : "Échec de l’envoi du message",
+            "C1100738" : "Échec de l’envoi, adresses non valides pour le ou les destinataires : __param__",
+            "C1100740" : "La messagerie vocale n’est pas initialisée",
+            "C1100741" : "Le message est introuvable",
+            "C1100757" : "La messagerie vocale n’est pas valide",
+            "C1100758" : "La connexion au serveur de messagerie vocale n’est pas établie",
+            "C1100759" : "Le serveur a changé pour l’utilisateur",
+            "C1100990" : "Impossible de renvoyer le message privé",
+            "C1100991" : "Une nouvelle adresse n’est pas valide pour le message privé",
+            "C1100992" : "Impossible d’envoyer le message privé",
+            "C1100993" : "Impossible de télécharger un message privé",
+            "C1200DC3" : "Votre poste n'est pas disponible.",
+
+            "F0000001" : "La messagerie vocale requise est actuellement hors connexion",
+            "F0000002" : "Le message n’a pas été renvoyé, car il est marqué comme privé",
+            "F0000003" : "L’ID du message original est manquant pour un renvoi ou une réponse",
+            "F0000004" : "Échec de la lecture, ID de message manquant",
+            "F0000005" : "L’affectation externe n’est pas autorisée",
+            "F0000006" : "Échec de l’envoi, la boîte de message est pleine pour le ou les destinataires : __param__",
+            "F0000007" : "Échec de la tâche, pas d’informations d’utilisateur dans le serveur de messagerie CAS",
+            "F0000008" : "Échec de la tâche, pas de connexion ou de configuration au serveur de messagerie vocale",
+            "F0000009" : "Échec de la tâche, pas d’informations de boîte aux lettres dans le serveur de messagerie CAS",
+            "F000000A" : "Le fichier est manquant",
+            "F000000B" : "Problème lors du chargement du fichier",
+            "F000000C" : "Le paramètre est manquant de la demande",
+            "F000000D" : "ID de session non valide",
+            "F000000E" : "Problèmes lors de la copie du fichier à télécharger",
+            "F000000F" : "Impossible de créer un ID de session sur le serveur distant",
+            "F0000010" : "Échec de l’envoi, boîtes aux lettres non valides pour le ou les destinataires : __param__",
+            "F0000020" : "Informations manquantes pour enregistrer le fichier",
+            "F0000030" : "Erreur lors de l’enregistrement du fichier",
+            "F0000040" : "La messagerie vocale n’est pas accessible",
+            "F0000050" : "Le téléphone n’est pas joignable",
+            "F0000060" : "Cette opération n’est pas valide",
+            "F0000070" : "Le serveur de téléchargement n’est pas joignable. ",
+            "F0000080" : "Ce poste n’est pas valide",
+            "F0000090" : "Participant connecté non valide",
+            "GENERIC" : "Impossible d’effectuer cette opération, erreur de serveur inconnue",
+            "cantSendMsg" : "Impossible d’envoyer le message au serveur, code d’état : __status__.",
+            "cannotPlayPrivateVMViaComputer" : "Impossible d'utiliser les haut-parleurs de l'ordinateur pour diffuser les messages privés. Utilisez le téléphone principal.",
+            "cannotDownloadVMAsWav" : "Impossible de télécharger le message vocal au format .wav, erreur : __error__.",
+            "cantSendVMToExtContacts" : "Il est impossible d’envoyer les messages vocaux aux contacts externes. Ces contacts externes ont été supprimés de la liste de distribution : __contacts__.",
+            "noWebAudioSupportInMachine" : "Aucune prise en charge audio Web sur cet ordinateur. Réessayez.",
+            "noLiveAudioInput" : "Le périphérique audio n'est pas détecté. Vérifiez vos paramètres audio et réessayez.",
+            "cantTranscodeRecordedFileTryAgain" : "Impossible de sauvegarder le fichier enregistré. Réessayez.",
+            "cantSaveRecordedFile" : "Impossible de sauvegarder le fichier enregistré : __error__",
+            "cantSaveRecordedFileTryAgain" : "Impossible de sauvegarder le fichier enregistré. Réessayez ou effectuez l’enregistrement à l’aide du téléphone.",
+            "errorReadingRecordedFile" : "Erreur lors de la lecture du fichier enregistré. Veuillez réessayer",
+            "errorUploadingFile" : "Erreur lors du chargement du fichier : __error__",
+            "mailboxIsFull" : "La boîte vocale __mboxId__ est pleine",
+            "mailboxIsAlmostFull" : "La boîte vocale __mboxId__ est presque pleine",
+            "mailboxIsZeroSize" : "La boîte vocale __mboxId__ est vide"
+        },
+        "cas" : {
+            "down" : "Impossible de se connecter au serveur, veuillez patienter."
+        },
+        "presence" : {
+            "NotAvailable": "Votre état actuel est Non disponible !",
+            "f0000001": "Le message est inconnu à CAS.",
+            "f0000002": "CAS ne possède aucune information sur le contact pour l'utilisateur.",
+            "f0000003": "CAS ne connaît pas le contact avec l'ID de contact fourni pour l'utilisateur donné.",
+            "f0000004": "L'utilisateur possède déjà un groupe de contacts portant ce nom.",
+            "f0000005": "CAS ne connaît pas le contact avec l'ID de groupe de contacts fourni pour l'utilisateur donné.",
+            "f0000006": "Il n'existe aucun élément de répertoire pour l'ID donné.",
+            "f0000007": "Paramètre linked-id manquant dans la demande.",
+            "f0000008": "Le nom du contact n'est pas unique.",
+            "f0000009": "Paramètre add-to-ids manquant dans la demande.",
+            "f000000a": "Paramètre remove-from-ids manquant dans la demande.",
+            "f000000b": "Paramètre addresses manquant dans la demande.",
+            "f000000c": "Le cookie est inconnu à CAS.",
+            "f000000d": "Le jeton d'alerte est inconnu à CAS.",
+            "f000000e": "Le contact n'a pas délégué l'autorisation de configurer CHM.",
+            "f000000f": "Le paramètre 'ext-context' dans la demande n'est pas une extension utilisateur valide",
+            "f0000010": "La demande n'est pas prise en charge pour ce niveau d'accès.",
+            "f0000011": "Les contacts n'ont pas été préchargés avant cette demande.",
+            "f0000018": "Le groupe de contacts spécial",
+            "f0000019": "Type de présence non valide spécifié"
+        },
+        "chmSettings":{
+            "FwdAlways": "Le mode de renvoi des appels est configuré sur « Toujours » !"
+        },
+        "endpointSelector" : {
+            "ActiveCalls" : "Impossible de commuter les points de terminaison lorsque vous avez des appels actifs",
+            "ActiveCallsLogout" : "Vous ne pouvez pas vous déconnecter si vous avez des appels actifs sur le téléphone SoftPhone"
+        },
+        "softphone": {
+            "NoConfigSwitches" : "Pas de commutateur de configuration",
+            "WSSConnectionFailure" : "Impossible de se connecter au réseau WSS",
+            "RSIPFailure" : "Impossible d'affecter SoftPhone",
+            "Timeout" : "L'enregistrement Softphone a dépassé le délai d'attente",
+            "NoMedia" : "Impossible d’acquérir l’entrée de média",
+           "eTelAlreadyHome" : "Vous n’êtes pas affecté à votre téléphone principal.",
+           "eTelSoftPhoneNotAllowed" : "Vous ne disposez pas de privilèges SoftPhone. Contactez votre administrateur pour accéder à cette fonction.",
+           "eTelOperationTimedout" : "Dépassement du délai de l’opération.",
+           "c1200dc3" : "Votre poste n'est pas disponible."
+        },
+        "tel": {
+            "tapi_80000001" : "Le périphérique de ligne est déjà en cours d'utilisation",
+            "tapi_80000002" : "ID de périphérique de ligne non valide",
+            "tapi_80000003" : "Le mode de support demandé n'est pas disponible",
+            "tapi_80000005" : "Aucun Call Appearance disponible",
+            "tapi_80000006" : "Trop d'exécutions d'appel",
+            "tapi_80000007" : "La conférence est complète",
+            "tapi_80000008" : "Le modificateur de numérotation « $ » n'est pas pris en charge",
+            "tapi_80000009" : "Le modificateur de numérotation « W » n'est pas pris en charge",
+            "tapi_8000000a" : "Le modificateur de numérotation « ? » n'est pas pris en charge",
+            "tapi_8000000b" : "Le modificateur de numérotation « @ » n'est pas pris en charge",
+            "tapi_8000000c" : "Version de l'API incompatible",
+            "tapi_8000000d" : "Version d'extension incompatible",
+            "tapi_8000000e" : "Les informations de configuration TAPI sont inutilisables",
+            "tapi_8000000f" : "Le périphérique de ligne est déjà en cours d'utilisation",
+            "tapi_80000010" : "Le numéro de téléphone n'est pas valide ou son format est incorrect",
+            "tapi_80000011" : "ID d'adresse non valide",
+            "tapi_80000012" : "Mode d'adresse non valide",
+            "tapi_80000013" : "Cette opération n'est pas autorisée pour cet état d'adresse",
+            "tapi_80000014" : "Handle d'application de ligne TAPI non valide",
+            "tapi_80000015" : "Nom d'application non valide",
+            "tapi_80000016" : "Mode de support non valide",
+            "tapi_80000017" : "Mode de connexion d'appel non valide",
+            "tapi_80000018":"Cette action n'est pas disponible pour cet appel",
+            "tapi_80000019" : "Structure LINECALLPARAMS non valide",
+            "tapi_8000001a" : "Privilège d'appel non valide",
+            "tapi_8000001b" : "Paramètre de sélection d'appel non valide",
+            "tapi_8000001c" : "Opération interdite dans l'état d'appel actuel",
+            "tapi_8000001d" : "Liste d'états d'appel non valide",
+            "tapi_8000001e" : "Identifiant de carte d'appel non valide",
+            "tapi_8000001f" : "Identifiant de connexion d'appel non valide",
+            "tapi_80000020" : "Handle de téléconférence non valide",
+            "tapi_80000021" : "Handle de consultation téléphonique non valide",
+            "tapi_80000022" : "Code de pays non valide",
+            "tapi_80000023" : "Identificateur de classe de périphérique non valide",
+            "tapi_80000024" : "Handle de périphérique non valide",
+            "tapi_80000025" : "Paramètres de numérotation non valides",
+            "tapi_80000026" : "Liste de chiffres non valide",
+            "tapi_80000027" : "Mode de chiffres non valide",
+            "tapi_80000028" : "Chiffres non valides",
+            "tapi_80000029" : "Version d'extension non valide",
+            "tapi_8000002a" : "Identifiant de choix de groupe non valide",
+            "tapi_8000002b" : "Handle de ligne non valide",
+            "tapi_8000002c" : "Opération interdite dans l'état de ligne actuel",
+            "tapi_8000002d" : "Identifiant de site non valide",
+            "tapi_8000002e" : "Liste de médias non valide",
+            "tapi_8000002f" : "Mode de média non valide",
+            "tapi_80000030" : "ID de message non valide",
+            "tapi_80000032" : "Paramètre incorrect",
+            "tapi_80000033" : "Identificateur de parc non valide",
+            "tapi_80000034" : "Mode de parc non valide",
+            "tapi_80000035" : "Pointeur non valide",
+            "tapi_80000036" : "Sélection des privilèges d'appel non valide",
+            "tapi_80000037" : "Débit non valide",
+            "tapi_80000038" : "Mode de demande non valide",
+            "tapi_80000039" : "ID de terminal non valide",
+            "tapi_8000003a" : "Mode de terminal non valide",
+            "tapi_8000003b" : "Valeur du délai non valide",
+            "tapi_8000003c" : "Tonalité non valide",
+            "tapi_8000003d" : "Liste de tonalités non valide",
+            "tapi_8000003e" : "Mode de tonalité non valide",
+            "tapi_8000003f" : "Mode de transfert non valide",
+            "tapi_80000040" : "Aucun périphérique ne correspond aux spécifications indiquées",
+            "tapi_80000041" : "Cet appel ne fait pas partie d'une conférence",
+            "tapi_80000042" : "Le périphérique a été supprimé ou la classe du périphérique n'est pas reconnue",
+            "tapi_80000043" : "Le fournisseur de services a été supprimé",
+            "tapi_80000044" : "Mémoire disponible insuffisante pour terminer l'opération",
+            "tapi_80000045" : "Aucune demande de téléphonie assistée n'est en attente",
+            "tapi_80000046" : "L'application n'a pas les privilèges propriétaire sur l'appel",
+            "tapi_80000047" : "L'application n'est pas inscrite au registre pour la gestion de requêtes",
+            "tapi_80000048" : "L'opération a échoué pour des raisons non spécifiées",
+            "tapi_80000049" : "L'opération n'est pas prise en charge par le fournisseur de services sous-jacent",
+            "tapi_8000004a" : "Le débit de données demandé n'est pas disponible",
+            "tapi_8000004b" : "Une ressource nécessaire pour compléter la demande n'est pas disponible",
+            "tapi_8000004c" : "La file d'attente de requêtes est déjà pleine",
+            "tapi_8000004d" : "L'application n'a pas pu allouer suffisamment de mémoire pour la taille de structure minimale",
+            "tapi_8000004e" : "La remise de l'appel a échoué car la cible spécifiée n'a pas été trouvée",
+            "tapi_8000004f" : "Aucune cible avec une priorité plus haute n'existe pour la remise de l'appel",
+            "tapi_80000050" : "Le service de téléphonie n'a pas été initialisé",
+            "tapi_80000051" : "La quantité d'informations utilisateur-utilisateur a dépassé le maximum autorisé",
+            "tapi_80000052" : "L'opération ne peut pas être terminée avant que toutes les applications TAPI n'appellent lineShutdown",
+            "tapi_80000053" : "Vous n'êtes pas autorisé à appeler ce numéro",
+            "tapi_80000054" : "Le numéro de la carte d'appel ou d'autres informations de facturation ont été rejetés",
+            "tapi_80000055" : "Fonction propre au périphérique non valide",
+            "tapi_80000056" : "Vous ne pouvez pas disposer de deux instances du même fournisseur de services",
+            "tapi_80000057" : "ID d'agent non valide",
+            "tapi_80000058" : "Groupe d'agent non valide",
+            "tapi_80000059" : "Mot de passe d'agent non valide",
+            "tapi_8000005a" : "État d'agent non valide",
+            "tapi_8000005b" : "Activité d'agent non valide",
+            "tapi_8000005c" : "Le modificateur de numérotation « : » n'est pas pris en charge",
+            "tapi_8000005d" : "L'utilisateur a annulé l'opération demandée",
+            "tapi_8000005e" : "Type d'adresse non valide",
+            "tapi_8000005f" : "État de session d'agent non valide",
+            "tapi_80000060" : "Le périphérique de ligne a été déconnecté",
+            "tapi_90000001" : "Le périphérique téléphonique est en cours d'utilisation",
+            "tapi_90000002" : "Identifiant de périphérique téléphonique non valide",
+            "tapi_90000003" : "Version de l'API incompatible",
+            "tapi_90000004" : "Version d'extension incompatible",
+            "tapi_90000005" : "Les informations de configuration TAPI sont inutilisables",
+            "tapi_90000006" : "Le périphérique téléphonique est en cours d'utilisation",
+            "tapi_90000007" : "Handle d'application téléphonique TAPI non valide",
+            "tapi_90000008" : "Nom d'application non valide",
+            "tapi_90000009" : "Identifiant de lampe ou de bouton non valide",
+            "tapi_9000000a" : "Mode de bouton non valide",
+            "tapi_9000000b" : "État de bouton non valide",
+            "tapi_9000000c" : "ID de segment de données non valide",
+            "tapi_9000000d" : "Identificateur de classe de périphérique non valide",
+            "tapi_9000000e" : "Poste non valide vcancelMeetingNotificationersion",
+            "tapi_9000000f" : "Identifiant de périphérique de commutation non valide",
+            "tapi_90000010" : "Mode de commutation non valide",
+            "tapi_90000011" : "Mode de lampe non valide",
+            "tapi_90000012" : "Paramètre incorrect",
+            "tapi_90000013" : "Handle de téléphone non valide",
+            "tapi_90000014" : "Opération interdite dans l'état actuel du téléphone",
+            "tapi_90000015" : "Pointeur non valide",
+            "tapi_90000016" : "Privilège non valide",
+            "tapi_90000017" : "Mode d'appel non valide",
+            "tapi_90000018" : "Le périphérique a été supprimé ou la classe du périphérique n'est pas reconnue",
+            "tapi_90000019" : "Le fournisseur de services a été supprimé",
+            "tapi_9000001a" : "Mémoire disponible insuffisante pour terminer l'opération",
+            "tapi_9000001b" : "L'application n'a pas les privilèges propriétaire sur le téléphone",
+            "tapi_9000001c" : "L'opération a échoué pour des raisons non spécifiées",
+            "tapi_9000001d" : "L'opération n'est pas prise en charge par le fournisseur de services sous-jacent",
+            "tapi_9000001f" : "Une ressource nécessaire pour compléter la demande n'est pas disponible",
+            "tapi_90000020" : "La file d'attente de requêtes est déjà pleine",
+            "tapi_90000021" : "L'application n'a pas pu allouer suffisamment de mémoire pour la taille de structure minimale",
+            "tapi_90000022" : "Le service de téléphonie n'a pas été initialisé",
+            "tapi_90000023" : "L'opération ne peut pas être terminée avant que toutes les applications TAPI n'appellent phoneShutdown",
+            "tapi_90000024" : "Le périphérique téléphonique a été déconnecté",
+            "tapi_c0000001" : "État du téléphone non valide",
+            "tapi_c0000002" : "Cette opération n'est actuellement pas disponible",
+            "tapi_c0000003" : "État non valide de l'appel en attente",
+            "tapi_c0000004" : "Tableau de tuples non valide",
+            "tapi_c0000005" : "Tuple non valide",
+            "tapi_c0000006" : "Les postes du système de conférence ne sont pas autorisés",
+            "tapi_c0000007" : "Il est impossible de terminer cette opération, car le délai a expiré",
+            "tapi_c0000009" : "Il est impossible d'ajouter un nouveau participant, car le système de conférence a atteint sa capacité maximale.",
+            "tapi_d0000001" : "État du téléphone non valide",
+            "tapi_d0000002" : "Cette opération n'est actuellement pas disponible",
+            "tapi_d0000003" : "Le périphérique est actuellement hors connexion",
+            "tapi_d0000004" : "SMC ne parvient pas à effectuer l'action demandée, car il est en cours d'exécution en arrière-plan",
+            "tapi_d0000005" : "CED non enregistré",
+            "tapi_d0000006" : "Le périphérique n'utilise actuellement pas le mode VoIP",
+            "tapi_c12b1194" : "Une erreur de mémoire insuffisante s'est produite sur le commutateur",
+            "tapi_c12b1195" : "Le système a détecté une exception",
+            "tapi_c12b1196" : "Impossible de créer un nouveau thread",
+            "tapi_c12b1197" : "CCOID inconnu",
+            "tapi_c12b1198" : "Nom de domaine inconnu",
+            "tapi_c12b1199" : "ID de port inconnu",
+            "tapi_c12b119a" : "Fonction non implémentée",
+            "tapi_c12b119b" : "Le système a rencontré une erreur interne",
+            "tapi_c12b119c" : "Le système ne dispose plus de handles",
+            "tapi_c12b119d" : "Périphérique inconnu",
+            "tapi_c12b119e" : "L'ID de périphérique est hors de l'intervalle admis",
+            "tapi_c12b119f" : "Format non pris en charge",
+            "tapi_c12b11a0" : "Le périphérique n'est pas prêt",
+            "tapi_c12b11a1" : "Le système ne dispose plus d'ID d'instance",
+            "tapi_c12b11a2" : "Le handle du périphérique ou de l'appel est obsolète",
+            "tapi_c12b11a3" : "La base de données n'est pas prête",
+            "tapi_c12b11a4" : "Les fonctions du périphérique ne prennent pas en charge l'action requise",
+            "tapi_f0000001" : "Erreur de téléphonie générale",
+            "tapi_f0000002" : "Aucun périphérique n'est affecté au poste de l'utilisateur",
+            "tapi_f0000003" : "Il n'existe aucun appel avec cet ID d'appel sur le poste de l'utilisateur",
+            "tapi_f0000004" : "Impossible de définir une alerte de présence sur l'appel",
+            "tapi_f0000005" : "Le message est inconnu à CAS",
+            "tapi_f0000006" : "L’utilisateur est déjà affecté à son poste principal",
+            "tapi_f0000007" : "L’utilisateur est déjà connecté au port principal. ",
+            "tapi_f0000008" : "AnyPhone est désormais autorisé pour cet utilisateur",
+            "tapi_f0000009" : "Aucun numéro d’affectation externe n’est actuellement défini",
+            "tapi_f000000a" : "Aucune note d’appel autorisée",
+            "tapi_f000000b" : "L’utilisateur n’est pas autorisé à utiliser SoftPhone",
+            "tapi_f000000c" : "Dépassement du délai de création du port SoftPhone",
+            "tapi_f000000d" : "Type SoftPhone non valide",
+            "tapi_f000000e" : "Dépassement du délai de l’opération",
+            "tapi_f000000f" : "Il est impossible d’affecter le port à",
+            "tapi_f0000010" : "La conférence a été abandonnée",
+            "tapi_f0000011" : "Le transfert a été abandonné",
+            "tapi_f0000012" : "Le code de compte est incorrect",
+            "tapi_f0000013" : "Le niveau d’accès est insuffisant pour la demande",
+            "tapi_f0000014" : "Poste non valide",
+            "tapi_f0000015" : "Le niveau d’accès est insuffisant pour la demande",
+            "tapi_f0000016" : "L’utilisateur n’est pas autorisé à modifier son code d’accès de la ligne réseau",
+            "tapi_f0000017" : "Le code d'accès de la ligne réseau n'est pas valide"
+        },
+        "upgrade" : {
+            "upgradeError" : "Impossible de charger ou d’installer le ou les fichiers de mise à niveau. Contactez l'administrateur système."
+        },
+        "recording" : {
+        "recordingFailed" : "L'enregistrement n'a pas démarré, car le stockage de la conférence multipoints est plein."
+        },
+        "contactCard" : {
+            "callPickupUnparkUnsuccessful" : "La prise d'appel/récupération d'appel a échoué.",
+            "cannotPickupOwnCall": "Fonction de prise d'appel non disponible sur votre propre appel."
+        },
+        "reservationLessConference": {
+            "loadFailed": "Impossible de charger des conférences sans réservation."
+        }
+    },
+    "attendees" : "Participants",
+    "guest" : "Invité",
+    "organizer" : "Organisateur",
+    "presenter" : "Présentateur",
+    "participant" : "Participant",
+    "groupChat" : "Chat de groupe",
+    "nowSharing" : "Partage en cours",
+    "nowSpeaking" : "Prise de parole",
+    "unavailableUserName" : "Non disponible",
+    "introduce" : "Vous présenter en tant que",
+    "join": {
+            "callme": "Appelez-moi au (optionnel)",
+            "enterName": "Saisir un nom",
+            "enterNumber": "Saisir un numéro",
+            "join": "Rejoindre"
+    },
+    "status": {
+        "recording" : "Enregistrement en cours...",
+        "locked" : "Verrouillé"
+    },
+    "notification": {
+        "justJoined" : "vient de joindre.",
+        "raisedHand" : "a levé la main.",
+        "justLeft" : "vient de partir."
+    },
+    "ok" : "OK",
+    "cancel" : "Annuler",
+    "hangUp" : "Raccrocher",
+    "hangUpMsg" : "Voulez-vous vraiment mettre fin à l'appel ?",
+    "leaveConferenceMsg" : "Si vous fermez cette page, vous quitterez la réunion « __confName__ ».",
+
+    "im": {
+        "me" : "Moi",
+        "participants" : "participants",
+        "defaultExoUserName": "Utilisateur invité",
+        "timestamp": {
+            "am" : "am",
+            "pm" : "pm",
+            "formatTime" : "HH:mm",
+            "formatFullDate": "DD/MM/YYYY",
+            "formatShortDate": "DD/MM/YY",
+            "today" : "Aujourd’hui",
+            "yesterday" : "Hier"
+        },
+        "userTyping":{
+            "1-UserTyping": "{0} est en train d'écrire",
+            "2-UserTyping": "{0} et {1} sont en train d'écrire",
+            "3-UserTyping": "{0}, {1} et {2} sont en train d'écrire",
+            "4-UserTyping": "{0}, {1}, {2} et d'autres personnes sont en train d'écrire"
+        }
+    },
+    "noItemsMessage":{
+        "no-events-upcoming": "Aucun événement prévu.",
+        "no-events-past" : "Aucun événement.",
+        "no-people-favorites": "Il n'existe aucun favori.",
+        "no-people-favorites-suggestion": "Recherchez les contacts et marquez-les (d'une étoile) comme favoris.",
+        "no-people-groups": "Il n'existe aucun groupe.",
+        "no-people-groups-suggestion": "Créez de nouveaux groupes pour organiser vos contacts.",
+            "no-people-groups-members": "Certaines personnes s'accommodent bien.",
+            "no-people-groups-members-suggestion": "Ajoutez certains membres à ce groupe.",
+        "no-calls-missed": "Il n'existe aucun appel manqué.",
+        "no-calls-all": "Aucun historique d'appels.",
+        "no-voicemails-all": "Vous n'avez aucun message vocal.",
+        "no-voicemails-unheard": "Merci d'avoir consulté votre messagerie vocale, mais vous n'avez pas de nouveaux messages.",
+        "no-voicemails-flagged": "Aucun message enregistré.",
+        "no-voicemails-flagged-suggestion": "Enregistrez le message vocal pour le garder en mémoire.",
+            "no-voicemails-license": "Désolé, la messagerie vocale n'est pas activée.",
+        "no-message": "Il n'existe aucune conversation.",
+            "no-message-suggestion": "Pour commencer, recherchez un contact.",
+            "no-message-im-no-messages": "À vous de lancer cette conversation !",
+            "no-message-im-no-messages-suggestion": "Saisissez un message pour démarrer la conversation.",
+            "no-message-im-not-enabled": "Désolée, la messagerie n'est pas disponible.",
+            "no-message-im-not-enabled-suggestion": "On dirait bien que vous allez devoir passer un appel."
+    },
+
+    "dialogs": {
+        "divider": {
+            "or": "ou"
+        },
+        "invite": {
+            "title" : "Informations sur l’invitation à la réunion",
+            "extension" : "Poste",
+            "dialIn": "Accès entrant",
+            "code": "Code",
+            "lockMsg" : "La conférence est verrouillée. Demandez à l’organisateur de la déverrouiller avant de renvoyer l’invitation."
+        },
+        "callMe" : {
+            "callViaComputer": "Appeler via le son de l’ordinateur",
+            "callViaSoftPhone": "Appeler via SoftPhone",
+            "callViaExternalAssignment": "Appeler via l'affectation externe",
+            "callViaDeskPhone": "Appeler via le téléphone principal",
+            "callMe" : "M'appeler",
+            "callMePlaceHolder" : "  Saisir le numéro",
+            "dialInfo" : "Informations de numérotation : ",
+            "code" : "Code d'accès : ",
+            "moreInfo" : "Plus d'infos",
+            "lessInfo" : "Moins d’infos",
+            "copy" : "Copier",
+            "callDisconnected" : "Vous avez été déconnecté.",
+            "callFailed": "Impossible de vous appeler.",
+            "noOrganizerPrompt": "Disponible lors de l'accès d'un organisateur",
+            "callMeNotAllowed": "L'option M’appeler n'est pas disponible"
+        },
+        "sharing" : {
+            "shareFullScreen" : "Partager en mode plein écran",
+            "shareArea" : "Partage la zone",
+            "shareWindow" : "Partager la fenêtre",
+            "waitingForShareApproval" : "En attente de l’accord de l’organisateur pour partager l’écran",
+            "notAllowedToShare" : "L’organisateur n’autorise actuellement pas le partage",
+            "copyUrlToClipboard" : "Copier l'URL dans le Presse-papiers",
+            "toShareScreenWith" : "Pour partager l’écran avec ",
+            "adhocConference": "Conférence ad hoc",
+            "activelySharing": "Partage actif",
+            "activelySharingPopup": "Partage actif..."
+        },
+        "softPhone" : {
+            "checkMic": "Vérifier le microphone de l'ordinateur",
+            "sayHello": "Pour vérifier le microphone, dites « Bonjour ! »",
+            "dialIn": "Accès entrant",
+            "back" : "Retour",
+            "dialing" : "Numérotation en cours...",
+            "promptDownloadPlugin" : "Pour utiliser le son de votre ordinateur, vous devez télécharger un plug-in.",
+            "promptDownloadPluginUpgrade" : "Pour utiliser le son de votre ordinateur, vous devez mettre à jour le plug-in audio de Mitel.",
+            "downloadPlugin": "Télécharger",
+            "downloadPluginDescription": "Mitel télécharge le plug-in audio pour vous aider à composer via le système audio de votre ordinateur. Une fois terminé, installez et redémarrez votre navigateur.",
+            "error": {
+                "disconnected" : "Vous avez été déconnecté."
+            }
+        },
+        "presenter" : {
+            "downloadInProgress": "Une fois le téléchargement terminé, recherchez l’application Mitel Presenter et lancez-la.",
+            "downloadInProgressForIE": "Une fois le téléchargement terminé, redémarrez votre navigateur, trouvez l'application Mitel Presenter et lancez-la.",
+            "downloadAlready" : "Vous avez déjà téléchargé le logiciel Presenter.",
+            "downloadComplete" : "Recherchez l’application Mitel Presenter et lancez-la.",
+            "downloadRequest" : "Pour partager votre écran, vous devez télécharger Mitel Presenter.",
+            "download": "Télécharger",
+            "downloadPresenter" : "Télécharger Mitel Presenter"
+        },
+        "layout" : {
+            "all" : "Tous",
+            "data" : "Données",
+            "video" : "Vidéo"
+        },
+        "features":{
+            "layout" : "Sélectionner la disposition"
+        }
+    },
+
+    "shared": {
+        "waitingFor" : "En attente de",
+        "yourCollaborators" : "vos collaborateurs ",
+        "toStartSharing" : "pour commencer le partage.",
+        "ended" : "ne partage plus.",
+        "msgs": {
+            "confLocked" : "Cette conférence a démarré et a été verrouillée par l’organisateur.",
+            "confNotStarted" : "La conférence démarre lorsque l’organisateur arrive.",
+            "sharingPaused" : "Le partage est interrompu."
+        }
+    },
+
+    "userphone": {
+
+        "title" : {
+            "label" : "Étiquette",
+            "number" : "Numéro",
+            "myPhones" : "Mes téléphones"
+        },
+
+        "buttons": {
+            "add": "Ajouter",
+            "remove": "Supprimer",
+            "update": "Mettre à jour"
+        },
+
+        "label": {
+            "press1ToConnect" : "Appuyez sur 1 pour vous connecter",
+            "automaticallyConnect" : "Connexion automatique",
+            "ringsToTry" : "sonneries à essayer",
+            "numberOfRingsToTry": "Nombre de sonneries à essayer",
+            "removeNumber" : "Supprimer",
+            "useSelectedNumber" : "Utiliser l'entrée sélectionnée",
+            "addNumber" : "Ajouter un numéro",
+            "editNumber": "Modifier le numéro",
+            "addNewNumber": "Ajouter un nouveau numéro",
+            "addLabel" : "Ajouter une étiquette",
+            "edit": "Modifier",
+            "changeAnywhere" : "La modification de ces numéros aura une incidence sur toutes les zones où ils sont utilisés",
+            "selectNumber" : "Sélectionner un numéro",
+            "tryForNumRings" : "Essayer __numOfRings__ sonneries",
+            "confirmText1" : "Le numéro que vous essayez de supprimer",
+            "confirmType" : "est utilisé comme l’un de vos numéros __type__.",
+            "confirmType2" : "est utilisé comme l’un de vos numéros __type__ et numéros affectés en externe.",
+            "confirmAssignedNum" : "est utilisé comme l’un de vos numéros affectés en externe.",
+            "confirmText3" : "Voulez-vous vraiment le supprimer ?",
+            "keepNumber" : "Conserver le numéro",
+            "typeSimulRing" : "Sonn. simult.",
+            "typeFindMe" : "Find Me",
+            "typeAssigned" : "Affecté en externe",
+            "dontRingAnyNumber" : "N’appeler aucun numéro",
+            "mobileConnectClient" : "Client mobile de Connect",
+            "remove": "Supprimer"
+        },
+
+        "error" : {
+            "incorrectSelection" : "Cette entrée téléphonique ne peut pas être sélectionnée",
+            "noExtensionNumber" : "Le format est incorrect. Saisissez le numéro de téléphone avec les codes de numérotation appropriés",
+            "noExternalNumber" : "Vous n'êtes pas autorisé à utiliser un numéro externe comme destination __type__.",
+            "localNumbers" : "Vous êtes autorisé à utiliser des numéros locaux uniquement.",
+            "localNationalNumbers" : "Vous êtes autorisé à utiliser des numéros locaux ou nationaux uniquement.",
+            "numberBeBetween" : "Vous pouvez utiliser uniquement des valeurs comprises entre 1 et 20.",
+            "incorrectNumberFormat" : "Format de numéro incorrect",
+            "cannotUsedForForwarding" : "Le numéro __number__ est identique à votre numéro de client mobile Connect. Vous devez le supprimer. Cliquez sur le message d'erreur pour continuer.",
+            "sameAsConnectMobileNumber": "Le numéro __number__ est identique à votre numéro de client mobile Connect. Saisissez un numéro différent.",
+            "generalErrorMobility" : "Remarque : le périphérique __number__ qui exécute l’application de votre client mobile Connect ne peut pas être utilisé pour le renvoi d’appels.",
+            "generalError" : "Impossible d'enregistrer ce ou ces numéros.",
+            "parseError" : "Corrigez le ou les numéros indiqués",
+            "badConnection": "Un problème de connexion est survenu. Réessayez plus tard.",
+            "cannotSaveThisNumber": "Impossible d'enregistrer ce numéro."
+        }
+    },
+
+    "CallFwdCheckBox": {
+        "displayText" : "Les appels entrants sont renvoyés à __dest__.",
+        "changeThis" : "Modifier ce paramètre",
+            "voicemail": "Messagerie vocale",
+        "OK" : "OK"
+    },
+
+    "dialPad" : {
+            "dialPadMessage": "Appuyez sur Entrée pour appeler",
+            "dialpad": "Clavier téléphonique"
+    },
+
+    "dialDefault" : {
+        "selectNumber" : "Sélectionnez le numéro à composer :",
+        "dontAskAgain" : "Ne plus me demander",
+        "AlwaysDialDefault" : "Toujours composer les numéros par défaut pour ces contacts"
+    },
+
+    "workgroups" : {
+        "agentStatusChanged" : "L’état d’agent a changé",
+        "updateStatus" : "Définir l'état comme",
+        "onThePhoneWith" : "En ligne avec",
+        "OnThePhone": "En ligne",
+        "recordingCall" : "Enregistrement de l’appel...",
+        "hideWorkgroupDetails" : "Masquer les détails du groupe de travail",
+        "showWorkgroupDetails" : "Afficher les détails du groupe de travail",
+        "callQueue" : "En file d'attente",
+        "callTime" : "Durée d'appel",
+
+        "dashboard" : {
+            "workgroups" : "Groupes de travail",
+            "wrapUp" : "Pause"
+        },
+
+        "enumPresence" : {
+            "presUnknown" : "Inconnu",
+            "presOnline" : "Disponible",
+            "presRingingCall" : "Appel entrant...",
+            "presWGRingingCall" : "Appel GT entrant...",
+            "presConnectedCall" : "En ligne",
+            "presWGConnectedCall" : "En cours d’appel GT",
+            "presWGParkedCall" : "Appel GT parqué",
+            "presParkedCall" : "Appel parqué",
+            "presHeldCall" : "En attente",
+            "presRecordingCall" : "Enregistrement de l’appel",
+            "presOnThePhone" : "En ligne"
+        },
+
+        "calls":{
+             "longestWait" : "Attente maximale",
+             "shortestWait" : "Attente minimale",
+             "dnis" : "DNIS",
+             "longestWaittime" : "Temps d’attente maximal :",
+             "voicemails" : "Messages vocaux",
+             "calls" : "Appels",
+             "setAllAgents" : "Définir tous les agents",
+             "status" : "état",
+             "callTime" : "Durée d’appel",
+             "longestCall" : "Appel le plus long :"
+        },
+
+        "status" : {
+            "login" : "Connexion",
+            "logout" : "Déconnexion",
+            "return" : "Interrompre le post-traitement",
+            "wrapUp" : "Post-traitement",
+            "loggedIn" : "Connecté",
+            "loggedOut" : "Déconnecté",
+            "stepAway" : "Post-traitement"
+        },
+
+        "chmStatus": {
+            "onHour": "Heures de bureau",
+            "offHour": "En dehors des heures de bureau",
+            "holiday": "Congé",
+            "custom": "Personnalisé"
+        },
+
+        "supervisorOptions" : {
+            "dialMailbox" : "Appeler la boîte vocale",
+            "unpark" : "Récupérer",
+            "bargeIn" : "Intervenir",
+            "silentCoach" : "Coach discret",
+            "silentMonitor" : "Écoute discrète",
+            "whisper" : "Confidentiel",
+            "selectCallOptions" : "Sélectionner une option d’appel",
+            "startRecording" : "Démarrer l’enregistrement",
+            "stopRecording" : "Arrêter l’enregistrement"
+        },
+
+        "settings" : {
+            "settings" : "Paramètres",
+            "secs" : "s",
+            "whenQueuedTime" : "Lorsque la durée en file d’attente",
+            "whenCallsInQueue" : "Lorsque les appels sont mis en file d’attente",
+            "workgroupAlert" : "Alertes du groupe de travail",
+            "diplayAlertFor" : "Afficher l’alerte pour ",
+            "newCalls" : "Nouveaux appels",
+            "allCallAlert" : "Toutes les alertes d’appel",
+            "alertSound" : "Son d'alerte"
+        },
+
+        "sortMenuItems" : {
+            "agentState" : "État d'agent",
+            "firstName" : "Prénom",
+            "lastName" : "Nom",
+            "wrapUp" : "Post-traitement"
+        },
+
+        "routingSlip":{
+            "close" : "Fermer"
+        },
+
+        "callNotes" : {
+            "routeSlipReason": {
+                "-5" : "ArrêtEnregistrement",
+                "-4" : "DébutEnregistrement",
+                "-3" : "Déconnecter",
+                "-2" : "Terminer",
+                "-1" : "DirectToAcc",
+                "0" : "Nul",
+                "1" : "Direct",
+                "2" : "RenvoiOccupé",
+                "3" : "RenvoiPasDeRéponse",
+                "4" : "Tout renvoyer",
+                "5" : "Prendre",
+                "6" : "Récupérer",
+                "7" : "Réacheminer",
+                "8" : "Fin",
+                "9" : "Transférer",
+                "10" : "Rappel",
+                "11" : "Inconnu",
+                "12" : "Non disponible",
+                "13" : "S’infiltrer",
+                "14" : "Parqué",
+                "15" : "EnAttenteDeRappel",
+                "16" : "DemandeAcheminement",
+                "17" : "Appelé",
+                "18" : "Renvoyer",
+                "19" : "Origine",
+                "20" : "Conférence",
+                "21" : "Parquer",
+                "22" : "Écoute discrète",
+                "23" : "Intervention",
+                "24" : "Enregistrer",
+                "25" : "ConférenceMakeMe",
+                "26" : "AppeléEnModeCondidentiel",
+                "27" : "AppeléParInterphone",
+                "28" : "AppeléEnCoachDiscret",
+                "29" : "CréerConférenceMeetMe",
+                "30" : "JoindreConférenceMeetMe",
+                "31" : "CréerConférenceMeetMeOrigine",
+                "32" : "CréerConférenceMeetMeAppelée",
+                "33" : "FaireSonnerTousAppelés",
+                "34" : "FaireSonnerTousRépondus"
+            },
+            "savePrompt" : "Appuyez sur la touche Entrée pour enregistrer ou sur la touche Échap pour annuler.",
+            "addNote" : "Ajouter une note",
+            "closeNote" : "Fermer",
+            "callNotePlaceholder":  "Note d'appel"
+        },
+        "tabs" : {
+            "queues" : "Files d’attente",
+            "agents" : "Agents",
+            "voicemails" : "Messages vocaux",
+            "voicemailsTab": {
+                "defaultLabel": "Tous"
+            }
+        },
+        "queueInfo": {
+            "queuedCalls" : "Appels en file d’attente",
+            "longestQueued" : "En file d’attente le plus longtemps",
+            "longestCall" : "Appel le plus long"
+        },
+
+        "telephonyOptions" : {
+            "chat" : "Conversation",
+            "dialMailbox" : "Appeler la messagerie vocale",
+            "sendVoicemail" : "Envoyer un message vocal",
+            "intercom" : "Interphone",
+            "whisperPage" : "Annonce confidentielle",
+            "alertWhenAvailable" : "M’avertir en cas de disponibilité",
+            "recordCall" : "Enregistrer l’appel",
+            "stopRecordCall" : "Arrêter l’enregistrement"
+        },
+
+        "callSpecialOptions" : {
+            "silentMonitor" : "Écoute discrète",
+            "silentCoach" : "Coach discret",
+            "bargeIn" : "Intervenir"
+        },
+
+        "timeFormats": {
+            "dateAndTimeFull" : "DD/MM/YYYY HH:mm"
+        }
+    },
+
+    "appMenuItems" : {
+         "quitapp" : "Quitter Connect",
+         "apppreferences" : "Préférences...",
+         "appupgrade" : "Rechercher des mises à jour...",
+         "appsettings" : "Paramètres...",
+         "aboutapp" : "À propos de Mitel Connect",
+         "build" : "Version",
+         "copyright" : "Droit d'auteur &copy; 2019 Mitel, Inc.",
+           "showToolbar" : "Afficher la barre d’outils",
+           "editToolbar" : "Modifier la barre d'outils",
+         "help" : "Aide",
+         "contactSupport": "Contactez l'assistance Mitel",
+         "connectUserGuide" : "Guide de l’utilisateur",
+         "trainingVideos" : "Vidéos de formation",
+         "exitapp" : "Quitter",
+         "alwaysOnTop": "Toujours au-dessus",
+         "sendClientLogs": "Envoyer les journaux",
+         "productName": "Mitel Connect",
+         "aboutTitle": "À propos de",
+         "privacyPolicy": "Politique de confidentialité"
+    },
+
+    "contextMenuItems" : {
+        "copy" : "Copier",
+        "cut" : "Couper",
+        "paste" : "Coller",
+        "selectAll" : "Tout sélectionner"
+    },
+
+    "search": {
+        "loading": "Chargement...",
+        "directMatches": "Correspondances directes",
+        "exchangePublicMatches": "Correspondances publiques Exchange",
+        "nameOrNumber" : "Nom ou numéro",
+        "noResults" : "Aucun résultat trouvé",
+        "pleaseEnterNameOrNumber" : "Saisissez un nom ou un numéro",
+        "showCompanyName" : "Afficher la société",
+        "showDepartmentName" : "Afficher le service",
+        "showPhoneNumber" : "Afficher le numéro de téléphone",
+        "phone" : "Téléphone : ",
+        "extension" : "Poste : ",
+        "more":"Plus",
+        "10":"Poste : ",
+        "100" : "Bureau : ",
+        "200" : "Portable : ",
+        "201" : "Portable 2 : ",
+        "300" : "Beeper : ",
+        "400" : "Domicile : ",
+        "501" : "Principal : ",
+        "511" : "Bureau 2 : ",
+        "521" : "Entreprise : ",
+        "531" : "Assistance : ",
+        "541" : "Rappeler : ",
+        "551" : "Voiture: ",
+        "561" : "Domicile 2 : ",
+        "571" : "Autre : ",
+        "5000" : "Télécopieur bureau : ",
+        "5011" : "Télécopieur domicile : ",
+        "5021" : "Autre télécopieur : ",
+        "6001" : "RNIS : ",
+        "6011" : "Radio : ",
+        "6021" : "Télex : ",
+        "6031" : "TTY/TDD : "
+    },
+
+    "trayMenu": {
+        "exit" : "Quitter"
+    },
+
+    "eventCell": {
+        "nowSpeaking" : "Prise de parole",
+        "recording" : "Enregistrement en cours..."
+    },
+
+    "programmableToolbar": {
+        "noToolbars": {
+            "prompt" : "Vous pouvez ajouter des boutons à la barre d'outils en cliquant ici.",
+            "gotItButton": "Bien reçu !",
+            "panelMessage" : "Aucun bouton de la barre d'outils n'est configuré"
+        },
+        "popup": {
+            "context": "Saisissez le contact ou le poste, puis appuyez sur la touche ENTRÉE pour effectuer l’action spécifiée.",
+            "contactPlaceholder" : "Tapez le nom"
+        },
+        "tooltip": {
+            "label" : "Étiquette ",
+            "monitorName" : "Nom ",
+            "monitorStatus" : "Statut ",
+            "monitorCallInfo" : "Infos sur l’appel ",
+            "Shortcut" : "Raccourci",
+            "bcaLine" : "Nº ligne",
+            "calls" : "Appel(s)",
+            "number" : "Numéro",
+            "audioPath" : "Chemin audio"
+        },
+        "audioPath" : {
+            "0" : "Haut-parleur",
+            "1" : "Casque",
+            "2" : "Casque sans fil",
+            "3" : "Bluetooth"
+        },
+        "labels" : {
+            "toolbar" : "Boutons de la barre d'outils",
+            "edittoolbar" : "Sélectionnez les boutons à afficher dans la barre d'outils."
+        },
+        "fixtooltip": {
+            "3" : "Superviser le poste",
+            "4" : "Composer",
+            "5" : "Appeler la boîte aux lettres",
+            "6" : "Interphone",
+            "7" : "Écoute discrète",
+            "8" : "Intervention",
+            "9" : "Annonce confidentielle",
+            "10" : "Prise d'appel",
+            "11" : "Récupérer",
+            "12" : "Prendre l'appel ou le récupérer",
+            "13" : "Prendre la sonnerie de nuit",
+            "14" : "Annoncer",
+            "15" : "Transfert masqué",
+            "16" : "Transfert avec consultation",
+            "17" : "Transfert à la boîte aux lettres",
+            "18" : "Transfert par interphone",
+            "19" : "Conférence masquée",
+            "20" : "Conférence avec consultation",
+            "21" : "Conférence par interphone",
+            "22" : "Parquer",
+            "23" : "Parquer et annoncer",
+            "24" : "Enregistrer le poste",
+            "25" : "Enregistrer l’appel",
+            "26" : "Désactiver le son de l'appel",
+            "27" : "Envoyer les chiffres",
+            "28" : "Transfert confidentiel",
+            "29" : "Centrex Flash",
+            "30" : "Bridged Call Appearance",
+            "31" : "Répondre",
+            "32" : "Exécuter la commande DDE",
+            "33" : "Prendre l'appel de groupe",
+            "34" : "Raccrocher",
+            "35" : "En attente",
+            "36" : "Invoquer la ligne de commande",
+            "37" : "Invoquer l’URL",
+            "38" : "Vers le standard automatique",
+            "39" : "Transférer à la messagerie vocale",
+            "40" : "Transférer",
+            "41" : "Conférence",
+            "42" : "Changer l'état de gestion des appels",
+            "43" : "Affecter à un numéro externe",
+            "44" : "Se connecter au groupe de travail",
+            "45" : "Se déconnecter du groupe de travail",
+            "46" : "Mettre en pause le groupe de travail",
+            "50" : "Ouvrir le superviseur des files d'attente",
+            "51" : "Ouvrir le visualiseur de la messagerie vocale",
+            "55" : "Affectation externe",
+            "57" : "Ajouter/modifier un contact",
+            "58" : "Accéder au téléphone principal",
+            "59" : "Modifier la note d’appel",
+            "60" : "Mode Mains libres",
+            "61" : "Sommaire et index de l'aide",
+            "62" : "Définir les chemins audio par défaut",
+            "81" : "Téléassistance",
+            "83" : "Suivi des appels nuisibles",
+            "82" : "Coach discret"
+        },
+        "description": {
+            "3" : "Cette option s'affiche lorsqu'un poste reçoit des appels, est en ligne ou participe à une conférence.",
+            "4" : "Composer le numéro préprogrammé de votre choix",
+            "5" : "Laisser un message vocal sur le poste spécifié",
+            "6" : "Annoncer un poste par interphone",
+            "7" : "Écouter une conversation sans être entendu",
+            "8" : "Interrompez une conversation entre deux parties (les deux parties vous entendent).",
+            "9" : "Parler à la personne en ligne sans que l'appelant ne vous entende",
+            "10" : "Prendre un téléphone qui sonne",
+            "11" : "Prendre un appel en attente à partir du poste d'un autre contact",
+            "12" : "",
+            "13" : "Prendre l'appel en sonnerie de nuit",
+            "14" : "Faire une annonce via le système de recherche de personnes",
+            "15" : "Transférer un appel ",
+            "16" : "Demandez au destinataire s'il souhaite prendre un appel entrant.",
+            "17" : "Transférer l'appel à la messagerie vocale d'un contact",
+            "18" : "Annoncer le transfert sur l'interphone du contact",
+            "19" : "Joindre un contact à votre appel sans le prévenir",
+            "20" : "Joindre un contact à votre appel après lui avoir demandé s'il accepte votre demande",
+            "21" : "Joindre un contact à votre appel après lui avoir demandé son accord par interphone",
+            "22" : "Mettre l'appel en attente sur le poste d'un autre contact",
+            "23" : "Mettre l'appel en attente sur le poste d'un autre contact et l'annoncer via le système de recherche de personne.",
+            "24" : "Enregistrer un appel sur un autre poste",
+            "25" : "Enregistrer votre propre appel",
+            "26" : "Désactiver le son de l'annonce confidentielle ou du système de recherche de personne",
+            "27" : "Envoyer des tonalités de touche pendant un appel",
+            "28" : "Annoncer le transfert via une annonce confidentielle",
+            "29" : "",
+            "30" : "Cette option s'affiche lorsqu'une ligne pontée reçoit des appels entrants, est occupée ou est dans une conférence",
+            "31" : "Répondre à l'appel entrant",
+            "32" : "",
+            "33" : "Prendre l'appel de groupe sur le poste spécifié",
+            "34" : "Mettre fin à l'appel en cours",
+            "35" : "Mettre l'appel en attente",
+            "36" : "",
+            "37" : "Ouvrir le navigateur sur l'URL",
+            "38" : "Transférer l'appelant vers l'assistant automatique",
+            "39" : "Transférer l'appelant vers votre messagerie vocale",
+            "40" : "Transférer l'appel",
+            "41" : "",
+            "42" : "Modifiez votre état de disponibilité sur __chm__.",
+            "43" : "Remplacer votre affectation principale par le dernier numéro externe utilisé",
+            "44" : "Connecter l'agent de groupe de travail à toutes les files d’attente.",
+            "45" : "Déconnecter l'agent de groupe de travail de toutes les files d’attente.",
+            "46" : "Mettre l'agent de groupe de travail en mode Pause et interrompre tous les appels.",
+            "47" : "Ouvrir le volet Récent pour afficher le journal des appels, les messages vocaux et les chats",
+            "48" : "",
+            "49" : "Afficher tous les agents",
+            "50" : "",
+            "51" : "Afficher tous mes messages vocaux",
+            "52" : "",
+            "53" : "Ouvrir le volet Événements",
+            "54" : "",
+            "55" : "Raccourci pour configurer votre affectation externe",
+            "56" : "",
+            "57" : "",
+            "58" : "Vous affecter à votre téléphone principal",
+            "59" : "Modifier la note d'appel pour l'appel actif",
+            "60" : "",
+            "61" : "",
+            "62" : "Utilisez le chemin audio __path__.",
+            "75" : "Saisir le code de post-traitement",
+            "76" : "Prolonger le post-traitement",
+            "77" : "Interrompre le post-traitement",
+            "78" : "Demander de l'aide au superviseur",
+            "81" : "Crée un circuit de téléassistance entre le directeur et l'assistant. (Vous devez être responsable et membre d'équipe)",
+            "82" : "Vous permet de parler à votre collègue et d'écouter la conversation sans que l'autre participant à l'appel le sache.",
+            "83" : "les appelants peuvent identifier les appels entrants ou sortants malveillants en utilisant le code étoile, qui permet d'activer le suivi de l'appel via le réseau public"
+        }
+    },
+
+    "audioDevice":{
+        "plantronicsPluginName": "CONNECT_PLANTRONICS"
+    },
+
+    "exoBrowserSupport": {
+        "warning": " Désolé, votre version actuelle ou votre navigateur actuel n'est pas pris en charge.",
+        "description": "Pour utiliser la fonction Conférence Connect, cliquez sur les liens ci-dessous pour installer un navigateur pris en charge ou mettre le navigateur à niveau vers la version la plus récente :",
+        "browser": {
+            "ie": "IE",
+            "edge": "Edge",
+            "firefox": "Firefox",
+            "chrome": "Chrome",
+            "safari": "Safari"
+        },
+        "proceedDescription": "L'utilisation d'un navigateur non pris en charge peut entraîner des problèmes de rendu. ",
+        "proceed": "Continuer >"
+    }
+}

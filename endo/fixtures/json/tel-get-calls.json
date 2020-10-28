@@ -1,0 +1,60 @@
+{
+	"topic": "tel",
+	"message": "get-calls",
+	"timestamp": 1415328855883,
+	"sequence-id": 8846,
+	"request-id": 32,
+	"response": 0,
+	"calls": [
+		{
+			"call-id": "00020000-005a-545b-be54-0010490060bc",
+			"ccoid": 536870934,
+			"ext": "119",
+			"actions": 4399827966,
+			"state": {
+				"state": 10,
+				"state-detail": 0,
+				"timestamp-connect": 1415323720032
+			},
+			"info": {
+				"called-num": "120",
+				"called-num-canonical": "120",
+				"called-name": "Alex Lifeson",
+				"caller-num": "119",
+				"caller-num-canonical": "119",
+				"caller-name": "Geddy Lee",
+				"conn-num": "120",
+				"conn-num-canonical": "120",
+				"conn-name": "Alex Lifeson",
+				"conn-im": "alifeson@rush.com",
+				"conn-email": "alifeson@rush.com",
+				"conn-cid": "2",
+				"conv-tag": "{\"cid\":[\"2\"]}",
+				"tapi-call-id": 2443332629,
+				"flags": 108450021632,
+				"video-number": "120",
+				"route-slip": [
+					[
+						"reason",
+						"elapsed-seconds",
+						"party-name",
+						"party-number",
+						"party2-name",
+						"party2-number"
+					],
+					[
+						17,
+						0,
+						"Geddy Lee",
+						"119",
+						"Alex Lifeson",
+						"120"
+					]
+				],
+				"named-values": {
+					"_ST*": ""
+				}
+			}
+		}
+	]
+}

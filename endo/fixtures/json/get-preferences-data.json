@@ -1,0 +1,545 @@
+{"topic":"system",
+"message":"config",
+"timestamp":1407530623678,
+"request-id":5,
+"response":0,
+"system.config.response":
+    {"request-id":5,
+    "topic":"system",
+    "message":"config",
+        "results": [
+            {
+                "action": "read",
+                "object": "User",
+                "key": {
+                    "UserDN": "127"
+                },
+                "values": {
+                    "UserDNID": 35,
+                    "UserDN": "127",
+                    "UserGroupID": 1,
+                    "AddressID": 16,
+                    "GuiLoginName": "cs2",
+                    "CurrentCHMTypeID": 1,
+                    "CurrentCallStackDepth": 8,
+                    "CallWaitingToneEnabled": true,
+                    "UserTypeID": 1,
+                    "DefaultTrunkGroupID": 1,
+                    "UserStatusID": 0,
+                    "MustRecordName": true,
+                    "MustChangeTUIPassword": false,
+                    "MustChangeGUIPassword": false,
+                    "HeadsetMode": false,
+                    "ClientType": 0,
+                    "AutoCHM": true,
+                    "AnyIPPhone": true,
+                    "ExternalDialTone": false,
+                    "AllowSoftPhone": false,
+                    "UseProgButtonsIP100": false,
+                    "RoleID": null,
+                    "RingToneID": 1,
+                    "VoiceMailboxForRecordedCalls": null,
+                    "TUIPasswordLastUpdated": "2014-07-11 19:41:09 UTC",
+                    "GUIPasswordLastUpdated": "2014-08-05 05:30:03 UTC",
+                    "VMServerID": 1,
+                    "PSTNFailoverTypeID": 1,
+                    "PSTNFailoverNumber": null,
+                    "BridgePassword": null,
+                    "BridgeID": null,
+                    "BridgeUserID": "",
+                    "CIDNumber": null,
+                    "LicenseTypeID": 1,
+                    "UseHeadsetAudioPath": 0,
+                    "AdvancedCHM": false,
+                    "PCMXMonDisplayMode": 1,
+                    "BluetoothAudioPath": null,
+                    "ContactCenterIntegration": false,
+                    "MCMAllowed": false,
+                    "MCMPinEntryFrequency": 1,
+                    "MCMMobileNumber": null,
+                    "FaxSupport": 2,
+                    "AllowPAPI": false,
+                    "IMServerID": null,
+                    "AllowVideoCalls": 0,
+                    "EnableDelayedRingdown": false,
+                    "RingdownType": null,
+                    "RingdownDN": null,
+                    "RingdownExtern": null,
+                    "RingdownDelay": null,
+                    "AllowTelephonyPresence": true,
+                    "MCMStatusID": 0,
+                    "LDAPUser": 0,
+                    "LDAPGuid": null,
+                    "LDAPDomainName": null,
+                    "IMPrivacySetting": 2,
+                    "DirSortPreference": 1,
+                    "WPID": null,
+                    "SIPServerID": null,
+                    "QsigVMID": null,
+                    "bBcaDN": null,
+                    "WebBridgePictureID": 0,
+                    "WebBridgeRoomName": null,
+                    "WebBridgeRoomDescription": null,
+                    "WebBridgeTimeZone": null,
+                    "WebBridgeViewerID": 0,
+                    "ScribeEnabled": false,
+                    "FaxEnabled": false,
+                    "MobilityEnabled": false,
+                    "MobileDN": null,
+                    "EnableRemotePhoneAuthentication": false,
+                    "CallRecordingModeID": 0,
+                    "RotationTime": null,
+                    "DaysNotified": 0,
+                    "NTLoginName": null,
+                    "LastUpdateUTCTime": "2014-08-05 05:30:03 UTC"
+                },
+                "error": 0
+            },
+            {
+                "action": "list",
+                "object": "CallHandlingModeDelegation",
+                "count": 0,
+                "rowset": [
+                    [
+                        "GrantorDN",
+                        "AuthorizedDN",
+                        "LastUpdateUTCTime"
+                    ]
+                ],
+                "error": 0
+            },
+            {
+                "action": "list",
+                "object": "CallHandlingMode",
+                "count": 6,
+                "rowset": [
+                    [
+                        "UserDN",
+                        "CHMTypeID",
+                        "CFConditionID",
+                        "CFAlways",
+                        "CFBusy",
+                        "CFNoAnswer",
+                        "CFNARings",
+                        "OperatorDN",
+                        "VMNotification",
+                        "CallHandlingNote",
+                        "EnableFindMeFollowMe",
+                        "CFAlwaysNTID",
+                        "CFBusyNTID",
+                        "CFNoAnswerNTID",
+                        "ScheduleID",
+                        "EscalationID",
+                        "EnableRingAll",
+                        "LastUpdateUTCTime",
+                        "EnableGreetingOnlyVM",
+                        "CustomStatusIndicator",
+                        "VariableStateName",
+                        "EnableBasicRouting"
+                    ],
+                    [
+                        "164",
+                        1,
+                        2,
+                        "101",
+                        "101",
+                        "101",
+                        3,
+                        null,
+                        true,
+                        null,
+                        true,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        false,
+                        "2017-07-24 06:13:19 UTC",
+                        false,
+                        3,
+                        "Addtional note for Available",
+                        false
+                    ],
+                    [
+                        "164",
+                        2,
+                        1,
+                        "101",
+                        "101",
+                        "101",
+                        1,
+                        null,
+                        true,
+                        null,
+                        true,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        true,
+                        "2017-07-24 06:13:42 UTC",
+                        false,
+                        3,
+                        "Addtional note for In a meeting",
+                        false
+                    ],
+                    [
+                        "164",
+                        3,
+                        1,
+                        "101",
+                        "101",
+                        "101",
+                        1,
+                        null,
+                        true,
+                        null,
+                        true,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        true,
+                        "2017-07-24 06:13:56 UTC",
+                        false,
+                        3,
+                        "Addtional note for OOO",
+                        false
+                    ],
+                    [
+                        "164",
+                        4,
+                        1,
+                        "101",
+                        "101",
+                        "101",
+                        1,
+                        null,
+                        true,
+                        null,
+                        true,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        false,
+                        "2017-07-24 06:14:17 UTC",
+                        false,
+                        3,
+                        "Addtional note for Vacation",
+                        false
+                    ],
+                    [
+                        "164",
+                        5,
+                        1,
+                        "101",
+                        "101",
+                        "101",
+                        1,
+                        null,
+                        true,
+                        null,
+                        true,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        false,
+                        "2017-07-24 06:14:30 UTC",
+                        false,
+                        1,
+                        "Addtional note for custom",
+                        false
+                    ],
+                    [
+                        "164",
+                        6,
+                        1,
+                        "101",
+                        "101",
+                        "101",
+                        1,
+                        null,
+                        false,
+                        null,
+                        false,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        false,
+                        "2017-07-24 06:14:07 UTC",
+                        false,
+                        3,
+                        "Addtional note for DND",
+                        false
+                    ]
+                ],
+                "error": 0
+            },
+            {
+                "action": "read",
+                "object": "DNFollowDestination",
+                "key": {
+                    "UserDN": "127"
+                },
+                "values": {
+                    "UserDN": "127",
+                    "FindMePhoneTypeID1": null,
+                    "FindMePhoneTypeID2": null,
+                    "SendCallerID": false,
+                    "PSTNAnyphoneInUse": false,
+                    "PSTNAnyphonePhoneTypeID": null,
+                    "UseAutoFindMe": false,
+                    "IsRecCallerName": true,
+                    "RecIfCallIDPresent": false,
+                    "RingAllRingDelay": 1,
+                    "RingAllPhoneTypeID1": null,
+                    "RingAllPhoneTypeID2": null,
+                    "LastUpdateUTCTime": "2014-07-11 19:41:10 UTC",
+                    "PSTNAnyphoneNumber": null
+                },
+                "error": 0
+            },
+            {
+                "action": "read",
+                "object": "Mailbox",
+                "key": {
+                    "UserDN": "127"
+                },
+                "values": {
+                    "UserDN": "127",
+                    "PlayEnvelope": false,
+                    "NoReceiveBroadcasts": false,
+                    "NotifyForEachNewMessage": false,
+                    "VMServerID": 1,
+                    "SendEmailForVMTypeID": 2,
+                    "MarkAsHeard": true,
+                    "MessageForwardDN": null,
+                    "IsDeletedWhenForward": false,
+                    "AMISSystemID": null,
+                    "EmailNotifyWhenFull": false,
+                    "LastUpdateUTCTime": "2014-08-08 19:31:23 UTC"
+                },
+                "error": 0
+            },
+            {
+                "action": "list",
+                "object": "Language",
+                "count": 1,
+                "rowset": [
+                    [
+                        "LanguageName",
+                        "LanguageID",
+                        "LCID",
+                        "VoiceLCID"
+                    ],
+                    [
+                        "English(US)",
+                        1,
+                        1033,
+                        1033
+                    ]
+                ],
+                "error": 0
+            },
+            {
+                "action": "read",
+                "object": "DN",
+                "key": {
+                    "DN": "127"
+                },
+                "values": {
+                    "DN": "127",
+                    "Description": "Chaoyi Sun2",
+                    "DNTypeID": 1,
+                    "Hidden": false,
+                    "DNUuid": "c3b876f5-b65a-4cdf-8a7c-427d6ba079ed",
+                    "ExcludeFromDialByName": false,
+                    "LanguageID": 1,
+                    "DNID": 35,
+                    "TenantID": 1,
+                    "ProfileID": null,
+                    "DID": null,
+                    "ProfileActivationTypeID": 1,
+                    "LastUpdateUTCTime": "2014-07-11 19:42:10 UTC"
+                },
+                "error": 0
+            },
+            {
+                "action": "list",
+                "object": "Schedule",
+                "count": 1,
+                "rowset": [
+                    [
+                        "ScheduleID",
+                        "TimeTypeID",
+                        "ScheduleName",
+                        "TenantID",
+                        "TimeZone",
+                        "LastUpdateUTCTime"
+                    ],
+                    [
+                        1,
+                        1,
+                        "On-Hours",
+                        1,
+                        null,
+                        "2014-07-03 01:17:18 UTC"
+                    ]
+                ],
+                "error": 0
+            },
+            {
+                "action": "list",
+                "object": "VoiceMailEscalation",
+                "count": 0,
+                "rowset": [
+                    [
+                        "EscalationID",
+                        "ParentDN",
+                        "ProfileNumber",
+                        "ProfileName",
+                        "RepeatCount",
+                        "LastUpdateUTCTime"
+                    ]
+                ],
+                "error": 0
+            },
+            {
+                "action": "list",
+                "object": "User.UserGroup",
+                "key": {
+                    "UserDN": "127"
+                },
+                "count": 4,
+                "rowset": [
+                    [
+                        "WPID",
+                        "WPName"
+                    ],
+                    [
+                        1,
+                        "Bristlecone"
+                    ],
+                    [
+                        2,
+                        "Winter Hut"
+                    ],
+                    [
+                        3,
+                        "Footsteps"
+                    ],
+                    [
+                        4,
+                        "Barn"
+                    ]
+                ],
+                "error": 0
+            },
+            {
+                "action": "list",
+                "object": "User.UserGroup",
+                "key": {
+                    "UserDN": "127"
+                },
+                "count": 10,
+                "rowset": [
+                    [
+                        "RingToneID",
+                        "Description"
+                    ],
+                    [
+                        5,
+                        "Ring 5"
+                    ],
+                    [
+                        14,
+                        "Ring 6"
+                    ],
+                    [
+                        23,
+                        "Bossa Nova"
+                    ],
+                    [
+                        32,
+                        "Piano"
+                    ],
+                    [
+                        41,
+                        "Vibes"
+                    ],
+                    [
+                        50,
+                        "Flamenco"
+                    ],
+                    [
+                        59,
+                        "Salsa"
+                    ],
+                    [
+                        68,
+                        "Relaxed"
+                    ],
+                    [
+                        77,
+                        "Rock"
+                    ],
+                    [
+                        86,
+                        "Modern"
+                    ]
+                ],
+                "error": 0
+            },
+            {
+                "action": "read",
+                "object": "DirectoryEntry",
+                "key": {
+                    "AddressID": 16
+                },
+                "values": {
+                    "AddressID": 16,
+                    "UserDN": null,
+                    "FirstName": "Chaoyi",
+                    "LastName": "Sun2",
+                    "Address": null,
+                    "City": null,
+                    "StateOrProvince": null,
+                    "PostalCode": null,
+                    "Country": null,
+                    "EmailAddress": "chaoyi_s@yahoo.com",
+                    "HomePhone": null,
+                    "WorkPhone": null,
+                    "FaxPhone": null,
+                    "CellPhone": null,
+                    "PagerPhone": null,
+                    "CompanyName": null,
+                    "DepartmentName": null,
+                    "Relationship": null,
+                    "IMUri": null,
+                    "AddressType": 0,
+                    "IMStatusNote": null,
+                    "BusinessPhone2": null,
+                    "HomePhone2": null,
+                    "EmailAddress2": null,
+                    "EmailAddress3": null,
+                    "CellPhone2": null,
+                    "ContactID": null,
+                    "SourceName": null,
+                    "ContactDetails": null,
+                    "ImportTimeStamp": null,
+                    "TenantID": 1,
+                    "LastUpdateUTCTime": "2014-08-08 20:44:43 UTC"
+                },
+                "error": 0
+            }
+        ],
+"error":0}}

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="9" viewBox="0 0 11 9">
+    <defs>
+        <path id="a" d="M0 0h420v519H0z"/>
+        <rect id="c" width="185" height="91" rx="4"/>
+        <filter id="b" width="104.3%" height="108.8%" x="-2.2%" y="-2.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.378268495 0 0 0 0 0.37530581 0 0 0 0 0.37530581 0 0 0 0.5 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(-282 -50)">
+            <use fill="#FFF" xlink:href="#a"/>
+            <path stroke="#E6E9EB" d="M.5.5h419v518H.5z"/>
+        </g>
+        <text fill="#7E858B" font-family="HelveticaNeue, Helvetica Neue" font-size="12" transform="translate(-243 7)">
+            <tspan x="245.92" y="11">01/01/2017 10:20 am</tspan>
+        </text>
+        <g transform="translate(-160 -12)">
+            <use fill="#000" filter="url(#b)" xlink:href="#c"/>
+            <use fill="#FFF" xlink:href="#c"/>
+            <rect width="184.5" height="90.5" x=".25" y=".25" stroke="#DDD" stroke-width=".5" rx="4"/>
+        </g>
+        <path stroke="#333" d="M.692 5.073L3.664 8.07 9.924.308"/>
+    </g>
+</svg>

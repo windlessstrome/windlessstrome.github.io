@@ -1,0 +1,9 @@
+{
+	"topic": "config",
+	"message": "get-im-canned-response",
+	"timestamp": 1464246433205,
+	"sequence-id": 806800,
+	"request-id": 19,
+	"response": 0,
+	"im-canned-responses": []
+}

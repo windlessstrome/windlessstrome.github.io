@@ -1,0 +1,10 @@
+{
+	"topic": "workgroup",
+	"message": "get-actions-and-status",
+	"timestamp": 1464246433203,
+	"sequence-id": 806787,
+	"request-id": 6,
+	"response": 0,
+	"actions": 261953,
+	"status": 0
+}
