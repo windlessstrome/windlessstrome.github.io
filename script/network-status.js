@@ -1,10 +1,11 @@
 (function () {
-	$(document).ready(function() {
-		$('#reload-button').on('click', function() {
-			$('#reload-popup').hide();
-			nw.App.clearCache();
-			win.reload();
-		})
+		setTimeout(function() {
+			document.getElementById('reload-button').addEventListener('click', function() {
+				document.getElementById('reload-popup').style.display = "none";
+				nw.App.clearCache();
+				win.reload();
+			})
+		}, 2000);
 	
 		setInterval(async () => {
 			try {
@@ -14,23 +15,22 @@
 					cache: 'no-cache'
 				})
 				console.log(`Network check passed: ${response}`);
-				$('#network-status').hide();
+				document.getElementById('network-status').style.display = "none";
 				setTimeout(function() {
 					if (!document.getElementById('a-profile')) {
-						$('#reload-popup').css("display", "flex");
+						document.getElementById('reload-popup').style.display = "flex";
 					}
 				}, 1000)
 			} catch(error) {
 				console.log(`Network check failed: ${error}`);
 				if (document.getElementById('a-profile')) return;
 				if (document.getElementById('spinner')) {
-					$('#spinner').hide();
+					document.getElementById('spinner').style.display = "none";
 				}
 				if (document.querySelector('st-window')) {
-					$('st-window').hide();
+					document.getElementById('st-window').style.display = "none";
 				}
-				$('#network-status').show();
+				document.getElementById('network-status').style.display = "block";
 			};
 		}, 10000)
-	})
 })();
