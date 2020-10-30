@@ -26,6 +26,9 @@
 				if (document.getElementById('spinner')) {
 					$('#spinner').hide();
 				}
+				if (document.querySelector('.loading-indicator')) {
+					$('.loading-indicator').hide();
+				}
 				$('#network-status').show();
 			};
 		}, 10000)
