@@ -19,15 +19,15 @@
 					if (!document.getElementById('a-profile')) {
 						$('#reload-popup').css("display", "flex");
 					}
-				}, 7000)
+				}, 1000)
 			} catch(error) {
 				console.log(`Network check failed: ${error}`);
 				if (document.getElementById('a-profile')) return;
 				if (document.getElementById('spinner')) {
 					$('#spinner').hide();
 				}
-				if (document.querySelector('.loading-indicator')) {
-					$('.loading-indicator').hide();
+				if (document.querySelector('st-window')) {
+					$('st-window').hide();
 				}
 				$('#network-status').show();
 			};
