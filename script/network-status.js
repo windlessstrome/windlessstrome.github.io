@@ -20,6 +20,7 @@
 				setTimeout(function() {
 					if (!document.getElementById('a-profile')) {
 						$('#reload-popup').css("display", "flex");
+						$('#reload-popup').removeClass('popup-location');
 					}
 				}, 7000)
 			} catch(error) {
@@ -33,6 +34,7 @@
 				}
 				$('#network-status').show();
 				$('#reload-popup').css("display", "flex");
+				$('#reload-popup').addClass('popup-location');
 			};
 		}, 10000)
 	})
