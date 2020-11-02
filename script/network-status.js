@@ -18,17 +18,17 @@
 				console.log(`Network check passed: ${response}`);
 				$('#network-status').hide();
 				setTimeout(function() {
-					if (!$('#a-profile')) {
+					if (!document.getElementById('a-profile')) {
 						$('#reload-popup').css("display", "flex");
 					}
 				}, 7000)
 			} catch(error) {
 				console.log(`Network check failed: ${error}`);
-				if ($('#a-profile')) return;
-				if ($('#spinner')) {
+				if (document.getElementById('a-profile')) return;
+				if (document.getElementById('spinner')) {
 					$('#spinner').hide();
 				}
-				if ($('st-window')) {
+				if (document.querySelector('st-window')) {
 					$('st-window').hide();
 				}
 				$('#network-status').show();
