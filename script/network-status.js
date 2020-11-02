@@ -29,7 +29,7 @@
 					$('#spinner').hide();
 				}
 				if (document.querySelector('st-window')) {
-					document.getElementById('st-window').style.display = "none";
+					document.querySelector('st-window').style.display = "none";
 				}
 				$('#network-status').show();
 				$('#reload-popup').css("display", "flex");
