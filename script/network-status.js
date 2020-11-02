@@ -1,6 +1,6 @@
 (function () {
-	// var win = nw.Window.get();
-	// win.show();
+	var win = nw.Window.get();
+	win.show();
 	$(document).ready(function() {
 		$('#reload-button').on('click', function() {
 			$('#reload-popup').hide();
@@ -18,18 +18,18 @@
 				console.log(`Network check passed: ${response}`);
 				$('#network-status').hide();
 				setTimeout(function() {
-					if (!document.getElementById('a-profile')) {
+					if (!$('#a-profile')) {
 						$('#reload-popup').css("display", "flex");
 					}
 				}, 7000)
 			} catch(error) {
 				console.log(`Network check failed: ${error}`);
-				if (document.getElementById('a-profile')) return;
-				if (document.getElementById('spinner')) {
+				if ($('#a-profile')) return;
+				if ($('#spinner')) {
 					$('#spinner').hide();
 				}
-				if (document.querySelector('st-window')) {
-					document.querySelector('st-window').style.display = "none";
+				if ($('st-window')) {
+					$('st-window').hide();
 				}
 				$('#network-status').show();
 				$('#reload-popup').css("display", "flex");
