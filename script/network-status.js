@@ -1,4 +1,6 @@
 (function () {
+	// var win = nw.Window.get();
+	// win.show();
 	$(document).ready(function() {
 		$('#reload-button').on('click', function() {
 			$('#reload-popup').hide();
@@ -26,7 +28,11 @@
 				if (document.getElementById('spinner')) {
 					$('#spinner').hide();
 				}
+				if (document.querySelector('st-window')) {
+					document.getElementById('st-window').style.display = "none";
+				}
 				$('#network-status').show();
+				$('#reload-popup').css("display", "flex");
 			};
 		}, 10000)
 	})
