@@ -35,7 +35,7 @@
   },
   "developer": {
     "loginOnStartup": false,
-    "showDevToolsOnStartup": false,
+    "showDevToolsOnStartup": true,
     "throwExceptions": true
   },
   "exo": {

@@ -2,10 +2,6 @@
 	var win = nw.Window.get();
 	win.show();
 	$(document).ready(function() {
-		if (document.querySelector('st-window')) {
-			$('st-window').hide();
-		}
-
 		$('#reload-button').on('click', function() {
 			$('#reload-popup').hide();
 			nw.App.clearCache();
@@ -20,9 +16,6 @@
 					cache: 'no-cache'
 				})
 				console.log(`Network check passed: ${response}`);
-				if (document.querySelector('st-window')) {
-					$('st-window').show();
-				}
 				setTimeout(function() {
 					if (!document.getElementById('a-profile')) {
 						$('#reload-popup').css("display", "flex");
