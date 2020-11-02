@@ -28,7 +28,7 @@
     "min_height": 430,
     "show_in_taskbar": true,
     "frame": false,
-    "show": false,
+    "show": true,
     "id": "main",
     "EnableLinkUp": false,
     "icon": "./images/shoretel-icon.png"
