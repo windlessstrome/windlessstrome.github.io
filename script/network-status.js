@@ -17,10 +17,10 @@
 				})
 				console.log(`Network check passed: ${response}`);
 				$('#network-status').hide();
+				$('#reload-popup').removeClass('popup-location');
 				setTimeout(function() {
 					if (!document.getElementById('a-profile')) {
 						$('#reload-popup').css("display", "flex");
-						$('#reload-popup').removeClass('popup-location');
 					}
 				}, 7000)
 			} catch(error) {
