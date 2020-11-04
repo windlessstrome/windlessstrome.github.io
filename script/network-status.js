@@ -17,7 +17,7 @@
 				})
 				console.log(`Network check passed: ${response}`);
 				setTimeout(function() {
-					if (!document.getElementById('a-profile')) {
+					if (!document.getElementById('a-profile') && !document.querySelector('.loading-indicator')) {
 						$('#reload-popup').css("display", "flex");
 					}
 				}, 7000)
