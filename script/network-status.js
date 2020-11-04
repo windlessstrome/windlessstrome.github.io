@@ -7,6 +7,11 @@
 			nw.App.clearCache();
 			win.reload();
 		})
+
+		if (document.querySelector('.font-xm')) {
+			if (document.querySelector('.font-xm').textContent === "authportal.login.loadingHeaderText")
+			$('st-window').hide();
+		}
 	
 		setInterval(async () => {
 			try {
