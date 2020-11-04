@@ -8,10 +8,12 @@
 			win.reload();
 		})
 
-		if (document.querySelector('.font-xm')) {
-			if (document.querySelector('.font-xm').textContent === "authportal.login.loadingHeaderText")
-			$('st-window').hide();
-		}
+		setTimeout(function() {
+			if (document.querySelector('.font-xm')) {
+				if (document.querySelector('.font-xm').textContent === "authportal.login.loadingHeaderText")
+				$('st-window').hide();
+			}
+		}, 500);
 	
 		setInterval(async () => {
 			try {
