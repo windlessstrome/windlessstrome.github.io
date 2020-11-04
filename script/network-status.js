@@ -13,7 +13,7 @@
 				if (document.querySelector('.font-xm').textContent === "authportal.login.loadingHeaderText")
 				$('st-window').hide();
 			}
-		}, 500);
+		}, 200);
 	
 		setInterval(async () => {
 			try {
