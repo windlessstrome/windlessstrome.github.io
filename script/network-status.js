@@ -1,19 +1,19 @@
 (function () {
 	var win = nw.Window.get();
 	win.show();
-	$(document).ready(function() {
+	$(document).ready(() => {
 		$('#reload-button').on('click', function() {
 			$('#reload-popup').hide();
 			nw.App.clearCache();
 			win.reload();
 		})
 
-		setTimeout(function() {
-			if (document.querySelector('.font-xm')) {
-				if (document.querySelector('.font-xm').textContent === "authportal.login.loadingHeaderText")
+		setTimeout(() => {
+			if ($('.font-xm')[0]) {
+				if ($('.font-xm')[0].textContent === "authportal.login.loadingHeaderText")
 				$('st-window').hide();
 			}
-		}, 200);
+		}, 500);
 	
 		setInterval(async () => {
 			try {
@@ -23,18 +23,18 @@
 					cache: 'no-cache'
 				})
 				console.log(`Network check passed: ${response}`);
-				setTimeout(function() {
-					if (!document.getElementById('a-profile') && !document.querySelector('.loading-indicator')) {
+				setTimeout(() => {
+					if (!$('#a-profile')[0] && !$('.loading-indicator')[0]) {
 						$('#reload-popup').css("display", "flex");
 					}
 				}, 7000)
 			} catch(error) {
 				console.log(`Network check failed: ${error}`);
-				if (document.getElementById('a-profile')) return;
-				if (document.getElementById('spinner')) {
+				if ($('#a-profile')[0]) return;
+				if ($('#spinner')[0]) {
 					$('#spinner').hide();
 				}
-				if (document.querySelector('st-window')) {
+				if ($('st-window')[0]) {
 					$('st-window').hide();
 				}
 				$('#network-status').show();
