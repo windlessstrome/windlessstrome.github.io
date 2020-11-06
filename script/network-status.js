@@ -9,9 +9,8 @@
 		})
 
 		setTimeout(() => {
-			if ($('.font-xm')[0]) {
-				if ($('.font-xm')[0].textContent === "authportal.login.loadingHeaderText")
-				$('st-window').hide();
+			if ($('.font-xm')[0] && ($('.font-xm')[0].textContent === "authportal.login.loadingHeaderText")) {
+					$('st-window').hide();
 			}
 		}, 500);
 	
