@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self';">
 <html>
 
 <head>
@@ -54,9 +55,9 @@
 </head>
 
 <body>
-    <!-- <script src="./steal/steal.production.js" config="./stealconfig.js" main="./endo/endo" bundles-path="."></script> -->
+    <script src="./steal/steal.production.js" config="./stealconfig.js" main="./endo/endo" bundles-path="."></script>
     <!-- To test application runing with alpha and production or from \web\endo\build\production comment above line and un-comment this line -->
-    <script src="./steal/steal.production.js" config="./stealconfig.js" main="endo/endo" bundles-path="."></script>
+    <!-- <script src="./steal/steal.production.js" config="./stealconfig.js" main="endo/endo" bundles-path="."></script> -->
 
     <script type="text/javascript">
         var win = nw.Window.get();
