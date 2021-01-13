@@ -1,0 +1,19 @@
+{
+  "login-button": "Login",
+  "speed-dial": {
+    "title": "Speed Dials",
+    "add": {
+      "placeholder": "Search Contact",
+      "dialog-title": "Add Contact",
+      "button-text": "Add a Speed Dial"
+    },
+    "actions": {
+      "add": "Add",
+      "delete": "Delete",
+      "cancel": "Cancel"
+    }
+  },
+  "contact-search": {
+    "placeholder": "Search Contact or Dial a Number"
+  }
+}

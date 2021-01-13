@@ -1,9 +1,0 @@
-{
-	"topic": "config",
-	"message": "get-exchange-server-url",
-	"timestamp": 1464246433205,
-	"sequence-id": 806799,
-	"request-id": 18,
-	"response": 0,
-	"exchange-server-url": ""
-}
