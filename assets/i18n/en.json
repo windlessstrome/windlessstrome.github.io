@@ -15,5 +15,12 @@
   },
   "contact-search": {
     "placeholder": "Search Contact or Dial a Number"
+  },
+  "message": {
+    "header": "Can’t complete call",
+    "teams": "You cannot make a call to more than one contact at a time.",
+    "bot": "A bot is a virtual contact. You cannot make a call to a bot.",
+    "group": "You cannot make a call to more than one contact at a time.",
+    "first-time-chat": "Send a message to someone first before you try to call them."
   }
 }
