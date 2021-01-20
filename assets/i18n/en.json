@@ -1,5 +1,12 @@
 {
-  "login-button": "Give permission",
+  "login": {
+    "login-button": "Give permission",
+    "permission": "Give permission first",
+    "permission-message": "Mitel Assist requires permission before being used with Microsoft Teams",
+    "signing-in": "Signing in.....",
+    "sign-in-fail": "Sign-in was Unsuccessful",
+    "try-again": "Try Again"
+  },
   "speed-dial": {
     "title": "Speed Dials",
     "add": {
