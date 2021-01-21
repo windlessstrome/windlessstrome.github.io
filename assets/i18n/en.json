@@ -23,6 +23,14 @@
       "empty-text": "It looks like you have no contacts yet. Start adding your first contact"
     }
   },
+  "delete-contact": {
+    "header": "Delete",
+    "text": "Are you sure you want to delete",
+    "actions": {
+      "delete": "Delete",
+      "cancel": "Cancel"
+    }
+  },
   "contact-search": {
     "placeholder": "Search Contact or Dial a Number"
   },
