@@ -18,6 +18,9 @@
       "add": "Add",
       "delete": "Delete",
       "cancel": "Cancel"
+    },
+    "address-book": {
+      "empty-text": "It looks like you have no contacts yet. Start adding your first contact"
     }
   },
   "contact-search": {
