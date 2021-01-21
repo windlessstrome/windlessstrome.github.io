@@ -18,10 +18,17 @@
       "add": "Add",
       "delete": "Delete",
       "cancel": "Cancel"
+    },
+    "address-book": {
+      "empty-text": "It looks like you have no contacts yet. Start adding your first contact"
     }
   },
   "contact-search": {
     "placeholder": "Search Contact or Dial a Number"
+  },
+  "search-result": {
+    "added": "Added",
+    "not-available": "Not Available"
   },
   "message": {
     "header": "Can’t complete call",
