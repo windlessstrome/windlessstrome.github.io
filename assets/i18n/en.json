@@ -14,6 +14,10 @@
       "dialog-title": "Add Contact",
       "button-text": "Add a Speed Dial"
     },
+    "delete": {
+      "dialog-title": "Delete",
+      "dialog-text": "Are you sure you want to delete "
+    },
     "actions": {
       "add": "Add",
       "delete": "Delete",
@@ -24,7 +28,11 @@
     }
   },
   "contact-search": {
-    "placeholder": "Search Contact or Dial a Number"
+    "placeholder": "Search Contact or Dial a Number",
+    "search-result": {
+      "already-added": "Added",
+      "not-available": "Not Available"
+    }
   },
   "message": {
     "header": "Can’t complete call",
