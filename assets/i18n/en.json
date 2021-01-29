@@ -2,7 +2,7 @@
   "login": {
     "login-button": "Give permission",
     "permission": "Give permission first",
-    "permission-message": "Mitel Assist requires permission before being used with Microsoft Teams",
+    "permission-message": "Mitel Assistant requires permission before being used with Microsoft Teams",
     "signing-in": "Signing in.....",
     "sign-in-fail": "Sign-in was Unsuccessful",
     "try-again": "Try Again"
@@ -21,7 +21,8 @@
     "actions": {
       "add": "Add",
       "delete": "Delete",
-      "cancel": "Cancel"
+      "cancel": "Cancel",
+      "call": "Call"
     },
     "address-book": {
       "empty-text": "It looks like you have no contacts yet. Start adding your first contact"
@@ -40,5 +41,10 @@
     "bot": "A bot is a virtual contact. You cannot make a call to a bot.",
     "group": "You cannot make a call to more than one contact at a time.",
     "fresh-coversation": "Send a message to someone first before you try to call them."
+  },
+  "phone-type": {
+    "work": "(Work) ",
+    "home": "(Home) ",
+    "mobile": "(Mobile) "
   }
 }
